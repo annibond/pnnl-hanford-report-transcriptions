@@ -1,0 +1,22 @@
+.Ratios of ∑~KR~ to '∑~FP~, sums from ground to top of towers
+
+[cols="1,1,1,1,1"]
+|===
+
+^|*Distance from Source* ^|*Test V5 QAD* ^|*Test V6 QAD* ^|*Test V6 Isoplethed* ^|*Test V7 QAD*
+
+>|200 m
+>|56% ÷ 87% = 0.64
+>|45% ÷ 170% = 0.26
+>|57% ÷ 198% = 0.29
+>|22% ÷ 79% = 0.28
+
+>|800 m
+>|79% ÷ 132% = 0.60
+>|33% ÷ 120% = 0.28
+>|37% ÷ 133% = 0.28
+>|Bkgd ÷ 16% = ?
+
+|===
+
+NOTE: Percentages here include data extrapolated above top of towers, i.e., include the entire distribution.

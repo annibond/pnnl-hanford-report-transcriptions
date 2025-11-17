@@ -1,0 +1,23 @@
+.Estimates of FP Plume Depletion
+[cols="1,1,1,1"]
+|===
+^|*Test* ^|*Traversal to 200 m* ^|*Traversal to 812 m* ^|*Traversal to 842 m*
+
+^|V5
+|
+>|0 - 0.8%
+|
+
+^|V6
+|
+|
+>|2.8 - 5.7%
+
+^|V7
+>|0.7 to 1.0%
+|
+|
+
+|===
+
+NOTE: Columns 2-4 (denoted by their distance in meters) are marked as "Proportion of Plume Depleted During Traversal to:", but that was too long to be usable.

@@ -1,0 +1,91 @@
+== Abstract
+
+Values of peak exposure and standard deviations of exposure distributions downwind from a continuous point of source are presented for 46 Hanford ground source diffusion experiments. Exposure data are found to order in terms of atmospheric stability when plotted as a function of the travel time. The crosswind variances of the wind direction distribution and the mean wind speed, σθū, in an equation resulting from G. I. Taylor’s work in 1921.
+
+Prediction methods developed from these concepts permit extrapolation of the results obtained from short releases to much longer release periods. Good agreement between predicted and observed exposure distributions is obtained from these models, using independent data.
+
+== Introduction
+
+In the summer of 1959, the Green Glow Program was initiated at Hanford to obtain diffusion data out to 25.6 km from a ground source in stable atmospheres. Details of the experimental design, method of zinc sulfide plume generation, supporting meteorological instrumentation, sampling techniques, and method of sample assay have been given by Barad and Fuquay (1962a). Diffusion and meteorological data obtained in the test series have been summarized by Barad and Fuquay (1962b).
+
+From 1960 through 1962, experimentation continued at Hanford extending the testing to periods in which the atmosphere was neutral and unstable. These tests (collectively called the Hanford 30 Series) were conducted with essentially the same experimental techniques as those of the Green Glow program. The collection of diffusion data at the outermost distances was curtailed in the 30 Series program because of manpower shortages.
+
+The data that were obtained afford the means for a comprehensive analysis directed toward relating different diffusion parameters to the meteorological measurements which were made concurrently. At this time, several results have been obtained which suggest a profitable approach in the analysis and application of experimental diffusion data. The most significant departure from most other experimental studies is that atmospheric diffusion is viewed as a time-dependent process. Significant improvement in the ordering of data, such as the peak exposure (time integrated concentration), is evidenced when these values are plotted as a function of a calculated travel time compared to results obtained by considering arc distance as the independent variable. This concept has been the basis for further analysis of the Hanford data and has led to the development of a plume growth model in which the parameters depend only on meteorological variables.
+
+The objectives of this paper are threefold:  1) to make the Hanford data available to other investigators, 2) to present pertinent diffusion concepts which have been developed at this time, and 3) to demonstrate how these concepts may be applied in predicting diffusion.
+
+== The data
+
+Of the 66 field tests that were successfully completed in the Green Glow and Hanford 30 Series programs, 46 were selected for analysis. Twenty tests were rejected primarily because the lateral dimensions of the mean plume were not sufficiently contained within the sampling grid. Rejecting these tests eliminated the necessity for extrapolating data so that the final results are not affected by judgments of this kind. Ten of the verification of prediction methods.
+
+*Tables 1, 2, and 3* are summaries of the 46 tests that comprise the reliable data.
+
+*Table 1* lists the test run number, date of the run and the times denoting the beginning and termination of the release. The Richardson number calculated from wind and temperature measurements near the source is also given. These calculations were made by a method suggested by Lettau (1957), using data collected at the 7- and 50-ft levels of the Hanford Meteorology Tower during the period of emission. The final columns contain the mean wind speed, _ū(m sec^-1^)_, the computed standard deviation of the wind direction distribution for the emission period, _σθ_ (deg) and the product _σθū(rad m sec^-1^)_. The speed and direction data which apply to the 7-ft level were taken from the strip chart records. The standard deviation, _σθ_, was computed from its statistical definition using 20-second direction averages over the emission period.
+
+*Table 2* gives the values of the peak exposure, _E~p~_, for each run and each arc on the Hanford grid. Exposure is often defined as the time integrated concentration having units of gm sec _m^-3^_. The peak exposure is the largest exposure value on the arc and, therefore, defines the centerline of the mean plume. The total mass of zinc sulfide, _Q~1~_ (gm), released for each test is also given.
+
+The data presented in *Table 3* are the standard deviation of the crosswind exposure distribution _σy(m)_. This statistic, which is a measure of the lateral spread of the plume, has been calculated with the basic arc exposure data and is summarized for each run and arc distance.
+
+== Travel time
+
+For this analysis, diffusion was considered to depend on the time of plume travel; values of the peak exposures and standard deviations of the observed distributions were plotted against time rather than distance. The travel time concept is not new. Many of the classical studies of atmospheric diffusion have led to models with time as the independent variable.
+
+Sutton (1953), in his book, reviewed the works of G. I. Taylor, including an example of this approach and using Lagrangian considerations. There is thus a problem introduced in defining the travel time for experiments with measurements made in a fixed reference frame. In this study, it was determined simply by dividing the distance at which the sample was obtained by the mean wind speed at the source at the height of release, _x/ū_.
+
+The dependence of diffusion on stability is more marked when the data are plotted against distance. Both time and distance relationships have been investigated. Peak exposure values which have been normalized for the wind speed and source strength stratify well in terms of meteorological parameters by using the time concept. Much of the order is lost when these data are plotted against travel distance, making it difficult to evaluate the effects of meteorological variations. The differences that can result from these two approaches are emphasized here with an example.
+
+Data from three runs are plotted against distance in *Fig. 1* and against the calculated travel time in *Fig. 2*. The ordinates are normalized peak exposure, _E~pū~/Qr (m^-2^)_. Because the most significant difference between the runs is the stability of the atmosphere associated with them, it is essential that this effect be evident in the analysis if useful prediction models are to be derived. The relationships in *Fig. 1* are not stratified according to stability. Contrary to accepted fundamentals, the exposure data for the very stable _σ^2^_ run are less at all distances than those for the slightly stable run. Furthermore, at 200 and 3200 meters, the stable data lie below those associated with instability. In contrast, *Fig. 2* shows the same data plotted as a function of the travel time. For any given travel time, the very stable curve yields a higher exposure value than that of the slightly stable curve, which in turn is higher than that of the unstable curve.
+
+The data were selected from the sample to demonstrate as dramatically as possible the differences in the time and distance concepts. In most cases, the effects are not so pronounced as shown, but are still evident, and there is no doubt that the ability dependence can best be identified for all of the data when travel time is taken as the independent invariable.
+
+== Lateral growth
+
+Taylor (1921) identified the mean turbulent eddy energy as the significant meteorological parameter determining dispersion in the atmosphere. Assuming that the correlation of eddy motions decreased exponentially with time, Taylor showed that the variance of the diffusing matter was expressed as:
+
+.Equation 1
+
+_σ^2^ = At - Aα+Aα e^-t^ / α_.
+
+_σ_ is the distribution variance, _t_ is the travel time and _A_ and _α_ are parameters that determine the shape of the autocorrelation function. For lateral growth, the ratio A/α is equivalent to twice the mean lateral eddy energy, _[overline]#2v'^2^#_. The evaluation of _[overline]#v'^2^#_ would thus permit the solution of *Eq. (1)*. A problem arises, through, in that _[overline]#v'^2^#_ is a Lagrangian statistic whereas meteorological measurements are made at fixed locations, making it necessary to approximate _[overline]#v'^2^#_ from the wind data which are readily available.
+
+Let ū be the mean wind velocity direction θ=O. Let V be an instantaneous wind at angle θ’ with ū with components u along ū. Then v=ū tan θ’. If θ’ is assumed sufficiently small, _tanθ≅θ’_, so,
+
+.Equation 2
+
+_[overline]#v# + v’ = (ū+u’)θ’ + u’θ’_.
+
+Squaring *Eq. (2)* and averaging over a span of time yields, since _v_ is zero,
+
+.Equation 3
+
+_[overline]#v# + = ( 2ū+[overline]#u’θ^2^# ) + ( [overline]#u'θ’ )^2^#_.
+
+For practical purposes *Eq. 3* must be simplified; it is here assumed that the two correlation terms in *(3)* are small compared to _u^2^~θ~’^2^_, and that *u = V*, so that to a first approximation,
+
+.Equation 4
+
+_v'^2^_ = _(σ~θ~ū)^2^_.
+
+*Eq. (4)* shows that the parameter of interest for determining _σ~y~_ is _σθū_, not _σθ_ alone. The results obtained in comparing the two parameters using the experimental data leave no doubt that _σ~θ~ū_ is superior to σθ as a predictor. In *Fig. 3*, the ratio of _σ~y~/σ~θ~_ is plotted against the travel time. *Fig. 4* shows the ratio of _σ~y~/σ~θ~ū_ as a function of the travel time. The scatter of the data in *Fig. 3* has been significantly reduced by *Fig. 4* by simply accounting for the mean wind data. The data points are further identified according to the atmospheric stability as measured by the Richardson’s number. The legends are included in the figures. The effect of stability on lateral growth of the plumes appears to be small.
+
+That Taylor’s model was appropriate for representing the experimental data was initially suggested from the results shown in *Fig. 5*. The _σ~y~_ data in the plot are from only those runs in which the crosswind exposure distribution was bell-shaped. The runs which are not used are identified in *Table 3* by an asterisk. The data were subdivided into groups specified by intervals of _σ~θ~ū_ shown. The lines drawn through the data have a slope of one-half at large values of _t_. These are limiting values for *Eq. (1)*.
+
+The solutions of *(1)* shown in *Fig. 6*, where the parameters of _A_ and _α_ have been determined from experimental data. A rough estimate of A was readily obtained by solving the _E~q~_ at large _t_ where the constant and exponential terms are small relative to the first term. Α was then estimated from the ratio of _A/2(σ~θ~ū)2_. From these rough estimates, adjustments were made to obtain a good fit to the test fit to the test ata by trial and error attempts, which resulted in the following relations:
+
+.Figure 5
+
+_A_ = _13+232.5σ~θ~ū_
+
+_α_ =  _A_ ÷ _2(σθū^2^)_
+
+== Exposure
+
+The travel time dependence of the peak exposure normalized to the source strength and the wind speed is shown in *Fig. 7*. The experimental data have again been divided into groups which have been jointly specified by the Richardson number, Ri, and the wind variability _σ~θ~ū_. The solid lines are the average exposure for all the groups. The hatched areas define the limits and include all the data from which the averages were derived. The intervals of Ri σθū that apply to these areas are noted.
+
+== Prediction
+
+The means for predicting exposure distributions have been presented. _σ~y~_ can be calculated from *Eq. (1)* or determined directly from *Figs. 5 or 6*, if _σ~θ~ū_ is known. The normalized peak exposure is obtained from *Fig. 7* by selecting the curve appropriate for the values of Ri and _σ~θ~ū_, which must have been calculated. The exposure distribution for any travel time can be readily calculated with the additional assumption that distribution that distribution within the plume is normal.
+
+In applied problems, the assumption that crosswind exposures are normally distributed is often not valid. Trends and shifts in wind direction during the period of emission will result in skewed and multimodal exposure distributions of downwind. A simple method for handling these situations has been successfully tested at Hanford.
+
+When trends and shifts in wind direction are observed during the emission period, it is necessary to subdivide that period so that the frequency distribution is bell-shaped. A long release may thus be considered as two or more successive shorter releases, each apportioned its share of the source strength, Q, and each centered on its mean wind direction, θ. Because the intervals are chosen so that the wind distribution is bell-shaped, there is reasonable assurance that assuming the resulting exposure distribution to be normal is valid.

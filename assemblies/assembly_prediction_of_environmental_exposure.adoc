@@ -1,0 +1,21 @@
+== Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Datafootnote:[Work performed under contract No. At(45-1)-1350 between the Atomic Energy Commission and General Electric Company.]
+
+James J. Fuquay, Charles L. Simpson, and W. Ted Hines | April 1964
+
+include::../modules/con_prediction_of_environmental_exposures.adoc[leveloffset=+1]
+
+== Appendixes
+
+=== References
+
+include::../modules/ref_prediction_of_environmental_exposures_references.adoc[leveloffset=+2]
+
+=== Tables
+
+include::../modules/ref_prediction_of_environmental_exposures_table-1.adoc[leveloffset=+2]
+include::../modules/ref_prediction_of_environmental_exposures_table-2.adoc[leveloffset=+2]
+include::../modules/ref_prediction_of_environmental_exposures_table-3.adoc[leveloffset=+2]
+
+=== Figures
+
+include::../modules/ref_prediction_of_environmental_exposures_figures.adoc[leveloffset=+2]

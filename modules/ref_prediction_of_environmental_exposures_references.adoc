@@ -1,0 +1,9 @@
+1. Barad, M. L. and J. J. Fuquay, 1962a: The Green Glow diffusion program, Vol. I, _Geophysical Research Paper No. 73_, Geophysics Research Directorate, Air Force Cambridge Research Laboratory; Hanford Report HW 71400.
+
+2. Barad, M. L. and J. J. Fuquay, 1962b: The Green Glow diffusion program, Vol. II, _Geophysical Research Paper No. 73_, Geophysics Research Directorate, Air Force Cambridge Research Laboratory; Hanford Report HW 71400.
+
+3. Lettau H. H., 1957: Computation of Richardson numbers, classification of wind profiles and determination of roughness parameters, _Exploring the atmosphere's first mile_, Vol. I. New York, Pergamon Press, 376 pp.
+
+4. Sutton, O. G., 1953: _Micrometeorology_. New York, McGraw-Hill, 333 pp.
+
+5. Taylor, G. I., 1921: Diffusion by continuous movements, _Proceedings of the London Mathematical Society_, ser. 2, *20*, 196-211.

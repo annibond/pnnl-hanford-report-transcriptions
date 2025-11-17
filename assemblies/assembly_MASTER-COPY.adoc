@@ -1,0 +1,7 @@
+= Scientific reports from Hanford & the Pacific Northwest Laboratories in the Cold War
+
+Hanford Nuclear Reservation & Pacific North West Laboratories (PNNL)
+
+include::../assemblies/assembly_measurement_of_particulate_plume.adoc[]
+include::../assemblies/assembly_transuranium_elements_in_the_atmosphere.adoc[]
+include::../assemblies/assembly_prediction_of_environmental_exposure.adoc[] 

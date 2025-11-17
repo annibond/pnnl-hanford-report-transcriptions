@@ -1,0 +1,78 @@
+.Time, Tracer and Meteorology Pertinent to Multi-Tracer Releases from 26-m Level, 1972-1973
+[cols="1,1,1,1,1,1,1,1"]
+|===
+^|*Test* |^*Date* |*Period of Release* |*Tracers Released* |*Mean Wind Speed (2 m)* |*Mean Wind Speed (30 m)* |*Δ Temp 30 m - 6 m* |*Ri (2,15)*footnote:[Richardson number for layer between 2 and 15 m.]
+
+^|V1
+>|10/26/72
+>|0930-1000
+|FPfootnote:[Flourescent particulate ZnS, with mass median diameter of about 5 μm], Krfootnote:[Krypton-85, an inert radioactive gas], Rhodfootnote:[Rhodamine B particulate, with mass median diameter of about 0.8 μm]
+>|4.0 m/sec
+>|5.8 m/sec
+>|-1.7°F
+>|-0.22
+
+^|V2
+>|11/09/72
+>|1030-1100
+|FP, KR, Rhod
+>|2.6 m/sec
+>|4.2 m/sec
+>|-0.9°F
+>|-0.03
+
+^|V3
+>|11/16/72
+>|0955-1025
+|FP, KR, Rhod
+>|2.7 m/sec
+>|3.8 m/sec
+>|-1.4°F
+>|-0.08
+
+^|V4
+>|12/12/72
+>|1049-1120
+|FP, KR, Rhod
+>|1.2 m/sec
+>|2.7 m/sec
+>|-0.9°F
+>|0.28
+
+^|V5
+>|09/05/73
+>|0601-0631
+|FP, KR, Rhod
+>|1.4 m/sec
+>|4.6 m/sec
+>|1.5°F
+>|0.08
+
+^|V6
+>|09/13/73
+>|0516-0546
+|FP, KR, Rhod
+>|2.0 m/sec
+>|6.7 m/sec
+>|0.9°F
+>|0.06
+
+^|V7
+>|09/25/73
+>|1201-1231
+|FP, KR
+>|3.3 m/sec
+>|4.3 m/sec
+>|-2.2°F
+>|-0.31
+
+^|V8
+>|11/28/73
+>|1125-1142
+|FP, Indiumfootnote:[Indium particulate, with mass median diameter estimated at 0.1 μm]
+>|1.7 m/sec
+>|2.8 m/sec
+>|-1.0°F
+>|[illegible]
+
+|===

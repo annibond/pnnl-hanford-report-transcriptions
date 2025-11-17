@@ -1,0 +1,15 @@
+.Compound Names & Shorthand
+
+[cols="1,1"]
+
+|===
+
+^|*Compound* ^|*Compound Name*
+
+|KCi
+|Potassium Chloride
+
+|ZnS
+|Zinc Sulfide
+
+|===

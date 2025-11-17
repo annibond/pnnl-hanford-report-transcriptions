@@ -1,0 +1,5 @@
+1. J. J. Fuquay, [.underline]#Progress in Atmospheric Physics: A Summary of Hanford Laboratories Work on the Program Under General Electric, 1959-1964#, HW-83602, General Electric, Richland, Washington, September 1964.
+
+2. J. D. Ludwick, J. J. Lashock, R. E. Connally and P. W. Nickola, “Automatic Real Time Air Monitoring of 85Kr Utilizing the 4096 Memory of a Multiparameter Analyzer,” [.underline]#Rev. Sci. Instr.#, vol. 39, pp. 853-859, 1968.
+
+3. P. W. Nickola, J. D. Ludwick and J. V. Ramsell, “An Inert Gas Tracer System for Monitoring the Real-Time History of a Diffusing Plume,” [.underline]#J. Appl. Meteor.#, vol. 9, no. 4, pp. 621-626, 1970.

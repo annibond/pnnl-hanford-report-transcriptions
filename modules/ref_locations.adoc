@@ -1,0 +1,35 @@
+== Important Names & Locations to Hanford
+
+[cols="1,1,1"]
+|===
+^|*Name* ^|*Location* ^|*Purpose*
+
+^|Battelle Memorial Institute
+^|Columbus, OH (primary)
+|nonprofit research and development organization that contributed to the Manhattan Project
+
+^|Green Glow Program
+^|Richland, WA
+|The Green Glow Diffusion Program at the Hanford site was a series of atmospheric field diffusion experiments conducted in 1959 to test techniques for tracking airborne materials.
+
+^|Hanford Nuclear Reservation
+^|Richland, WA
+|site for nuclear testing research and plutonium production during World War II and the Cold War, part of the Manhattan Project
+
+^|Manhattan Project
+^|United States, United Kingdom, Canada
+|research and development program undertaken during World War II to produce nuclear weapons on the side of the Allies, directed by United States Major General Leslie Groves
+
+^|Pacific Northwest Laboratories
+^|Richland, WA
+|also known as the Pacific Northwest National Laboratory (PNNL), managed by the United States DoE, distinct from Hanford as an employer
+
+^|Naval Arctic Research Laboratory
+^|Pt. Barrow, AK
+|site for nuclear testing on nearby Amchitka Island, which hosted Project Long Shot (1965) and Project Milrow (1969)
+
+^|United States Department of Energy
+^|Washington D.C.
+|department of the federal government that oversees national energy policy, the development of nuclear power, and the military's weapons program for the United States
+
+|===

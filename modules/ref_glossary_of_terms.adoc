@@ -1,0 +1,100 @@
+.Glossary of Terms
+
+[cols="1,1"]
+|===
+^|*Term* ^|*Definition*
+
+|assay
+|investigative procedure to measure a specific substance or compound
+
+|Avogadro's number
+|6.022x10^23^
+
+|CIE/Q
+|relevant data points include nucleus, nuclear energy, nuclear fission, nuclear fusion, and nuclear radiation
+
+|crosswind
+|wind blowing in a direction not parallel to a course
+
+|dpm
+|disintegrations per minute, a unit of measurement for radioactivity
+
+|eddy energy
+|kinetic energy associated with the swirling, turbulent motions a fluid (e.g., ocean, air)
+
+|E/Q
+|electric field strength
+
+|FP
+|f-factor in physics, a conversion between radiation exposure (roengens) to the absorbed dose (rads)
+
+|Geiger-Müller
+|portable instrument used to detect and measure ionizing radiation, also known as "Geiger counter"
+
+|inert
+|unmoving, stopped
+
+|isoplething
+|plotting a map which connects points of equal value for a specific variable, specifically atmospheric dispersion in this case
+
+|isotope
+|two or more forms of the same element with equal numbers of protons each but varying numbers of electrons
+
+|Ivy Mike test
+|the codename for the first-full scale test of a thermonuclear device, part of a series in Operation Ivy
+
+|KeV time
+|measurement of time that descibes the neutron fluence (time-integrated flux), measured in moles
+
+|moles
+|measurement of the number of atoms, molecules, or ions; 1 mole = Avogadro's number = 6.022x10^23^
+
+|MWD
+|megawatt day exposure
+
+|neutron flux
+|Φ, measurement of intensity of neutron radiation
+
+|plume
+|gas or aerosol released into the atmosphere at an approximately steady rate
+
+|radionuclides
+|unstable forms of chemical element that releases radiation
+
+|rads
+|unit of measurement for absorbed dose of ionizing radiation, corresponding to the absorbption of 0.01 Joule/kg
+
+|roentgens
+|legacy (inactive) unit of measurement for x-rays and gamma rays
+
+|scm
+|standard cubic meter, a unit of volume for a gas measured under standard conditions of temperature and pressure
+
+|Sf
+|spontaneous fission
+
+|tracer
+|substances added into a system which can be used to track movement and behavior of physical, chemical, or biological processes
+
+|transuranic
+|has a higher atomic number than uranium (92)
+
+|σ
+|lowercase sigma (Greek), standard deviation
+
+|∑
+|uppercase sigma (Greek); sum
+
+|θ
+|lowercase theta (Greek)
+
+|ū
+|denotes an average value, a mean, or specific variable in a given model
+
+|σθū
+|covariance between the variable θ and a defined variable _u_
+
+|μm
+|unit of measurement of length, equal to one millionth of a meter (micrometer)
+
+|===

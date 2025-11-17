@@ -1,0 +1,20 @@
+.Normalized peak exposure _E~q~/qr_, vs. distance for diffusion tests with differing conditions of atmospheric stability
+image::../images/ref_prediction_of_environmental_exposures_fig-1.png[A line graph where △ represents Run 56 (Very Stable), ◦ represents Run 35 (Slightly Stable), and x represents Run 32 (Unstable). The x axis = distance (meters). It shows increments at (1) 10^2^, (2) 10^3^, (3), 10^4^, and (4) 10^5^. The y axis = E~p~ū/Q~t~ (meters^-2^). It shows increments at (1) 10^-6^, (2) 10^-5^, (3), 10^-4^, and (4) 10^-3^.]
+
+.Normalized peak exposure, _E~p~ū/Qr_ vs. time for diffusion test with differing conditions of atmospheric stability
+image::../images/ref_prediction_of_environmental_exposures_fig-2.png[A line graph where △ represents Run 56 (Very Stable), ◦ represents Run 35 (Slightly Stable), and x represents Run 32 (Unstable). The x axis = time (seconds). It shows increments at (1) 10, (2) 10^2^, (3) 10^3^, and 10^4^. The y axis = σ~y~/σ~θ~ (meters over radians). It shows increments at (1) 10^-6^, (2) 10^-5^, (3) 10^-4^, and (4) 10^-3^.]
+
+.Ratio of plume standard deviation to the product of wind tests with differing conditions of atmospheric stability
+image::../images/ref_prediction_of_environmental_exposures_fig-3.png[A scatterplot graph that displays the R~i~ limits where x > 0.08, • = 0-0.08, and ◦ = < 0. The x axis = time (seconds). It shows a scale with increments at (1) 10, (2) 10^2^, (3) 10^3^, and (4) 10^4^. The y axis = σ~y~/σ~θ~ (meters over radians). It shows a scale with increments at (1) 10^2, (2) 10^3^, and (3) 10^4^.]
+
+.Ratio of plume standard deviation to wind azimuth standard deviation mean wind speed, _σ~y~/σ~θ~ū_, vs. time
+image::../images/ref_prediction_of_environmental_exposures_fig-4.png[A scatterplot graph that displays the R1 limits where x > 0.08, • = 0-0.08, and ◦ = < 0. The x axis = _time (seconds)_. It shows a scale with increments at (1) 10, (2) 10^2^, (3) 10^3^, and (4) 10^4^. The y axis = _σ~y~/σ~θ~ū_. It shows a scale with increments at (1) 10^1^, (2) 10^2^, (3) 10^3^, and (4) 10^4^.]
+
+.Crosswind plume standard deviation _σ~y~_, as a function of time and _σ~θ~ū_
+image::../images/ref_prediction_of_environmental_exposures_fig-5.png[A scatterplot graph with the trajectories drawn out. There are six lines, from largest to smallest: (1) _σ~θ~ū_ > 1.0, (2), 0.8 < _^σ^~θ~ū_ < 1.0, (3) 0.6 < _^σ^~θ~ū_ < 0.8, (4) 0.3 < ^σ^~θ~ū_ < 0.6, (5) 0.2 <^σ^~θ~ū_ < 0.3, and (6) ^σ^~θ~ū_ < 0.20. The x axis = time (seconds). It shows a scale with increments at (1) 10, (2) 100, (3) 1,000, and (4) 10,000. The y axis = σ~y~ (meters). It shows a scale with increments at (1) 10, (2) 100, and (3) 1,000.]
+
+.Standard deviation of plume width as a function of travel time and wind variability
+image::../images/ref_prediction_of_environmental_exposures_fig-6.png[A scatterplot graph with the trajectories drawn out. There are 15 lines, from the top to bottom, from largest to smallest: (1) _σ~θ~ū_ = 3.0, (2) 2.0, (3), 1.6, (4) 1.2, (5) 1.0, (6) 0.9, (7) 0.8, (8) 0.7, (9) 0.6, (10) 0.6, (11) 0.4, (12) 0.3, (13) 0.2, (14) 0.1, and _σ~θ~n_ = 0.5. The x axis = time (seconds). It shows increments at (1) 10, (2) 10^2^, (3) 10^3^, (4) 10^4^, and (5) 10.^5^. The y axis = _σ~y~_ (meters). It shows increments at (1) 10, (2) 10^2^, (3) 10^3, and (4) 10^4^.]
+
+.Normalized peak exposure, _E~p~ū/Q~T~_, vs, time
+image::../images/ref_prediction_of_environmental_exposures_fig-7.png[A line graph with six data points show. The top two are, left to right: (1) Unstable, Ri < 0, 0.4 < _σ~θ~ū_ < 0.8 and (2) Stable (Ri > (0.08), _σ~θ~ū_ < 0.15. The remaining three are, left to right: (3) Unstable (Ri < 0). 0.8 < _σ~θ~ū_ < 1.4, (4) Slightly Stable, 0 < Ri < 0.08, 0.15 < _σ~θ~ū_ < 1.1, and (5) Stable (Ri > 0.08), 0.15 < _σ~θ~ū_ < 0.5. The x axis = time (seconds). It shows increments at (1) 10, (2) 10^2^, (3) 10^3^, and 10^4^. The y axis = _E~p~ū~/Q~t~_ (meters^-2^). It shows increments at (1) 10^-6^, (2) 10 ^-5^, (3) 10^-4^, and (4) 10^-3^.]
