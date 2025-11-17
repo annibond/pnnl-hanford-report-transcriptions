@@ -21,9 +21,3 @@ include::../modules/ref_measurement_of_particulate_plume_table-3.adoc[leveloffse
 === Figures
 
 include::../modules/ref_measurement_of_particulate_plume_figures.adoc[leveloffset=+2]
-
-== Transuranium Elements in the Atmosphere
-
-C. W. Thomas and R. W. Perkins
-
-include::../modules/con_transuranium_elements_in_the_atmosphere.adoc[leveloffset=+1]
