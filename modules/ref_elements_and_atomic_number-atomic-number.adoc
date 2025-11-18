@@ -6,6 +6,14 @@
 
 ^|*Element* ^|*Element Name* ^|*Atomic Number*
 
+^|4
+^|Be
+^|Beryllium
+
+^|8
+^|O
+^|Oxygen
+
 ^|17
 ^|Cl
 ^|Chloride
@@ -26,6 +34,10 @@
 ^|Zr
 ^|Zirconium
 
+^|41
+^|Nb
+^|Niobium
+
 ^|42
 ^|Mo
 ^|Molybdenum
@@ -42,9 +54,17 @@
 ^|Ba
 ^|Barium
 
+^|58
+^|Ce
+^|Cerium
+
 ^|60
 ^|Nd
 ^|Neodymium
+
+^|82
+^|Pb
+^|Lead
 
 ^|92
 ^|U

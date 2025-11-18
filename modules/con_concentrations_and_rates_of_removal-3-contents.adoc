@@ -1,0 +1,13 @@
+== Atmospheric Surverys
+
+Surveys are being made of effluents released to the atmosphere, within the source areas, to distances covering several states, and on hemispheric scales. Through these efforts, the Atmospheric Sciences and Radiological Sciences Departments are identifying the most urgent air pollution problems and continually reassessing them to set prioririties for more detailed investigations.
+
+Fallout measurements and evaluations are continuing with the essential identification and study of world-wide nuclear test debris, nuclear power effluents appearing in the atmosphere, and the transfer of these world-wide distrubtions to the surface. New survey efforts are measuring ambient distributions of pollutants from fossil fuel facilities. Measurements are being made describing the wide variety of pollutants introduced into the atmosphere from individual coal facility sources; measurements of pollutant characteristics from urban complexes are defining their physical and chemical chateristics as they are transported large distances. Reference levels of pollutants in air entering a given region are also being defined. The emphasis in ongoing reference measurements on the coast of Washington State will assure future comprehensive coverage of nonnuclear pollutants in addition to the continuing nuclear contaminant evaluations. 
+
+* Survey of ambient airborne pollutants
+
+* Radioactive fallout rates and mechanisms
+
+* Coal conversion atmospheric chemistry
+
+* Tracer studies in the Metromex experiment

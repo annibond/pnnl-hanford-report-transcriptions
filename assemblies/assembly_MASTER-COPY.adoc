@@ -2,6 +2,7 @@
 
 Hanford Nuclear Reservation & Pacific North West Laboratories (PNNL)
 
-include::../assemblies/assembly_measurement_of_particulate_plume.adoc[]
-include::../assemblies/assembly_transuranium_elements_in_the_atmosphere.adoc[]
-include::../assemblies/assembly_prediction_of_environmental_exposure.adoc[] 
+include::../assemblies/assembly_measurement_of_particulate_plume.adoc[leveloffset=+1]
+include::../assemblies/assembly_transuranium_elements_in_the_atmosphere.adoc[leveloffset=+1]
+include::../assemblies/assembly_prediction_of_environmental_exposure.adoc[leveloffset=+1]
+include::../assemblies/assembly_concentrates_and_removal_report_1975.adoc[leveloffset=+1]

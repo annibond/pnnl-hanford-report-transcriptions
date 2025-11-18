@@ -1,0 +1,29 @@
+= Pacific Northwest Laboratory Annual Report for 1975 to the USERDA Division of Biomedical and Environmental Research Part 3 Atmospheric Sciences
+
+*Prepared by the U.S. Energy Research and Development Administration under Contract E(45-1): 1830*
+
+Battelle | Pacific Northwest Laboratories | BNWL-2000 PT 3 | 1976
+
+Charles L. Simpson, Manager | Staff of Atmospheric Sciences Program
+
+Richland, Washington 99352
+
+=== Notice
+
+This report was prepared as an account of work sponsored by the United States Government. Neither the United States nor the United States Energy Research and Development Administration, nor any of their employers, nor any of their contractors, subcontractors, or their employees, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness or usefulness of any information, apparatus, product or process disclosed, or represents that its use would not infringe privately owned rights.
+
+=== Printing Details
+
+Copy No. 3 3679 00059 2446 | BNWL-2000 PT 3 | UC-11
+
+Pacific Northwest Laboraty operated by Battelle for the U.S. Energy and Development Administration Under Contract E(45-1)-1830
+
+Printed in the United States of America
+Available from the U.S. Department of Commerce
+5285 Port Royal Road
+Springfield, Virgina 22151
+
+Price: Printed Copy $4.00; Microfiche $2.25
+
+include::../assemblies/assembly_ozone_radionucline_and_particulate_correlations.adoc[leveloffset=+1]
+include::../assemblies/assembly_lead_pb_concentrations_associated_with_1000_mb.adoc[leveloffset=+1]

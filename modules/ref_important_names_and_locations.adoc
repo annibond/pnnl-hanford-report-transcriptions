@@ -1,0 +1,49 @@
+== Important Names & Locations to Hanford
+
+[cols="1,1,1"]
+|===
+^|*Name* ^|*Location* ^|*Purpose*
+
+|Battelle Memorial Institute
+|Columbus, OH (primary)
+|nonprofit research and development organization that contributed to the Manhattan Project
+
+|Green Glow Program
+|Richland, WA
+|The Green Glow Diffusion Program at the Hanford site was a series of atmospheric field diffusion experiments conducted in 1959 to test techniques for tracking airborne materials.
+
+|Hanford Nuclear Reservation
+|Richland, WA
+|site for nuclear testing research and plutonium production during World War II and the Cold War, part of the Manhattan Project
+
+|Liquid-Metal Fast-Breeder Reactor (LMFBR)
+|United States, as well as Canada, China, France, India, Japan, Russia, and United Kingdom
+|the Experimental Breeder Reactor II (EBR-II) and Fermi 1 in the United States, a three loop system in which liquid sodium cool with an intermediate loop containing non-radioactive sodium transfer heat to a steam generator
+
+|Manhattan Project
+|United States, United Kingdom, and Canada
+|research and development program undertaken during World War II to produce nuclear weapons on the side of the Allies, directed by United States Major General Leslie Groves
+
+|National Ambient Air Quality Standard (NAAQS)
+|Washington D.C.
+|regulations set by the United States Environmental Protection Agency (EPA) to protect public health from carbon monoxide, lead, nitrogen dioxide, ozone, particulate matter, and sulfure dioxide
+
+https://www.youtube.com/watch?v=Plr7_SAuB6g[EPA, EPA, EPA!]
+
+|Naval Arctic Research Laboratory
+|Pt. Barrow, AK
+|site for nuclear testing on nearby Amchitka Island, which hosted Project Long Shot (1965) and Project Milrow (1969)
+
+|Pacific Northwest Laboratories
+|Richland, WA
+|also known as the Pacific Northwest National Laboratory (PNNL), managed by the United States DoE, distinct from Hanford as an employer
+
+|Quillayute Air Reference Station
+|Quillayute, WA
+|former military air station and current air sampling and monitoring station, named for the federally recognized Native American people, pronounced KWIL-yoot 
+
+|United States Department of Energy
+|Washington D.C.
+|department of the federal government that oversees national energy policy, the development of nuclear power, and the military's weapons program for the United States
+
+|===
