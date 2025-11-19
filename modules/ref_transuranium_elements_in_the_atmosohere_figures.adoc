@@ -1,4 +1,3 @@
-
 .Ratio of ^239^Pu to ^132^Cs in Fallout Debris [illegible] 1952
 image::../images/ref_transuranium_elements_in_the_atmosphere_figure-1.png[A line graph drawn on physical graphing paper with no x or y axis labeled.]
 

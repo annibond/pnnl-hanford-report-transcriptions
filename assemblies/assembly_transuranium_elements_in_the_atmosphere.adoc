@@ -1,21 +1,21 @@
 == Transuranium Elements in the Atmosphere
 
-C. W. Thomas and R. W. Perkins | February 1975
+C. W. Thomas and R. W. Perkins | February 1975 | BNWL-SA-5189
 
-include::../modules/con_transuranium_elements_in_the_atmosphere.adoc[leveloffset=+1]
+include::../modules/con_transuranium_elements_in_the_atmosphere.adoc[leveloffset=+2]
 
 == Appendixes
 
 === Tables
 
-include::../modules/ref_transuranium_elements_in_the_atmosphere_table-1.adoc[leveloffset=+2]
-include::../modules/ref_transuranium_elements_in_the_atmosphere_table-2.adoc[leveloffset=+2]
-include::../modules/ref_transuranium_elements_in_the_atmosphere_table-3.adoc[leveloffset=+2]
-include::../modules/ref_transuranium_elements_in_the_atmosphere_table-4.adoc[leveloffset=+2]
-include::../modules/ref_transuranium_elements_in_the_atmosphere_table-5.adoc[leveloffset=+2]
-include::../modules/ref_transuranium_elements_in_the_atmosphere_table-6.adoc[leveloffset=+2]
-include::../modules/ref_transuranium_elements_in_the_atmosphere_table-7.adoc[leveloffset=+2]
-include::../modules/ref_transuranium_elements_in_the_atmosphere_table-8.adoc[leveloffset=+2]
+include::../modules/ref_transuranium_elements_in_the_atmosphere_table-1.adoc[leveloffset=+3]
+include::../modules/ref_transuranium_elements_in_the_atmosphere_table-2.adoc[leveloffset=+3]
+include::../modules/ref_transuranium_elements_in_the_atmosphere_table-3.adoc[leveloffset=+3]
+include::../modules/ref_transuranium_elements_in_the_atmosphere_table-4.adoc[leveloffset=+3]
+include::../modules/ref_transuranium_elements_in_the_atmosphere_table-5.adoc[leveloffset=+3]
+include::../modules/ref_transuranium_elements_in_the_atmosphere_table-6.adoc[leveloffset=+3]
+include::../modules/ref_transuranium_elements_in_the_atmosphere_table-7.adoc[leveloffset=+3]
+include::../modules/ref_transuranium_elements_in_the_atmosphere_table-8.adoc[leveloffset=+3]
 === Figures
 
-include::../modules/ref_transuranium_elements_in_the_atmosohere_figures.adoc[leveloffset=+2]
+include::../modules/ref_transuranium_elements_in_the_atmosohere_figures.adoc[leveloffset=+3]

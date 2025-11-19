@@ -1,0 +1,22 @@
+=== Introduction
+As more attention has been given to the problem of air pollution over populated areas of the United States and the rest of the world, quantitative observation of pollution levels in the air around metropolitan areas has become routine. To evaluate these observations with regard to the possible control of suspected sources, background pollutant levels, i.e., the amount of any specific material which is in the air before it is affected by a source region, must be considered. Environmental impact statements relating to the original air quality prior to projected development require such data.
+
+This report is concerned specifically with daily stable lead (Pb) concentrations measured at an air monitoring station on the American Pacific coast at Quillayute, Washingtonfootnote:1[R. W. Perkins, J. D. Ludick, C. W. Thomas, M. R. Petersen, and J. A. Cooper, "Quillayute Air Reference Station," Pacific Northwest Laboratory Annual Report for 1973 for the USAEC Division of Medical and Environmental Research Part 3, Atmospheric Sciences, BNWL-1850, PT 3, Battelle, Pacific Northwest Laboratories, Richland, WA, April 1974.]. They are related with corresponding 1000 mb geostrophic back trajectories computed from Quillayute, to identify reference level Pb in unpolluted conditions. Directions and/or regions are indicated from which air with generally high or generally low Pb concentrations may be expected.
+
+=== Comparison with Other Regions
+
+*Table 1* summarizes the daily Pb concentration data for April through September 1974 at Quillayute. The data consist of samples obtained from high volume (2.26 m^3^/min), 1-day filters, analyzed by x-ray fluorescence techniques. Values were generally higher in August and especially in September when concentrations were less than 10 ng/m^3^.
+
+As a basis for comparison, *Table 2* presents statistics published by the Health and Safety Laboratory.footnote:2[E. P. Hardy, HASL, "Radionuclides and Lead in Surface Air," Health and Safety Laboratory Environmental Quarterly, Report No. 297, Appendix B, B-139, 1975.] These show stable Pb concentrations analyzed from monthly composites of weekly samples from various sites. Monthly values from metropolitan areas range from 500 to 1400 ng/m^3^, while suburban and rural areas are lower. The values from Quillayute fall near the range of remote stations on Greenland and Antarctica, and the oceanic stations at Mauna Loa and Easter Island.
+
+Because the Quillayute averages in *Table 1* consider all meteorological situations during the 6-month span, they include and are influenced by situations in which local or regional contamination could be expected. A meteorological back trajectory calculation was undertaken to define average concentrations during periods of local or regional contamination, while characterizing these periods in terms of regional atmospheric circulation. In addition, meteorological analysis was used to distinguish Pb samples obtained during periods of strictly oceanic source air, whose concentrations might be considered "reference" levels.
+
+=== Description of Procedure
+
+To obtain a broad view of the relationship between Quillayute air trajectory histories and the daily average Pb concentrations measured there, a method of objective analysis was implemented. The results of this analysis are shown in *Figure 1*. This is not an analysis of Pb concentrations in the regions covered; rather, the concentration value assigned any given location on the map is an estimate of the concentration measured 1 day later at Quillayute. The location of this value is determined by back trajectory analysis.
+
+=== Discussion of Analysis
+
+==== Ocean versus Land
+
+*Figure 1* indicates that, as might be expected, concentrations are generally high in air coming from continental areas, and low in air which traversed the Pacific Ocean. A region of particularly close packing of isopleths near the coast south of Quillayute. The minimum values observed from air originating over the ocean are between 1 and 2 ng/m^3^, while maximum concentrations greater than 32 ng/m^3^ relate to air which had previously been southeast of the monitoring station.

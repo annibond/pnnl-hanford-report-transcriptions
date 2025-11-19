@@ -14,9 +14,17 @@
 ^|Barium
 ^|56
 
+^|Be
+^|Beryllium
+^|4
+
 ^|Bk
 ^|Berkelium
 ^|97
+
+^|Ce
+^|Cerium
+^|58
 
 ^|Cl
 ^|Chlorine
@@ -54,6 +62,10 @@
 ^|Molybdenum
 ^|42
 
+^|Nb
+^|Niobium
+^|41
+
 ^|Nd
 ^|Neodymium
 ^|60
@@ -62,9 +74,17 @@
 ^|Neptunium
 ^|93
 
+^|O
+^|Oxygen
+^|8
+
 ^|P
 ^|Plutonium
 ^|94
+
+^|Pb
+^|Lead
+^|82
 
 ^|Sr
 ^|Stronium

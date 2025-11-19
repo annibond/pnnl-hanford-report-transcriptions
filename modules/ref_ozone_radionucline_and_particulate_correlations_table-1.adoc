@@ -1,0 +1,70 @@
+.Relative Abundance on Transuranium Elements Based on Ivy Mike and Estimated Atmospheric Injection
+[cols="1,1,1,1,1"]
+
+|===
+
+^|*Measurement Site* ^|*Median (ppb)* ^|*Upper Quartile (ppb)* ^|*Upper Declile (ppb)* ^|*Percent-age of days exceeding standard (80)*
+
+|Ancora, NJ
+>|74
+>|100
+>|125
+>|44
+
+|Bayonne, NJ
+>|64
+>|96
+>|121
+>|38
+
+|Camden, NJ
+>|66
+>|88
+>|106
+>|31
+
+|Linden, NJ
+>|54
+>|78
+>|104
+>|22
+
+|Newark, NY
+>|46
+>|75
+>|108
+>|21
+
+|Eisenhower Park, NY
+>|33
+>|60
+>|85
+>|13
+
+|Mamaroneck, NY
+>|45
+>|68
+>|101
+>|20
+
+|Welfare Island, NY
+>|42
+>|78
+>|116
+>|22
+
+|Yonkers, NY
+>|70
+>|106
+>|135
+>|39
+
+|Quillayute, WA
+>|39
+>|45
+>|50
+>|0
+
+|===
+
+NOTE: New Jersey and New York locations are based on period between May 1, 1973 and September 30, 1975. The Washington location is based on the period April 1, 1974 and November 30, 1974.

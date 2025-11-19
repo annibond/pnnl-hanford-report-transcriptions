@@ -1,23 +1,23 @@
 == Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes
 
-P. W. Nickola and G. H. Clark | January 1974
+P. W. Nickola and G. H. Clark | January 1974 | BNWL_SA-5135 | Conf. 7409121-8
 
 NOTE: G. H. Clark is an Australian AEC representative of temporary assignment at Battelle, Pacific Northwest Laboratories, Richland, WA.
 
-include::../modules/con_measurement_of_particulate_plume.adoc[leveloffset=+1]
+include::../modules/con_measurement_of_particulate_plume.adoc[leveloffset=+2]
 
 == Appendixes
 
 === References
 
-include::../modules/ref_measurement_of_particulate_plume_references.adoc[leveloffset=+2]
+include::../modules/ref_measurement_of_particulate_plume_references.adoc[leveloffset=+3]
 
 === Tables
 
-include::../modules/ref_measurement_of_particulate_plume_table-1.adoc[leveloffset=+2]
-include::../modules/ref_measurement_of_particulate_plume_table-2.adoc[leveloffset=+2]
-include::../modules/ref_measurement_of_particulate_plume_table-3.adoc[leveloffset=+2]
+include::../modules/ref_measurement_of_particulate_plume_table-1.adoc[leveloffset=+3]
+include::../modules/ref_measurement_of_particulate_plume_table-2.adoc[leveloffset=+3]
+include::../modules/ref_measurement_of_particulate_plume_table-3.adoc[leveloffset=+3]
 
 === Figures
 
-include::../modules/ref_measurement_of_particulate_plume_figures.adoc[leveloffset=+2]
+include::../modules/ref_measurement_of_particulate_plume_figures.adoc[leveloffset=+3]

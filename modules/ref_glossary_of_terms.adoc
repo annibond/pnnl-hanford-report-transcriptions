@@ -7,14 +7,23 @@
 |assay
 |investigative procedure to measure a specific substance or compound
 
+|anthropogenic
+|caused or produced by humans
+
 |Avogadro's number
 |6.022x10^23^
 
 |CIE/Q
 |relevant data points include nucleus, nuclear energy, nuclear fission, nuclear fusion, and nuclear radiation
 
+|cosmogenic
+|produced by cosmic rays
+
 |crosswind
 |wind blowing in a direction not parallel to a course
+
+|diurnal
+|daily
 
 |dpm
 |disintegrations per minute, a unit of measurement for radioactivity
@@ -25,14 +34,23 @@
 |E/Q
 |electric field strength
 
+|first order kinetics
+|reaction in which the rate is directly proportional to the concentration of a single reactant
+
 |FP
 |f-factor in physics, a conversion between radiation exposure (roengens) to the absorbed dose (rads)
 
 |Geiger-Müller
 |portable instrument used to detect and measure ionizing radiation, also known as "Geiger counter"
 
+|geostrophic
+|the balance between the coriolis force and the horizontal pressure force in the atmosphere
+
 |inert
 |unmoving, stopped
+
+|inversion layer
+|where a layer of warm air is situated above cooler air in the atmosphere
 
 |isoplething
 |plotting a map which connects points of equal value for a specific variable, specifically atmospheric dispersion in this case
@@ -46,6 +64,15 @@
 |KeV time
 |measurement of time that descibes the neutron fluence (time-integrated flux), measured in moles
 
+|KSCM compounds (KSCM)
+|synthesized benzofuran compounds
+
+|Lagrangian
+|tracks the motion of individual particles, measuring their position, velocity, and acceleration overtime by following them through a fluid
+
+|Liquid Metal Breeder Reactor (LMBR)
+|nuclear reactor that uses a liquid metal (such as liquid sodium) as the primary coolant and is designed to "breed" more fissile material than it consumes
+
 |moles
 |measurement of the number of atoms, molecules, or ions; 1 mole = Avogadro's number = 6.022x10^23^
 
@@ -54,6 +81,9 @@
 
 |neutron flux
 |Φ, measurement of intensity of neutron radiation
+
+|oceanographic
+|the physical and biological properties and phenomena of the sea
 
 |plume
 |gas or aerosol released into the atmosphere at an approximately steady rate

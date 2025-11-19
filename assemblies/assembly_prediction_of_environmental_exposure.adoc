@@ -2,20 +2,20 @@
 
 James J. Fuquay, Charles L. Simpson, and W. Ted Hines | April 1964
 
-include::../modules/con_prediction_of_environmental_exposures.adoc[leveloffset=+1]
+include::../modules/con_prediction_of_environmental_exposures.adoc[leveloffset=+2]
 
 == Appendixes
 
 === References
 
-include::../modules/ref_prediction_of_environmental_exposures_references.adoc[leveloffset=+2]
+include::../modules/ref_prediction_of_environmental_exposures_references.adoc[leveloffset=+3]
 
 === Tables
 
-include::../modules/ref_prediction_of_environmental_exposures_table-1.adoc[leveloffset=+2]
-include::../modules/ref_prediction_of_environmental_exposures_table-2.adoc[leveloffset=+2]
-include::../modules/ref_prediction_of_environmental_exposures_table-3.adoc[leveloffset=+2]
+include::../modules/ref_prediction_of_environmental_exposures_table-1.adoc[leveloffset=+3]
+include::../modules/ref_prediction_of_environmental_exposures_table-2.adoc[leveloffset=+3]
+include::../modules/ref_prediction_of_environmental_exposures_table-3.adoc[leveloffset=+3]
 
 === Figures
 
-include::../modules/ref_prediction_of_environmental_exposures_figures.adoc[leveloffset=+2]
+include::../modules/ref_prediction_of_environmental_exposures_figures.adoc[leveloffset=+3]
