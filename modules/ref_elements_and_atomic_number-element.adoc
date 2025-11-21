@@ -22,6 +22,10 @@
 ^|Berkelium
 ^|97
 
+^|Ca
+^|Calcium
+^|20
+
 ^|Ce
 ^|Cerium
 ^|58
@@ -34,6 +38,10 @@
 ^|Curium
 ^|96
 
+^|Co
+^|Cobalt
+^|27
+
 ^|Cs
 ^|Caesium
 ^|55
@@ -42,9 +50,21 @@
 ^|Einsteinium
 ^|99
 
+^|Eu
+^|Europium
+^|63
+
+^|Fe
+^|Iron
+^|26
+
 ^|Fl
 ^|Flerovium
 ^|144
+
+^|Fp
+^|Fluorine
+^|9
 
 ^|I
 ^|Iodine
@@ -58,9 +78,17 @@
 ^|Krypton
 ^|36
 
+^|Mn
+^|Manganese
+^|25
+
 ^|Mo
 ^|Molybdenum
 ^|42
+
+^|Na
+^|Sodium
+^|11
 
 ^|Nb
 ^|Niobium
@@ -70,6 +98,10 @@
 ^|Neodymium
 ^|60
 
+^|Ni
+^|Nickel
+^|28
+
 ^|Np
 ^|Neptunium
 ^|93
@@ -78,22 +110,56 @@
 ^|Oxygen
 ^|8
 
-^|P
-^|Plutonium
-^|94
-
 ^|Pb
 ^|Lead
 ^|82
+
+^|Pu
+^|Plutonium
+^|94
+
+^|Ra
+^|Radium
+^|88
+
+^|Ru
+^|Ruthenium
+^|44
+
+^|Sb
+^|Antimony
+^|51
+
+^|Sc
+^|Scandium
+^|21
 
 ^|Sr
 ^|Stronium
 ^|38
 
+^|Tc
+^|Technetium
+^|43
+
+^|Th
+^|Thorium
+^|90
+
 ^|U
 ^|Uranium
 ^|92
 
+^|Y
+^|Yyttrium
+^|39
+
+^|Zn
+^|Zinc
+^|30
+
 ^|Zr
 ^|Zirconium
 ^|40
+
+NOTE: A number raised up (superscript) on the *left* side of an isotope denotes the mass number (the number of protons and neutrons). For example, Beryllium with a mass number of 7 is written as ^7^Be. If there is no superscript, the isotope is stable and the number of protons and electrons are equal.

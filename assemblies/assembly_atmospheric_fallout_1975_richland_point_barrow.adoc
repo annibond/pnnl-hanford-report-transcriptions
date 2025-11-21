@@ -1,0 +1,13 @@
+== Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska
+
+C. W. Thomas
+
+The atmospheric radionuclide concentrations in surface air are monitored continuously at Richland, Washington and Point Barrow, Alaska. The radionuclides in the atmosphere at these locations in 1975 resulted primarily from a 2 - 3 MT Chinese test in June 1973 and a 1 MT Chinese test in June 1974. The concentrations in 1975 of radionuclides with half-lives greater than one year varied from Equal to one-half the concentrations measured in 1974.
+
+include::../modules/con_atmospheric_fallout_1975_richland_point_barrow.adoc[leveloffset=+3]
+
+=== Appendixes
+
+=== Figures
+
+include::../modules/ref_atmospheric_fallout_1975_richland_point_barrow_figures.adoc[leveloffset=+4]

@@ -14,6 +14,14 @@
 ^|O
 ^|Oxygen
 
+^|9
+^|FP
+^|Fluorine
+
+^|11
+^|Na
+^|Sodium
+
 ^|17
 ^|Cl
 ^|Chloride
@@ -22,6 +30,34 @@
 ^|K
 ^|Potassium
 
+^|20
+^|Ca
+^|Calcium
+
+^|21
+^|Sc
+^|Scandium
+
+^|25
+^|Mn
+^|Manganese
+
+^|26
+^|Fe
+^|Iron
+
+^|27
+^|Co
+^|Cobalt
+
+^|28
+^|Ni
+^|Nickel
+
+^|30
+^|Zn
+^|Zinc
+
 ^|36
 ^|Kr
 ^|Krypton
@@ -29,6 +65,10 @@
 ^|38
 ^|Sr
 ^|Stronium
+
+^|39
+^|Y
+^|Yyttrium
 
 ^|40
 ^|Zr
@@ -41,6 +81,18 @@
 ^|42
 ^|Mo
 ^|Molybdenum
+
+^|43
+^|Tc
+^|Technetium
+
+^|44
+^|Ru
+^|Ruthenium
+
+^|51
+^|Sb
+^|Antimony
 
 ^|53
 ^|I
@@ -62,9 +114,21 @@
 ^|Nd
 ^|Neodymium
 
+^|63
+^|Eu
+^|Europium
+
 ^|82
 ^|Pb
 ^|Lead
+
+^|88
+^|Ra
+^|Radium
+
+^|90
+^|Th
+^|Thorium
 
 ^|92
 ^|U
@@ -75,7 +139,7 @@
 ^|Neptunium
 
 ^|94
-^|P
+^|Pu
 ^|Plutonium
 
 ^|95
@@ -99,3 +163,5 @@
 ^|Flerovium
 
 |===
+
+NOTE: A number raised up (superscript) on the *left* side of an isotope denotes the mass number (the number of protons and neutrons). For example, Beryllium with a mass number of 7 is written as ^7^Be. If there is no superscript, the isotope is stable and the number of protons and electrons are equal.

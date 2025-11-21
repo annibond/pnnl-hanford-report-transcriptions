@@ -1,123 +1,167 @@
 == Changelog
 
-.17-18 November 2025 - BNWL-2000 pp. iii, 2-11, 11-
+.19-21 November 2025 - BNWL-2000, pp. 11-19
 
-* Assemblies
+[cols="1,1,1,1,1,1"]
 
-- Added "Pacific Northwest Laboratory Annual Report for 1975 to the Userda Division of Biomedical and Environmental Research Part 3 Atmospheric Sciences" which serves as an upper-layer assembly for the reports therein:
+|===
 
-- Added "Ozone, Radionuclide and Particulate Correlations in Air at Quillayute, Washington"
+^.^h|*Assemblies*
+2+^.^h|*Modules*
+^.^h|*Structural References*
+^.^h|*Images*
+^.^h|*PDFs*
 
-- Added "Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" (incomplete)
+^| ^|*Concepts* ^|*References* ^| ^| ^|
 
-- Updated "Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" and "Transuranium Elements in the Atmosphere" to contain their labeled reference number
+|"Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska" created
+|"Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska" created
+|"Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska" createdfootnote:13[figures 1-3 created]
+|"Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska" figures 1-3
+|
+|"Elements & Their Atomic Number" updatedfootnote:13[9 Flourine (F), 11 Sodium (Na), 20 Calcium (Ca), 21 Scandium (Sc), 25 Manganese (Mn), 26 Iron (Fe), 27 Cobalt (Co), 28 Nickel (Ni), 39 Yyttrium (Y), 42 Molybdenum (Mo), 43 Technetium (Tc), 44 Ruthenium (Ru), 51 Antimony (Sb), 56 Barium (Ba), 63 Europium (Eu), 88 Radium (Ra), 90 Thorium (Th), 94 Plutonium (Pu)]
 
-* Modules
+|
+|"Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" updated
+|"Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" updated footnote:12[table 1 issue resolved, table 2 created, and figures 1-9 created]
+|
+|
+|"Glossary of Terms" updatedfootnote:11[IPC filter, megaton (MT), nanogram (ng), and spallation reaction added; dpm/kscm and electrical field strength (E/Q) corrected]
 
-- *Concept Module:* "Ozone, Radionuclide and Particulate Correlations in Air at Quillayute, Washington"
+|
+|
+|"Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" updatedfootnote:14[alt text for figures 5-8]
+|
+|
+|"Changelog" updated
 
-- *Concept Module:* "Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute"
+|===
 
-* References
+The following modules are WIP:
 
-- *Reference module:* "Ozone, Radionuclide and Particulate Correlations in Air at Quillayute, Washington" references
+. "Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska"
 
-- *Reference module:* "Ozone, Radionuclide and Particulate Correlations in Air at Quillayute, Washington" table 1
+.17-18 November 2025 - BNWL-2000 pp. iii, 2-11
 
-- *Reference module:* "Ozone, Radionuclide and Particulate Correlations in Air at Quillayute, Washington" figures 1-9
+[cols="1,1,1,1,1,1"]
 
-- *Reference module:* "Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" references
+|===
 
-- *Reference module:* "Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" tavle 1 & placeholder for table 2
+^.^h|*Assemblies*
+2+^.^h|*Modules*
+^.^h|*Images*
+^.^h|*PDFs*
+^.^h|*Structural References*
 
-- *Reference module:* "Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" figures 1-4 _alt text_
+^| ^|*Concepts* ^|*References* ^| ^| ^|
 
-- *Reference Module:* Changelog
+|"Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" created
+|"Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" created
+|"Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" createdfootnote:10[figures 1-9, table, and references 1-4]
+|"Ozone, Radionuclide and Particulate Correlations in Air at Quillayute, Washington" figures 1-9
+|
+|"Changelog" created
 
-- *Elements & Their Atomic Number:* Beryllium, Be, 4; Ce, Cerium, 58; Florine, FP, 9; Niobium, Nb, 41; O, Oxygen, 8; Pb, Lead, 82 (still unlinked)
+|"Ozone, Radionuclide and Particulate Correlations in Air at Quillayute, Washington" updated
+|"Ozone, Radionuclide and Particulate Correlations in Air at Quillayute, Washington" updated
+|"Ozone, Radionuclide and Particulate Correlations in Air at Quillayute, Washington" updatedfootnote:9[figures 1-2 and 5-9 (3-4 do not exist), tables 1-2, and references 1-5]
+|"Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" figures 1-2
+|
+|"Elements & Their Atomic Number"footnote87[4 Beryllium (Be), 8 Oxygen (O), 41 Niobium (Nb), 58 Cerium (Ce), 82 Lead (Pb)]
 
-- *Glossary:* anthropogenic, cosmogenic, decay per minute (DPM), diurnal, first order kinetics, geostrophic, inversion layer, KSCM compounds (KCSM), Lagrangian, Liquid Metal Breeder Reactor (LMBR), oceanographic (still unlinked)
+|"Pacific Northwest Laboratory Annual Report for 1975 to the Userda Division of Biomedical and Environmental Research Part 3 Atmospheric Sciences" created
+|
+|
+|basic diagram of the layers of the atmosphere
+|
+|"Glossary of Terms" updatedfootnote:7[anthropogenic, cosmogenic, decay per minute (DPM), diurnal, first order kinetics, geostrophic, inversion layer, dpm/kscm, Lagrangian, Liquid Metal Breeder Reactor (LMBR), oceanographic, tropopause]
 
-- *Names & Locations:* Liquid-Metal Fast-Breeder Reactor (LMFBR), National Ambient Air Quality Standard (NAAQS), Quillayute Air Reference Station
+|"Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" updated
+|
+|"Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" updatedfootnote:6[alt text for figures 1-4]
+|
+|
+|"Important Names & Locations" updatedfootnote:5[Liquid-Metal Fast-Breeder Reactor (LMFBR), National Ambient Air Quality Standard (NAAQS), Quillayute Air Reference Station]
+
+|"Transuranium Elements in the Atmosphere"
+|
+|
+|
+|
+|
+
+|===
+
+The following modules are WIP: 
+
+. "Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute"
 
 NOTE: Any changes in the "Elements & Their Atomic Number" reference modules apply to both version unless otherwise noted. There is absolutely no reason to list them separately.
 
-NOTE: Considering adding a separate figure that outlines the different layers of the earth from the ground up.
+.Creation of the Repository
 
-* Images
+[cols="1,1,1,1,1,1"]
 
-- "Ozone, Radionuclide and Particulate Correlations in Air at Quillayute, Washington" figures 1-9
+|===
 
-- "Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" figures 1-2 (unlinked)
+^.^h|*Assemblies*
+2+^.^h|*Modules*
+^.^h|*Images*
+^.^h|*PDFs*
+^.^h|*Structural References*
 
-- Basic atmosphere diagram
+^| ^|*Concepts* ^|*References* ^| ^| ^|
 
-.Inception
+|"Scientific reports from Hanford & the Pacific Northwest Laboratories in the Cold War"footnote:4[serves as the top layer assembly for all reports and papers]
+|
+|
+|
+|
+|Created repository, file structure
 
-* Created repository, file structure
+|"Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" created
+|"Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" created
+|"Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" created footnote:3[figures 1-8, references 1-3, and tables 1-3 created]
+|"Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" figures 1-8
+|"Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" uploaded
+|"Glossary of Terms" created
 
-* Assemblies
+|"Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data" created
+|"Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data" created
+|"Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data" createdfootnote:2[figures 1-7, tables 1-3 created]
+|"Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data" figures 1-7
+|"Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data" uploaded
+|"Elements & Their Atomic Number, Sorted by Atomic Number" created
 
-- "Scientific reports from Hanford & the Pacific Northwest Laboratories in the Cold War" which serves as the top layer assembly for all reports and papers
+|"Transuranium Elements in the Atmosphere" created
+|"Transuranium Elements in the Atmosphere" created
+|"Transuranium Elements in the Atmosphere" createdfootnote:1[figures 1-3 and tables 1-6 and 8 (table 7 does not exist) created]
+|"Transuranium Elements in the Atmosphere" figures 1-3
+|"Transuranium Elements in the Atmosphere" uploaded
+|"Elements & Their Atomic Number, Sorted by Element" created
 
-- "Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes"
+|===
 
-- "Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data"
+The following modules are WIP: 
 
-- "Transuranium Elements in the Atmosphere"
+* "Scientific reports from Hanford & the Pacific Northwest Laboratories in the Cold War"
 
-* Images
+The following modules are unlinked:
 
-- "Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" figures 1-8
+. "Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" Figures
 
-- "Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data" figures 1-7
+. "Glossary of Terms"
 
-- "Transuranium Elements in the Atmosphere" figures 1-3
+. "Elements & Their Atomic Number, Sorted by Atomic Number"
 
-* Modules
+. "Elements & Their Atomic Number, Sorted by Element"
 
-- *Concept module:* "Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes"
+. "Compound Names & Shorthand"
 
-- *Concept module:* "Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data"
+. "Important Names & Locations"
 
-- *Concept module:* "Transuranium Elements in the Atmosphere"
+. "About This Project"
 
-- *Reference module:* About this project (unlinked)
-
-- *Reference module:* Compound Names & Shorthand (unlinked)
-
-- *Reference module:* Elements & Their Atomic Number, Sorted by Atomic Number (unlinked)
-
-- *Reference module:* Elements & Their Atomic Number, Sorted by Element (unlinked)
-
-- *Reference module:* Glossary of Terms (unlinked)
-
-- *Reference module:* Important Names & Locations to Hanford (unlinked)
-
-- *Reference module:* "Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" Figures
-
-- *Reference module:* "Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" References
-
-- *Reference modules:* "Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" Tables 1-3
-
-- *Reference module:* "Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data" Figures
-
-- *Reference module:* "Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data" References
-
-- *Reference modules:* "Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data" Tables 1-3
-
-- *Reference module:* "Transuranium Elements in the Atmosphere" Figures
-
-- *Reference module:* "Transuranium Elements in the Atmosphere" Tables 1-8
-
-* PDFs
-
-- "Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" source text
-
-- "Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data" source text
-
-- "Transuranium Elements in the Atmosphere" source text
-
-NOTE: Images are uploaded as .png, modules and assemblies are uploaded as .adoc, and PDFs are uploaded as .pdf. (Sorry, I know you know.)
+NOTE: Images are uploaded as .png, modules and assemblies are uploaded as .adoc, and PDFs are uploaded as .pdf. (Sorry, I know you know.
 
 NOTE: "Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data" figures 8-11 remain to be added.

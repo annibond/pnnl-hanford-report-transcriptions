@@ -1,0 +1,51 @@
+.7 x 5 Grid Representing Isotopes in Figure 2
+
+[cols="1,1,1,1,1,1,1"]
+
+|===
+
+^|^7^Be
+^|^56^Fe
+^|^65^Zn
+^|^98^Tc*
+^|^125^Sb
+^|^144^Co
+^|^238^Pu
+
+^|^22^Na
+^|^57^Ce
+^|^68^Y
+^|^103^Ru
+^|^134^Cs
+^|^155^Eu
+^|^239^Pu
+
+^|^46^K
+^|^54^Co
+^|^90^Sr*
+^|^106^Ru
+^|^137^Cs
+^|^226^Ra
+^|^238^Pu/^239^Pu
+
+^|^46^Ce
+^|^90^Co
+^|^95^Zr • ^95^Nb + ^95^Zr
+^|^110m^Ag
+^|^140^Ba
+^|none shown
+^|^241^Pu*
+
+^|^54^Mn
+^|^63^Ni*
+^|^95^Nb
+^|^124^Sb
+^|^141^Ce
+^|^232^Th
+^|^241^Am*
+
+|===
+
+NOTE: Concentrations are in disintegrations per 1000 standard cubic meters (dpm/kscm).
+
+NOTE: _*_ denotes analysis still in progress.

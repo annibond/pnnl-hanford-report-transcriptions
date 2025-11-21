@@ -31,11 +31,14 @@
 |eddy energy
 |kinetic energy associated with the swirling, turbulent motions a fluid (e.g., ocean, air)
 
-|E/Q
-|electric field strength
+|electrical field strength (E/Q)
+|a physical field that surrounds electrically charged particles such as electrons
 
 |first order kinetics
 |reaction in which the rate is directly proportional to the concentration of a single reactant
+
+|fission
+|the process of splitting a heavy atomic nucleus, such as that of uranium or plutonium, into two or more smaller nuclei, releasing a large amount of energy
 
 |FP
 |f-factor in physics, a conversion between radiation exposure (roengens) to the absorbed dose (rads)
@@ -52,6 +55,9 @@
 |inversion layer
 |where a layer of warm air is situated above cooler air in the atmosphere
 
+|IPC filter
+|air filter made by IPC Eagle (a brand of Idrobase Group)
+
 |isoplething
 |plotting a map which connects points of equal value for a specific variable, specifically atmospheric dispersion in this case
 
@@ -65,7 +71,7 @@
 |measurement of time that descibes the neutron fluence (time-integrated flux), measured in moles
 
 |KSCM compounds (KSCM)
-|synthesized benzofuran compounds
+|synthesized benzofuran compounds, dpm/kscm = disentegrations per 1000 standard cubic meters (dpm/kscm)
 
 |Lagrangian
 |tracks the motion of individual particles, measuring their position, velocity, and acceleration overtime by following them through a fluid
@@ -73,14 +79,23 @@
 |Liquid Metal Breeder Reactor (LMBR)
 |nuclear reactor that uses a liquid metal (such as liquid sodium) as the primary coolant and is designed to "breed" more fissile material than it consumes
 
-|moles
-|measurement of the number of atoms, molecules, or ions; 1 mole = Avogadro's number = 6.022x10^23^
+|mass number
+|the mass number _A_ of an atom is the total number of protons and neutrons in a nucleus (_^A^element_)
+
+|megaton (MT)
+|one million tons
+
+|mole
+|measurement of the number of atoms, molecules or ions (1 mole = Avogadro's number, = 6.022x10^23^)
 
 |MWD
 |megawatt day exposure
 
 |neutron flux
 |Φ, measurement of intensity of neutron radiation
+
+|nanogram (ng)
+|1 billionth of a gram
 
 |oceanographic
 |the physical and biological properties and phenomena of the sea
@@ -103,11 +118,17 @@
 |Sf
 |spontaneous fission
 
+|spallation reaction
+|nuclear reaction where a heavy nucleus, struck by a high-energy particle, breaks apart and ejects many fragments, including neutrons, protons, and lighter nuclei
+
 |tracer
 |substances added into a system which can be used to track movement and behavior of physical, chemical, or biological processes
 
 |transuranic
 |has a higher atomic number than uranium (92)
+
+|tropopause
+|the boundary layer between the troposphere and the stratosphere, located at an altitude of roughly 8 km at the poles and 18 km at the equator
 
 |σ
 |lowercase sigma (Greek), standard deviation
