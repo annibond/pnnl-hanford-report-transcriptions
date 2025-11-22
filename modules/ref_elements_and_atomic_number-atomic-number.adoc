@@ -90,6 +90,10 @@
 ^|Ru
 ^|Ruthenium
 
+^|47
+^|Ag
+^|Silver
+
 ^|51
 ^|Sb
 ^|Antimony
@@ -97,6 +101,10 @@
 ^|53
 ^|I
 ^|Iodine
+
+^|54
+^|Xe
+^|Xenon
 
 ^|55
 ^|Cs
@@ -117,6 +125,10 @@
 ^|63
 ^|Eu
 ^|Europium
+
+^|75
+^|Re
+^|Rhenium
 
 ^|82
 ^|Pb

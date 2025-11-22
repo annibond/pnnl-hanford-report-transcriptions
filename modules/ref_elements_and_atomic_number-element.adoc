@@ -6,6 +6,10 @@
 
 ^|*Element* ^|*Element Name* ^|*Atomic Number*
 
+^|Ag
+^|Silver
+^|47
+
 ^|Am
 ^|Americium
 ^|95
@@ -122,6 +126,10 @@
 ^|Radium
 ^|88
 
+^|Re
+^|RheniumCo-144
+^|75
+
 ^|Ru
 ^|Ruthenium
 ^|44
@@ -149,6 +157,10 @@
 ^|U
 ^|Uranium
 ^|92
+
+^|Xe
+^|Xenon
+^|54
 
 ^|Y
 ^|Yyttrium
