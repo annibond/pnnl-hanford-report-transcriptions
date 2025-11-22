@@ -8,11 +8,11 @@ Charles L. Simpson, Manager | Staff of Atmospheric Sciences Program
 
 Richland, Washington 99352
 
-=== Notice
+== Notice
 
 This report was prepared as an account of work sponsored by the United States Government. Neither the United States nor the United States Energy Research and Development Administration, nor any of their employers, nor any of their contractors, subcontractors, or their employees, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness or usefulness of any information, apparatus, product or process disclosed, or represents that its use would not infringe privately owned rights.
 
-=== Printing Details
+== Printing Details
 
 Copy No. 3 3679 00059 2446 | BNWL-2000 PT 3 | UC-11
 
@@ -25,6 +25,7 @@ Springfield, Virgina 22151
 
 Price: Printed Copy $4.00; Microfiche $2.25
 
-include::../assemblies/assembly_ozone_radionucline_and_particulate_correlations.adoc[leveloffset=+2]
-include::../assemblies/assembly_lead_pb_concentrations_associated_with_1000_mb.adoc[leveloffset=+2]
-include::../assemblies/assembly_atmospheric_fallout_1975_richland_point_barrow.adoc[leveloffset=+2]
+include::../assemblies/assembly_ozone_radionucline_and_particulate_correlations.adoc[leveloffset=+3]
+include::../assemblies/assembly_lead_pb_concentrations_associated_with_1000_mb.adoc[leveloffset=+3]
+include::../assemblies/assembly_atmospheric_fallout_1975_richland_point_barrow.adoc[leveloffset=+3]
+include::../assemblies/assembly_concentrations_241_pu_and_99_tc.adoc[leveloffset=+3]

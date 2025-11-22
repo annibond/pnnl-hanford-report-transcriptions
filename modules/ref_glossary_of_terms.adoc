@@ -4,6 +4,12 @@
 |===
 ^|*Term* ^|*Definition*
 
+|alpha-emitter
+|higher energy, heavier particles with shorter range, more capable of killing or destroying a target
+
+|anion
+|negatively charged ion
+
 |assay
 |investigative procedure to measure a specific substance or compound
 
@@ -13,11 +19,26 @@
 |Avogadro's number
 |6.022x10^23^
 
+|beta decay
+|radioactive decay in which an unstable atomic nucleus transforms by emitting a beta particle, which is either an electron or a positron
+
+|beta-emitter
+|less intense, lighter particles with longer range, more capable of harming surrounding environment
+
+|burn-up
+|amount of nuclear fuel consumed in a reactor
+
+|cation
+|positively charged ion
+
 |CIE/Q
 |relevant data points include nucleus, nuclear energy, nuclear fission, nuclear fusion, and nuclear radiation
 
 |cosmogenic
 |produced by cosmic rays
+
+|counts per minute (cpm)
+|measurement of the rate of events detected by a radiation monitoring instrument, such as a Geiger counter
 
 |crosswind
 |wind blowing in a direction not parallel to a course
@@ -25,14 +46,23 @@
 |diurnal
 |daily
 
-|dpm
-|disintegrations per minute, a unit of measurement for radioactivity
+|disintegrations per minute (dpm)
+|a unit of measurement for radioactivity
+
+|disintegration ratio rate
+|the rate of disintegration and the ratio of the decayed portion to the total
 
 |eddy energy
 |kinetic energy associated with the swirling, turbulent motions a fluid (e.g., ocean, air)
 
 |electrical field strength (E/Q)
 |a physical field that surrounds electrically charged particles such as electrons
+
+|electrodeposition
+|electrochemical process that uses an electric current to deposit a thin layer of a material, such as metal, onto a substrate
+
+|environ
+|surrounding area or conditions that may be affected by radiation or nuclear processes
 
 |first order kinetics
 |reaction in which the rate is directly proportional to the concentration of a single reactant
@@ -43,17 +73,41 @@
 |FP
 |f-factor in physics, a conversion between radiation exposure (roengens) to the absorbed dose (rads)
 
+|fractionation
+|the process of separating a mixture of isotopes or radionuclides into individual components
+
+|fusion
+|the process of combining atomic nuclei to form a heavier nucleus, releasing a massive amount of energy
+
 |Geiger-Müller
 |portable instrument used to detect and measure ionizing radiation, also known as "Geiger counter"
 
 |geostrophic
 |the balance between the coriolis force and the horizontal pressure force in the atmosphere
 
+|half life (t 1/2)
+|time required for a quantity of a substance to reduce to half of its initial value through a process of exponential decay
+
+|heptasulfide
+|chemical compound containing seven sulfur atoms in each molecule
+
+|heptoxide
+|chemical compound containing seven oxygen atoms in each molecule
+
 |inert
 |unmoving, stopped
 
+|ingrowth emitter
+|a radioactive isotope that produces additional radioactive materials as it decays
+
+|insoluble
+|incapable of being dissolved by a substance
+
 |inversion layer
 |where a layer of warm air is situated above cooler air in the atmosphere
+
+|ionization
+|process where an atom loses or gains electrons, becoming a charged ion, typically as a result of interactions with high-energy nuclear radiation like alpha or beta particles
 
 |IPC filter
 |air filter made by IPC Eagle (a brand of Idrobase Group)
@@ -71,7 +125,7 @@
 |measurement of time that descibes the neutron fluence (time-integrated flux), measured in moles
 
 |KSCM compounds (KSCM)
-|synthesized benzofuran compounds, dpm/kscm = disentegrations per 1000 standard cubic meters (dpm/kscm)
+|synthesized benzofuran compounds, dpm/kscm = disintegrations per 1000 standard cubic meters (dpm/kscm)
 
 |Lagrangian
 |tracks the motion of individual particles, measuring their position, velocity, and acceleration overtime by following them through a fluid
@@ -79,29 +133,68 @@
 |Liquid Metal Breeder Reactor (LMBR)
 |nuclear reactor that uses a liquid metal (such as liquid sodium) as the primary coolant and is designed to "breed" more fissile material than it consumes
 
+|low background
+|experiments or detectors designed to have an extremely low level of background radiation to detect rare nuclear events
+
 |mass number
 |the mass number _A_ of an atom is the total number of protons and neutrons in a nucleus (_^A^element_)
 
 |megaton (MT)
 |one million tons
 
+|megawatt day exposure (mwd)
+|a unit of energy to measure fuel burn-up
+
 |mole
 |measurement of the number of atoms, molecules or ions (1 mole = Avogadro's number, = 6.022x10^23^)
 
-|MWD
-|megawatt day exposure
-
-|neutron flux
-|Φ, measurement of intensity of neutron radiation
+|most probable charge (Zp)
+|the most likely proton number of a fission fragment within an isobaric chain in nuclear fission
 
 |nanogram (ng)
 |1 billionth of a gram
 
+|neutron capture
+|nuclear reaction where a nucleus absorbs a neutron, resulting in a heavier nucleus or a new element
+
+|neutron flux
+|Φ, measurement of intensity of neutron radiation
+
+|nitric acid
+|corrosive, poisonous with strong oxidizing properties, made in a laboratory by distilling nitrates and sulfuric acid
+
+|nuclear reactor
+|a device that houses and controls a sustained nuclear chain reaction, most commonly through fission, to produce a steady and controllable release of energy
+
+|nuclide
+|isotope
+
 |oceanographic
 |the physical and biological properties and phenomena of the sea
 
+|perchclorate (ClO [.overline]#~4~#)
+|compounds containing the perchlorate anion
+
+|perrhenate (ReO [.overline]#~4~#)
+|compounds containing the perrhenate anion
+
 |plume
 |gas or aerosol released into the atmosphere at an approximately steady rate
+
+|production rate
+|number of specific nuclei, particles, or radioactive isotopes created per unit of time and per unit of volume
+
+|proportional counter
+|a gas-filled ionization detector in nuclear physics that measures the energy of ionizing radiation
+
+|radioactive decay
+|the process where an unstable atomic nucleus loses energy by emitting radiation
+
+|radioactive yield
+|percentage of a radioactive product's activity compared to the starting radioactivity, both decay-corrected to the same point in time
+
+|radiotoxicity
+|percentage of a radioactive product's activity compared to the starting radioactivity, both decay-corrected to the same point in time
 
 |radionuclides
 |unstable forms of chemical element that releases radiation
@@ -120,6 +213,12 @@
 
 |spallation reaction
 |nuclear reaction where a heavy nucleus, struck by a high-energy particle, breaks apart and ejects many fragments, including neutrons, protons, and lighter nuclei
+
+|substrate
+|base layer or material on which a nuclear target is prepared or deposited
+
+|tetraphenyl arsonium chloride
+|organoarsenic compound used as a reagent in organic synthesis and analytical chemistry
 
 |tracer
 |substances added into a system which can be used to track movement and behavior of physical, chemical, or biological processes

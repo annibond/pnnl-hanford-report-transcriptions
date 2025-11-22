@@ -1,4 +1,4 @@
-== Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes
+= Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes
 
 P. W. Nickola and G. H. Clark | January 1974 | BNWL_SA-5135 | Conf. 7409121-8
 

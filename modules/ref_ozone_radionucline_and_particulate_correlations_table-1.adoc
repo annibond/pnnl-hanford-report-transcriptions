@@ -1,9 +1,10 @@
 .Relative Abundance on Transuranium Elements Based on Ivy Mike and Estimated Atmospheric Injection
+
 [cols="1,1,1,1,1"]
 
 |===
 
-^|*Measurement Site* ^|*Median (ppb)* ^|*Upper Quartile (ppb)* ^|*Upper Declile (ppb)* ^|*Percent-age of days exceeding standard (80)*
+^| *Measurement Site* ^|*Median (ppb)* ^| *Upper Quartile (ppb)* ^| *Upper Declile (ppb)* ^| *Percent-age of days exceeding standard (80)*
 
 |Ancora, NJ
 >|74

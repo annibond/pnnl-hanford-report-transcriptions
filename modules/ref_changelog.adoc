@@ -1,5 +1,42 @@
 == Changelog
 
+.22 November 2025, BNWL-2000, pp. 20-25
+
+[cols="1,1,1,1,1,1"]
+
+|===
+
+^.^h|*Assemblies*
+2+^.^h|*Modules*
+^.^h|*Structural References*
+^.^h|*Images*
+^.^h|*PDFs*
+
+^| ^|*Concepts* ^|*References* ^| ^| ^|
+
+|"The Concentrations ^241^Pu and ^99^Tc in Surface Air at Richland, Washington"
+|"The Concentrations ^241^Pu and ^99^Tc in Surface Air at Richland, Washington"
+|
+|table troubleshooting
+|"The Concentrations ^241^Pu and ^99^Tc in Surface Air at Richland, Washington" figures 1-3
+|"Glossary of Terms" updatedfootnote:17[alpha-emitter, anion, beta decay, beta-emitter, cation, counts per minute (cpm), disintegration ratio rate, electrodeposition, environ, fractionation, fusion, half life, heptasulfide, heptoxide, insoluble, ionization, low background, megawatt day exposure (mwd), most probable charge (zp), nuclear reactor, neutron capture, nitric acid, perchclorate (ClO [.overline]#~4~#), perrhenate (ReO [.overline]#~4~#), precipitate, production rate, proportional counter, radioactive decay, radioactive yield, radiotoxicity, substrate, tetraphenyl arsonium chloride]
+
+|"Concentrates and Rempv"
+|
+|
+|
+|"Anion vs. Caton" diagram created
+|"Compounds" updatedfootnote:16[Fe(OH)~3~, Na~2~Co~3~, Na~2~O~2~]
+
+|"Pacific Northwest Laboratory Annual Report for 1975 to the USERDA Division of Biomedical and Environmental Research Part 3 Atmospheric Sciences"
+|
+|
+|
+|"Radioactive Decay" diagram created
+|"Elements & Their Atomic Numbers" updatedfootnote:15[47 Silver (Ag), 54 Xenon (Xe), 75 Rhenium (Re)]
+
+|===
+
 .19-21 November 2025 - BNWL-2000, pp. 11-19
 
 [cols="1,1,1,1,1,1"]
@@ -16,7 +53,7 @@
 
 |"Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska" created
 |"Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska" created
-|"Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska" createdfootnote:13[figures 1-3 created]
+|"Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska" createdfootnote:14[figures 1-3 created]
 |"Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska" figures 1-3
 |
 |"Elements & Their Atomic Number" updatedfootnote:13[9 Flourine (F), 11 Sodium (Na), 20 Calcium (Ca), 21 Scandium (Sc), 25 Manganese (Mn), 26 Iron (Fe), 27 Cobalt (Co), 28 Nickel (Ni), 39 Yyttrium (Y), 42 Molybdenum (Mo), 43 Technetium (Tc), 44 Ruthenium (Ru), 51 Antimony (Sb), 56 Barium (Ba), 63 Europium (Eu), 88 Radium (Ra), 90 Thorium (Th), 94 Plutonium (Pu)]

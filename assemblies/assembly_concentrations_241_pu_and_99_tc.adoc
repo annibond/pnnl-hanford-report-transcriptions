@@ -1,0 +1,13 @@
+= The Concentrations ^241^Pu and ^99^Tc in Surface Air at Richland, Washington
+
+C. W. Thomas
+
+Concentrations of ^241^Pu and ^99^Tc build up in nuclear wastes from power production reactors. Therefore, the concentrations of. ^241^Pu and ^99^Tc were measured in air samples collected at Richland, Washington in previous years to provide a baseline against which future concentrations can be compared. Plutonium-241 is of interest because it is a precursor to ^241^Am, which is as toxic via the human food chain as ^239-240^Pu. The reactions of Tc are similar to those of I in the human body; Tc, like I, is concentrated in the thyroid.
+
+include::../modules/con_concentrations_241_pu_and_99_tc.adoc[leveloffset=+2]
+
+== References
+
+=== Figures
+
+include::../modules/ref_concentrations_241_pu_and_99_tc_figures.adoc[leveloffset=+3]

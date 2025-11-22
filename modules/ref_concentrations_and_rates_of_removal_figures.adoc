@@ -3,5 +3,3 @@ image::../images/ref_concentrations_and_rates_of_removal_figure-1.png[A line gra
 
 .Surface Wind Speed and Direction
 image::../images/ref_concentrations_and_rates_of_removal_figure-2.png[A bar graph which displays the wind speed in mph, with the directions of the wind speed towards the top. The lines for wind direction illustrate the direction rather than use direction names or modifiers. The x axix = ???. It shows increments starting at 0 and ending at 31 that increase successively by integer integers. The y axis = miles per hour. It shows increments of (1) 0, (2) 10, (3) 20, (4) 30, (5) 40, and (6) 50.]
-
-.

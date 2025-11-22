@@ -6,8 +6,17 @@
 
 ^|*Compound* ^|*Compound Name*
 
-|KCi
+|Fe(OH)~3~
+|Ferric Hydroxide
+
+|kCi
 |Potassium Chloride
+
+|Na~2~Co~3~
+|Sodium Carbonate
+
+|Na~2~O~2~
+|Sodium Chloride
 
 |ZnS
 |Zinc Sulfide
