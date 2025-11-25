@@ -4,11 +4,23 @@
 |===
 ^|*Term* ^|*Definition*
 
+|acid
+|a substance that can donate a proton (H^+^), has a Ph < 7 on the pH scale
+
+|actinides
+|series of 15 heavy, radioactive metals on the periodic table of elements 89 - 103
+
+|alkaline earth metals
+|series of soft, reactive elements with two electrons in their outermost shell
+
 |alpha-emitter
 |higher energy, heavier particles with shorter range, more capable of killing or destroying a target
 
 |anion
 |negatively charged ion
+
+|aromatic hydrocarbon
+|an  organic compound containing hydrogen and carbon atoms, most commonly featuring a stable six-carbon ring structure called a benzene ring
 
 |assay
 |investigative procedure to measure a specific substance or compound
@@ -18,6 +30,9 @@
 
 |Avogadro's number
 |6.022x10^23^
+
+|base
+|a substance that can accept a proton (H^+^), has a Ph > 7 on the pH scale
 
 |beta decay
 |radioactive decay in which an unstable atomic nucleus transforms by emitting a beta particle, which is either an electron or a positron
@@ -34,6 +49,12 @@
 |CIE/Q
 |relevant data points include nucleus, nuclear energy, nuclear fission, nuclear fusion, and nuclear radiation
 
+|chromatography
+|a method of measurement that tracks the properties of a substance by analyzing how it interacts with radiation, using properties like light or the propertoes of ions
+
+|constituents
+|protons and neutrons that make up a nucleus
+
 |cosmogenic
 |produced by cosmic rays
 
@@ -42,6 +63,12 @@
 
 |crosswind
 |wind blowing in a direction not parallel to a course
+
+|dibenzothiophene
+|a tricyclic organic sulfur compound with the formula  C~12~H~8~S
+
+|diluent
+|inert liquid added to reduce the concentration of a substance
 
 |diurnal
 |daily
@@ -69,6 +96,9 @@
 
 |fission
 |the process of splitting a heavy atomic nucleus, such as that of uranium or plutonium, into two or more smaller nuclei, releasing a large amount of energy
+
+|flame ionization detector
+|a tool that uses a small hydrogen flame to detect and measure organic compounds in a gas sample
 
 |FP
 |f-factor in physics, a conversion between radiation exposure (roengens) to the absorbed dose (rads)
@@ -100,8 +130,14 @@
 |ingrowth emitter
 |a radioactive isotope that produces additional radioactive materials as it decays
 
+|impactor
+|an instrument used to sample and size-segregate airborne particles, including radioactive aerosols
+
 |insoluble
 |incapable of being dissolved by a substance
+
+|instrumental neutron activation analysis (INAA)
+|a non-destructive nuclear analytical technique used to determine the elemental composition of various materials at very low (trace) levels
 
 |inversion layer
 |where a layer of warm air is situated above cooler air in the atmosphere
@@ -130,6 +166,9 @@
 |Lagrangian
 |tracks the motion of individual particles, measuring their position, velocity, and acceleration overtime by following them through a fluid
 
+|lanthanides
+|series of 15 soft, silvery metals in the periodic table of elements 57-71
+
 |Liquid Metal Breeder Reactor (LMBR)
 |nuclear reactor that uses a liquid metal (such as liquid sodium) as the primary coolant and is designed to "breed" more fissile material than it consumes
 
@@ -139,11 +178,23 @@
 |mass number
 |the mass number _A_ of an atom is the total number of protons and neutrons in a nucleus (_^A^element_)
 
+|mass spectrometry (m/z)
+|analytical technique used to identify and quantify compounds by measuring the mass-to-charge ratio
+
 |megaton (MT)
 |one million tons
 
 |megawatt day exposure (mwd)
 |a unit of energy to measure fuel burn-up
+
+|metalloids
+|elements that exhibits some metal and some nonmetal properties
+
+|microgram (μg)
+|1 millionth of a gram
+
+|mineral residue
+|a geological deposit left behind after weathering or an accumulation of minerals in water
 
 |mole
 |measurement of the number of atoms, molecules or ions (1 mole = Avogadro's number, = 6.022x10^23^)
@@ -153,6 +204,9 @@
 
 |nanogram (ng)
 |1 billionth of a gram
+
+|naphtha
+|volatile, often flammable liquid hydrocarbon mixtures used chiefly as solvents and diluents
 
 |neutron capture
 |nuclear reaction where a nucleus absorbs a neutron, resulting in a heavier nucleus or a new element
@@ -166,6 +220,9 @@
 |nuclear reactor
 |a device that houses and controls a sustained nuclear chain reaction, most commonly through fission, to produce a steady and controllable release of energy
 
+|noble gases
+|stable gases which have a full outer shell of electrons
+
 |nuclide
 |isotope
 
@@ -178,14 +235,38 @@
 |perrhenate (ReO [.overline]#~4~#)
 |compounds containing the perrhenate anion
 
+|phenol
+|crystalline solid used to synthesize plastics and other materials
+
+|pilot plant
+|small-scale, pre-commercial facility used to test and refine the process for a future scale nuclear plant
+
 |plume
 |gas or aerosol released into the atmosphere at an approximately steady rate
+
+|polycyclic hydrocarbon
+|chemical made of only carbon and hydrogen that occur naturally in coal, crude oil, and gasoline
+
+|port injection
+|an engine fuel delivery method where fuel is sprayed into the intake port, just before the intake valve, to mix with air before it enters the combustion chamber
+
+|post-transition metals
+|soft metals which have lower melting points and are easier to shape
+
+|pounds per square inch (psi)
+|a measurement for the amount of pressure resulting from a force with a magnitude of one pound-force applied to an area of one square inch
+
+|process effluent water
+|the liquid waste or byproduct that is discharged from an industrial process or a wastewater treatment plant after pollutants have been removed
 
 |production rate
 |number of specific nuclei, particles, or radioactive isotopes created per unit of time and per unit of volume
 
 |proportional counter
 |a gas-filled ionization detector in nuclear physics that measures the energy of ionizing radiation
+
+|quinoline
+|oily liquid used as a solvent that occurs naturally in coal tar and as a product of burning organic material
 
 |radioactive decay
 |the process where an unstable atomic nucleus loses energy by emitting radiation
@@ -202,6 +283,9 @@
 |rads
 |unit of measurement for absorbed dose of ionizing radiation, corresponding to the absorbption of 0.01 Joule/kg
 
+|reactive nonmetals
+|elements that are very eager to gain electrons to form chemical bonds
+
 |roentgens
 |legacy (inactive) unit of measurement for x-rays and gamma rays
 
@@ -210,6 +294,9 @@
 
 |Sf
 |spontaneous fission
+
+|solvent
+|a substance used to dissolve other substances
 
 |spallation reaction
 |nuclear reaction where a heavy nucleus, struck by a high-energy particle, breaks apart and ejects many fragments, including neutrons, protons, and lighter nuclei
@@ -223,11 +310,17 @@
 |tracer
 |substances added into a system which can be used to track movement and behavior of physical, chemical, or biological processes
 
+|transition metals
+|harder metals which are good conductors and can more easily form colored, chemical compounds
+
 |transuranic
 |has a higher atomic number than uranium (92)
 
 |tropopause
 |the boundary layer between the troposphere and the stratosphere, located at an altitude of roughly 8 km at the poles and 18 km at the equator
+
+|x-ray fluorescence (XRF)
+|analytical technique that identifies the elemental composition of a material
 
 |σ
 |lowercase sigma (Greek), standard deviation
