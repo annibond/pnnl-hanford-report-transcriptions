@@ -1,0 +1,220 @@
+.Periodic Table of Elements
+
+[cols="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1"]
+
+|===
+
+^| {set:cellbgcolor:#CFE2F3} *1* H (Hydrogen)
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#EAD1DC} *10* He (Helium)
+
+^| {set:cellbgcolor:#D9EAD3} *3* Li (Lithium)
+^| {set:cellbgcolor:#F4CCCC} *4* Be (Beryllium)
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFF2CC} *5* B (Boron)
+^| {set:cellbgcolor:#CFE2F3} *6* C (Carbon)
+^| {set:cellbgcolor:#CFE2F3} *7* N (Nitrogen)
+^| {set:cellbgcolor:#CFE2F3} *8* O (Oxygen)
+^| {set:cellbgcolor:#CFE2F3} *9* F (Fluorine)
+^| {set:cellbgcolor:#EAD1DC} *18* Ne (Neon)
+
+^| {set:cellbgcolor:#D9EAD3} *11* Na (Sodium)
+^| {set:cellbgcolor:#F4CCCC} *12* Mg (Magnesium)
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#D9EAD3} *13* Al (Aluminum)
+^| {set:cellbgcolor:#FFF2CC} *14* Si (Silicone)
+^| {set:cellbgcolor:#CFE2F3} *15* P (Phosphorus)
+^| {set:cellbgcolor:#CFE2F3} *16* S (Sulfur)
+^| {set:cellbgcolor:#CFE2F3} *17* Cl (Chlorine)
+^| {set:cellbgcolor:#EAD1DC} *36* Ar (Argon)
+
+^| {set:cellbgcolor:#D9EAD3} *19* K (Potassium)
+^| {set:cellbgcolor:#F4CCCC} *20* Ca (Calcium)
+^| {set:cellbgcolor:#D9D2E9} *21* Sc (Scandium)
+^| {set:cellbgcolor:#D9D2E9} *22* Ti (Titanium)
+^| {set:cellbgcolor:#D9D2E9} *23* V (Vandium)
+^| {set:cellbgcolor:#D9D2E9} *24* Cr (Chromium)
+^| {set:cellbgcolor:#D9D2E9} *25* Ma (Magnanese)
+^| {set:cellbgcolor:#D9D2E9} *26* Fe (Iron)
+^| {set:cellbgcolor:#D9D2E9} *27* Co (Cobalt)
+^| {set:cellbgcolor:#D9D2E9} *28* Ni (Nickel) 
+^| {set:cellbgcolor:#D9D2E9} *29* Cu (Copper)
+^| {set:cellbgcolor:#D9D2E9} *30* Zn (Zinc)
+^| {set:cellbgcolor:#D9EAD3} *31* Ga (Gallium)
+^| {set:cellbgcolor:#FFF2CC} *32* Ge (Germanium)
+^| {set:cellbgcolor:#FFF2CC} *33* As (Arsenic)
+^| {set:cellbgcolor:#CFE2F3} *34* Se (Selenium)
+^| {set:cellbgcolor:#CFE2F3} *35* Br (Bromine)
+^| {set:cellbgcolor:#EAD1DC} *54* Kr (Krypton)
+
+^| {set:cellbgcolor:#D9EAD3} *37* Rb (Rubidium)
+^| {set:cellbgcolor:#F4CCCC} *38* Sr (Strontium)
+^| {set:cellbgcolor:#D9D2E9} *39* Y (Yttruim)
+^| {set:cellbgcolor:#D9D2E9} *40* Zr (Zirconium)
+^| {set:cellbgcolor:#D9D2E9} *41* Nb (Niobium)
+^| {set:cellbgcolor:#D9D2E9} *42* Mo (Molybdenum)
+^| {set:cellbgcolor:#D9D2E9} *43* Tc (Technetium)
+^| {set:cellbgcolor:#D9D2E9} *44* Ru (Ruthenium)
+^| {set:cellbgcolor:#D9D2E9} *45* Rh (Rhodium)
+^| {set:cellbgcolor:#D9D2E9} *46* Pd (Palladium)
+^| {set:cellbgcolor:#D9D2E9} *47* Ag (Silver)
+^| {set:cellbgcolor:#D9D2E9} *48* Cd (Cadmium)
+^| {set:cellbgcolor:#D9EAD3} *49* In (Indium)
+^| {set:cellbgcolor:#D9EAD3} *50* Sn (Tin)
+^| {set:cellbgcolor:#FFF2CC} *51* Sb (Antimony)
+^| {set:cellbgcolor:#FFF2CC} *52* Te (Tellurium)
+^| {set:cellbgcolor:#CFE2F3} *53* I (Iodine)
+^| {set:cellbgcolor:#EAD1DC} *86* Xe (Xenon)
+
+^| {set:cellbgcolor:#D9EAD3} *55* Cs (Caesium)
+^| {set:cellbgcolor:#F4CCCC} *56* Ba (Barium)
+^| {set:cellbgcolor:#FFF2CC} *57* La (Lanthanum)
+^| {set:cellbgcolor:#D9D2E9} *72* Hf (Hafnium)
+^| {set:cellbgcolor:#D9D2E9} *73* Ta (Tantalum)
+^| {set:cellbgcolor:#D9D2E9} *74* W (Tungsten)
+^| {set:cellbgcolor:#D9D2E9} *75* Re (Rhenium)
+^| {set:cellbgcolor:#D9D2E9} *76* Os (Osmium)
+^| {set:cellbgcolor:#D9D2E9} *77* Ir (Iridium)
+^| {set:cellbgcolor:#D9D2E9} *78* Pt (Platinum)
+^| {set:cellbgcolor:#D9D2E9} *79* Au (Gold)
+^| {set:cellbgcolor:#D9D2E9} *80* Hg (Mercury)
+^| {set:cellbgcolor:#D9EAD3} *81* Tl (Thallium)
+^| {set:cellbgcolor:#D9EAD3} *82* Pb (Lead)
+^| {set:cellbgcolor:#D9EAD3} *83* Bi (Bismuth)
+^| {set:cellbgcolor:#D9EAD3} *84* Po (Polonium)
+^| {set:cellbgcolor:#D9EAD3} *85* At (Astatine)
+^| {set:cellbgcolor:#EAD1DC} *86* Rn (Radon)
+
+^| {set:cellbgcolor:#D9EAD3} *87* Fr (Francium)
+^| {set:cellbgcolor:#F4CCCC} *88* Ra (Radium)
+^| {set:cellbgcolor:#D0E0E3} *89* Ac (Actinium)
+^| {set:cellbgcolor:#D9D2E9} *104* Rf (Rutherfordium)
+^| {set:cellbgcolor:#D9D2E9} *105* Db (Dubnium)
+^| {set:cellbgcolor:#D9D2E9} *106* Sg (Seborgium)
+^| {set:cellbgcolor:#D9D2E9} *107* Bh (Bohrium)
+^| {set:cellbgcolor:#D9D2E9} *108* Hs (Hassium)
+^| {set:cellbgcolor:#D9D9D9} *109* Mt (Meitnerium)
+^| {set:cellbgcolor:#D9D9D9} *110* Ds (Darmstadtium)
+^| {set:cellbgcolor:#D9D9D9} *111* Rg (Roentgenium)
+^| {set:cellbgcolor:#D9D9D9} *112* Cn (Copernicium)
+^| {set:cellbgcolor:#D9D9D9} *113* Nh (Nihonium)
+^| {set:cellbgcolor:#D9D9D9} *114* Fl (Flerovium)
+^| {set:cellbgcolor:#D9D9D9} *115* Mc (Moscovium)
+^| {set:cellbgcolor:#D9D9D9} *116* Lv (Livermorium)
+^| {set:cellbgcolor:#D9D9D9} *117* Ts (Tennessine)
+^| {set:cellbgcolor:#D9D9D9} *118* Og (Oganesson)
+
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#D0E0E3} *58* Ce (Cerium)
+^| {set:cellbgcolor:#D0E0E3} *59* Pr (Praseodymium)
+^| {set:cellbgcolor:#D0E0E3} *60* Nd (Neodymium)
+^| {set:cellbgcolor:#D0E0E3} *61* Pm (Promethium)
+^| {set:cellbgcolor:#D0E0E3} *62* Sm (Samarium)
+^| {set:cellbgcolor:#D0E0E3} *63* Eu (Europium)
+^| {set:cellbgcolor:#D0E0E3} *64* Gd (Gadolinium)
+^| {set:cellbgcolor:#D0E0E3} *65* Tb (Terbium)
+^| {set:cellbgcolor:#D0E0E3} *66* Dy (Dysprosium)
+^| {set:cellbgcolor:#D0E0E3} *67* Ho (Holmium)
+^| {set:cellbgcolor:#D0E0E3} *68* Er (Erbium)
+^| {set:cellbgcolor:#D0E0E3} *69* Tm (Thulium)
+^| {set:cellbgcolor:#D0E0E3} *70* Yb (Ytterbium)
+^| {set:cellbgcolor:#D0E0E3} *71* Lu (Lutetium)
+^| {set:cellbgcolor:#FFFFFF}
+
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FFFFFF}
+^| {set:cellbgcolor:#FCE5CD} *90* Th (Thorium)
+^| {set:cellbgcolor:#FCE5CD} *91* Pa (Protactinium)
+^| {set:cellbgcolor:#FCE5CD} *92* U (Uranium)
+^| {set:cellbgcolor:#FCE5CD} *93* Np (Neptunian)
+^| {set:cellbgcolor:#FCE5CD} *94* Pu (Plutonium)
+^| {set:cellbgcolor:#FCE5CD} *95* Am (Americium)
+^| {set:cellbgcolor:#FCE5CD} *96* Bk (Berkelium)
+^| {set:cellbgcolor:#FCE5CD} *97* Cm (Curium)
+^| {set:cellbgcolor:#FCE5CD} *98* Cs (Californium)
+^| {set:cellbgcolor:#FCE5CD} *99* Es (Einsteinium)
+^| {set:cellbgcolor:#FCE5CD} *100* Fm (Fermium)
+^| {set:cellbgcolor:#FCE5CD} *101* Md (Mendelevium)
+^| {set:cellbgcolor:#FCE5CD} *102* No (Nobelium)
+^| {set:cellbgcolor:#FCE5CD} *103* Lr (Lawrencium)
+^| {set:cellbgcolor:#FFFFFF}
+
+|===
+
+.Periodic Table of Elements Key
+
+[cols="1,1,1,1"]
+
+|===
+
+^| {set:cellbgcolor:#F4CCCC}alkaline earth metal
+^| {set:cellbgcolor:#EAD1DC}noble gas
+^| {set:cellbgcolor:#FCE5CD}actinide
+^| {set:cellbgcolor:#FFF2CC}metalloid
+
+^| {set:cellbgcolor:#D0E0E3}lathanide
+^| {set:cellbgcolor:#D9EAD3}post-transition metal
+^| {set:cellbgcolor:#CFE2F3}reactive nonmetal
+^| {set:cellbgcolor:#D9D2E9}transition metal
+
+^| {set:cellbgcolor:#D9D9D9}unknown chemical properties
+^| 
+^| 
+^| 
+
+|===

@@ -10,9 +10,17 @@
 ^|Silver
 ^|47
 
+^|Al
+^|Aluminum
+^|13
+
 ^|Am
 ^|Americium
 ^|95
+
+^|As
+^|Arsenic
+^|33
 
 ^|Ba
 ^|Barium
@@ -25,6 +33,10 @@
 ^|Bk
 ^|Berkelium
 ^|97
+
+^|Br
+^|Bromine
+^|35
 
 ^|Ca
 ^|Calcium
@@ -45,6 +57,10 @@
 ^|Co
 ^|Cobalt
 ^|27
+
+^|Cr
+^|Chromium
+^|24
 
 ^|Cs
 ^|Caesium
@@ -70,6 +86,14 @@
 ^|Fluorine
 ^|9
 
+^|Hf
+^|Hafnium
+^|72
+
+^|Hg
+^|Mercury
+^|80
+
 ^|I
 ^|Iodine
 ^|53
@@ -81,6 +105,10 @@
 ^|Kr
 ^|Krypton
 ^|36
+
+^|La
+^|Lanthanum
+^|57
 
 ^|Mn
 ^|Manganese
@@ -126,6 +154,10 @@
 ^|Radium
 ^|88
 
+^|Rb
+^|Rubidium
+^|37
+
 ^|Re
 ^|RheniumCo-144
 ^|75
@@ -142,9 +174,25 @@
 ^|Scandium
 ^|21
 
+^|Se
+^|Selenium
+^|34
+
+^|Sm
+^|Samarium
+^|62
+
 ^|Sr
 ^|Stronium
 ^|38
+
+^|Ta
+^|Tantalum
+^|73
+
+^|Tb
+^|Terbium
+^|65
 
 ^|Tc
 ^|Technetium
@@ -154,9 +202,17 @@
 ^|Thorium
 ^|90
 
+^|Ti
+^|Titanium
+^|22
+
 ^|U
 ^|Uranium
 ^|92
+
+^|V
+^|Vandium
+^|23
 
 ^|Xe
 ^|Xenon
@@ -173,5 +229,7 @@
 ^|Zr
 ^|Zirconium
 ^|40
+
+|===
 
 NOTE: A number raised up (superscript) on the *left* side of an isotope denotes the mass number (the number of protons and neutrons). For example, Beryllium with a mass number of 7 is written as ^7^Be. If there is no superscript, the isotope is stable and the number of protons and electrons are equal.

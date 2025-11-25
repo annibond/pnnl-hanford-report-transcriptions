@@ -1,0 +1,5 @@
+Three air monitoring sites were established near Colstrip in May 1975. The sites were situated to monitor airborne particulate material and gaseous emission from the power plant stacks. During the summer and fall of 1975 both  HiVol and Cascade impactor air particulate samples were collected. Vapor arsenic, mercury, and SO2 samples were also collected.
+
+The HiVol samples were analyzed for approximately 30 elements by instrumental neutron activation (INAA) and x-ray fluorescence (XRF). The elemental concentration ranges for airborne particulate matter are shown in Table 1. These levels are similar to those in other rural areas.
+
+During the summer SO2 levels were measured at the air monitoring sites. The SO2 levels range from less than the detection limit of 0.003 to 0.5 μg/m3.

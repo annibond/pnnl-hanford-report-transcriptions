@@ -4,9 +4,21 @@
 |===
 ^|*Name* ^|*Location* ^|*Purpose*
 
+|Atomic Energy Commission (AEC)
+|Germantown, MD
+|A former United States federal agency established after World War II in 1946 to manage the development of atomic sciences and techology, later merged with the United States Energy Research and Development Administration in 1975
+
 |Battelle Memorial Institute
 |Columbus, OH (primary)
 |nonprofit research and development organization that contributed to the Manhattan Project
+
+|Energy Research and Development Administration (ERDA)
+|Washington, D.C.
+|A former United States federal agency established from the split of the Atomic Energy Commission (AEC) 1975, later merged with the United States Department of Energy in 1977
+
+|Montana's Malmstrom Air Force Base
+|Colstrip, Mo
+|Location of multiple intercontinetal ballistic missle silos (ICBMs) and site of significant nuclear testing radioactive fallout
 
 |Green Glow Program
 |Richland, WA
@@ -41,6 +53,10 @@ https://www.youtube.com/watch?v=Plr7_SAuB6g[EPA, EPA, EPA!]
 |Quillayute Air Reference Station
 |Quillayute, WA
 |former military air station and current air sampling and monitoring station, named for the federally recognized Native American people, pronounced KWIL-yoot 
+
+|Solvent Refined Coal (SRC) Pilot Plant
+|Fort Lewis, WA
+|A pilot plant that operated from 1974-1981 by the Pittsburg and Midway Coal Mining Company, a temporary military installation to test the process of converting coal into a cleaner burning fuel
 
 |United States Department of Energy
 |Washington D.C.

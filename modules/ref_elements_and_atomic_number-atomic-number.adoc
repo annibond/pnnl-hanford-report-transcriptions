@@ -22,6 +22,10 @@
 ^|Na
 ^|Sodium
 
+^|13
+^|As
+^|Arsenic
+
 ^|17
 ^|Cl
 ^|Chloride
@@ -37,6 +41,18 @@
 ^|21
 ^|Sc
 ^|Scandium
+
+^|22
+^|Ti
+^|Titanium
+
+^|23
+^|V
+^|Vandium
+
+^|24
+^|Cr
+^|Chromium
 
 ^|25
 ^|Mn
@@ -58,9 +74,25 @@
 ^|Zn
 ^|Zinc
 
+^|33
+^|As
+^|Arsenic
+
+^|34
+^|Se
+^|Selenium
+
+^|35
+^|Br
+^|Bromine
+
 ^|36
 ^|Kr
 ^|Krypton
+
+^|37
+^|Rb
+^|Rubidium
 
 ^|38
 ^|Sr
@@ -114,6 +146,10 @@
 ^|Ba
 ^|Barium
 
+^|57
+^|La
+^|Lanthanum
+
 ^|58
 ^|Ce
 ^|Cerium
@@ -122,13 +158,33 @@
 ^|Nd
 ^|Neodymium
 
+^|62
+^|Sm
+^|Samarium
+
 ^|63
 ^|Eu
 ^|Europium
 
+^|65
+^|Tb
+^|Tantalum
+
+^|72
+^|Hf
+^|Hafnium
+
+^|73
+^|Ta
+^|Tantalum
+
 ^|75
 ^|Re
 ^|Rhenium
+
+^|80
+^|Hg
+^|Mercury
 
 ^|82
 ^|Pb

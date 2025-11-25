@@ -1,204 +1,31 @@
-== Changelog
+= Changelog
 
-.22 November 2025, BNWL-2000, pp. 20-25
+.23 November 2025 - 29 November 2025, BNWL-2000, pp. 25-26
 
-[cols="1,1,1,1,1,1"]
+* Created "Baseline Air Quality Data from Colstrip, Montana"
 
-|===
+* Reference Material
 
-^.^h|*Assemblies*
-2+^.^h|*Modules*
-^.^h|*Structural References*
-^.^h|*Images*
-^.^h|*PDFs*
+- Updated "Glossary of Terms", "Elements & Their Atomic Numbers", "Compounds"
 
-^| ^|*Concepts* ^|*References* ^| ^| ^|
+.16 November 2025 - 22 November 2025, BNWL-2000, pp. iii, 2-25
 
-|"The Concentrations ^241^Pu and ^99^Tc in Surface Air at Richland, Washington"
-|"The Concentrations ^241^Pu and ^99^Tc in Surface Air at Richland, Washington"
-|
-|table troubleshooting
-|"The Concentrations ^241^Pu and ^99^Tc in Surface Air at Richland, Washington" figures 1-3
-|"Glossary of Terms" updatedfootnote:17[alpha-emitter, anion, beta decay, beta-emitter, cation, counts per minute (cpm), disintegration ratio rate, electrodeposition, environ, fractionation, fusion, half life, heptasulfide, heptoxide, insoluble, ionization, low background, megawatt day exposure (mwd), most probable charge (zp), nuclear reactor, neutron capture, nitric acid, perchclorate (ClO [.overline]#~4~#), perrhenate (ReO [.overline]#~4~#), precipitate, production rate, proportional counter, radioactive decay, radioactive yield, radiotoxicity, substrate, tetraphenyl arsonium chloride]
+* Created new entries for additional reports under the "Pacific Northwest Laboratory Annual Report for 1975 to the USERDA Division of Biomedical and Environmental Research Part 3 Atmospheric Sciences"
 
-|"Concentrates and Rempv"
-|
-|
-|
-|"Anion vs. Caton" diagram created
-|"Compounds" updatedfootnote:16[Fe(OH)~3~, Na~2~Co~3~, Na~2~O~2~]
+- "The Concentrations ^241^Pu and ^99^Tc in Surface Air at Richland, Washington"
 
-|"Pacific Northwest Laboratory Annual Report for 1975 to the USERDA Division of Biomedical and Environmental Research Part 3 Atmospheric Sciences"
-|
-|
-|
-|"Radioactive Decay" diagram created
-|"Elements & Their Atomic Numbers" updatedfootnote:15[47 Silver (Ag), 54 Xenon (Xe), 75 Rhenium (Re)]
+- "Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska"
 
-|===
+- "Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute"
 
-.19-21 November 2025 - BNWL-2000, pp. 11-19
+* Created "Transuranium Elements in the Atmosphere"
 
-[cols="1,1,1,1,1,1"]
+* Reference material
 
-|===
+- Created new models explaining concepts in the glossary: radioactive decay, anions vs. cations, layers of the atmosphere
 
-^.^h|*Assemblies*
-2+^.^h|*Modules*
-^.^h|*Structural References*
-^.^h|*Images*
-^.^h|*PDFs*
-
-^| ^|*Concepts* ^|*References* ^| ^| ^|
-
-|"Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska" created
-|"Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska" created
-|"Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska" createdfootnote:14[figures 1-3 created]
-|"Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska" figures 1-3
-|
-|"Elements & Their Atomic Number" updatedfootnote:13[9 Flourine (F), 11 Sodium (Na), 20 Calcium (Ca), 21 Scandium (Sc), 25 Manganese (Mn), 26 Iron (Fe), 27 Cobalt (Co), 28 Nickel (Ni), 39 Yyttrium (Y), 42 Molybdenum (Mo), 43 Technetium (Tc), 44 Ruthenium (Ru), 51 Antimony (Sb), 56 Barium (Ba), 63 Europium (Eu), 88 Radium (Ra), 90 Thorium (Th), 94 Plutonium (Pu)]
-
-|
-|"Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" updated
-|"Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" updated footnote:12[table 1 issue resolved, table 2 created, and figures 1-9 created]
-|
-|
-|"Glossary of Terms" updatedfootnote:11[IPC filter, megaton (MT), nanogram (ng), and spallation reaction added; dpm/kscm and electrical field strength (E/Q) corrected]
-
-|
-|
-|"Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" updatedfootnote:14[alt text for figures 5-8]
-|
-|
-|"Changelog" updated
-
-|===
-
-The following modules are WIP:
-
-. "Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska"
-
-.17-18 November 2025 - BNWL-2000 pp. iii, 2-11
-
-[cols="1,1,1,1,1,1"]
-
-|===
-
-^.^h|*Assemblies*
-2+^.^h|*Modules*
-^.^h|*Images*
-^.^h|*PDFs*
-^.^h|*Structural References*
-
-^| ^|*Concepts* ^|*References* ^| ^| ^|
-
-|"Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" created
-|"Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" created
-|"Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" createdfootnote:10[figures 1-9, table, and references 1-4]
-|"Ozone, Radionuclide and Particulate Correlations in Air at Quillayute, Washington" figures 1-9
-|
-|"Changelog" created
-
-|"Ozone, Radionuclide and Particulate Correlations in Air at Quillayute, Washington" updated
-|"Ozone, Radionuclide and Particulate Correlations in Air at Quillayute, Washington" updated
-|"Ozone, Radionuclide and Particulate Correlations in Air at Quillayute, Washington" updatedfootnote:9[figures 1-2 and 5-9 (3-4 do not exist), tables 1-2, and references 1-5]
-|"Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" figures 1-2
-|
-|"Elements & Their Atomic Number"footnote87[4 Beryllium (Be), 8 Oxygen (O), 41 Niobium (Nb), 58 Cerium (Ce), 82 Lead (Pb)]
-
-|"Pacific Northwest Laboratory Annual Report for 1975 to the Userda Division of Biomedical and Environmental Research Part 3 Atmospheric Sciences" created
-|
-|
-|basic diagram of the layers of the atmosphere
-|
-|"Glossary of Terms" updatedfootnote:7[anthropogenic, cosmogenic, decay per minute (DPM), diurnal, first order kinetics, geostrophic, inversion layer, dpm/kscm, Lagrangian, Liquid Metal Breeder Reactor (LMBR), oceanographic, tropopause]
-
-|"Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" updated
-|
-|"Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" updatedfootnote:6[alt text for figures 1-4]
-|
-|
-|"Important Names & Locations" updatedfootnote:5[Liquid-Metal Fast-Breeder Reactor (LMFBR), National Ambient Air Quality Standard (NAAQS), Quillayute Air Reference Station]
-
-|"Transuranium Elements in the Atmosphere"
-|
-|
-|
-|
-|
-
-|===
-
-The following modules are WIP: 
-
-. "Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute"
+- Updated "Glossary of Terms", "Elements & Their Atomic Numbers", "Compounds", "Important Names & Locations"
 
 NOTE: Any changes in the "Elements & Their Atomic Number" reference modules apply to both version unless otherwise noted. There is absolutely no reason to list them separately.
 
-.Creation of the Repository
-
-[cols="1,1,1,1,1,1"]
-
-|===
-
-^.^h|*Assemblies*
-2+^.^h|*Modules*
-^.^h|*Images*
-^.^h|*PDFs*
-^.^h|*Structural References*
-
-^| ^|*Concepts* ^|*References* ^| ^| ^|
-
-|"Scientific reports from Hanford & the Pacific Northwest Laboratories in the Cold War"footnote:4[serves as the top layer assembly for all reports and papers]
-|
-|
-|
-|
-|Created repository, file structure
-
-|"Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" created
-|"Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" created
-|"Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" created footnote:3[figures 1-8, references 1-3, and tables 1-3 created]
-|"Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" figures 1-8
-|"Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes" uploaded
-|"Glossary of Terms" created
-
-|"Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data" created
-|"Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data" created
-|"Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data" createdfootnote:2[figures 1-7, tables 1-3 created]
-|"Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data" figures 1-7
-|"Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data" uploaded
-|"Elements & Their Atomic Number, Sorted by Atomic Number" created
-
-|"Transuranium Elements in the Atmosphere" created
-|"Transuranium Elements in the Atmosphere" created
-|"Transuranium Elements in the Atmosphere" createdfootnote:1[figures 1-3 and tables 1-6 and 8 (table 7 does not exist) created]
-|"Transuranium Elements in the Atmosphere" figures 1-3
-|"Transuranium Elements in the Atmosphere" uploaded
-|"Elements & Their Atomic Number, Sorted by Element" created
-
-|===
-
-The following modules are WIP: 
-
-* "Scientific reports from Hanford & the Pacific Northwest Laboratories in the Cold War"
-
-The following modules are unlinked:
-
-. "Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute" Figures
-
-. "Glossary of Terms"
-
-. "Elements & Their Atomic Number, Sorted by Atomic Number"
-
-. "Elements & Their Atomic Number, Sorted by Element"
-
-. "Compound Names & Shorthand"
-
-. "Important Names & Locations"
-
-. "About This Project"
-
-NOTE: Images are uploaded as .png, modules and assemblies are uploaded as .adoc, and PDFs are uploaded as .pdf. (Sorry, I know you know.
-
-NOTE: "Prediction of Environmental Exposures from Sources near the Ground on the Hanford Experimental Data" figures 8-11 remain to be added.
+NOTE: Named entries are assumed to include all assemblies, concepts, and reference material.
