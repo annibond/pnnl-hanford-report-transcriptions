@@ -1,0 +1,71 @@
+:stem: latexmath
+
+== Introduction
+
+Quantities obtained from the partial differentiation of components of tensors with respect to the coordinates are themselves the components of tensors, only under linear transformations of the coordinates. Thus, if new coordinates [.overline]#y#^i^ are obtained from a linear transformation of the Cartesians, y^i^, that is,
+
+.Equation 1
+[.big]#stem:[\bar{y}^i = a^i_j y^j]#
+
+with the [.big]#stem:[a^i_j]# constants and [.big]#stem:[α^i_j]#, the inverse of [.big]#stem:[a^i_j]#, then for a tensor whose components are [.big]#stem:[t^i_j]# in Cartesians,
+
+.Equation 2
+[.big]#stem:[\frac{\partial t_j^i}{\partial \bar{y}^k} = \frac{\partial}{\partial y^\ell} \left( a_\alpha^i a_j^\beta t_\beta^\alpha \right) \frac{\partial y^\ell}{\partial \bar{y}^k}]#
+
+which demonstrates the tensorial nature of the derivative.
+
+.Equation 3
+[.big]#stem:[\frac{\partial \bar{t}_j^i}{\partial \bar{y}^k} = a_\alpha^i a_j^\beta a_k^\gamma \frac{\partial t_\beta^\alpha}{\partial y^\gamma}]#
+
+It can be rather complicated to develop a generalization for partial differentiation (that is, to the concept of covariant differentiation) for a general functional coordinate transformation, say of the form
+
+.Equation 4
+[.big]#stem:[x^i = x^i (y^i, y^2, y^3)]#
+
+where x^i^ are general curvilinear coordinates and y^i^ are Cartesian coordinates. Thus McConnelfootnote:1[A. J. McConnel, Applications of Tensor Analysis, Dover Publications, Inc., New York, 1975.] introduced the concept of a parallel vector field and had to extend the quotient theorem; Blockfootnote:2[H. D. Block, Tensor Analysis, Merril Books, Inc. Columbus, Ohio, 1962.] introduced basis vectors and their derivatives; and Einsteinfootnote:3[A. Einstein, “The Foundations of the General Theory of Relativity,” translated from Annalen der Physik, 49, 1916 in The Principles of Relativity, H. A. Lorentz et al. Dover Publications Inc., New York, 1923.] used the invariance of the derivative of a scalar with respect to an arc length, a method which appeared simple but only because he had previously developed the equation for a geodesic. This note demonstrates a simple method requiring the introduction of no new concepts.
+
+== The Method
+
+The proposed method is best described by applying it to a simple case. Let V1 and vi be the contravariant components of a vector [.big]#stem:[\vec{v}]# in Cartesian and the curvilinear coordinates, respectively. Then, with (4),
+
+.Equation 5
+[.big]#stem:[V^i = \frac{\partial y^i}{\partial x^k} V^k]#
+
+What is desired is a derivative that reduces to partial differentiation in Cartesians. Then from (5)
+
+.Equation 6
+[.big]#stem:[\frac{\partial V^i}{\partial y^j} = \frac{\partial}{\partial x^\ell} \left( \frac{\partial y^i}{\partial x^k} V^k \right) \frac{\partial x^\ell}{\partial y^j}]#
+
+Expanding (6) and multiplying [.big]#∂y^i^ / ∂x^m^# (and summing on j) gives
+
+.Equation 7
+[.big]#stem:[\frac{\partial y^j}{\partial x^m} \frac{\partial V^i}{\partial y^j} = \frac{\partial y^i}{\partial x^k} \frac{\partial V^k}{\partial x^m} + V^k \frac{\partial^2 y^i}{\partial x^m \partial x^k}]#
+
+Multiplying (7) by [.big]#∂x^n^/∂y^i^# then gives
+
+.Equation 8
+[.big]#stem:[\frac{\partial x^n}{\partial y^i} \frac{\partial y^j}{\partial x^m} \frac{\partial V^i}{\partial y^j} = \frac{\partial V^n}{\partial x^m} + V^k \frac{\partial^2 y^i}{\partial x^m \partial x^k} \frac{\partial x^n}{\partial y^i}]#
+
+But, from the definition of the metric tensor
+
+.Equation 9
+[.big]#stem:[g_{\alpha\beta} = \frac{\partial y^i}{\partial x^\alpha} \frac{\partial y^i}{\partial x^\beta}]#
+
+and its inverse [.big]#g~αβ~#, we have
+
+.Equation 10
+[.big]#stem:[g^{\beta\gamma} g_{\alpha\beta} = \delta^\gamma_\alpha = g^{\beta\gamma} \frac{\partial y^i}{\partial x^\alpha} \frac{\partial y^i}{\partial x^\beta}]#
+
+Therefore, multiplying (10) by ∂xα/∂yi, we see that the last term in (8) can be changed to
+
+.Equation 11
+[.big]#stem:[V^k g^{\beta n} \frac{\partial^2 y^i}{\partial x^m \partial x^k} \frac{\partial y^i}{\partial x^\beta} = V^k \left\{ \begin{matrix} n \\ mk \end{matrix} \right\}]#
+
+which defines the Christoffel symbol of the second kind. This (8) becomes
+
+.Equation 12
+[.big]#stem:[V^n_{\phantom{n},m} = \frac{\partial V^n}{\partial x^m} + V^k \left\{ \begin{matrix} n \\ mk \end{matrix} \right\} = \frac{\partial x^n}{\partial y^i} \frac{\partial y^j}{\partial x^m} \frac{\partial V^i}{\partial y^j}]#
+
+which is the desired generalization from partial differentiation to the covariant derivative, [.big]#v^n^,~m~#. Obviously [.big]#v^n^,~m~# are the mixed components of a second order tensor since the transformation rule is correct.
+
+Application of this method to higher order tensors follows similarly. It is hoped that the method shown here is of some benefit in the study of tensors.

@@ -1,0 +1,19 @@
+= Atmospheric Surveys
+
+Surveys are being made of effluents released into the atmosphere, within the source areas, to distances covering several states, and on hemispheric scales. Through these efforts, the Atmospheric Sciences and Radiological Sciences Departments are identifying the most urgent air pollution problems and continually reassessing them to set priorities for more detailed investigations.
+
+Fallout measurements and evaluations are continuing with the essential identification and study of worldwide nuclear test debris, nuclear power effluents appearing in the atmosphere, and the transfer of these worldwide distributions to the surface. New Survey efforts are measuring the ambient distributions of pollutants from fossil fuel facilities. Measurements are being made describing the wide variety of pollutants introduced into the atmosphere from individual coal facility sources; measurements of pollutant characteristics from urban complexes are defining their physical and chemical characteristics as they are transported large distances. Reference levels of pollutants in air entering a given region are also being defined. The emphasis in ongoing reference measurements on the coast of Washington State will assure future comprehensive coverage of nonnuclear pollutants in addition to the continuing nuclear contaminant evaluations.
+
+* Survey of ambient airborne pollutants
+
+* Radioactive fallout rates and mechanisms
+
+* Coal conversion atmospheric chemistry
+
+include::../assemblies/assembly_ozone_radionucline_and_particulate_correlations.adoc[leveloffset=+2]
+include::../assemblies/assembly_lead_pb_concentrations_associated_with_1000_mb.adoc[leveloffset=+2]
+include::../assemblies/assembly_atmospheric_fallout_1975_richland_point_barrow.adoc[leveloffset=+2]
+include::../assemblies/assembly_concentrations_241_pu_and_99_tc.adoc[leveloffset=+2]
+include::../assemblies/assembly_solvent_refined_coal_organic_constituents_present.adoc[leveloffset=+2]
+include::../assemblies/assembly_baseline_air_quality_colstrip_montana.adoc[leveloffset=+32]
+include::../assemblies/assembly_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast.adoc[leveloffset=+2]

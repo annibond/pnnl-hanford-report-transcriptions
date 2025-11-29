@@ -4,10 +4,10 @@ E. A. Crecelius, J. C. Laul, L. A. Rancitelli, and R. L. McKeever
 
 Colstrip, located in the range land of eastern Montana, is the site of a coal-fired power plant complex. Unit 1 (350 MW) will begin generating power in late 1975. Concern over the possible environmental impact caused by these power plants led to a study of the air quality before the first plant became operational. As expected the air quality was very good. The air quality will continue to be monitored while Unit 1 is operating.
 
-include::../modules/con_baseline_air_quality_colstrip_montana.adoc[leveloffset=+4]
+include::../modules/con_baseline_air_quality_colstrip_montana.adoc[leveloffset=+2]
 
 == References
 
 === Tables
 
-include::../modules/ref_baseline_air_quality_colstrip_montana_table-1.adoc[leveloffset=+5]
+include::../modules/ref_baseline_air_quality_colstrip_montana_table-1.adoc[leveloffset=+3]

@@ -1,0 +1,141 @@
+.Concentration Ratios Which Differ by More than an Order of Magnitude Between Pairs of Cities
+
+[cols="1,1,1,1,1,1,1,1,1,1,1"]
+
+|===
+
+^| ^|*Indianpolis* ^|*Columbus* ^|*Pittsburgh* ^|*Buffalo* ^|*Rochester* ^|*Allentown-Bethlehem* ^|*Philadelphia* ^|*Baltimore* ^|*Washington D.C.* ^|*New York City*
+
+^|*St. Louis*
+^|Zn/Sb, As/Se, Br/Se, Sb/Se, Pb/Se
+^|S/Cl, Cl/As, Cl/Sb*, Cl/Pb, Zn/V, Zn/As, Zn/Sb, Pb/Sb
+^|Cl/As, Zn/As, Sb/Se
+^|Na/V, S/Na, S/Zn, S/Se, Cl/V, Zn/V
+^|V/Se, Zn/V, Zn/As, Zn/Sb, As/Se, Br/Se, Sb/Se
+^|
+^|Zn/As, Zn/Sb, As/Se, Sb/Se, Pb/Cl
+^|Zn/V
+^|V/Se, Zn/V, Zn, As
+^|Na/V, Cl/V, Cl/Sb*, V/Se, Zn/V, Zn/Sb, As/Se, Br/Se, Sb/Se
+
+^|
+^|*Indianapolis*
+^|Cl/S, Cl/V, Cl/As, Cl/Sb*, Cl/Pb, Br/Se, Pb/Se, Pb/Sb
+^|Na/Se, Cl/As, Cl/Se, Sb/Se, Na/Mo, Cl/Mo
+^|Na/S, Na/V, Na/Zn, Na/Se
+^|
+^|Na/Zn, Na/Se, S/Zn, Zn/Sb
+^|S/Se
+^|Pb/Se
+^|
+^|Na/V, Na/Se, Cl/V, Cl/Sb*, As/Se, Cl/Mo 
+
+^|
+^|
+^|*Columbus*
+^|Cl/Sb, Sb/Se
+^|Na/V, Na/Zn, S/Na, Cl/Sb, V/Se, V/Sb, Pb/Se, Pb/Sb
+^|S/Cl, Cl/V, Cl/As, V/Se, Br/Se, Pb/Cl, Pb/Se
+^|Na/Zn, S/Zn, Cl/S, Cl/As,Cl/Se*, Cl/Sb, Cl/Pb, Zn/As, Zn/Sb, Pb/Sb
+^|S/Cl, S/Se, Cl/V, Cl/Sb
+^|Cl/S, Cl/V, Cl/As, Cl/Sb, Cl/Pb
+^|V/Sb, V/Sb
+^|Na/V, Cl/V, Cl/Se, V/Se, V/Sb, As/Se, Pb/Se
+
+^|
+^|
+^|
+^|*Pittsburgh*
+^|Na/V, S/Na, S/Se, V/Se, Sb/Se
+^|Na/Se, Cl/Se, V/Se
+^|Cl/As, Zn/As, Sb/Se
+^|Na/Se
+^|Cl/Pb, Sb/Se
+^|Na/Zn, Na/Se, S/Na, V/Se, Sb/Se
+^|V/Se, As/Se, As/V, V/Mo, Sb/Mo
+
+^|
+^|
+^|
+^|
+^|*Buffalo*
+^|Na/V, Na/Zn, Na/Se, S/Na
+^|S/Na, S/Zn, S/Se, Cl/S, Zn/V
+^|Na/V, Na/Zn, NaSe, S/Na*, S/So*, As/V
+^|Na/V, S/Na, S/Cl, S/Se
+^|Na/V, Na/Zn, Na/Se, S/Na*
+^|Cl/Sb*, As/Se
+
+^|
+^|
+^|
+^|
+^|
+^|*Rochester*
+^|Na/Zn, Na/Se, Zn/As, Zn/Sb, Br/Se, Sb/Se
+^|S/Se
+^|Sb/Se
+^|V/Sb
+^|Na/V, Na/Se, S/Na
+
+^|
+^|
+^|
+^|
+^|
+^|
+^|*Allentown-Bethlehem*
+^|Zn/As, Zn/Sb
+^|Na/Zn
+^|Zn/As, Zn/V, Zn/Se
+^|Cl/S, Cl/V, Cl/Sb, Zn/Sb, As/Se, Sb/Se, Zn/V 
+
+^|
+^|
+^|
+^|
+^|
+^|
+^|
+^|*Philadelphia*
+^|S/Se
+^|S/Se, V/Sb
+^|Na/V, Na/Zn, S/Na, S/Se, Cl/V, As/V
+
+^|
+^|
+^|
+^|
+^|
+^|
+^|
+^|
+^|*Baltimore*
+^|Na/Se
+^|Cl/S, Cl/Sb*, Cl/Pb, As/Se, Sb/Se
+
+^|
+^|
+^|
+^|
+^|
+^|
+^|
+^|
+^|
+^|*Washington D.C.*
+^|Na/Se
+
+^|
+^|
+^|
+^|
+^|
+^|
+^|
+^|
+^|
+^|
+^|*New York City*
+
+|===

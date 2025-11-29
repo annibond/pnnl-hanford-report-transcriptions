@@ -10,6 +10,9 @@
 |actinides
 |series of 15 heavy, radioactive metals on the periodic table of elements 89 - 103
 
+|Aitken nuclei
+|extremely small particles in the atmosphere, typically 0.001 to 0.1 micrometers in diameter, which can serve as nuclei for condensation of water vapor
+
 |alkaline earth metals
 |series of soft, reactive elements with two electrons in their outermost shell
 
@@ -49,11 +52,17 @@
 |CIE/Q
 |relevant data points include nucleus, nuclear energy, nuclear fission, nuclear fusion, and nuclear radiation
 
+|causation
+|two things that are connected in which one of the variables is the specific cause of the other
+
 |chromatography
 |a method of measurement that tracks the properties of a substance by analyzing how it interacts with radiation, using properties like light or the propertoes of ions
 
 |constituents
 |protons and neutrons that make up a nucleus
+
+|correlation
+|two things that are connected in which one of the variables depends on the other
 
 |cosmogenic
 |produced by cosmic rays
@@ -63,6 +72,9 @@
 
 |crosswind
 |wind blowing in a direction not parallel to a course
+
+|crustal
+|originated in the earth's crust
 
 |dibenzothiophene
 |a tricyclic organic sulfur compound with the formula  C~12~H~8~S
@@ -78,6 +90,9 @@
 
 |disintegration ratio rate
 |the rate of disintegration and the ratio of the decayed portion to the total
+
+|downwind
+|something or somewhere positioned in the direction of the wind
 
 |eddy energy
 |kinetic energy associated with the swirling, turbulent motions a fluid (e.g., ocean, air)
@@ -108,6 +123,9 @@
 
 |fusion
 |the process of combining atomic nuclei to form a heavier nucleus, releasing a massive amount of energy
+
+|General Electric Aitken nucleus counter
+|device that measures the concentration of airborne particles, produced by general electric
 
 |Geiger-Müller
 |portable instrument used to detect and measure ionizing radiation, also known as "Geiger counter"
@@ -295,6 +313,9 @@
 |Sf
 |spontaneous fission
 
+|Sinex SO~2~ monitor
+|device used to measure the concentration of sulfur dioxide in the air
+
 |solvent
 |a substance used to dissolve other substances
 
@@ -318,6 +339,12 @@
 
 |tropopause
 |the boundary layer between the troposphere and the stratosphere, located at an altitude of roughly 8 km at the poles and 18 km at the equator
+
+|upwind
+|somethingor somewhere positioned against the direction of the wind
+
+|velocity
+|the rate at which an object's position changes and includes both magnitude (speed) and direction
 
 |x-ray fluorescence (XRF)
 |analytical technique that identifies the elemental composition of a material
