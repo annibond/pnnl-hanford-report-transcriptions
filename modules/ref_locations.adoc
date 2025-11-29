@@ -16,9 +16,17 @@
 ^|Richland, WA
 |site for nuclear testing research and plutonium production during World War II and the Cold War, part of the Manhattan Project
 
+|Institute of Electrical and Electronics Engineers (IEEE)
+|New York, NY & Poscataway, NJ
+|An American professional organization for electrical engineering, electronics engineering, and related disciplines that connects over 450,000 engineers and other STEM professionals for  technological advancements that benefit humanity.    
+
 ^|Manhattan Project
 ^|United States, United Kingdom, Canada
 |research and development program undertaken during World War II to produce nuclear weapons on the side of the Allies, directed by United States Major General Leslie Groves
+
+|Metromex Program
+|St. Louis, MO
+|A multiagency research program organized around studying the effects of a large urban area on the weather specifically focusing on the St. Louis metro area between 1971 - 1976
 
 ^|Pacific Northwest Laboratories
 ^|Richland, WA
