@@ -4,17 +4,17 @@ J. A. Young, N. S. Laulainen, L. L. Wendell and T. M. Tanner
 
 The atmospheric concentrations of trace elements have been measured downwind of 11 cities in the northeastern quarter of the United States, to determine whether the concentration ratios of the trace elements are sufficiently unique for different cities that the plume of each city can be identified from the concentration ratios. It was found that the ratios of anthropogenic element concentration generally varied the most from city to city. Between any two cities there were generally several concentration rations which differed by more than an order of magnitude; so, it appears that the concentration ratios can be used to distinguish the plumes of different cities. Concentrations with time of the concentration ratios are much smaller than the differences between different cities.
 
-include::../modules/con_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast.adoc[leveloffset=+2]
+include::../modules/con_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast.adoc[leveloffset=+3]
 
-== Appendixes
+== Appendices
 
 === References
 
-include::../modules/ref_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast_references.adoc[leveloffset=+3]
+include::../modules/ref_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast_references.adoc[leveloffset=+4]
 
 === Tables
 
-include::../modules/ref_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast_table-1.adoc[leveloffset=+3]
-include::../modules/ref_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast_table-2.adoc[leveloffset=+3]
-include::../modules/ref_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast_table-3.adoc[leveloffset=+3]
-include::../modules/ref_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast_table-4.adoc[leveloffset=+3]
+include::../modules/ref_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast_table-1.adoc[leveloffset=+4]
+include::../modules/ref_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast_table-2.adoc[leveloffset=+4]
+include::../modules/ref_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast_table-3.adoc[leveloffset=+4]
+include::../modules/ref_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast_table-4.adoc[leveloffset=+4]

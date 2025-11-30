@@ -15,5 +15,5 @@ include::../assemblies/assembly_lead_pb_concentrations_associated_with_1000_mb.a
 include::../assemblies/assembly_atmospheric_fallout_1975_richland_point_barrow.adoc[leveloffset=+2]
 include::../assemblies/assembly_concentrations_241_pu_and_99_tc.adoc[leveloffset=+2]
 include::../assemblies/assembly_solvent_refined_coal_organic_constituents_present.adoc[leveloffset=+2]
-include::../assemblies/assembly_baseline_air_quality_colstrip_montana.adoc[leveloffset=+32]
+include::../assemblies/assembly_baseline_air_quality_colstrip_montana.adoc[leveloffset=+2]
 include::../assemblies/assembly_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast.adoc[leveloffset=+2]

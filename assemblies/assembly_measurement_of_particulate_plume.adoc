@@ -6,7 +6,7 @@ NOTE: G. H. Clark is an Australian AEC representative of temporary assignment at
 
 include::../modules/con_measurement_of_particulate_plume.adoc[leveloffset=+2]
 
-== Appendixes
+== Appendices
 
 === References
 

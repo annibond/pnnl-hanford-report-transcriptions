@@ -1,0 +1,127 @@
+:stem: latexmath
+
+== Introduction
+
+In a recent series of tests, Nickola and Clark compared the vertical concentrations of two tracers released simultaneously on the Hanford diffusion grid. The tracers were the inert gas, ^85^Kr, and a particulate tracer, ZnS. The objective of the rest was to compare the two profiles, for nondepositing Kr and for the depositing particles, and thereby gain information about the deposition flux of the particles. So far, only preliminary results are available; these are illustrated with a figure from Nickola and Clark’sfootnote:1[P. W. Nickola and G. H. Clark, “Measurements of Particulate Plume Deletion by Comparison with Inert Gas Plumes,” PNL Annual Report for 1973 to the USAEC DBER, Part 3, Atmospheric Sciences, BNWL-1850, PT3 Battelle, Pacific Northwest Laboratories, Richland, WA, pp. 49-60, 1974.] paper, shown here as *Figure 1*. It is hoped that funding will permit future tests to be undertaken in this most informative test series. This note qualitatively compares these experimental results against simple theoretical predictions.
+
+== Simplified Theory
+
+As a first attempt to model the test mathematically, we assume that either contaminants’ air concentration, χ, is governed by
+
+.Equation 1
+[latexmath]
+++++
+\big [\bar{u} \frac{\partial \chi}{\partial x} = K_y \frac{\partial^2 \chi}{\partial y^2} + K_z \frac{\partial^2 \chi}{\partial z^2} + v_s \frac{\partial \chi}{\partial z}]
+++++
+
+with the diffusitivities treated as constants and where v~s~~ is the pollutants’ gravitational settling speed (assumed to be zero for Kr since even if its initial temperature was substantially different from the air temperature at the release height, the quantity released was so small that buoyancy effects would be expected to be negligible). To (1) is added the boundary condition at the ground
+
+.Equation 2
+[latexmath]
+++++
+\big [ K_z \frac{\partial \chi}{\partial z} + v_s \chi \big ]_{z=0} = v_d \chi \Big|_{z=0}
+++++
+
+where vd is Calder’s deposition velocityfootnote:2[K. L. Calder, “Atmospheric Diffusion of Particulate Matter, Considered as a Boundary Value Problem,”Journal of Applied Meteorology, vol 18, pp. 413-416, 1961.], expected to be zero for Kr. In later modeling attempts, z-dependencies of the diffusitivities and other boundary conditions should be considered. The assumption of x-independent diffusivities and negligible wind shear effects on diffusion should be acceptable at sufficiently short downwind distances. The initial condition for the problem is taken as χ (x = o, y, z) = (Q/u) ở (y) ở (z - h).
+
+A solution to (1) and (2) can be found perhaps most easily in the following manner. Let
+
+.Equation 3
+[latexmath]
+++++
+\big [\chi (x, y, z) = \psi (x, z) Y (y, z)]
+++++
+
+then the solution to
+
+.Equation 4
+[latexmath]
+++++
+\big [V^k g^{\beta n} \frac{\partial^2 y^i}{\partial x^m \partial x^k} \frac{\partial y^i}{\partial x^\beta} = V^k \left\{ \begin{matrix} n \\ mk \end{matrix} \right\}]
+++++
+
+subject to [.big]#Y (o, y) = (Q/u) ở (y)# and vanishingly small concentrations and fluxes at [.big]#y = [.underline]#+## ∞ is found to be
+
+.Equation 5
+[latexmath]
+++++
+\big [\bar{u} \frac{\partial Y}{\partial x} = K_y \frac{\partial^2 Y}{\partial y^2}]
+++++
+
+The remaining problem is to solve
+
+.Equation 6
+[latexmath]
+++++
+\big [\bar{u} \frac{\partial \psi}{\partial x} = K_z \frac{\partial^2 \psi}{\partial z^2} + v_s \frac{\partial \psi}{\partial z}]
+++++
+
+subject to
+
+.Equation 7
+[latexmath]
+++++
+\big [\psi (0, z) = \delta (z - h)]
+++++
+
+and
+
+.Equation 8
+[latexmath]
+++++
+\big [\left[ K_z \frac{\partial \psi}{\partial z} + v_s \psi \right]_{z=0} = v_d \psi |_{z=0}]
+++++
+
+and
+
+.Equation 9
+[latexmath]
+++++
+\big [\psi (x, z) = \Omega (x, z) \exp \left\{ - \frac{v_s}{2 K_z} (z - h) - \frac{v_s^2}{4 K_z \bar{u}} x \right\}]
+++++
+
+Now let
+
+.Equation 10
+[latexmath]
+++++
+\big [\bar{u} \frac{\partial \Omega}{\partial x} = K_z \frac{\partial^2 \Omega}{\partial z^2}]
+++++
+
+subject to [.big]#Ω (o, z) = Ỏ (z - h)# and
+
+.Equation 11
+[latexmath]
+++++
+\big [V^k g^{\beta n} \frac{\partial^2 y^i}{\partial x^m \partial x^k} \frac{\partial y^i}{\partial x^\beta} = V^k \left\{ \begin{matrix} n \\ mk \end{matrix} \right\}]
+++++
+
+This problem is one familiar in heat conduction theory (e.g., see Carslaw and Jaegerfootnote:3[H. S. Carslaw and J. C. Jaeger, Operational Methods in Applied Mathematics, Dover Publications, New York, 1963.], pp. 115) and has the solution
+
+.Equation 12
+[latexmath]
+++++
+\big [K_z \frac{\partial \Omega}{\partial z} \Big|_{z=0} = \left( v_d - \frac{1}{2} v_s \right) \Omega \Big|_{z=0}]
+++++
+
+This completes the solution for  =  Y where Y is given by (5) and ψ is given by (9) with Ω as in (12). One can easily see this result reduces to the familiar result
+
+.Equation 13
+[latexmath]
+++++
+\big [q = \frac{v_d - \frac{v_s}{2}}{K_z}]
+++++
+
+It is not so easy to see, but nevertheless can be demonstrated by expanding the complementary error function, that for a perfect sink, i.e., v~d~ → ∞, then (12), etc. reduces to the familiar result [which is (14), but with the two exponentials subtracted rather than added].
+
+.Equation 14
+[latexmath]
+++++
+\big [\chi (x, y, z; v_s = v_d = 0) = \frac{\dot{Q}}{4 \pi x (K_y K_z)^{1/2}} \exp \left\{ - \frac{y^2}{4 K_y x / \bar{u}} \right\} \left[ \exp \left\{ - \frac{(z - h)^2}{4 K_z x / \bar{u}} \right\} + \exp \left\{ - \frac{(z + h)^2}{4 K_z x / \bar{u}} \right\} \right]]
+++++
+
+*Figure 2* shows a plot of these results integrated over all crosswind distances y and for the particular choice of K~z~ = 0.3 m^2^ sec^-1^ and h = 26 m. This figure is to be compared with the experimental data in *Figure 1*. It should be expected that the theory would not be able to reproduce the fluctuations of the data from a single test, but at best would be able to represent an average profile for many tests. Therefore, the discrepancy between theory and the test results at heights above about 10 m should not cause much concern. There is, however, a curious increase shown in the data for Kr below 5 m which will not follow from the theory presented. It is too soon to tell whether this discrepancy represents an important physical phenomenon unaccounted for by the theory or merely a statistical fluctuation which  in the mean will disappear. Further tests would be most welcome. Qualitatively, by comparing *Figures 1 and 2*, it appears that the deposition velocity for the particulate tracer was 𝒪 (10 cm sec^-1^).
+
+== Acknowledgements
+
+The author thanks P. W. Nickola for permission to reproduce *Figure 1*.

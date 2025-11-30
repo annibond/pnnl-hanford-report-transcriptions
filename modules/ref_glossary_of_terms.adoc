@@ -46,6 +46,12 @@
 |burn-up
 |amount of nuclear fuel consumed in a reactor
 
+|Calder’s deposition
+|mathematical models for atmospheric diffusion and dry deposition
+
+|Cartesian math
+|a system for representing data using coordinates on a plane or in space, commonly through having an x-axis and a y-axis
+
 |cation
 |positively charged ion
 
@@ -70,6 +76,9 @@
 |counts per minute (cpm)
 |measurement of the rate of events detected by a radiation monitoring instrument, such as a Geiger counter
 
+|covariance
+|a statistical measure that shows how much two variables change together
+
 |crosswind
 |wind blowing in a direction not parallel to a course
 
@@ -79,8 +88,17 @@
 |dibenzothiophene
 |a tricyclic organic sulfur compound with the formula  C~12~H~8~S
 
+|diffusion
+|a specialized fabric used in photography and filmmaking to soften light while controlling its spread
+
+|diffusitivity
+|measurement rate at which particules, heat, or fluids spread through a medium
+
 |diluent
 |inert liquid added to reduce the concentration of a substance
+
+|dispersion
+|the phenomenon where a wave's speed depends on its frequency, causing different frequency components to separate
 
 |diurnal
 |daily
@@ -96,6 +114,9 @@
 
 |eddy energy
 |kinetic energy associated with the swirling, turbulent motions a fluid (e.g., ocean, air)
+
+|effluent
+|any radioactive material that is released into the environment as waste discharge
 
 |electrical field strength (E/Q)
 |a physical field that surrounds electrically charged particles such as electrons
@@ -124,11 +145,17 @@
 |fusion
 |the process of combining atomic nuclei to form a heavier nucleus, releasing a massive amount of energy
 
+|Gaussian assumption
+|the statistical assumption that a dataset or variable follows a normal (or Gaussian) distribution including having (1) a symmetrical bell curve, (2) an equal mean, median, and mode, and (3) a standard deviation
+
 |General Electric Aitken nucleus counter
 |device that measures the concentration of airborne particles, produced by general electric
 
 |Geiger-Müller
 |portable instrument used to detect and measure ionizing radiation, also known as "Geiger counter"
+
+|geodesic
+|the shortest possible line between two points
 
 |geostrophic
 |the balance between the coriolis force and the horizontal pressure force in the atmosphere
@@ -247,6 +274,9 @@
 |oceanographic
 |the physical and biological properties and phenomena of the sea
 
+|oil shale
+|a fine-grained sedimentary rock containing kerogen, a precursor to petroleum, which can be converted into synthetic crude oil through heating
+
 |perchclorate (ClO [.overline]#~4~#)
 |compounds containing the perchlorate anion
 
@@ -307,6 +337,9 @@
 |roentgens
 |legacy (inactive) unit of measurement for x-rays and gamma rays
 
+|scalar
+|having only a quantity of magnitude (but no direction)
+
 |scm
 |standard cubic meter, a unit of volume for a gas measured under standard conditions of temperature and pressure
 
@@ -324,6 +357,9 @@
 
 |substrate
 |base layer or material on which a nuclear target is prepared or deposited
+
+|tensor
+|a mathematical object that can describe the properties of a nucleus, a way to describe physical quantities that are more complex than a single number
 
 |tetraphenyl arsonium chloride
 |organoarsenic compound used as a reagent in organic synthesis and analytical chemistry
@@ -357,6 +393,9 @@
 
 |θ
 |lowercase theta (Greek)
+
+|∂
+|del (mathematics), partial derivative
 
 |ū
 |denotes an average value, a mean, or specific variable in a given model
