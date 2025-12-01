@@ -1,12 +1,36 @@
 = Changelog
 
-.23 November 2025 - 29 November 2025, BNWL-2000, pp. 25-26
+.30 November 2025 - 6 December 2025, BNWL-2000, pp. 39-
 
-* Created "Baseline Air Quality Data from Colstrip, Montana"
+* Created "Diffusion with Deposition at Short Range"
 
 * Reference Material
 
 - Updated "Glossary of Terms", "Elements & Their Atomic Numbers", "Compounds"
+
+* Formatting Changes
+
+- Utilized the LaTeX stem macro for Asciidoc
+
+.23 November 2025 - 29 November 2025, BNWL-2000, pp. 25-36
+
+* Created "Baseline Air Quality Data from Colstrip, Montana"
+
+* Created "A Simple Development of Covariant Differentiation"
+
+* Created "Solvent Refined Coal - Organic Constituents Present in the Process"
+
+* "Baseline Air Quality Data from Colstrip, Montana"
+
+* Reference Material
+
+- Created "Periodic Table of Elements"
+
+- Updated "Glossary of Terms", "Elements & Their Atomic Numbers", "Compounds"
+
+* Images
+
+ - Created "Anion vs. Cation", "Periodic Table of Elements", "Radioactive Decay", "Gas Chromatography", "Acid - Base Scale"
 
 .16 November 2025 - 22 November 2025, BNWL-2000, pp. iii, 2-25
 

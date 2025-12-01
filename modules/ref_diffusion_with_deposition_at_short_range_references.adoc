@@ -1,0 +1,5 @@
+1. P. W. Nickola and G. H. Clark, “Measurements of Particulate Plume Deletion by Comparison with Inert Gas Plumes,” [.underline]#PNL Annual Report for 1973 to the USAEC DBER#, [.underline]#Part 3#, Atmospheric Sciences, BNWL-1850, PT3 Battelle, Pacific Northwest Laboratories, Richland, WA, pp. 49-60, 1974.
+
+2. K. L. Calder, “Atmospheric Diffusion of Particulate Matter, Considered as a Boundary Value Problem,” [.underline]#Journal of Applied Meteorology#, vol 18, pp. 413-416, 1961.
+
+3. H. S. Carslaw and J. C. Jaeger, [.underline]#Operational Methods in Applied Mathematics#, Dover Publications, New York, 1963.

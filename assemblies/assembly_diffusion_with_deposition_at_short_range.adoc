@@ -1,0 +1,17 @@
+= Diffusion with Deposition at Short Range
+
+W. G. N. Slinn
+
+_Experimental data for the vertical profiles of krypton and a particulate tracer released simultaneously are qualitatively compared with a simple theoretical model of diffusion at short range._
+
+include::../modules/con_diffusion_with_deposition_at_short_range.adoc[leveloffset=+3]
+
+== Appendices
+
+=== References
+
+include::../modules/ref_diffusion_with_deposition_at_short_range_references.adoc[leveloffset=+4]
+
+=== Figures
+
+include::../modules/ref_diffusion_with_deposition_at_short_range_figures.adoc[leveloffset=+4]

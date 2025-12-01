@@ -6,7 +6,7 @@ _A simple method is developed to generalize the partial derivatives of component
 
 include::../modules/con_simple_development_of_covariant_differentiation.adoc[leveloffset=+2]
 
-== Apendixes
+== Appendices
 
 === References
 
