@@ -4,10 +4,10 @@ W. G. N. Slinn
 
 _A simple method is developed to generalize the partial derivatives of components of tensors to curvilinear coordinates._
 
-include::../modules/con_simple_development_of_covariant_differentiation.adoc[leveloffset=+2]
+include::../modules/con_simple_development_of_covariant_differentiation.adoc[leveloffset=+4]
 
 == Appendices
 
 === References
 
-include::../modules/ref_simple_development_of_covariant_differentiation_references.adoc[leveloffset=+3]
+include::../modules/ref_simple_development_of_covariant_differentiation_references.adoc[leveloffset=+5]
