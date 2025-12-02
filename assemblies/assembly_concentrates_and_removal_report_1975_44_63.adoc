@@ -9,4 +9,5 @@ Fallout measurements and evaluations are continuing with the essential identific
 * Coal conversion atmospheric chemistry
 
 include::../assemblies/assembly_simple_development_of_covariant_differentiation.adoc[leveloffset=+2]
+include::../assemblies/assembly_a_pitfall_in_the_application_of_tensor_analysis_to_fluid_mechanics.adoc[leveloffset=+2]
 include::../assemblies/assembly_diffusion_with_deposition_at_short_range.adoc[leveloffset=+2]

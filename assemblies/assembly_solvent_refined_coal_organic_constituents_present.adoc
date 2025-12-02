@@ -4,10 +4,10 @@ M. R. Peterson
 
 Process streams of a solvent-refining coal pilot plant have been sampled and the major organic constituents determined. About 50 organic compounds have been identified in the process water, the process solvent, process naphtha, the fuel product, and the mineral residue. Polycyclic hydrocarbons, phenols, and quinolines were found to be the main classes of compounds.
 
-include::../modules/con_solvent_refined_coal_organic_constituents_present.adoc[includeleveloffset=+3]
+include::../modules/con_solvent_refined_coal_organic_constituents_present.adoc[includeleveloffset=+4]
 
 == Appendices
 
 === Figures
 
-include::../modules/ref_solvent_refined_coal_organic_constituents_present_figures.adoc[leveloffset=+4]
+include::../modules/ref_solvent_refined_coal_organic_constituents_present_figures.adoc[leveloffset=+5]

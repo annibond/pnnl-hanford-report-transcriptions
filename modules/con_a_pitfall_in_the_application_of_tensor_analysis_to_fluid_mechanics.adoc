@@ -1,0 +1,123 @@
+:stem: latexmath
+
+== Introduction
+
+In fluid mechanics, the gradient of the velocity vector appears in the momentum equation in conjunction with the total time derivative. Customarily, this is written as 
+
+.Equation 1
+[latexmath]
+++++
+\big [\frac{D\vec{v}}{Dt} = \frac{\partial\vec{v}}{\partial t} + \vec{v} \cdot \nabla\vec{v}]
+++++
+
+In tensor analysis, the the gradient of a vector is defined (e.g., see Blockfootnote:1[H. D. Block, Tensor Analysis, Merrill Books, Inc., Columbus, OH, 1962.]) as 
+
+.Equation 2
+[latexmath]
+++++
+\big [\nabla\vec{v} = \frac{\partial\vec{v}}{\partial x^{i}}\vec{e}^{i}]
+++++
+
+where the summation convention is used and +++<span class="math inline">\( \underrightarrow{e}^{i} \)</span>+++ is the set of reciprocal basis vectors defined via
+
+.Equation 3
+[latexmath]
+++++
+\big [\vec{e}^{i} = \nabla x^{i}]
+++++
+
+Here x^i^ is a set of curvilinear coordinates, not necessarily orthogonal, and
+
+.Equation 4
+[latexmath]
+++++
+\big [\nabla x^{i} = \frac{\partial x^{i}}{\partial \xi^{j}}\hat{c}^{j}]
+++++
+
+where ɛ̝^i^ is the Cartesian coordinates with orthonormal basis vectors ĉ^i^.
+
+This report notes an inconsistency between Eq. (1) and (2) and presents remedies.
+
+== The Inconsistency
+
+If the derivative in Eq. (2) is expanded it becomes
+
+.Equation 5
+[latexmath]
+++++
+\big [\nabla\vec{v} = v_{i,j}\vec{e}^{i}\vec{e}^{j}]
+++++
+
+where v,~i,j~ is the covariant derivative of the covariant components +++<span class="math inline">\( \vec{v} \)</span>+++
+
+.Equation 6
+[latexmath]
+++++
+\big [\vec{e}^{i} = \nabla x^{i}]
+++++
+
+in which the usual symbol for the Cristoffel symbol of the second kind appears. Then, from (5),
+
+.Equation 7
+[latexmath]
+++++
+\big [v_{i,j} = \frac{\partial v_{i}}{\partial x^{j}} - \left\{ \begin{matrix} i \\ k j \end{matrix} \right\} v_{k}]
+++++
+
+where g^ik^ are the covariant components of the metric tensor. In Cartesian coordinates (7) reduces to
+
+.Equation 8
+[latexmath]
+++++
+\big [v_{i}\frac{\partial v_{i}}{\partial \xi^{j}}\hat{c}_{j}]
+++++
+
+in contrast, the conventional meaning for the convective acceleration in fluid mechanics reduces, in Cartesian coordinates, to
+
+.Equation 9
+[latexmath]
+++++
+\big [v_{i,j} = \frac{\partial v_{i}}{\partial x^{j}} - \left\{ \begin{matrix} i \\ k j \end{matrix} \right\} v_{k}]
+++++
+
+Clearly (8) and (9) are inconsistent.
+
+== Remedies
+
+There are two obvious ways to remedy the inconsistency exposed above. In the first, which will probably not gain wide acceptance, the convective acceleration is written as (∇ +++<span class="math inline">\( \vec{v} \)</span>+++) • +++<span class="math inline">\( \vec{v} \)</span>+++. Then, with (2) or (5), we obtain
+
+.Equation 10
+[latexmath]
+++++
+\big [(\nabla\vec{v})\cdot\vec{v} = v_{i,j}\vec{e}^{i}\vec{e}^{j}\cdot v^{k}\vec{e}_{k}]
+++++
+
+which becomes, upon using +++<span class="math inline">\( \underrightarrow{e}^{j} \cdot \underrightarrow{e}_{k} = \delta^{j}_{k}\)</span>+++,
+
+.Equation 11
+[latexmath]
+++++
+\big [(\nabla\vec{v})\cdot\vec{v} = v^{j}v_{i,j}\vec{e}^{i}]
+++++
+
+Clearly this reduces to (9) in Cartesian coordinates.
+
+A second remedy is to reject the definition of the gradient of a vector given by (2) and instead define
+
+.Equation 12
+[latexmath]
+++++
+\big [\nabla\vec{v} = \vec{e}^{i}\frac{\partial\vec{v}}{\partial x^{i}} = \vec{e}^{i}v_{j,i}\vec{e}^{j}]
+++++
+
+With (12) we can the customary definition of the convective acceleration for we then obtain 
+
+.Equation 13
+[latexmath]
+++++
+\big [\vec{v}\cdot\nabla\vec{v} = v^{k}\vec{e}_{k}\cdot v_{j,i}\vec{e}^{i}\vec{e}^{j} = v^{i}v_{j,i}\vec{e}^{j}]
+++++
+
+== Conclusion
+
+It is important to notice and remedy the inconsistency between the customary use of v • ∇v in fluid mechanics and the (logical) definition for +++<span class="math inline">\( \nabla \vec{v} \)</span>+++, as given, for example, in Blockfootnote:1[]. Otherwise, one obtains an erroneous momentum equation for fluids.
