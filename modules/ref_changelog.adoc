@@ -1,12 +1,16 @@
 = Changelog
 
-.30 November 2025 - 6 December 2025, BNWL-2000, pp. 39-
+.30 November 2025 - 6 December 2025, BNWL-2000, pp. 39-47
 
 * Created "A Pitfall in the Application of Tensor Analysis to Fluid Mechanics"
 
 * Created "Diffusion with Deposition at Short Range"
 
+* Created "Some Observations of the Relative Contribution of Real Plume Diffusion and Meander to Apparent Plume Diffusion"
+
 * Reference Material
+
+- Created "Greek Letters & Definitions"
 
 - Updated "Glossary of Terms", "Elements & Their Atomic Numbers", "Compounds"
 
