@@ -1,0 +1,7 @@
+1. M. Smith (ed.), [.underline]#Recommended Guide for the Prediction of the Dispersion of Airborne Effluents#, ASME, New York, NY, May 1968.
+
+2. F. Gifford, "Statistical Properties of a Fluctuating Plume Dispersion Model," [.underline]#Advances in Geophysics#, 6, New York, Academic Press, 1959.
+
+3. J. V. Ramsdell, "The Real Plume and Its Relationship to the Apparent Plume," [.underline]#Pacific Northwest Laboratory Annual Report for 1970 to the USAEC Division of Biology and Medicine, Vol. II, Physical Sciences, Part 1, Atmospheric Sciences#, BNWL-1551, Vol II., Pt 1, Battelle-Northwest, Richland, WA, June 1972.
+
+4. P. W. Nickola, J. D. Ludwick and J. V. Ramsdell, "An Inert Gas Tracer System for Monitoring the Real-Time History of a Diffusing Plume or Puff," [.underline]#Journal of Applied Meteorology#, Vol. 9, No. 4, pp. 621-626, August 1970.

@@ -1,0 +1,66 @@
+:stem: latexmath
+
+== Introduction
+
+Most computational formulae and models dealing with diffusion in the lower atmosphere pertain to concentrations averaged over a period of tens of minutes or longer. For instance, the equation recommended in the NRC Regulatory Guides 1.2 and 1.3 for determining “short-term average decenterline … concentration” employ the terms σ~y~ and σ~z~ representing horizontal and vertical dispersion in the atmosphere. Curves relating σ~y~ and σ~z~ to distance from source were originally empirically developed from tracer releases of 10 min duration. These curves – or slightly modified curves – are generally accepted as hourly mean values.footnote:1[M. Smith (ed.), Recommended Guide for the Prediction of the Dispersion of Airborne Effluents, ASME, New York, NY, May 1968.]
+
+However, the mean concentration experienced at a fixed point over, say, an hour results from a real plume (the plume observed by the eye) that meanders back and forth over the point of measurement. Not only should the tolerance of a receptor to the mean concentration be of concern, but also tolerance to the short-term fluctuations above this mean.
+
+Gifford, in his fluctuating of the plume modelfootnote:2[F. Gifford, "Statistical Properties of a Fluctuating Plume Dispersion Model," Advances in Geophysics, 6, New York, Academic Press, 1959.], related to the spreading or true diffusion in the real plume to the variance in concentration in the mean or apparent plume. Ramsdellfootnote:3[J. V. Ramsdell, "The Real Plume and Its Relationship to the Apparent Plume," Pacific Northwest Laboratory Annual Report for 1970 to the USAEC Division of Biology and Medicine, Vol. II, Physical Sciences, Part 1, Atmospheric Sciences, BNWL-1551, Vol II., Pt 1, Battelle-Northwest, Richland, WA, June 1972.] presented graphical measurements depicting this relationship. Since Ramsdell’s first data, several other field diffusion experiments have been carried out and/or analyzed at Hanford. These new experiments provide the data base for this note.
+
+The ^86^Kr tracer systemfootnote:4[P. W. Nickola, J. D. Ludwick and J. V. Ramsdell, "An Inert Gas Tracer System for Monitoring the Real-Time History of a Diffusing Plume or Puff," Journal of Applied Meteorology, Vol. 9, No. 4, pp. 621-626, August 1970.] used on the Hanford field diffusion grid presents data in a form suitable for describing characteristics of the real plume. The system simultaneously records concentrations at more than 100 field locations as a series of end-to-end short-period concentrations. The short-period time increment in the current experiments was 38 sec for the "C" tests, and 10 sec for the "V" tests.
+
+== Model
+
+Variance of the time integrated or apparent plume crosswind concentration distribution ([.overline]#Y^2^#*)* can be computed after summing the short period concentrations for each sampling location. Samplers are located on arcs concentric about the tracer release point.
+
+The variance of [.overline]#Y^2^# of the apparent plume can be related to [.overline]#D^2^#, the variance in the real plume, and [.overline]#M^2^#, the meander or variance of the distribution of the positions of the center of mass of the real plume by the equation
+
+[latexmath]
+++++
+\big [\bar{Y}^2 = \bar{D}^2 + \bar{M}^2]
+++++
+
+NOTE: _*_ The nomenclature used for variances in this note is the same as that used by Ramsdellfootnote:3[].
+
+== The Experiments
+
+*Table 1* lists the field experiments with some meteorology and commonly used descriptors of the atmosphere stability. Although tracer releases lasted from 14 to 30 min, the leading and trailing portions of the plume were not analyzed. The periods analyzed varied from 10 to 24 min.
+
+*Figures 1 and 2* give examples of the meteorology and of the general character of plumes during 17 min of plume passage for stable test V6 and unstable test V7. Winds during actual tracer release are missing from the strip chart records. (Charts were driven at 3 in./min during tracer release.) However, the character of the winds can be discerned from the before- and after-release record. The time-history of range of the above-background 10-sec tracer readings is suggested by the outlines at the bottom of the figures. The dots indicate location of peak concentration during each 1-min period.
+
+Above the plume time history plots on *Figures 1 and 2* are depicted ground-level crosswind profiles for the 1-min periods with the largest and smallest crosswind integrated concentration. Also note that similar largest and smallest profiles for 10-sec periods within the 1-min periods are shown. The letter “R” on the abscissa is merely a reference azimuth for comparing the depicted distributions.
+
+*Figure 3* shows the ratio [.overline]D^2^Y^2^# as a function of T/t for measurements made 200 m away from the source. *Figure 4* gives the same relationship for a distance 800 m from the source (with one curve for 1600 m also included). The constant T is the total time period during which the apparent plume was examined. The time t is associated with plume segments of shorter duration – segments as short as 38 sec in the "C" tests and 10 sec in the "V" tests. As T/t increases, the ratio [.overline]#D^2^/Y^2^# is more closely approximated. As seen from *Figures 3 and 4*, the real plume contributed from about 7% to 83% of the apparent plume diffusion in the current experiments.
+
+Admittedly the relative contribution of the real plume dispersion is enhanced by the fact that these experiments were carried out over periods tending to be meteorologically stationary. However these data particularly indicate the wide range of effectiveness of the real plume in the diffusion at the relatively short of the time scale.
+
+A few comments on specific observations are perhaps in order:
+
+* During four experiments (C1, C3, C5, and V6), [.overline]#D^2^Y^2^# could be computed for more than one distance from the source. On three of these tests, the contribution of the real plume dispersion diminished with distance. Surprisingly, on the fourth test (C1), the opposite was true. The contribution of the real plume was greater at 800 m from the source than it had been at 200 m. Meander during this stable-atmosphere release was minimal.
+
+* Stratification by atmospheric stability is not strong. For instance, the minimal meander during neutral to unstable test C2 resulted in a larger [.overline]#D^2^Y^2^# ratio than was observed in stable test V6 despite a larger wind direction range and variance during test C2 (*Figure 4* and *Table 1*).
+
+* The increase in [.overline]#D^2^Y^2^# with increasing T/t displayed on three of the curves in *Figure 3 and 4* is very likely a statistical artifact. Only a once-per-minute sampling of the 10-sec duration concentrations was used to compute the largest T/t values in the "V" experiments.
+
+== Discussion and Analysis
+
+*Figures 1 and 2* show that the character of crosswind profile varies a great deal more during V8 than during V6. These figures also suggest also suggest the magnitude of [.overline]#Y^2^#, [.overline]#D^2^# and [.overline]#M^2^# would be larger for test V7 than for V6.
+
+However, the prime pilot is that a wide range of the relative contribution of real plume diffusion([.overline]#D^2^#) to the generally measured apparent plume diffusion ([.overline]#Y^2^#) is indicated.  *Figure 3* shows the ratio [.overline]#D^2^Y^2^# as a function of T/t for measurements made 200 m away from the source. *Figure 4* fives the same relationship for a distance 800 m from the source (with one curve 1600 m also included). The constant T is the total time period during which the apparent plume was examined. The time t is associated with plume segments of shorter duration - segments as short as 38 sec in the "C" tests and 10 sec in the "V" tests. As T/t increases, the ratio [.overline]#D^2^Y^2^# is more closely approximated. As seen from *Figures 3 and 4*, the real plume contributed from about 7% to 83% of the apparent plume diffusion in the current experiments.
+
+Admittedly the relative contribution of the real plume dispersion is enhanced by the fact that these experiments were carried out over periods tending to be meteorologically stationary. However these data particularly indicate the wide range of effectiveness of the real plume in the diffusion at the relatively short of the time scale.
+
+A few comments on specific observations are perhaps in order:
+
+* During four experiments (C1, C3, C5, and V6), [.overline]#D^2^Y^2^# could be computed for more than one distance from the source. On three of these tests, the contribution of the real plume dispersion diminished with distance. Surprisingly, on the fourth test (C1), the opposite was true. The contribution of the real plume was greater at 800 m from the source than it had been at 200 m. Meander during this stable-atmosphere release was minimal.
+
+* Stratification by atmospheric stability is not strong. For instance, the minimal meander during neutral to unstable test C2 resulted in a larger [.overline]#D^2^Y^2^# ratio than was observed in stable test V6 despite a larger wind direction range and variance during test C2 (*Figure 4 and Table 1*).
+
+* The increase in [.overline]#D^2^Y^2^# with increasing T/t displayed on three of the curves in *Figure 3 and 4* is very likely a statistical artifact. Only a once-per-minute sampling of the 10-sec duration concentrations was used to compute the largest T/t values in the "V" experiments.
+
+== Conclusions
+
+Although hazards appraisal is generally based on parameters associated with the apartment plume, significant deviations from these mean parameters are caused by the meander and real plume diffusion components of the apparent plume.
+
+The contribution of real plume diffusion to apparent plume diffusion at a distance 800 m from the source varies from less than 10% to more than 80%. No dependence on conventional stability measurements is obvious.

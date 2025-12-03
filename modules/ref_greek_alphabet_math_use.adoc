@@ -1,135 +1,109 @@
-== Mathematical Symbols
-
-There are a number of mathematical symbols and theoretical equation proofs in this database. This reference contains each of these symbols as they occur within the texts being transcribed.
-
 .Greek Letters & Definitions
 
 [cols="1,1,1"]
+
 |===
+
 ^|*Symbol* ^|*Greek Letter* ^|*Definition*
 
 |α
-|lowercase alpha
+|alpha (lowercase)
 |alpha particle
 
 |β
-|lowercase beta
+|beta (lowercase)
 |beta particle
 
 |γ
-|lowercase gamma
+|gamma (lowercase)
 |high-energy photons, a type of radioactive decay
 
-|Δ
-|uppercase Delta
+|Δ, ∇
+|Delta (Uppercase)
 |finite difference
 
 |δ
-|lowercase delta
+|delta (lowercase)
 |a function that is zero everywhere except at the origin, where it is infinitely high
 
-|
-|Epsilon
-|
-
 |ɛ̝
-|lowercase epsilon
+|epsilon (lowercase)
 |a variable typically used to represent an arbitrarily small positive number or an error term
 
 |θ
-|lowercase theta
-|θ is the scattering angle of particles after they interact with a target nucleus
+|theta (lowercase)
+|the scattering angle of particles after they interact with a target nucleus
 
 |Κ
-|uppercase Kappa
+|Kappa (uppercase)
 |the state of a nuclear chain reaction
 
 |κ
-|lowercase kappa
+|kappa (lowercase)
 |the neutron multiplication factor
 
 |λ
-|lowercase lambda
+|lambda (lowercase)
 |decay constant, which represents the probability per unit time that a radioactive nucleus will decay
 
 |μ
-|lowercase mu
+|mu (lowercase)
 |the mean or the linear absorption coefficient in radiation physics
 
 |ν
-|lowercase nu
+|nu (lowercase)
 |the average number of neutrons released per fission event
 
 |π
-|lowercase pi
-|pion, a subatomic studied for its properties in nuclear matter (also known as a meson)
+|pi (lowercase)
+|pion, a type of subatomic particle that mediates the strong nuclear force binding protons and neutrons together
 
 |Σ
-|uppercase Sigma
+|Sigma (uppercase)
 |sum
 
 |σ / ς
-|lowercase sigma
+|sigma (lowercase)
 |a measurement of the probability of a nuclear reaction occurring
 
 |Τ
-|uppercase Tau
+|Tau (uppercase)
 |the mean lifetime of a radioactive substance
 
 |τ
-|lowercase tau
+|tau (lowercase)
 |the mean lifetime of a radioactive isotope
 
 |Υ
-|uppercase Upsilon
+|Upsilon (uppercase)
 |a bound state of a bottom quark and a bottom antiquark
 
 |Φ
-|uppercase Phi
+|Phi (uppercase)
 |a meson, a subatomic studied for its properties in nuclear matter (also known as a pion)
 
 |φ / ϕ
-|lowercase phi
-|a meson, a subatomic studied for its properties in nuclear matter (also known as a pion)
+|phi (lowercase)
+|a meson, a subatomic studied for its properties in nuclear matter
 
 |Χ
-|uppercase Chi
+|Chi (uppercase)
 |tensor
 
+|χ
+|chi (lowercase)
+|square distribution
+
 |Ω
-|uppercase Omega
+|Omega (uppercase)
 |angular frequency
 
 |𝒪
 |big O
 |the upper bound of a function's growth rate
 
+|σθū
+|N/A
+|covariance between the variable θ and a defined variable ū
+
 |===
-
-.Other Mathematical Symbols
-
-[cols="1,1"]
-|===
-
-^|*Symbol* ^|*Meaning*
-
-|ū
-|combines all elements from both sets
-
-|°
-|degree
-
-|∝
-|half of infinity
-
-|∞
-|infinity
-
-|•
-|interpunct, multiplication or the dot product of two vectors
-
-|μm
-|micometer
-
-|□
-|variable used in graphs in the provided texts
