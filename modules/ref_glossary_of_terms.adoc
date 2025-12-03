@@ -67,6 +67,9 @@
 |constituents
 |protons and neutrons that make up a nucleus
 
+|convective acceleration
+|the change in velocity experienced by a fluid particle as it moves from one location to another due to a non-uniform flow field
+
 |correlation
 |two things that are connected in which one of the variables depends on the other
 
@@ -232,6 +235,9 @@
 |megawatt day exposure (mwd)
 |a unit of energy to measure fuel burn-up
 
+|meson
+|subatomic particle (also called "pion") studied for its properties in nuclear matter
+
 |metalloids
 |elements that exhibits some metal and some nonmetal properties
 
@@ -277,6 +283,9 @@
 |oil shale
 |a fine-grained sedimentary rock containing kerogen, a precursor to petroleum, which can be converted into synthetic crude oil through heating
 
+|orthogonal
+|at a right angle
+
 |perchclorate (ClO [.overline]#~4~#)
 |compounds containing the perchlorate anion
 
@@ -288,6 +297,9 @@
 
 |pilot plant
 |small-scale, pre-commercial facility used to test and refine the process for a future scale nuclear plant
+
+|pion
+|subatomic particle (also called "meson") studied for its properties in nuclear matter
 
 |plume
 |gas or aerosol released into the atmosphere at an approximately steady rate

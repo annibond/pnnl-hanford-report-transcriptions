@@ -1,0 +1,135 @@
+== Mathematical Symbols
+
+There are a number of mathematical symbols and theoretical equation proofs in this database. This reference contains each of these symbols as they occur within the texts being transcribed.
+
+.Greek Letters & Definitions
+
+[cols="1,1,1"]
+|===
+^|*Symbol* ^|*Greek Letter* ^|*Definition*
+
+|α
+|lowercase alpha
+|alpha particle
+
+|β
+|lowercase beta
+|beta particle
+
+|γ
+|lowercase gamma
+|high-energy photons, a type of radioactive decay
+
+|Δ
+|uppercase Delta
+|finite difference
+
+|δ
+|lowercase delta
+|a function that is zero everywhere except at the origin, where it is infinitely high
+
+|
+|Epsilon
+|
+
+|ɛ̝
+|lowercase epsilon
+|a variable typically used to represent an arbitrarily small positive number or an error term
+
+|θ
+|lowercase theta
+|θ is the scattering angle of particles after they interact with a target nucleus
+
+|Κ
+|uppercase Kappa
+|the state of a nuclear chain reaction
+
+|κ
+|lowercase kappa
+|the neutron multiplication factor
+
+|λ
+|lowercase lambda
+|decay constant, which represents the probability per unit time that a radioactive nucleus will decay
+
+|μ
+|lowercase mu
+|the mean or the linear absorption coefficient in radiation physics
+
+|ν
+|lowercase nu
+|the average number of neutrons released per fission event
+
+|π
+|lowercase pi
+|pion, a subatomic studied for its properties in nuclear matter (also known as a meson)
+
+|Σ
+|uppercase Sigma
+|sum
+
+|σ / ς
+|lowercase sigma
+|a measurement of the probability of a nuclear reaction occurring
+
+|Τ
+|uppercase Tau
+|the mean lifetime of a radioactive substance
+
+|τ
+|lowercase tau
+|the mean lifetime of a radioactive isotope
+
+|Υ
+|uppercase Upsilon
+|a bound state of a bottom quark and a bottom antiquark
+
+|Φ
+|uppercase Phi
+|a meson, a subatomic studied for its properties in nuclear matter (also known as a pion)
+
+|φ / ϕ
+|lowercase phi
+|a meson, a subatomic studied for its properties in nuclear matter (also known as a pion)
+
+|Χ
+|uppercase Chi
+|tensor
+
+|Ω
+|uppercase Omega
+|angular frequency
+
+|𝒪
+|big O
+|the upper bound of a function's growth rate
+
+|===
+
+.Other Mathematical Symbols
+
+[cols="1,1"]
+|===
+
+^|*Symbol* ^|*Meaning*
+
+|ū
+|combines all elements from both sets
+
+|°
+|degree
+
+|∝
+|half of infinity
+
+|∞
+|infinity
+
+|•
+|interpunct, multiplication or the dot product of two vectors
+
+|μm
+|micometer
+
+|□
+|variable used in graphs in the provided texts
