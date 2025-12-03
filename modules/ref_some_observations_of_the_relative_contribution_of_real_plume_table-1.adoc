@@ -1,0 +1,99 @@
+.Meteorology and Stability Classification During Eight ^~^85^Kr Releases
+
+[cols="1,1,1,1,1,1,1,1,1"]
+
+|===
+
+^.^h| *Test No.*
+^.^h| *Release Height (m)*
+^.^h| *Test Duration (min)*
+^.^h|*Wind Speed^(a)^ (m/s)*
+^.^h|*Dir. Range (deg)footnote:a[Aerovane at 15-m elevation. Applies to entire test duration.]*
+^.^h|*Dir. Std. Dev. (deg)footnote:b[Beckman and Whitley light-weight vane at 6-m elevation. Derived from 5-sec consecutive readings.]*
+3+^.^h|*Stability Classification*
+
+^| ^| ^| ^| ^| ^| ^|*Rich. No. 2 to 15 m* 2+^.^h|*Pasquill Cat. by Req. Guide 1.23*
+
+^| ^| ^| ^| ^| ^| ^| ^|*by σθ* ^|*by T~25~-T~2m~*
+
+^|C1
+>|~1
+>|12
+>|2.6
+>|31
+>|4.1
+>|0.13
+^|E
+^|G
+
+^|C2
+>|~1
+>|13
+>|5.4
+>|62
+>|6.1
+>|-0.04
+^|E
+^|A
+
+^|C3
+>|~1
+>|10
+>|9.8
+>|77
+>|10.1
+>|-0.03
+^|D
+^|A
+
+^|C5
+>|~1
+>|17
+>|4.3
+>|52
+>|7.8
+>|0.10
+^|D
+^|E
+
+^|V2
+>|26
+>|17
+>|2.3
+>|66
+>|~12
+>|-0.03
+^|D
+^|D
+
+^|V5
+>|26
+>|13
+>|3.8
+>|50
+>|8.2
+>|0.08
+^|D
+^|G
+
+^|V6
+>|26
+>|24
+>|4.8
+>|47
+>|4.3
+>|0.06
+^|E
+^|F
+
+^|V7
+>|26
+>|17
+>|4.4
+>|113
+>|~20
+>|-0.29
+^|B
+^|A
+
+|===

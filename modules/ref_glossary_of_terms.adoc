@@ -10,6 +10,9 @@
 |actinides
 |series of 15 heavy, radioactive metals on the periodic table of elements 89 - 103
 
+|aerovane
+|meteorological instrument that combines a wind vane with a propeller anemometer to simultaneously measure both wind speed and direction
+
 |Aitken nuclei
 |extremely small particles in the atmosphere, typically 0.001 to 0.1 micrometers in diameter, which can serve as nuclei for condensation of water vapor
 
@@ -230,7 +233,7 @@
 |analytical technique used to identify and quantify compounds by measuring the mass-to-charge ratio
 
 |megaton (MT)
-|one million tons
+|1 million tons
 
 |megawatt day exposure (mwd)
 |a unit of energy to measure fuel burn-up
@@ -241,8 +244,8 @@
 |metalloids
 |elements that exhibits some metal and some nonmetal properties
 
-|microgram (μg)
-|1 millionth of a gram
+|micrometer (μm)
+|1 millionth of a meter
 
 |mineral residue
 |a geological deposit left behind after weathering or an accumulation of minerals in water
@@ -285,6 +288,9 @@
 
 |orthogonal
 |at a right angle
+
+|Pasquill Stability Class (Pasquill Category)
+|a system used to classify atmospheric stability and the amount of turbulent mixing in the atmosphere
 
 |perchclorate (ClO [.overline]#~4~#)
 |compounds containing the perchlorate anion
@@ -394,28 +400,10 @@
 |velocity
 |the rate at which an object's position changes and includes both magnitude (speed) and direction
 
+|weather vane (vane)
+|a device used to show the direction of the wind
+
 |x-ray fluorescence (XRF)
 |analytical technique that identifies the elemental composition of a material
-
-|σ
-|lowercase sigma (Greek), standard deviation
-
-|∑
-|uppercase sigma (Greek); sum
-
-|θ
-|lowercase theta (Greek)
-
-|∂
-|del (mathematics), partial derivative
-
-|ū
-|denotes an average value, a mean, or specific variable in a given model
-
-|σθū
-|covariance between the variable θ and a defined variable _u_
-
-|μm
-|unit of measurement of length, equal to one millionth of a meter (micrometer)
 
 |===
