@@ -1,5 +1,9 @@
+[id="ref_prediction_of_environmental_exposures_table-3_{ref-prediction-of-environmental-exposure-5}"]
+
 .Observed values of _σ~u~_ (meters) for arcs of the Hanford grid
+
 [cols="1,1,1,1,1,1,1"]
+
 |===
 
 ^.^h| *Run no.*

@@ -1,6 +1,11 @@
+[id="ref_measurement_of_particulate_plume_table-3_{ref-particulate-plume-depletion-5}"]
+
 .Estimates of FP Plume Depletion
+
 [cols="1,1,1,1"]
+
 |===
+
 ^|*Test* ^|*Traversal to 200 m* ^|*Traversal to 812 m* ^|*Traversal to 842 m*
 
 ^|V5

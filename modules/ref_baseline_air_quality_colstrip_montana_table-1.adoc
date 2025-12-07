@@ -1,3 +1,5 @@
+[id="ref_baseline_air_quality_colstrip_montana_table-1_{ref-baseline-air-quality-colstrip-1}"]
+
 .Concentration of Elements in 13 HiVol Air Particulate Samples from Near Colstrip and From Typical Rural Areas (ng/m^3^)
 
 [cols="1,1,1,1"]

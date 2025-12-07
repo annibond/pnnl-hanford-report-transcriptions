@@ -1,7 +1,11 @@
+[id="ref_important_names_and_locations_{ref-important-names}"]
+
 == Important Names & Locations to Hanford
 
 [cols="1,1,1"]
+
 |===
+
 ^|*Name* ^|*Location* ^|*Purpose*
 
 |Atomic Energy Commission (AEC)

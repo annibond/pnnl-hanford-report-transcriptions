@@ -1,3 +1,5 @@
+[id="con_transuranium_elements_in_the_atmosphere_{con-transuranium-elements-atmosphere}"]
+
 == Introduction
 
 The first significant injection of transuranium elements into the atmosphere was the result of the nuclear weapons test in Alamogordo, New Mexico on July 6, 1945. Between then and 1952 further nuclear detonations resulted in additional injections to the atmosphere, however most of this debris was confined to the troposphere

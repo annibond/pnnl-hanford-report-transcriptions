@@ -1,10 +1,12 @@
-=== Introduction
+[id="con_concentrations_241_pu_and_99_tc_{con-concentrations-pu-tc}"]
+
+== Introduction
 
 Testing nuclear devices produces many associated radionuclides. Previous studies have measured these short and long-lived radionuclides in the surface air, and their impact on the environment has been determined. Periodically, additional isotopes become of interest, and they are measured along with these radionuclides. 
 
 Recently ^241^Pu and ^99^Tc have received considerable attention, mainly because they build up in nuclear waste from power production reactors. Their concentration in surface air was measured so that a baseline concentration in the environment can be determined and compared with future concentration measurements.
 
-=== Plutonium
+== Plutonium
 
 During high-yield nuclear weapons, testing considerable multiple neutron capture by ^238^U results in the production of neutron-rich products; these beta decay and produce nucleotides along the line of greatest stability. One of the prominent nuclides produced during this process is beta active ^241^Pu (t 1/2 = 15 years).  The activity associated with ^241^Pu is many times greater than that of alpha-emitting ^239-240^Pu but since it is a beta-emitter and has a much shorter half-life the radiotoxicity is much lower. However, the fact that ^241^Pu is the precursor of-emitting ^241^Am (t 1/2 = 433 years), which is as toxic via the human food chain as ^239-240^Pu, the concentration of ^241^Pu in the environs has become of considerable interest. 
 
@@ -12,7 +14,7 @@ It has been estimated that 9450 kCi of ^241^Pu have been injected into the atmos
 
 The ^238^Pu interference was small when the only contribution was from weapons-grade plutonium, but after the arrival of debris from SNAP-9A burn-upfootnote:1[The concentration of ^99^Tc in surface air was measured.]. The interference was too large to permit accurate measurement of the ^241^Am ingrowth collected from 1967-1969. The concentrations of 24 in surface air varied from a high of 20 bpm/KSCM in the 1963 peak maximum, to a low of <0.17 dpm/KSCM in late 1972. The seasonal variations were similar to those other weapons-produced radionuclides of stratospheric origin. The disintegration rate ratio of ^24^Pu-^239-240^Pu in surface air is shown in *Figure 1*. The average ratio was 19.2 with yearly averages varying from 15 to 24, compared with ratios of 27 (measured in debris from the Ivy Mike nuclear test of 1952) and 13 (measured in debris originating during the US-USSR nuclear test period of 1961-1962). 
 
-=== Technetium
+== Technetium
 
 Considerable interest has recently given to the distribution and source of ^99^Tc in environmental samples mainly because the reactions of Tc are similar to those of I in the human body (like I, Tc is concentrated in the thyroid). Chemically, Tc is similar to Re. Both form stable X0 [.overline]#~4~# anions that give insoluble salts with large cations and both have volatile heptoxides and acid-insoluble heptasulfides.  The most common compound is the per technetate and at low concentration salts of perrhenate, perchlorate and periodate can be used as carriers. The fission yields for ^99^Tc are slightly greater than 6% from both ^239^Pu and ^235^U fission, however, the specific activity is extremely low due to its half-life of about 210,000 years. If we assume ^99^Tc and ^137^Cs are present in air rations similar to their fission yields we would estimate the ^137^Cs to ^99^Tc disintegration ratios to be 7210. In nuclear wastes from power producing reactors ^99^Tc will be the major radionuclide after a few hundred years decay. It has been estimated that by the year 2000 about 3x10^6^ of Cl of ^99^Tc will be accumulated in nuclear wastes. Although ^99^Tc is also formed during activating of molybdenum [^98^Mo (n,r) ^99^Mo~-β~ ^99^Tc] estimates indicate that in nuclear waste the production ratio by activation as compared to that of nuclear fission is very low (0.0028) and will be a minor source for Tc production.
 

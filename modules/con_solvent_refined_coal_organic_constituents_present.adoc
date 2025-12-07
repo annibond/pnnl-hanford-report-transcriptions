@@ -1,3 +1,5 @@
+[id="con_solvent_refined_coal_organic_constituents_present_{con-solvent-refined-coal-organic-constituents}"]
+
 == Introduction
 
 What are the potential emissions of any new process developed to obtain energy from fossil fuels? This question is particularly important for processes involving coal or any method to transform coal into a cleaner burning fuel. Since any constituents in the process streams are potential pollutants, knowing their identity and relative concentration before commercializing the process, provides a data base for proper emission control. During this last year we have sampled a pilot plant producing solvent-refined coal. Of the numerous organic constituents in the process streams we have identified about 50 major components.

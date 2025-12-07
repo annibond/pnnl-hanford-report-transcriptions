@@ -1,3 +1,5 @@
+[id="ref_prediction_of_environmental_exposures_references_{ref-prediction-of-environmental-exposure-2}"]
+
 1. Barad, M. L. and J. J. Fuquay, 1962a: The Green Glow diffusion program, Vol. I, _Geophysical Research Paper No. 73_, Geophysics Research Directorate, Air Force Cambridge Research Laboratory; Hanford Report HW 71400.
 
 2. Barad, M. L. and J. J. Fuquay, 1962b: The Green Glow diffusion program, Vol. II, _Geophysical Research Paper No. 73_, Geophysics Research Directorate, Air Force Cambridge Research Laboratory; Hanford Report HW 71400.

@@ -1,3 +1,5 @@
+[id="ref_simple_development_of_covariant_differentiation_references_{ref-simple-development-covariant-differentiation-1}"]
+
 1. A. J. McConnel, [.underline]#Applications of Tensor Analysis#, Dover Publications, Inc., New York, 1975.
 
 2. H. D. Block, [.underline]#Tensor Analysis#, Merril Books, Inc. Columbus, Ohio, 1962.

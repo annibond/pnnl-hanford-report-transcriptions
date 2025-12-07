@@ -1,3 +1,5 @@
+[id="ref_about_this_project_{ref-about-this-project}"]
+
 = About this project
 
 This repository exists for a few reasons:

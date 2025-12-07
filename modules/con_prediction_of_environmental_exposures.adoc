@@ -1,3 +1,5 @@
+[id="con_prediction_of_environmental_exposure_{con-prediction-of-environmental-exposure}"]
+
 == Abstract
 
 Values of peak exposure and standard deviations of exposure distributions downwind from a continuous point of source are presented for 46 Hanford ground source diffusion experiments. Exposure data are found to order in terms of atmospheric stability when plotted as a function of the travel time. The crosswind variances of the wind direction distribution and the mean wind speed, σθū, in an equation resulting from G. I. Taylor’s work in 1921.

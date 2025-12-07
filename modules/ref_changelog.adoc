@@ -1,10 +1,16 @@
+[id="ref_changelog_{ref-changelog}"]
+
 = Changelog
 
-.30 November 2025 - 6 December 2025, BNWL-2000, pp. 39-47
+.30 November 2025 - 6 December 2025, BNWL-2000, pp. 39-56
 
-* Created "A Pitfall in the Application of Tensor Analysis to Fluid Mechanics"
+* Created "Variation of Plume Centerline Concentration with Time"
+
+* Created "Some Observations of the Relative Contribution of Real Plume Diffusion and of Meander to Apparent Plume Diffusion"
 
 * Created "Diffusion with Deposition at Short Range"
+
+* Created "A Pitfall in the Application of Tensor Analysis to Fluid Mechanics"
 
 * Created "Some Observations of the Relative Contribution of Real Plume Diffusion and Meander to Apparent Plume Diffusion"
 
@@ -12,11 +18,15 @@
 
 - Created "Greek Letters & Definitions"
 
-- Updated "Glossary of Terms", "Elements & Their Atomic Numbers", "Compounds"
+- Updated "Glossary of Terms", "Elements & Their Atomic Numbers", "Compounds & Isotopes"
 
 * Formatting Changes
 
-- Utilized the LaTeX stem macro for Asciidoc
+- Utilized the LaTeX stem macro for Asciidoctor, added module IDs finally
+
+- Unpublished reference module cataloging the glossary and elements references
+
+NOTE: Pages ("pp.") refer to the page numbers in the original, printed document, *not* the PDF copy's page numbers.
 
 .23 November 2025 - 29 November 2025, BNWL-2000, pp. 25-36
 

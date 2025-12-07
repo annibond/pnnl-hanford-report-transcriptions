@@ -1,6 +1,11 @@
+[id="ref_prediction_of_environmental_exposures_table-1_{ref-prediction-of-environmental-exposure-3}"]
+
 .Relative Abundance of Heavy Element Produced During Ivy Mike Test
+
 [cols="1,1,1,1,1,1,1,1"]
+
 |===
+
 ^|*Run Number* ^|*Date* ^|*Time Release Began* ^|*Time Release Ended* ^|*Ri* ^|*ū7 (m sec^-1^*) ^|*σθ (deg)* ^|*σθū (rad m sec^-1^)*
 
 ^|5

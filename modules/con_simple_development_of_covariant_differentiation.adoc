@@ -1,3 +1,5 @@
+[id="con_simple_development_of_covariant_differentiation_{con-simple-development-covariant-differentiation}"]
+
 :stem: latexmath
 
 == Introduction

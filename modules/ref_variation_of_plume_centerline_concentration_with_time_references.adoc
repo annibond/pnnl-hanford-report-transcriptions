@@ -1,0 +1,3 @@
+[id="ref_variation_of_plume_centerline_concentration_with_time_references_{ref-variation-plume-centerline-concentration-2}"]
+
+1. F. Pasquill and F. B. Smith, "The Physical and Meteorological Basis for the Estimation of the Dispersion of Windborne Material,"" ME-20A, presented at the [.underline]#Second International Union of Air Pollution Prevention Association#, Washington, DC, December 6-11, 1970.

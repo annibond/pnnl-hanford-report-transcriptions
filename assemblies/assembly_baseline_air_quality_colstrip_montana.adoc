@@ -1,3 +1,5 @@
+[id="assembly_baseline_air_quality_colstrip_montana_{assembly-baseline-air-quality-colstrip}"]
+
 = Baseline Air Quality Data from Colstrip, Montana
 
 E. A. Crecelius, J. C. Laul, L. A. Rancitelli, and R. L. McKeever

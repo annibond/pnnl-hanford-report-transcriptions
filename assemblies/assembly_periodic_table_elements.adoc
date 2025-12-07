@@ -1,0 +1,9 @@
+[id="assembly_meta_resources_{[periodic_table_elements]}"]
+
+= Periodic Table of Elements & Compounds
+
+include::../modules/ref_periodic_table_of_elements.adoc[leveloffset=+2]
+
+include::../modules/ref_elements_and_atomic_number-atomic-number.adoc[leveloffset=+2]
+
+include::../modules/ref_compounds_isotopes.adoc[leveloffset=+2]

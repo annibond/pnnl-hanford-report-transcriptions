@@ -1,3 +1,5 @@
+[id="ref_some_observations_of_the_relative_contribution_of_real_plume_references_{ref-some-observations-relative-contribution-real-plume-2}"]
+
 1. M. Smith (ed.), [.underline]#Recommended Guide for the Prediction of the Dispersion of Airborne Effluents#, ASME, New York, NY, May 1968.
 
 2. F. Gifford, "Statistical Properties of a Fluctuating Plume Dispersion Model," [.underline]#Advances in Geophysics#, 6, New York, Academic Press, 1959.

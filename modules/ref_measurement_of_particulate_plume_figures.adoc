@@ -1,3 +1,5 @@
+[id="ref_measurement_of_particulate_plume_figures_{ref-particulate-plume-depletion-1}"]
+
 .Test V6, Kr at 842 m, height in meters against azimuth in degrees
 image::../images/ref_measurement_of_particulate_plume-figure-1.png[A graph which shows the electrical field strength for a transversal of 842 to the tops of the towers. This graph is for the transversal of 842 m for the element Krypton (Kr). The x axis = azimuth from 105 degrees - 135 degrees in increments of 5 degrees. The y axis = height from 0 meters - 60 meters in increments of 5 meters.]
 
