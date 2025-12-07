@@ -1,0 +1,23 @@
+[id="assembly_variation_of_plume_centerline_concentration_with_time_{assembly-variation-plume-centerline-concentration}"]
+
+= Variation of Plume Centerline Concentration with Time
+
+P. W. Nickola
+
+_Real time measurements of plume concentration are used to investigate various plume centerline statistics. Included are the contribution of plume meander to apparent plume centerline concentration, peak-to-mean concentration ratios in the real and apparent plume, and deviation in interline plume centerline exposure from the exposure finally experienced at the end of plume passage._
+
+include::../modules/con_variation_of_plume_centerline_concentration_with_time.adoc[leveloffset=+4]
+
+== Appendices
+
+=== References
+
+include::../modules/ref_variation_of_plume_centerline_concentration_with_time_references.adoc[leveloffset=+5]
+
+=== Tables
+
+include::../modules/ref_variation_of_plume_centerline_concentration_with_time_table-1.adoc[leveloffset=+5]
+
+=== Figures
+
+include::../modules/ref_variation_of_plume_centerline_concentration_with_time_figures.adoc[leveloffset=+5]

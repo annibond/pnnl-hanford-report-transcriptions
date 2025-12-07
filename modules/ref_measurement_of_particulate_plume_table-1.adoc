@@ -1,6 +1,11 @@
+[id="ref_measurement_of_particulate_plume_table-1_{ref-particulate-plume-depletion-3}"]
+
 .Time, Tracer and Meteorology Pertinent to Multi-Tracer Releases from 26-m Level, 1972-1973
+
 [cols="1,1,1,1,1,1,1,1"]
+
 |===
+
 ^|*Test* |^*Date* |*Period of Release* |*Tracers Released* |*Mean Wind Speed (2 m)* |*Mean Wind Speed (30 m)* |*Δ Temp 30 m - 6 m* |*Ri (2,15)*footnote:[Richardson number for layer between 2 and 15 m.]
 
 ^|V1

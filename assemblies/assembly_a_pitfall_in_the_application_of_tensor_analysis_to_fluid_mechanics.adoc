@@ -1,3 +1,5 @@
+[id="assembly_a_pitfall_in_the_application_of_tensor_analysis_to_fluid_mechanics_{assembly-pitfall-application-tensor-analysis}"]
+
 :stem: latexmath
 
 = A Pitfall in the Application of Tensor Analysis to Fluid Mechanics

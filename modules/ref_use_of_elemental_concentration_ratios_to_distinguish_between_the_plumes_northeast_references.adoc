@@ -1,3 +1,5 @@
+[id="ref_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast_references{ref-use-elemental-concentration-rations-plumes-northeast-1}"]
+
 1. S. S. Brar, D. M. Nelson, J. R. Kline, D. F. Gustafson, E. L. Kanabrock, C. M. Moore, and D. M. Hattor, "Instrumental Analysis for Trace Elements Present in Chicago Area Surface Air," [.underline]#Journal of Geophysical Research 75#, 1970.
 
 2. R. Dams, J.A. Robbins, K. A. Rahn, and J. W. Winchester, "Nondestructive Neutron Activation Analysis of Air Pollution Particulates," [.underline]#Analytical Chemistry 42#, pp. 861-867, 1970.

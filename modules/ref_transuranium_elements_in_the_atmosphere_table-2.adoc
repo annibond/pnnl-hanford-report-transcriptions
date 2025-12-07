@@ -1,5 +1,9 @@
+[id="ref_transuranium_elements_in_the_atmosphere_table-2_{ref-transuranium-elements-atmosphere-3}"]
+
 .Tests for Producing Transuranic Isotopes
+
 [cols="1,1,1,1"]
+
 |===
 
 ^|*Test Name* ^|*Laboratory* ^|*Date* ^|*Exposure*

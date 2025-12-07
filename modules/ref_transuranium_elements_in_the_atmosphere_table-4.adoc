@@ -1,4 +1,7 @@
+[id="ref_transuranium_elements_in_the_atmosphere_table-4_{ref-transuranium-elements-atmosphere-5}"]
+
 .Relative Compositions of Transuranium Elements from Oiwer Reactors and Ivy Mike Shot
+
 [cols="1,1,1,1"]
 
 |===

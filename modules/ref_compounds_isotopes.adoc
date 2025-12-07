@@ -1,0 +1,92 @@
+[id="ref_compounds_isotopes_{ref-compounds-isotopes}"]
+
+.Compounds & Isotope Names
+
+[cols="1,1"]
+
+|===
+
+^|*Compound* ^|*Compound Name*
+
+|C~10~H~12~
+|2, 5-methylindan
+
+|Fe(OH)~3~
+|Ferric Hydroxide
+
+|kCi
+|Potassium Chloride
+
+|Na~2~Co~3~
+|Sodium Carbonate
+
+|Na~2~O~2~
+|Sodium Chloride
+
+|ZnS
+|Zinc Sulfide
+
+|1, 3-dimethylindan
+|C~11~H~14~
+
+|1, 2, 3 4-tetrahydronaphthalene
+|C~10~H12~
+
+|5-methyl-1, 2, 3, 4-tetrahydronaphthalene
+|C~11~H~14
+
+|naphthalene
+|C~10~H~8~
+
+|2-methylnaphthalene
+|C~11~H~10
+
+|1-methylnaphthalene
+|C~10~H~7~CH~3~
+
+|2, 6-dimethylnaphthalene
+|C~10~H~6~(CH~3~)~2~
+
+|phenol
+|C~6~H~5~OH
+
+|o-cresol
+|CH~3!C~6~H~4~OH (or C~7~H~8~O)
+
+|m-cresol
+|CH~3~C~6~H~4~(OH)
+
+|p-cresol
+|CH~3~C~6~H~4~OH (or C~7~H~8~O)
+
+|3, 5-xylenol
+|(CH~3~)~2~C~6~H~3~O (or C~7~H~8~O)
+
+|acenaphthene
+|C~12~H~10~
+
+|dibenzofuran
+|C~12~H~8~O
+
+|fluorene
+|C~13~H~10~
+
+|9, 10-dihydrophenanthrene
+|C~14~H~12~
+
+|dibenzothiophene
+|C~12~H~8~S
+
+|phenanthrene, anthracene
+|C~14~H~10~
+
+|2-methylphenanthrene
+|C~15~H~12~
+
+|1, 2-methylphenanthrene
+|C~15~H~12~
+
+|fluoranthene, pyrene
+|C~16~H~10~
+
+|===

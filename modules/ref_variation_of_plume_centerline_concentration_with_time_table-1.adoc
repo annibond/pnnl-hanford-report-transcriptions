@@ -1,0 +1,46 @@
+[id="ref_variation_of_plume_centerline_concentration_with_time_table-1_{ref-variation-plume-centerline-concentration-3}"]
+
+.Peak-to-Mean Concentration Ratios and Reduction in Apparent Plume Centerline Due to Meander (E~p~/[.overline]#χ#~p~)
+
+[cols="1,1,1,1,1"]
+
+|===
+
+^.^h| *Test*
+^.^h| *Distance from Source (meters)*
+^.^h| *E~p~/[.overline]#χ#~p~*
+2+^.^h| *Peak-to-Mean Ratios*
+
+^| ^| ^| ^|*χ~pmax~/[.overline]#χ#~p~* ^|*χ~pmax~/E~p~*
+
+^|V7
+>|200
+>|0.34
+>|8.3
+>|24.5
+
+^|V2
+>|200
+>|0.24
+>|7.6
+>|31.2
+
+^|V6
+>|800
+>|0.42
+>|1.8
+>|4.4
+
+^|V6
+>|1600
+>|0.38
+>|1.7
+>|4.5
+
+^|V5
+>|800
+>|0.76
+>|1.9
+>|2.5
+
+|===

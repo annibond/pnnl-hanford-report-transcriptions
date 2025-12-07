@@ -1,0 +1,47 @@
+[id="con_variation_of_plume_centerline_concentration_with_time_{con-variation-plume-centerline-concentration}"]
+
+:stem: latexmath
+
+== Introduction
+
+The dependence of air pollutant concentrations on the duration of sampling is a recognized concept. Pasquillfootnote:1[F. Pasquill and F. B. Smith, “The Physical and Meteorological Basis of the Estimation of the Dispersion  of Windborne Material,” ME-20A, presented at the Second International Union of Air Pollution Prevention Association, Washington, DC, December 6-11, 1970.] points out that "… the time over which the plume is ‘sampled’ changes over to spatial distribution of the mean concentration.’" He further states that "…because of the complex dependence (of wind fluctuation data) on sampling time…, no simple formula or factor can be expected to be universally applicable" in deriving concentration estimates.
+
+A considerable amount of discussion, theory and data are available in the literature relating sampling time to wind direction fluctuations. These wind fluctuations in turn can be related to spread parameters which in turn can be related to predicted or observed concentration measurements. 
+
+However, due primarily to the difficulties involved in field measurement, minimal data are available directly relating observed concentrations to sampling time. The ^85^Kr tracer system measurements alluded to in the immediately preceding contributionfootnote:2[P. W. Nickola, “Some Observations of the Relative Contribution of Real Plume Diffusion and of Meander to Apparent Distribution, pp. 43-47]in this report, are tractable to investigation of variation of concentration with time.
+
+== Data
+
+The four “V” tests of the preceding contributionfootnote:2[] are examined here. In these field experiments, concentration was measured in a series of 10-sec end-to-end increments. These wind fluctuations number of samplers along an arc ranged from 16 to 30. Pertinent meteorological information is given in *Table 1* and *Figures 1 and 2* of the preceding contribution.
+
+*Figures 1 and 2* here present concentration measurements versus time for the four experiments. Experiments are presented in order of increasing atmospheric stability. All data plotted on a specific figure result from measurements made at a given distance (listed on each figure) from the source. Tracers were released from an elevation of 26 m, during nearly stationary periods as far as the meteorology was concerned.
+
+Concentrations are specified relative to the final apparent plume centerline exposure (E~p~). This time-integrated peak concentration, normalized to amount of tracer emitted, is the value most commonly desired and predicted in hazards appraisals.
+
+Dots in the figures represent χp, measured 10-sec end-to-end mean concentrations normalized to emission rare. The values plotted are the highest observed during each time increment - irrespective of azimuth. These concentrations apply to the centerline of the meandering real plume. The bar graphs give similar end-to-end peak concentrations, but for plumes averaged over 1-min periods. 
+
+Each broken continuous curve follows an exposure that would have been experienced by a specific “fence post” starting from the time zero to the end of any minute. This specific fence post is at E~p~, a fixed location on the arc of samplers. Each solid continuous curve gives a history of exposures based on a variety of locations. The momentary exposure selected for plotting is that associated with the fence post (irrespective of location) which, up to a given point in time, has experienced the highest exposure. The curve follows peak exposure as time accumulates. Although the exposures depicted by the broken and by the solid curves could have been derived by summation of 10-sec mean concentrations, they were derived from 1-min means. A perfect correspondence would be observed at the end of each minute in any event. 
+
+== Discussion
+
+The graphics presented with this report suggest several areas of possible study. (For instance, relationships between stability and variance in real plume centerline could be investigated. ote the much greater variance in the 10-sec peak concentrations plotted for unstable tests V7 and V2 than for stable tests V6 and V5. The ratio of largest to smallest 10-sec centerline concentration observed during unstable V7 was about 250; during stable V5 the corresponding ratio was less than five.) However, a study of relatively wide scope and detail is reserved for a future journal publication. In the brief treatment appropriate for this report, only a few points will be stressed.
+
+The dots on *Figures 1 and 2* give essentially the real-time history of concentration of the real plume centerline. The mean of these concentrations ([.overline]#x#~p~) gives the E~p~ that would have been observed had there been no plume meander. The observed E~p~ can be compared to x~p~ to prescribe the contribution of meander in the reproduction of real plume mean to the time-integrated mean. *Table 1* shows that the reduction due to meander E~p~ [.overline]#x#~p~, varies from 0.24 to 0.76.
+
+Various "peak to mean" rations can be defined and investigated. Two are defined by the nomenclature given in *Table 1* column headings. Perhaps the most interesting is the peak-to-mean observed at the real plume centerline, χ~pmax~ x~p~. In the tests examined, this value varied from more than eight to less than two. The more conventional ratio χ~pmax~ E~p~, the highest short-term concentration observed anywhere along the arc compared to the apparent plume centerline concentration, varied from 2.5 to more than 30.
+
+The final discussion here is concerned with the accumulating peak exposure (E~a~) depicted by the solid curves in *Figures 1 and 2*. In a non-meandering plume, a plot of E~a~ versus time would be congruent with the broken curve plotted for exposure at the location of E~p~. In the meandering case, Ea equals xp at the end of the first average increment and equals E~p~ after the last increment. If it is presumed that E~p~ is accurately predicted for the entire period of tracer sampling, then the curve E~a~ indicates the deviation from that indicates the deviation from that prediction that would have been observed had tracer release ceased (or had fence posts been removed) prior to the end of the entire period. 
+
+After the passage of only 1 minute of time, Ea never exceeded 2.1 x E~p~. In view of the fact that 10-sec and 10-min peak concentrations reached, respectively, magnitudes 31.2 and 9.7 times the E~p~ value, this relatively low E~a~/E~p~ ratio may be surprising. It also may be comforting to those engaged in forecasting the ~1-hr means commonly required in hazards appraisals.
+
+It is true that E~a~ is strongly dependent on χ~p~ values during the initial moments of exposure. However, if during test V2 on *Figure 1*, it is presumed that exposure had started at minute 7 - just prior to maximum short period concentrations - E~a~ would have been less than 2 at the end of minute 12.
+
+== Conclusions
+
+Based on four field experiments conducted during a wide range of atmospheric stabilities:
+
+* Meander reduces the centerline concentration of the apparent plume to values ranging from 24 to 76 of the centerline concentration of the real plume.
+
+* The peak-to-plume concentration ratio observed at real plume centerline varied from 8.3 during an unstable atmosphere to 1.7 under a reasonably stable atmosphere.
+
+* Although short period fluctuations in concentration are much higher, the exposure experienced between onset of plume passage and any selected time (greater than 1 min) after onset, did not exceed 2.1 times the final apparent plume centerline exposure.

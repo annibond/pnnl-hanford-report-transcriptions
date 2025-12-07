@@ -1,3 +1,5 @@
+[id="ref_elements_and_atomic_number-atomic-number_{ref-elements-atomic-number-1}"]
+
 .Elements & Their Atomic Number, Sorted by Atomic Number
 
 [cols="1,1,1"]

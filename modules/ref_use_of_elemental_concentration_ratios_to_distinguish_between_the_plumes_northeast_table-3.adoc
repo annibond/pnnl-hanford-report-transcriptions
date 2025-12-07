@@ -1,3 +1,5 @@
+[id="ref_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast_table-3{ref-use-elemental-concentration-rations-plumes-northeast-4}"]
+
 .Concentration Rations of Selected Elements
 
 [cols="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1"]

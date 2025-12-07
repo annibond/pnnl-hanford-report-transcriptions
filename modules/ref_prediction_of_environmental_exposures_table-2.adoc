@@ -1,5 +1,9 @@
+[id="ref_prediction_of_environmental_exposures_table-2_{ref-prediction-of-environmental-exposure-4}"]
+
 .Values of peak exposure _E~p~_x10^3^_, for arcs of the Hanford grid, and _Q~t~_
+
 [cols="1,1,1,1,1,1,1,1"]
+
 |===
 
 ^.^h| *Run no.*

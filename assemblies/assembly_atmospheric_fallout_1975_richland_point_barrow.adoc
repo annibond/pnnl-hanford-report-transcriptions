@@ -1,3 +1,5 @@
+[id="assembly_atmospheric_fallout_1975_richland_point_barrow_{assembly-atmospheric-fallout-richland}"]
+
 = Atmospheric Fallout During 1975 at Richland, Washington and Point Barrow, Alaska
 
 C. W. Thomas

@@ -1,3 +1,5 @@
+[id="ref_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast_table-2{ref-use-elemental-concentration-rations-plumes-northeast-3}"]
+
 .Elemental Concentrations Over Rural Areas, Part 1
 
 [cols="1,1,1,1,1,1,1"]

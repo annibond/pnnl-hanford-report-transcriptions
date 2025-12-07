@@ -1,6 +1,9 @@
+[id="ref_measurement_of_particulate_plume_table-2_{ref-particulate-plume-depletion-4}"]
+
 .Ratios of ∑~KR~ to '∑~FP~, sums from ground to top of towers
 
 [cols="1,1,1,1,1"]
+
 |===
 
 ^|*Distance from Source* ^|*Test V5 QAD* ^|*Test V6 QAD* ^|*Test V6 Isoplethed* ^|*Test V7 QAD*

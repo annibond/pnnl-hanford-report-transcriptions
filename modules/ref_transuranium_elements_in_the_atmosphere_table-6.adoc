@@ -1,4 +1,7 @@
+[id="ref_transuranium_elements_in_the_atmosphere_table-6_{ref-transuranium-elements-atmosphere-7}"]
+
 .Relative Abundance on Transuranium Elements Based on Ivy Mike and Estimated Atmospheric Injection
+
 [cols="1,1,1"]
 
 |===
