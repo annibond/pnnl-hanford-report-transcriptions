@@ -1,5 +1,6 @@
-= Solvent Refined Coal - Organic Constituents Present in the Process
+[id="assembly_solvent_refined_coal_organic_constituents_present_{assembly-solvent-refined-coal-organic-constituents}"]
 
+= Solvent Refined Coal - Organic Constituents Present in the Process
 M. R. Peterson
 
 Process streams of a solvent-refining coal pilot plant have been sampled and the major organic constituents determined. About 50 organic compounds have been identified in the process water, the process solvent, process naphtha, the fuel product, and the mineral residue. Polycyclic hydrocarbons, phenols, and quinolines were found to be the main classes of compounds.

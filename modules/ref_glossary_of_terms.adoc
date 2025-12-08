@@ -12,6 +12,9 @@
 |actinides
 |series of 15 heavy, radioactive metals on the periodic table of elements 89 - 103
 
+|activation energy
+|the initial push needed to start a chemical reaction
+
 |aerovane
 |meteorological instrument that combines a wind vane with a propeller anemometer to simultaneously measure both wind speed and direction
 
@@ -99,6 +102,12 @@
 |crustal
 |originated in the earth's crust
 
+|cubic feet per minute (cfm)
+|measurement for airflow over time
+
+|deleterious
+|harmful
+
 |dibenzothiophene
 |a tricyclic organic sulfur compound with the formula  C~12~H~8~S
 
@@ -144,8 +153,20 @@
 |environ
 |surrounding area or conditions that may be affected by radiation or nuclear processes
 
+|facing away
+|the nuclear force binding the nucleon has enough force over a somewhat larger distance (microscopic), causing the force of the nucleons to overpower the repulsion between protons and bring them closer together
+
+|facing toward
+|the nuclear force binding the nucleon has enough force enough within a small distance (> 2.5 x 10^-5^ meters), causing the force of the nucleons to push away from each other, increases nuclear stability
+
 |fence post
 |data marker
+
+|fentometer (fm)
+|a fermi, one quadrillionth of a meter (10^-5^ meters)
+
+|filter
+|a device or mathematical processised to selectively remove unwanted particles, radiation, or noise from the data set
 
 |first order kinetics
 |reaction in which the rate is directly proportional to the concentration of a single reactant
@@ -155,6 +176,9 @@
 
 |flame ionization detector
 |a tool that uses a small hydrogen flame to detect and measure organic compounds in a gas sample
+
+|force
+|the push or pull on an object, Newton's second law of physics, F = ma (Force = mass x acceleration)
 
 |FP
 |f-factor in physics, a conversion between radiation exposure (roengens) to the absorbed dose (rads)
@@ -215,6 +239,9 @@
 
 |IPC filter
 |air filter made by IPC Eagle (a brand of Idrobase Group)
+
+|isokinetic
+|a temperature where a set of nuclear reactions happen at the same rate even if their activation energies are different
 
 |isoplething
 |plotting a map which connects points of equal value for a specific variable, specifically atmospheric dispersion in this case
@@ -303,6 +330,9 @@
 |normalizing data
 |the scaling of a data set so that all probable outcomes approaches or equals 100%
 
+|nucleon
+|a subatomic particle's combined nucleus, containing protons and neutrons
+
 |nuclide
 |isotope
 
@@ -378,17 +408,20 @@
 |rads
 |unit of measurement for absorbed dose of ionizing radiation, corresponding to the absorbption of 0.01 Joule/kg
 
+|Rankin counting method
+|statistical analyze of random fluctuations during nuclear decay
+
 |reactive nonmetals
 |elements that are very eager to gain electrons to form chemical bonds
 
 |roentgens
 |legacy (inactive) unit of measurement for x-rays and gamma rays
 
+|sampler
+|a device used to collect material like air or liquid for statistical uncertainty analysis
+
 |scalar
 |having only a quantity of magnitude (but no direction)
-
-|scm
-|standard cubic meter, a unit of volume for a gas measured under standard conditions of temperature and pressure
 
 |Sf
 |spontaneous fission
@@ -401,6 +434,12 @@
 
 |spallation reaction
 |nuclear reaction where a heavy nucleus, struck by a high-energy particle, breaks apart and ejects many fragments, including neutrons, protons, and lighter nuclei
+
+|statistical uncertainty analysis
+|the process of measuring how much of a sample or data set might differ from the expected or true value
+
+|statistically significant
+|the data outcome is notable and can't be attributed to small but normal fluctuations in a data set
 
 |stationary period
 |a length of time during which two weather fronts remain stable and unchanging
@@ -431,6 +470,9 @@
 
 |velocity
 |the rate at which an object's position changes and includes both magnitude (speed) and direction
+
+|volumetric flow rate
+|the volume of a fluid that passes a certain point per unit of time
 
 |weather vane (vane)
 |a device used to show the direction of the wind

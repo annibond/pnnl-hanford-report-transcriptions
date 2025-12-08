@@ -1,0 +1,31 @@
+[id="con_field_measurement_of_the_effect_of_filter_orientation_{con_field_measurement_direction}"]
+
+== Introduction
+
+In exposing a filter in the atmosphere to obtain samples of a diffusing tracer or aerosol, the filter usually faces the direction from which the pollutant is expected to arrive. However, there can be advantages to filters facing in other directions. For instance, facing a filter downward could avoid deleterious effects associated with the precipitation or large windborne particles of extraneous matter, and be independent of wind direction.
+
+Unfortunately, a truly representative sample of an aerosol-laden air will only be obtained on a filter under isokinetic sampling conditions. These conditions imply that the sampled air is withdrawn parallel to stream flow, that the velocity through the filter is identical to ambient air stream velocity, and that filter holder edge effects do not disturb the aerodynamics streamlines of the approaching air.
+
+Many field experiments conducted at Hanford have entailed the release of the particulate tracer FP 2210footnote:1[FP 2210 is a fluorescent zinc sulfide powder manufactured by U.S. Radium Corp. It has a mass median  diameter of about 5 μm and a specific gravity of 4.1.] to the atmosphere, and subsequent collection of this tracer on filters facing the release point. In this system, embracing hundreds of field sampling locations, it was practical to supply a fixed flow rate to each filter. Isokinetic sampling was a very fortuitous circumstance. Consequently, Sehmelfootnote:2[G. A. Sehmel, Subisokinetic Sampling of Particles in an Air Stream, BNWL-217, Battelle-Northwest, Richland, WA, March 1, 1966.], considering data, determined corrections to be made following use of "standard" Hanford filtersfootnote:3[The standard Hanford assembly employs a 47-mm diameter membrane filter supported by a porous crepe paper backing wound on a central wooden core. The filter surface is exposed for tracer collections about 12 cm2.] for collecting FP 2210 under nonisokinetic conditions.
+
+Early experimental work at Hanford had qualitatively confirmed the need for corrections when conditions did not approach the ideal isokinetic flow. Included were comparisons of the masses collected upon field filters which were simultaneously exposed side-by-side during tracer release, but which were oriented in different directions. A more recent quantitative examination of the earlier experiments serves as the basis of this report.
+
+Since the data presented are from field observations rather than wind tunnel simulation, they are particularly instructive.
+
+== Field Approach
+
+During routine field exposure, Hanford filter samplers on the diffusion grid face the source point. However, during 25 ground-level tracer releases, six additional field locations were fitted with filters that faced vertically upward and filters that faced directly AWAY from the source point. The volumetric flow rate of the additional filters was the same as the routine filter at each location. The "triple header" sampling stations located 200 m from the source had flow rates of 0.3 cfm; the two triple-headers at 1600 m sampled at 0.5 cfm; and the two at 3200 m sampled at 1 cfm. With the standard Hanford filter, a wind speed of 0.35 m/sec results in isokinetic sampling at a 1-cfm rate. Isokinetic sampling occurs at correspondingly lower flow rates.
+
+During three experiments filters were faced alternately TOWARD and AWAY from the source at arcs 200 m, 800 m, 1600 m and 3200 m from the source. Flow rates remained as indicated in the previous paragraph. This second approach presented an opportunity to examine crosswind profiles based on both the TOWARD and AWAY filters. Although this alternate sampling approach did not offer multiple sampling at any given location, its statistical significance was likely greater due to the larger number of filters involved (up to 26 pairs for one sampling arc).
+
+*Figures 1 and 2* show the results of the field exposures. *Figure 1* gives, as a function of wind speed, the ratio of mass collected on filters facing AWAY from the source, to mass collected on those facing TOWARD the source. *Figure 2* presents the same rations for the UP to TOWARD filters. Tracer mass was determined by the Rankin counting methodfootnote:4[J. J. Fuquay, Progress in Atmospheric Physics: A Summary of Hanford Laboratories Work on this Program Under General Electric, 1959-1964, HW-83602, General Electric Company, Richland, WA, September 1964.]. Dots on these figures represent results of individual filter pairings; the crosses on *Figure 1* represent ratios determined from the crosswind profile approach of the immediately preceding paragraph. The curves sketched in are "eyeball estimates".
+
+There is little doubt that the ratios graphed in *Figures 1 and 2* are a function of wind speed. This observation is expected since the TOWARD filters should be most affected by impaction as the wind speed increases above the 0.35 m/sec (or lower) required for isokinetic flow.
+
+The figures indicate that at wind speeds above about 0.5 m/sec, the TOWARD filter is the most efficient collector and the UP filter is the least efficient collector. For instance, at a wind speed of about 5 m/sec, the AWAY filter collects about 40% of the mass collected by the TOWARD filter, and the UP filter collects only 15% of the TOWARD filter mass.
+
+== Conclusions
+
+Data presented here strictly apply only to FP 2210 collected by the standard Hanford filter-filter holder assembly. However, for aerosols, the results indicate the large sampling differences possible due merely to filter orientation.
+
+Although the TOWARD filter sampler is a more efficient sampler than the AWAY or UP samplers, it is not necessarily more accurate. As suggested in the introduction, corrections to sampled masses are needed when aerodynamically large aerosols are sampled in any nonisokinetic configuration. 

@@ -3,7 +3,6 @@
 :stem: latexmath
 
 = A Pitfall in the Application of Tensor Analysis to Fluid Mechanics
-
 W. G. N. Slinn
 
 _An inconsistency is exposed between the conventional use of the convective acceleration in fluid mechanics, v • ∇ v, and the definition for the gradient of a vector +++<span class="math inline">\( \nabla\vec{v} = v_{i,j} \vec{e}^{i} \vec{e}^{i} \)+++. Two remedies are proposed._

@@ -1,0 +1,7 @@
+[id="ref_basic-diagrams_{ref-basic-diagrams}"]
+
+= Placeholder Name
+
+.Cation vs. Anion
+image::../images/ref_basic_anion_cation_diagram.png[Two isotopes next to each other. On the left (1), there is an image labeled "Cation", a negatively charged ion, that contains 4 neutrons, 4 protons, and 5 electrons. On the right (2), there is an image labeled "Anion", a positively charged ion, that contains 4 neutrons, 4 protons, and 3 electrons.]
+

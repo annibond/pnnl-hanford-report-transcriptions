@@ -1,3 +1,5 @@
+[id="assembly_MASTER-COPY_{assembly-MAIN}"]
+
 = Scientific reports from Hanford & the Pacific Northwest Laboratories in the Cold War
 
 Hanford Nuclear Reservation & Pacific North West Laboratories (PNNL)
