@@ -17,3 +17,5 @@ include::../modules/ref_important_names_and_locations.adoc[leveloffset=+1]
 include::../assemblies/assembly_periodic_table_elements.adoc[leveloffset=+1]
 
 == Diagrams
+
+include::../modules/ref_basic_diagrams.adoc[leveloffset=+1]

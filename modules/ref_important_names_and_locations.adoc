@@ -66,4 +66,10 @@ https://www.youtube.com/watch?v=Plr7_SAuB6g[EPA, EPA, EPA!]
 |Washington D.C.
 |department of the federal government that oversees national energy policy, the development of nuclear power, and the military's weapons program for the United States
 
+|United States Radium Corporation
+|Orange, NJ
+|a coporation founded in 1914 that produced uranium and developed radioluminescent paint, responsible for the infamous Radium Girls case in which workers in their plant died slowly from radiation poisoning
+
+https://en.wikipedia.org/wiki/Radium_Girls[Radium Girls]
+
 |===

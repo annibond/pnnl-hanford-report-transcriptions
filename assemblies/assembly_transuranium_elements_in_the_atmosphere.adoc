@@ -1,5 +1,6 @@
-= Transuranium Elements in the Atmosphere
+[id="assembly_transuranium_elements_in_the_atmosphere_{assembly-transuranium-elements-atmosphere}"]
 
+= Transuranium Elements in the Atmosphere
 C. W. Thomas and R. W. Perkins | February 1975 | BNWL-SA-5189
 
 include::../modules/con_transuranium_elements_in_the_atmosphere.adoc[leveloffset=+2]

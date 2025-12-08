@@ -1,5 +1,6 @@
-= Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes
+[id="assembly_measurement_of_particulate_plume_{assembly-particulate-plume-depletion}"]
 
+= Measurement of Particulate Plume Depletion by Comparison with Inert Gas Plumes
 P. W. Nickola and G. H. Clark | January 1974 | BNWL_SA-5135 | Conf. 7409121-8
 
 NOTE: G. H. Clark is an Australian AEC representative of temporary assignment at Battelle, Pacific Northwest Laboratories, Richland, WA.
