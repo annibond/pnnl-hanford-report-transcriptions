@@ -88,6 +88,10 @@
 |phi (lowercase)
 |a meson, a subatomic studied for its properties in nuclear matter
 
+|ψ
+|psi (lowercase)
+|wave function
+
 |Χ
 |Chi (uppercase)
 |tensor

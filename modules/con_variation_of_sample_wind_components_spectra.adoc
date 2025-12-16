@@ -1,0 +1,129 @@
+[id="con_variation_of_sample_wind_components_spectra_{con-variation-spectra}"]
+
+:stem: latexmath
+
+== Introduction
+
+In previous Battelle reportsfootnote:1[D. C. Powell and C. E. Elderkin, “Profile-Derived Estimation of Crosswind Integrated Exposure from Elevated Releases: Method of Investigation,” Pacific Northwest Laboratory Annual Report for 1971 to the USAEC Division of Biology and Medicine, Vol. II: Physical Sciences, Part 1, Atmospheric Sciences, BNWL 161 PT 1, Battelle-Northwest, Richland, WA, pp. 171-173, 1972.],footnote:2[D. C. Powell and C. E. Elderkin, “Profile-Derived Estimation of Crosswind Integrated Exposure from Elevated Releases: Initial Model,” Pacific Northwest Laboratory Annual Report for 1971 to the USAEC Division of Biology and Medicine, Vol. II, Physical Sciences, Part 1, Atmospheric Sciences, BNWL-1651, PT 1, Battelle-Northwest, Richland, WA, pp. 161-170, 1972.],footnote:3[ C. E. Elderkin and D. C. Powell, “Profile-Derived Estimation of Crosswind Integrated Exposure from Elevated Sources: Model Revisions and Applications,” Pacific Northwest Laboratory Annual Report for 1972 to the USAEC Division of Biomedical and Environmental Research, Vol. II: Physical Sciences, Part 1, Atmospheric Sciences, BNWL-1751 PT 1, Battelle-Northwest, Richland, WA, pp. 34-43, 1973.
+],footnote:4[C. E. Elderkin, D. C. Powell, G. H. Clark, and P. W. Nickola, “Comparison of Diffusion-Deposition Model Components with Experimental Results,” Pacific Northwest Laboratory Annual Report for 1973 to the USAEC Division of Biomedical and Environmental Research, Part 3, Atmospheric Sciences, BNWL-1850, PT 3, Battelle-Northwest, Richland, WA, 99. 38-444, 1974.] predictions for σz, the vertical diffusion of a plume from an elevated source, have been made by integrating the Hay-Pasquill equationfootnote:5[F. Pasquill, Atmospheric Diffusion, John Wiley and Sons, New York, NY, 429 pp., 1974.] adapted for vertical diffusion. Writing this equation we use the symbol 
+
+.Equation 1
+[latexmath]
+++++
+\frac{\sigma_{y,z}}{X} = \frac{u_{*}}{\bar{U}} \left\{ \int_{-\infty}^{\infty} \left[ \frac{n S_{v,w}(n)}{u_{*}^{2}} (F) \right] \frac{\sin^{2}\theta}{\theta^{2}} d\left[ \ln(F) \right] \right\}^{1/2}
+++++
+
+where
+
+[latexmath]
+++++
+\Theta = \frac{\pi F / (f_m)_{v, w}}{z/X}^\beta
+++++
+
+In Eq. (1), z is the height of release, X is the downwind travel distance, [.overline]#U# is the mean wind speed, u* is the friction velocity (assumed to be the characteristic turbulence velocity), n is frequency, nS~v, w~^(n)^ refers to the logarithmic power spectrum for either the lateral or the vertical turbulence component, E indicates that the bracketed dimensionless spectrum is in the Eulerian frame of reference, and β is the ratio of the integral scales of turbulence in the Lagrangian and Eulerian frame of reference. The F is a dimensionless frequency best defined by first introducing another dimensionless frequency of boundary layer
+
+.Equation 2
+[latexmath]
+++++
+f = \frac{nz}{\bar{U}}
+++++
+
+Then (f~m~)~v,w~ is the value of f for which nS~v,w~(n) reaches its maximum value, and
+
+.Equation 3
+[latexmath]
+++++
+F = \frac{f}{(f_{m})_{v,w}}
+++++
+
+Placing (F) with the bracketed spectrum indicates that the dimensionless spectrum nSv~,w~(n)/u*^2^ will be considered as a universal function of F. Equation (1) may also be written
+
+.Equation 4
+[latexmath]
+++++
+\frac{\sigma_{Y, Z}}{X} = \phi \left( \frac{Z}{X}, \frac{Z}{L}, \frac{Z}{Z_o} \right)
+++++
+
+since, according to atmospheric boundary layer theory, all the dimensionless meteorological parameters therein must be functions of z/L and z/z~o~, where L is the Monin-Obukhov stability length and z~o~ is the roughness length.
+
+.Equation 5
+[latexmath]
+++++
+\frac{n S_v(n)}{u_*^2} = \frac{2.7 F}{(1 + 1.5 F)^{5/3}}
+++++
+
+In principle, Eq. (1) exhibits one advantage over the many empirical formulae or graphic sets for evaluating the sigmas in that their dependence on stability and roughness may be shown. But the advantage in practice is open to question. Two reasons are lack of known specification of β and f~m~ as functions of stability and roughnessfootnote:5[],footnote:6[N. E. Busch, “The Surface Boundary Layer,” Boundary Layer Meteorology, Vol. 4, pp. 213-240, 1973.], and restricted application for vertical diffusion due to the vertical shear of the mean wind and the change of turbulence scale in the vertical. A third reason is the unparameterized variation of the sigmas from any ensemble prediction, caused by physical conditions not included in the usual boundary layer specification; they may change with time at a given location. An example of unparameterized variation would be terrain effects that affect the mesoscale features of the wind differently when the mean wind blows from different directions. The purpose of this paper is to show the magnitude of unparameterized variation as indicated by integration of sample power spectra and model power spectra according to Eq. (1), and comparing the results.
+
+== Data and Formulations
+
+Among the turbulence tests analyzed from the Hanford measurements made in July 1970, four cases are neutral to slightly stable, i.e., the calculated L was positive and greater than 250 mfootnote:7[D. C. Powell and T. W. Horst, "Comparative Analysis of Atmospheric Boundary Layer Turbulence Through a 60-M Layer,” Pacific Northwest Laboratory Annual Report for 1974 to the USAEC Division of Biomedical and Environmental Research, Part 3, Atmospheric Sciences, BNWL-1950 PT 3, Battelle-Northwest, Richland, WA, pp. 58-64, 1975]. Using data segments of 41 or 55 min from the three heights instrumented by sonic anemometers (7.5 m, 15 m and 60 m) the sample values of u* U, and nSv, w (n) for the numerical integration of Eq. (1) were derived.
+
+The modeled parameters are as follows. The modeled spectra used werefootnote:8[J. C. Kaimal, et. al., “Spectral Characteristics of Surface Layer Turbulence,” Quarterly Journal of the Royal Meteorological Society, Vol. 98, pp. 563-589, 1972.]
+
+.Equation 6
+[latexmath]
+++++
+\frac{n S_w(n)}{u_*^2} = \frac{1.1 F}{1 + 1.5 (F)^{5/3}}
+++++
+
+with f~(m)~ in F [Eq. (3)] given by
+
+.Equation 7
+[latexmath]
+++++
+(f_m)_v = 0.16 \left( 1 + 3.0 \frac{z}{L} \right)
+++++
+
+.Equation 8
+[latexmath]
+++++
+(f_m)_w = 0.47 \left( 1 + 2.0 \frac{z}{L} \right)
+++++
+
+All these these formulae and f~m~ values for neutral conditions were derived either from equations by Kaimal, et. al.footnote:9[N. E. Busch and H. A. Panofsky, “Recent Spectra of Atmospheric Turbulence,” J. C. Kaimal, et. al., “Spectral Characteristics of Surface Layer Turbulence,” Quarterly Journal of the Royal Meteorological Society, Vol. 94, pp. 132-148, 1968.] or by Busch and Panofskyfootnote:9[]. The dependence on stability for f~m~ is based on the results of Kaimal et. alfootnote:10[J. C. Kaimal, et. al., “Spectral Characteristics of Surface Layer Turbulence,” Quarterly Journal of the Royal Meteorological Society, Vol. 98, pp. 563-589, 1972.] for small positive z/L. Analysis was also made without the stability correction f~m~, and the results were amenable to the same interpretation.
+
+.Equation 9
+[latexmath]
+++++
+\beta = 0.35 \bar{U}/u_*
+++++
+
+For each test, at each height, ratios R~y~ and R~z~ were calculated for σz, respectively, by dividing the results of integration of Eq. (1) using the sample spectrum, into that obtained by integration of the modeled spectrum from Eq. (5) or (6). This can be written
+
+.Equation 10
+[latexmath]
+++++
+R_{y, z} = \frac{\sigma_{y, z} (\text{sample spectrum})}{\sigma_{y, z} (\text{modeled spectrum})}
+++++
+
+[latexmath]
+++++
+z = 7.5, 15, 60 \text{ m,}
+++++
+
+[latexmath]
+++++
+X = 10, 30, 100, 300, 1000 \text{ m}
+++++
+
+== Graphic Results
+
+The average values Ry and Rz are shown by the broken lines in *Figure 1*. They are given separately for release heights of 7.5, 15, and 60 m, and continuously for travel distances of 10 to 1000 m for each release height. The standard deviations are shown by the dotted lines. All these ratios apply for neutral stability and for the Hanford site roughness value, zo = 0.03 mfootnote:10[].
+
+The positions of the s and r designations and the lengths of the lines connecting them to the central broken lines show the change predicted in the ratios when the stability and roughness changes (that we shall call unit changes) are fed into the model. The unit change in stability we shall define as the change from neutral to moderately stable - the change from Pasquill D to Pasquill Efootnote:5[]. This change is effected by reading L into the model as 30 m rather than as infinite. The unit change of roughness is defined as half an order of magnitude in zo - from 0.03 m to 0.01 m or 0.10 m.
+
+The positions of the s and r designations in *Figure 1* indicate that
+
+1. the standard deviation of R~y~ is well in excess of the change of σ~y~ predicted by the model for a unit roughness change, and roughly equals the change predicted by the model for a unit stability change.
+
+2. the standard deviation of r~z~ is about equal to the change of σ~z~ predicted by the model for a unit change of roughness and much less than a change of σ~z~ predicted for a unit change of stability.
+
+== Conclusions
+
+The following conclusions are offered from inspection of the graphs.
+
+1. The average values of σ~y~ and σ~z~ predicted by integration of the sample spectra are in all cases greater than those predicted by integration of the modeled spectra. Moreover the ratios of prediction from sample spectra to prediction from modeled spectra, R~y~ and R~z~, all increase with increasing separation distance to values not greater than two separation distances not greater than 1000 m. The reason is that when the models are aligned with the sample spectra in the high and middle frequency ranges, the frequency estimates of the sample spectra (the parts the contributions of which are not filtered out by the trigonometric term in the Hay-Pasquill equation) are generally above the model. Thus the low frequencies are improperly modeled.
+
+2. The uncertainty, i.e., the unparameterized variation of σy is much greater than that for σ~z~.
+
+3. Tentatively we state that the unparameterized variation of σ~y~ is large enough to mask the dependence of σ~y~ on roughness and to some extent on stability. However, the unparameterized variation of σ~z~, while not large enough to mask the dependence of σ~z~m on stability, may do so in the case of small roughness changes.

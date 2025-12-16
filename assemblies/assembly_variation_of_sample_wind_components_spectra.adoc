@@ -1,0 +1,14 @@
+[id="assembly_variation_of_sample_wind_components_spectra_{assembly-variation-spectra}"]
+
+= Variation of Sample Wind Component Spectra and Implications for Diffusion Modeling in the Atmospheric Boundary Layer
+D. C. Powell
+
+_Comparison of sigma values computed by the Hay-Pasquill equation using 1) sample spectra from analysis of Hanford turbulence time series of not more than 55-min duration, and 2) typical model boundary layer turbulence spectra, shows greater values by a factor of about 1.2 to 1.8 when the sample spectra are used and when the downwind distance of integration is on the order of hundreds of meters. There is also considerable unparameterized variation in the estimates of sigma y from the sample spectra._
+
+include::../modules/con_variation_of_sample_wind_components_spectra.adoc[leveloffset=+4]
+
+== Appendices
+
+=== References
+
+include::../modules/ref_variation_of_sample_wind_components_spectra_figures.adoc[leveloffset=+5]

@@ -12,7 +12,6 @@ Quantities obtained from the partial differentiation of components of tensors wi
 \big [\bar{y}^i = a^i_j y^j]
 ++++
 
-
 with the [.big]#stem:[a^i_j]# constants and [.big]#stem:[α^i_j]#, the inverse of [.big]#stem:[a^i_j]#, then for a tensor whose components are [.big]#stem:[t^i_j]# in Cartesians,
 
 .Equation 2
