@@ -2,7 +2,17 @@
 
 = Changelog
 
-.7 December 2025 - 13 December, 2025, BNWL-2000, pp. 53-56
+.14 December 2025 - 20 December, 2025, BNWL-2000, pp. 61-63
+
+* Created "Further Studies on a Low Level Model to Compute Montgomery Stream Functions"
+
+* Reference Material
+
+- Updated "Glossary of Terms", "Greek Letters & Definitions"
+
+NOTE: "Further Studies on a Low Level Model to Compute Montgomery Stream Functions" signals the end of the second section of the report.
+
+.7 December 2025 - 13 December, 2025, BNWL-2000, pp. 53-60
 
 * Created "Field Measurement of the Effect of Filter Orientation on Sampling of a Particulate Tracer"
 
@@ -16,7 +26,7 @@
 
 - Found additional modules in need of IDs and corrected that, general bugs
 
-* *HaPpY BiRtHdAy to me! I am longer in my _prime_. (Get it? 37 is a prime number!)
+* *HaPpY BiRtHdAy to me! I am longer in my _prime_.* (Get it? 37 is a prime number!)
 
 .30 November 2025 - 6 December 2025, BNWL-2000, pp. 39-52
 

@@ -12,3 +12,7 @@ include::../modules/con_simple_development_of_covariant_differentiation.adoc[lev
 === References
 
 include::../modules/ref_simple_development_of_covariant_differentiation_references.adoc[leveloffset=+5]
+
+=== Figures
+
+include::../modules/ref_variation_of_sample_wind_components_spectra_figures.adoc[leveloffset=+5]
