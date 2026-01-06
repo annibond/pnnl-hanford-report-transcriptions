@@ -1,0 +1,13 @@
+[id="ref_modeling_preliminaries_for_dry_deposition_to_a_canopy_references_{assembly-modeling-preliminaries-deposition-references}"]
+
+1. W. G. N. Slinn, "Some Approximations for the Wet and Dry Removal of Particles and Gases from the Atmosphere," BNWL-SA-5489, submitted for publication in [.underline]#Journal of Air, Water and Soil Pollution#, 1975.
+
+2. W. G. N. Slinn, "Dry Deposition and Resuspension: A New Look at Some Old Problems," [.underline]#Proceedings ERDA Conference on Atmosphere-Surface Exchange on Particles and Gases - 1974#, R. J. Engelmann and G. A. Sehmel, coords., in press, 1975.
+
+3. A. C. Chamberlain, "Transport of Lycopodium Spores and Other Small Particles to Rough Surfaces," [.underline]#Proceedings of the Royal Society A#, vol. 296, pp. 45-70, 1967.
+
+4. A. C. Hill and E. M. Chamberlain, "The Removal of Water Soluble Gases from the Atmosphere by Vegetation," [.underline]#Proceedings ERDA Conference on Atmosphere-Surface Exchange on Particles and Gases - 1974#, R. J. Engelmann and G. A. Sehmel, coords., in press, 1975.
+
+5. G. A. Sehmel and W. H. Hodgson, "Particle Dry Deposition and Velocities," [.underline]#Proceedings ERDA Conference on Atmosphere-Surface Exchange on Particles and Gases - 1974#, R. J. Engelmann and G. A. Sehmel, coords., in press, 1975.
+
+6. K. Heinman, K. G. Vogt and L. Angelelli, "Deposition and Retention of Elemental Iodine on Grass and Trefoil," [.underline]#Proceedings of the Royal Society A#, 1967.

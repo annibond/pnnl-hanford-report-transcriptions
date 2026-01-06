@@ -1,0 +1,16 @@
+[id="assembly_modeling_preliminaries_for_dry_deposition_to_a_canopy_{assembly-modeling-preliminaries-deposition}"]
+
+= Modeling Preliminaries for Dry Deposition to a Canopy
+W. G. N. Slinn
+
+_Approximations are introduced to evaluate a canopy’s filtration efficiency. The results are illustrated by plotting the deposition velocity as a function of particle size for various values of the parameter γ = HB / (λp), B/p is the canopy packing density, H is the canopy height, and λ is a characteristic length of the collecting fibers._
+
+include::../modules/con_modeling_preliminaries_for_dry_deposition_to_a_canopy.adoc[leveloffset=+1]
+
+== Appendices
+
+=== References
+
+include::../modules/ref_modeling_preliminaries_for_dry_deposition_to_a_canopy_references.adoc[leveloffset=+2]
+
+include::../modules/ref_modeling_preliminaries_for_dry_deposition_to_a_canopy_references.adoc[leveloffset=+2]

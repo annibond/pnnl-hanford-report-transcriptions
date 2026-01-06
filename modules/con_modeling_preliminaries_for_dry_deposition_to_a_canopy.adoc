@@ -1,0 +1,95 @@
+[id="con_modeling_preliminaries_for_dry_deposition_to_a_canopy_{con-modeling-preliminaries-for-dry-deposition-to-a-canopy}"]
+
+:stem: latexmath
+
+== Introduction
+
+Dry deposition is one mechanism by which pollution is removed from the atmosphere. Typically dry deposition is comparable in effectiveness to precipitation scavenging, although for some pollution sources (e.g., low-level releases) dry deposition is more effective and for others (e.g., stratospheric bomb debris) it is less. Yet the mathematical models of dry deposition lag substantially behind the wet deposition models. In general, the dry deposition models available apply only to dry deposition on smooth surfaces, or are empirical fits to data. This report demonstrates recent progress to extend the author’s dry deposition modelfootnote:2[W. G. N. Slinn, “Dry Deposition and Resuspension: A New Look at Some Old Problems”, Proceedings ERDA Conference on Atmosphere-Surface Exchange on Particles and Gases - 1974, R. J. Engelmann and G. A. Sehmel, coords., in press, 1975.] to the case of dry deposition to a canopy.
+
+== Pollution Fluxes in a Canopy
+
+*Figure 1* shows the assumed pollution fluxes to, within, and from a canopy. From this picture and with obvious assumptions, a steady-state continuity equation can be written as
+
+.Equation 1
+[latexmath]
+++++
+\frac{\partial \chi_{c}}{\partial x} + \frac{(\alpha u_{*} + CH)}{\bar{u}_{c} H} \chi_{c} = \left( \alpha u_{*} - \frac{u_{*}^{2}}{\bar{u}_{g}} \frac{E_{j}}{\beta} \right) \chi_{B}
+++++
+
+where α and β are unknown parameters 𝒪 (1); u* is the friction velocity; C is the fraction of the pollutant of a specific (e.g., size) class filtered by the canopy per second; and E~j~ is is the jet collection efficiency for which the author elsewhere gave the approximation
+
+.Equation 2
+[latexmath]
+++++
+E_{j} = 10^{-3/St} + \frac{\beta}{\gamma} (Sc)^{-0.6}
+++++
+
+in which St is the Stokes number based on the viscous length v/u*: St = τu*2/v and Sc = v/D is the Schmidt number. In these expressions v is the kinematic viscosity, τ is the particle relaxation time and D is the pollutant’s molecular diffusivity.
+
+== Deposition Velocity
+
+If the concentration of the pollutant in the boundary layer above the canopy, B, is a constant, then *Eq. (1)* predicts an x-independent concentration in the canopy χ~c~ in distance _𝒪 [ ucH / (u* + CH)]_, which is typically about 10 canopy heights. Then for x-independent conditions, *Eq. (1)* can easily be solved to give c in terms of B. From this result, the deposition velocity, the net flux to the canopy divided by B, becomes
+
+.Equation 3
+[latexmath]
+++++
+v_{d} = v_{s} - \frac{\delta u_{*}^{2}}{\bar{u}_{g}} \frac{E_{j}}{\beta} + \frac{\alpha u_{*}}{\alpha u_{*} + CH} \left[ CH + \frac{u_{*}^{2}}{\bar{u}_{g}} \frac{E_{j}}{\beta} \right]
+++++
+
+where δ is the fraction of jet-deposited pollutant which is resuspended. An estimate for δ, derived from data obtained by Chamberlainfootnote:3[A. C. Chamberlain, “Transport of Lycopodium Spores and Other Small Particles to Rough Surfaces,” Proceedings of the Royal Society A, vol. 296, pp. 45-70, 1967.], is given elsewherefootnote:2[].
+
+== Filtration Efficiency
+
+The major thrust of this report is to present an estimate for the canopy filtration efficiency, _C_. To do this, it is noted that during a time interval _dt_ the amount of the contaminant removed by a single collector of cross-sectional area _A_ is _[.overline]#u#~c~ dt AƎ χ~c~_ where _Ǝ_ is a collection efficiency. If the number of collectors, per unit volume, and of cross-sectional Area _A_ to _A + dA is N(A)dA_, the total removal per unit volume during _dt_ is
+
+.Equation 4
+[latexmath]
+++++
+\begin{aligned} C \chi_{c} dt &= \chi_{c} \int_{\substack{\text{All} \\ \text{collectors}}} \\ \bar{u}_{c} dt \text{ } &\exists A N(A) dA \end{aligned}
+++++
+
+Obviously this integral would be extremely difficult to evaluate for real canopies, the integral being, for example, over all pine needles, leaves, tree trunks, grass blades, etc.
+
+Because of the complexities we propose an approximation for the integral in *Eq. (4)*. For vegetative canopies, the total biomass per unit volume is essentially
+
+.Equation 5
+[latexmath]
+++++
+B = \bar{\rho} \int_{\substack{\text{All} \\ \text{collectors}}} \lambda A N(A) dA 
+++++
+
+where p̄ is an average mass density of the foliage and λ is a typical length scale (e.g., radium) of individual fibers. _B / [.overline]#p#_ might be called the canopy filter’s packing density. Upon comparing *Eq. (4)* and *Eq. (5)*, the removal rate may be approximated by
+
+.Equation 6
+[latexmath]
+++++
+C = \frac{\bar{u}_{C} B}{\lambda \bar{\rho}} E(a, \lambda)
+++++
+
+which is to be used in *Eq. (3)*, with _a_ the pollutant particle’s radius.
+
+== Illustration
+
+*Figure 2* shows a plot of *Eq. (3)* with _C_ given by *Eq. (6)* for the specific set of parameters shown. To evaluate *Eq. (6)* the collection efficiency _Ǝ_ was taken to be the same as for snowflakes* with the characteristic length _λ = 1 mm_. The basis for this choice of collection efficiency is the following two considerations:
+
+1. the physical processes governing the collection in both cases (viz. Brownian diffusion, interception, inertial capture, etc.) are the same and, therefore, the collection efficiencies will be similar
+
+2. even though the analogy almost certainly fails in detail, still the general accuracy of this model is so crude as to tolerate inaccuracies in the specification of _Ǝ_.
+
+NOTE: _*_ denotes the contribution by the author entitled "Precipitation Scavenging of Monidisperse Aerosol Particles" in this volume.
+
+== Results and Conclusions
+
+Sufficient data are not yet available to test this model and to evaluate the parameters _α_, _β_, _λ_, and _δ_. Nevertheless, it can easily be seen from *Eq. (3)* and *Eq. (6)* that the theory is consistent with the following experimental results:
+
+* A linear increase and then saturation of vd~~ with increasing _[.overline]#u#~c~_ and _H_footnote:3[],footnote:4[A. C. Hill and E. M. Chamberlain, “The Removal of Water Soluble Gases from the Atmosphere by Vegetation”, Proceedings ERDA Conference on Atmosphere-Surface Exchange on Particles and Gases - 1974, R. J. Engelmann and G. A. Sehmel, coords., in press, 1975.]
+
+* An increase of v~d~ with roughness heightfootnote:5[G. A. Sehmel and W. H. Hodgson, "Particle Dry Deposition and Velocities,” Proceedings ERDA Conference on Atmosphere-Surface Exchange on Particles and Gases - 1974, R. J. Engelmann and G. A. Sehmel, coords., in press, 1975.]
+
+* An increase of v~d~ with biomassfootnote:6[K. Heinman, K. G. Vogt and L. Angelelli, “Deposition and Retention of Elemental Iodine on Grass and Trefoil,” Proceedings of the Royal Society A, 1967.]
+
+* The reduction in vd caused  by resuspensionfootnote:3[]
+
+To account for the observed variations if vd for gases as a function of humidity and biological activity, a reintroduction of the surface, rate-limiting arguments is needed.† Such considerations lead to the reduction in vd for a gas, qualitatively as shown in *Figure 2*, using the results shown elsewhere† with the _β_ of that theory _= 10^3^_ and _κ = 0_.
+
+NOTE: _†_ denotes the report by the author entitled "Rate Limiting Aspects of the Dry Deposition of Gases" in this volume, pp. 69-72.

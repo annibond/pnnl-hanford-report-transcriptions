@@ -44,6 +44,10 @@
 |kappa (lowercase)
 |the neutron multiplication factor
 
+|Λ
+|Lambda (uppercase)
+|radioactive decay constant
+
 |λ
 |lambda (lowercase)
 |decay constant, which represents the probability per unit time that a radioactive nucleus will decay
