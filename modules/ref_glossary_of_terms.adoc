@@ -1,5 +1,7 @@
 [id="ref_glossary_of_terms_{ref-glossary}"]
 
+:stem: latexmath
+
 .Glossary of Terms
 
 [cols="1,1"]
@@ -14,6 +16,9 @@
 
 |activation energy
 |the initial push needed to start a chemical reaction
+
+|adiabatic lapse rate
+|the theoretical measurement of the rate at which a rising or sinking item of air cools or warms, which is an inverse correlation
 
 |aerovane
 |meteorological instrument that combines a wind vane with a propeller anemometer to simultaneously measure both wind speed and direction
@@ -54,11 +59,20 @@
 |beta-emitter
 |less intense, lighter particles with longer range, more capable of harming surrounding environment
 
+|boundary layer
+|region of the atmosphere directly influenced by the Earth's surface
+
+|Brownian diffusion
+|the random, zigzagging motion of very small particles caused by constant collisions with gas milecules
+
 |burn-up
 |amount of nuclear fuel consumed in a reactor
 
 |Calder’s deposition
 |mathematical models for atmospheric diffusion and dry deposition
+
+|canopy layer
+|a space above the Earth's surface that contains vegetation (e.g., forests) that extend from the ground to a defined altitude
 
 |Cartesian math
 |a system for representing data using coordinates on a plane or in space, commonly through having an x-axis and a y-axis
@@ -66,29 +80,32 @@
 |cation
 |positively charged ion
 
+|causation
+|two things that are connected in which one of the variables is the specific cause of the other
+
 |centerline concentration
 |maximum concentration of emissions measured across the center of a plume
 
 |CIE/Q
 |relevant data points include nucleus, nuclear energy, nuclear fission, nuclear fusion, and nuclear radiation
 
-|causation
-|two things that are connected in which one of the variables is the specific cause of the other
-
 |chromatography
 |a method of measurement that tracks the properties of a substance by analyzing how it interacts with radiation, using properties like light or the propertoes of ions
-
-|constituents
-|protons and neutrons that make up a nucleus
 
 |convective acceleration
 |the change in velocity experienced by a fluid particle as it moves from one location to another due to a non-uniform flow field
 
-|correlation
-|two things that are connected in which one of the variables depends on the other
-
 |cosmogenic
 |produced by cosmic rays
+
+|concomittant
+|two or more factors that contribute to a data set at the same time
+
+|constituents
+|protons and neutrons that make up a nucleus
+
+|correlation
+|two things that are connected in which one of the variables depends on the other
 
 |counts per minute (cpm)
 |measurement of the rate of events detected by a radiation monitoring instrument, such as a Geiger counter
@@ -107,6 +124,12 @@
 
 |deleterious
 |harmful
+
+|deposition
+|the process by which particles are removed from the atmosphere and land on the ground
+
+|deposition flux
+|the rate at which radioactive materials are removged from the atmosphere and accumulate on the ground
 
 |dibenzothiophene
 |a tricyclic organic sulfur compound with the formula  C~12~H~8~S
@@ -168,6 +191,12 @@
 |filter
 |a device or mathematical processised to selectively remove unwanted particles, radiation, or noise from the data set
 
+|filter system
+|an engineered safety mechanism that removes radioactive contamination
+
+|filtration efficiency
+|the measurement of a filter system's ability to remove airborne radioactive particles
+
 |first order kinetics
 |reaction in which the rate is directly proportional to the concentration of a single reactant
 
@@ -225,11 +254,20 @@
 |impactor
 |an instrument used to sample and size-segregate airborne particles, including radioactive aerosols
 
+|inertial capture
+|the process where a particle's own weight and momentum prevent it from following a curved path in the air
+
+|ingestion
+|the downward movement of particles from the boundary layer to the canopy layer as air flows through it, opposite of reinsertion
+
 |insoluble
 |incapable of being dissolved by a substance
 
 |instrumental neutron activation analysis (INAA)
 |a non-destructive nuclear analytical technique used to determine the elemental composition of various materials at very low (trace) levels
+
+|interception
+|the process by which a particle is captured as it follows the air streamline but is too large to pass the surface without touching it
 
 |inversion layer
 |where a layer of warm air is situated above cooler air in the atmosphere
@@ -251,6 +289,9 @@
 
 |Ivy Mike test
 |the codename for the first-full scale test of a thermonuclear device, part of a series in Operation Ivy
+
+|jet deposition
+|a force where high-energy jets of air push through the canopy, carrying particles that settle on surfaces
 
 |KeV time
 |measurement of time that descibes the neutron fluence (time-integrated flux), measured in moles
@@ -297,11 +338,17 @@
 |mineral residue
 |a geological deposit left behind after weathering or an accumulation of minerals in water
 
+|millibars (mb)
+|a measurement of the weight of atmospheric pressure
+
 |mole
 |measurement of the number of atoms, molecules or ions (1 mole = Avogadro's number, = 6.022x10^23^)
 
 |momentary exposure
 |short-term or immediate data
+
+|monodisperse
+|collection of particles that are the same size
 
 |most probable charge (Zp)
 |the most likely proton number of a fission fragment within an isobaric chain in nuclear fission
@@ -399,8 +446,8 @@
 |radioactive yield
 |percentage of a radioactive product's activity compared to the starting radioactivity, both decay-corrected to the same point in time
 
-|radiotoxicity
-|percentage of a radioactive product's activity compared to the starting radioactivity, both decay-corrected to the same point in time
+|radiosonde
+|a small weather balloon that measures and transmit data about the atmosphere
 
 |radionuclides
 |unstable forms of chemical element that releases radiation
@@ -411,8 +458,17 @@
 |Rankin counting method
 |statistical analyze of random fluctuations during nuclear decay
 
+|rate-limited
+|the restriction of how often an action can be repeated within a specific time frame
+
 |reactive nonmetals
 |elements that are very eager to gain electrons to form chemical bonds
+
+|reinsertion
+|the upward movement of particles from the canopy layer to the boundary layer as air flows through it, opposite of ingestion
+
+|resuspension
+|the process by which particles that have approached or struck a surface are kicked back into the air through a force of air
 
 |roentgens
 |legacy (inactive) unit of measurement for x-rays and gamma rays
@@ -423,6 +479,9 @@
 |scalar
 |having only a quantity of magnitude (but no direction)
 
+|sedimentation
+|the process by which particles fall through the air by gravityand settle on a surface beneath
+
 |Sf
 |spontaneous fission
 
@@ -431,6 +490,9 @@
 
 |solvent
 |a substance used to dissolve other substances
+
+|sounding
+|the measurement of radioactive dispersion on atmospheric conditions 
 
 |spallation reaction
 |nuclear reaction where a heavy nucleus, struck by a high-energy particle, breaks apart and ejects many fragments, including neutrons, protons, and lighter nuclei
@@ -444,8 +506,18 @@
 |stationary period
 |a length of time during which two weather fronts remain stable and unchanging
 
+|Stokes number (Stk)
+|the ratio of a particle's aerodynamic response time (τνp) to the time scale of the fluid flow (τνf)
+
+Stk = Particle Characteristic Time / Flow Characteristic Time
+
+Stk = τ~p~/τ~f~
+
 |substrate
 |base layer or material on which a nuclear target is prepared or deposited
+
+|surface boundary conditions
+|rules that define what happens to things like neutrons or heat at the edge of a system
 
 |tensor
 |a mathematical object that can describe the properties of a nucleus, a way to describe physical quantities that are more complex than a single number

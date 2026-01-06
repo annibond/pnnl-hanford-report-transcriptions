@@ -2,7 +2,17 @@
 
 = Changelog
 
+.04 January 2026 - 10 January 2026, BNWL-2000, pp.
+
+* Created "Modeling Preliminaries for Dry Deposition to a Canopy"
+
+* Reference Material
+
+- Updated "Glossary of Terms"
+
 .14 December 2025 - 20 December, 2025, BNWL-2000, pp. 61-63
+
+* Created "Deposition and Resuspension" section assembly, pp. 64-126
 
 * Created "Further Studies on a Low Level Model to Compute Montgomery Stream Functions"
 

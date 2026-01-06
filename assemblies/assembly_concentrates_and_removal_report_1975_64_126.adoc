@@ -1,0 +1,19 @@
+[id="assembly_concentrates_and_removal_report_1975_64_126_{cassembly-deposition-and-resuspension-MAIN}"]
+
+= Deposition and Resuspension
+
+Because deposition and resuspension are so important in determining the environmental consequences to man of controlled or inadvertent releases or effluents from nuclear and conventional energy production and from manufacturing, agriculture, transportation, and other industries. PNL has undertaken studies of these processes. The principal objectives of this work are to identify the significant controlling parameters to develop theoretical models, justify theory with laboratory and field experiments, then perform the sensitivity analysis to determine the relative importance of the many independent variables. These studies provide vital input into environmental impact assessment of many sources of released contaminants.
+
+Significant contributions were made in 1975 in both theoretical and the more practical experimental measurements of deposition and resuspension. Solutions of theoretical deposition-resuspensions equations were formulated and nondimensionalized air and ground concentrations were predicted as a function of distances. In other theoretical studies assumptions and analyses regarding surface boundary conditions were investigated and methods presented whereby they can be fitted together within a single theoretical framework. Deposition in vegetation canopies was considered; formulations were developed and conclusions drawn regarding canopy “filtration efficiency”. Dry deposition of gases was shown to be rate-limited by many processes and experiments and equipment were designed to measure gradients of SO~2~ and deposition fluxes. A computer model was improved and used to predict downwind concentrations for a generalized area source. A dimensional analysis correlation was formulated from experimental particle deposition velocity data, but was found to show insignificant improvement when compared statistically with an earlier derived correlation. Wind tunnel measurements of deposition velocities to gravel beds and scaled trees showed that particles will penetrate very significantly sagebrush canopies. Other controlled field studies were initiated for measuring resuspension, including resuspension from truck traffic. Suspension of soil and the size distribution of particles airborne under various air regimes was studied. In the large METROMEX study near St. Louis, several pollutants were sampled and analyzed as a function of distance. These studies gave insight into the relative importance of dry deposition and atmospheric dispersion as mechanisms for reducing air concentrations.
+
+In the following section an account of these and other studies is given in more detail. These studies have contributed to the understanding of deposition and resuspension, yet much remains to be learned about the fundamental physical processes governing these mechanisms.
+
+* Theoretical studies in atmospheric sciences
+
+* Particle resuspension and translocation
+
+* Radioisotopes as particles and volatiles
+
+* Atlantic Richfield Hanford Company
+
+include::../modules/con_modeling_preliminaries_for_dry_deposition_to_a_canopy.adoc[leveloffset=+1]

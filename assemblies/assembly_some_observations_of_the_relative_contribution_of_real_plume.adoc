@@ -5,18 +5,18 @@ P. W. Nickola
 
 _The contribution of real plume diffusion to the apparent plume considered in hazards appraisals varies from less than 10% to more than 80%. No dependence on conventional stability measurements is obvious in the 8 field experiments examined._
 
-include::../modules/con_some_observations_of_the_relative_contribution_of_real_plume.adoc[leveloffset=+4]
+include::../modules/con_some_observations_of_the_relative_contribution_of_real_plume.adoc[leveloffset=+1]
 
 == Appendices
 
 === References
 
-include::../modules/ref_some_observations_of_the_relative_contribution_of_real_plume_references.adoc[leveloffset=+5]
+include::../modules/ref_some_observations_of_the_relative_contribution_of_real_plume_references.adoc[leveloffse2=+5]
 
 === Tables
 
-include::../modules/ref_some_observations_of_the_relative_contribution_of_real_plume_table-1.adoc[leveloffset=+5]
+include::../modules/ref_some_observations_of_the_relative_contribution_of_real_plume_table-1.adoc[leveloffset=+2]
 
 === Figures
 
-include::../modules/ref_some_observations_of_the_relative_contribution_of_real_plume_figures.adoc[leveloffset=+5]
+include::../modules/ref_some_observations_of_the_relative_contribution_of_real_plume_figures.adoc[leveloffset=+2]
