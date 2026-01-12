@@ -1,4 +1,5 @@
 [id="con_solvent_refined_coal_organic_constituents_present_{con-solvent-refined-coal-organic-constituents}"]
+include::../attributes.adoc[]
 
 == Introduction
 

@@ -1,6 +1,7 @@
 [id="assembly_concentrates_and_removal_report_1975_0_43_{cassembly-concentrates_and_removal-1}"]
+include::../attributes.adoc[]
 
-= Pacific Northwest Laboratory Annual Report for 1975 to the USERDA Division of Biomedical and Environmental Research Part 3 Atmospheric Sciences
+== {PNL} Annual Report for 1975 to the USERDA Division of Biomedical and Environmental Research Part 3 Atmospheric Sciences
 
 *Prepared by the U.S. Energy Research and Development Administration under Contract E(45-1): 1830*
 
@@ -16,12 +17,12 @@ This report was prepared as an account of work sponsored by the United States Go
 
 == Printing Details
 
-Copy No. 3 3679 00059 2446 | BNWL-2000 PT 3 | UC-11
+Copy No. 3 3679 00059 2446 | {BNWL2000} | UC-11
 
-Pacific Northwest Laboraty operated by Battelle for the U.S. Energy and Development Administration Under Contract E(45-1)-1830
+{PNL} operated by {bat} for the {DOE} and {DA} Under Contract E(45-1)-1830
 
-Printed in the United States of America
-Available from the U.S. Department of Commerce
+Printed in the {USA}
+Available from the {DOC}
 5285 Port Royal Road
 Springfield, Virgina 22151
 

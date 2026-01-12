@@ -1,0 +1,9 @@
+[id="ref_rate_limiting_aspects_of_the_dry_deposition_of_gases_references_{ref-rate-limiting-dry-deposition-references}"]
+
+1. {WGNS}, "Some Approximations for the Wet and Dry Removal of Particles and Gasses from the Atmosphere,"" BNWL-SA-5489, submitted for publication in [.underline]#{JAWSP}#, 1975.
+
+2. {PSL} and {PGS}, "Mechanism and Rate of Gas Transfer Across the Air-Sea Interface,” in [.underline]#Atmosphere - Surface Exchange of Particles and Gases - 1974#, {RJE} and {GAS}, coords., ERDA Symposium Series, in press.
+
+3. {AKP}, "Effect of Solubility of Gases on Their Scavenging," [.underline]#Precipitation Scavenging - 1970#, {RJE} and {WGNS}, coords., AEC Symposium Series, CONF - 700601, 1970.
+
+4. {ACH} and {EMC}, "The Removal of Water Soluble Gases from the Atmosphere by Vegetation," Atmosphere-Surface Exchange of Particulate and Gaseous Pollutants, {RJE} and {GAS}, coords., ERDA Symposium Series, to be published, 1976.

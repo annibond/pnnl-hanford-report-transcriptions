@@ -1,6 +1,7 @@
-[id="ref_atmospheric_fallout_1975_richland_point_barrow_figures_table-1_{ref-atmospheric-fallout-richland-1}"]
+[id="ref_atmospheric_fallout_1975_richland_point_barrow_figures_table-1_{ref-atmospheric-fallout-richland-table-1}"]
+include::../attributes.adoc[]
 
-.Radionuclide Concentration in Surface Air at Richland, Washington (Neg-760669-1)
+.Radionuclide Concentration in Surface Air at {rich}, {WA} (Neg-760669-1)
 
 [cols="1,1,1,1,1,1,1"]
 

@@ -1,4 +1,5 @@
 [id="con_lead_pb_concentrations_associated_with_1000_mb_{con-lead-concentrations-1000-mb}"]
+include::../attributes.adoc[]
 
 == Introduction
 As more attention has been given to the problem of air pollution over populated areas of the United States and the rest of the world, quantitative observation of pollution levels in the air around metropolitan areas has become routine. To evaluate these observations with regard to the possible control of suspected sources, background pollutant levels, i.e., the amount of any specific material which is in the air before it is affected by a source region, must be considered. Environmental impact statements relating to the original air quality prior to projected development require such data.

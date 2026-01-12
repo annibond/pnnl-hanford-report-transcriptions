@@ -1,4 +1,5 @@
 [id="ref_some_observations_of_the_relative_contribution_of_real_plume_figures_{ref-some-observations-relative-contribution-real-plume-1}"]
+include::../attributes.adoc[]
 
 .Meteorology and General Character of the Plume During Experiment V6 (Neg 753125-1)
 

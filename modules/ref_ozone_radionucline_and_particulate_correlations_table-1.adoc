@@ -1,5 +1,5 @@
 [id="ref_ozone_radionuclide_and_particulate_correlations_table-1_{ref-ozone-radionuclide-particulate-quillayute-3}"]
-
+include::../attributes.adoc[]
 .Relative Abundance on Transuranium Elements Based on Ivy Mike and Estimated Atmospheric Injection
 
 [cols="1,1,1,1,1"]

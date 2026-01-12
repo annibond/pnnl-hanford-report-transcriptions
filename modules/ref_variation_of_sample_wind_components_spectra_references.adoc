@@ -1,21 +1,22 @@
 [id="ref_variation_of_sample_wind_components_spectra_references_{ref-variation-spectra-references}"]
+include::../attributes.adoc[]
 
-1. D. C. Powell and C. E. Elderkin, “Profile-Derived Estimation of Crosswind Integrated Exposure from Elevated Releases: Method of Investigation,” [.underline]#Pacific Northwest Laboratory Annual Report for 1971 to the USAEC Division of Biology and Medicine, Vol. II: Physical Sciences, Part 1, Atmospheric Sciences#, BNWL 161 PT 1, Battelle-Northwest, Richland, WA, pp. 171-173, 1972.
+1. {DCP} and {CEE}, "Profile-Derived Estimation of Crosswind Integrated Exposure from Elevated Releases: Method of Investigation," [.underline]#{PNLAR} for 1971 to the {USAEC-V2-P1}#, BNWL-1651 PT 1, {BN}, {rich}, {WA}, pp. 171-173, 1972.
 
-2. D. C. Powell and C. E. Elderkin, “Profile-Derived Estimation of Crosswind Integrated Exposure from Elevated Releases: Initial Model,” [.underline]#Pacific Northwest Laboratory Annual Report for 1971 to the USAEC Division of Biology and Medicine, Vol. II, Physical Sciences, Part 1, Atmospheric Sciences#, BNWL-1651, PT 1, Battelle-Northwest, Richland, WA, pp. 161-170, 1972.
+2. {DCP} and {CEE}, "Profile-Derived Estimation of Crosswind Integrated Exposure from Elevated Releases: Initial Model," [.underline]#{PNLAR} for 1971 to the {USAEC-V2-P1}#, BNWL-1651, PT 1, {BN}, {rich}, {WA} pp. 161-170, 1972.
 
-3. C. E. Elderkin and D. C. Powell, “Profile-Derived Estimation of Crosswind Integrated Exposure from Elevated Sources: Model Revisions and Applications,” [.underline]#Pacific Northwest Laboratory Annual Report for 1972 to the USAEC Division of Biomedical and Environmental Research, Vol. II: Physical Sciences, Part 1, Atmospheric Sciences#, BNWL-1751 PT 1, Battelle-Northwest, Richland, WA, pp. 34-43, 1973.
+3. {CEE} and {DP}, "Profile-Derived Estimation of Crosswind Integrated Exposure from Elevated Sources: Model Revisions and Applications,"" [.underline]#{PNLAR} for 1972 to the {USAEC-V2-P1}#, BNWL-1751 PT 1, {BN}, {rich}, {WA}, pp. 34-43, 1973.
 
-4. C. E. Elderkin, D. C. Powell, G. H. Clark, and P. W. Nickola, “Comparison of Diffusion-Deposition Model Components with Experimental Results,” [.underline]#Pacific Northwest Laboratory Annual Report for 1973 to the USAEC Division of Biomedical and Environmental Research, Part 3, Atmospheric Sciences#, BNWL-1850, PT 3, Battelle-Northwest, Richland, WA, 99. 38-444, 1974.
+4. {CEE}, {DCP}, {GHC} and {PWN}, "Comparison of Diffusion-Deposition Model Components with Experimental Results," [.underline]#{PNLAR} for 1973 to the {USAEC-P3}#, BNWL-1850, PT 3, {BN}, {rich}, {WA} 99. 38-444, 1974.
 
-5. F. Pasquill, [.underline]#Atmospheric Diffusion#, John Wiley and Sons, New York, NY, 429 pp., 1974.
+5. {FP}, [.underline]#{AD}#, John Wiley and Sons,{NY}, NY, 429 pp., 1974.
 
-6. N. E. Busch, “The Surface Boundary Layer,” [.underline]#Boundary Layer Meteorology#, Vol. 4, pp. 213-240, 1973.
+6. {NEB}, “The Surface Boundary Layer,” [.underline]#{BLM}#, Vol. 4, pp. 213-240, 1973.
 
-7. D. C. Powell and T. W. Horst, "Comparative Analysis of Atmospheric Boundary Layer Turbulence Through a 60-M Layer,” [.underline]#Pacific Northwest Laboratory Annual Report for 1974 to the USAEC Division of Biomedical and Environmental Research, Part 3, Atmospheric Sciences#, BNWL-1950 PT 3, Battelle-Northwest, Richland, WA, pp. 58-64, 1975.
+7. {DCP} and {TWH}, "Comparative Analysis of Atmospheric Boundary Layer Turbulence Through a 60-M Layer,” [.underline]#{PNLAR} for 1974 to the {USAEC-P3}#, BNWL-1950 PT 3, {BN}, {rich}, {Wa}, pp. 58-64, 1975.
 
-8. J. C. Kaimal, et. al., “Spectral Characteristics of Surface Layer Turbulence,” [.underline]#Quarterly Journal of the Royal Meteorological Society#, Vol. 98, pp. 563-589, 1972.
+8. {JCK}, et. al., “Spectral Characteristics of Surface Layer Turbulence,” [.underline]#{QJRMS}#, Vol. 98, pp. 563-589, 1972.
 
-9. N. E. Busch and H. A. Panofsky, “Recent Spectra of Atmospheric Turbulence,” J. C. Kaimal, et. al., “Spectral Characteristics of Surface Layer Turbulence,” [.underline]#Quarterly Journal of the Royal Meteorological Society#, Vol. 94, pp. 132-148, 1968.
+9. {NEB} and {HAP}, “Recent Spectra of Atmospheric Turbulence,” {JCK}, et. al., “Spectral Characteristics of Surface Layer Turbulence,” [.underline]#{QJRMS}#, Vol. 94, pp. 132-148, 1968.
 
-10. T. W. Horst and C. E. Elderkin, "Turbulence Studies in the Atmospheric Boundary Layer,” [.underline]#Pacific Northwest Laboratory Annual Report for 1969 to the USAEC Division of Biology and Medicine, Vol. II: Physical Sciences, Part I: Atmospheric Sciences#, BNWL 1307, PT I, Battelle-Northwest, Richland, WA, pp. 36-41, 1970.
+10. {TWH} and {CEE}, "Turbulence Studies in the Atmospheric Boundary Layer,” [.underline]#{PNLAR} for 1969 to the {USAEC-V2-P1}#, BNWL-1307, PT I, {BN}, {rich}, {WA} pp. 36-41, 1970.

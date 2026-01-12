@@ -1,4 +1,5 @@
 [id="ref_atmospheric_fallout_1975_richland_point_barrow_figures_table-2_{ref-atmospheric-fallout-richland-2}"]
+include::../attributes.adoc[]
 
 .Readionuclide Concentration in Surface Air at Point Barrow, Alaska
 

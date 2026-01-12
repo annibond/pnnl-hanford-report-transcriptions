@@ -1,4 +1,5 @@
 [id="ref_modeling_preliminaries_for_dry_deposition_to_a_canopy_figures_{assembly-modeling-preliminaries-deposition-figures}"]
+include::../attributes.adoc[]
 
 .Assumed Pollutant Fluxes in a Canopy (Neg. 754519-13)
 

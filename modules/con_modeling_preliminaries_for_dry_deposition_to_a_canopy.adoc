@@ -1,5 +1,5 @@
 [id="con_modeling_preliminaries_for_dry_deposition_to_a_canopy_{con-modeling-preliminaries-for-dry-deposition-to-a-canopy}"]
-
+include::../attributes.adoc[]
 :stem: latexmath
 
 == Introduction

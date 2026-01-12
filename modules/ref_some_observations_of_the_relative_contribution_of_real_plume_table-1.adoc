@@ -1,4 +1,5 @@
 [id="ref_some_observations_of_the_relative_contribution_of_real_plume_table-1_{ref-some-observations-relative-contribution-real-plume-3}"]
+include::../attributes.adoc[]
 
 .Meteorology and Stability Classification During Eight ^~^85^Kr Releases
 

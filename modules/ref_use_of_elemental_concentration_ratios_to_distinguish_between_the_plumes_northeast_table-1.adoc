@@ -6,7 +6,7 @@
 
 |===
 
-^| ^|*St. Louis* ^|*St. Louis* ^|*Indianapolis* ^|*Columbus* ^|*Pittsburgh* ^|*Buffalo* ^|*Rochester* ^|*Allentown-Bethlehem* ^|*Philadelphia* ^|*Baltimore* ^|*Washington D.C.* ^|*New York* ^|*New York*
+^| ^|*{STL}* ^|*{STL}* ^|*{indy}* ^|*{colu}* ^|*{pitt}* ^|*{buff}* ^|*{roch}* ^|*{allen}-{beth}* ^|*{philly}* ^|*{balt}* ^|*{WA} D.C.* ^|*{NY}* ^|*{NY}*
 
 ^|*Time (Local)*
 >|1100 - 1300
@@ -61,9 +61,9 @@
 
 |===
 
-^| ^|*St. Louis* ^|*St. Louis* ^|*Indianapolis* ^|*Columbus* ^|*Pittsburgh ^|*Buffalo*
-^|*Rochester* ^|*Allentown-Bethlehem*
-^|*Philadelphia* ^|*Baltimore* ^|*Washington D.C* ^|*New York* ^|*New York*
+^| ^|*{STL}* ^|*{STL}* ^|*{indy}* ^|*{colu}* ^|*{pitt}* ^|*{buff}*
+^|*{roch}* ^|*{allen}-{beth}*
+^|*{philly}* ^|*{balt}* ^|*{WA} D.C* ^|*{NY}* ^|*{NY}*
 
 ^|Sodium
 >|720

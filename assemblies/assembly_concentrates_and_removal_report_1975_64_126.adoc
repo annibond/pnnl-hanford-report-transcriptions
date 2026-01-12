@@ -1,6 +1,7 @@
-[id="assembly_concentrates_and_removal_report_1975_64_126_{cassembly-deposition-and-resuspension-MAIN}"]
+[id="assembly_concentrates_and_removal_report_1975_64_126_{cassembly-deposition-and-resuspension-3}"]
+include::../attributes.adoc[]
 
-= Deposition and Resuspension
+== Deposition and Resuspension
 
 Because deposition and resuspension are so important in determining the environmental consequences to man of controlled or inadvertent releases or effluents from nuclear and conventional energy production and from manufacturing, agriculture, transportation, and other industries. PNL has undertaken studies of these processes. The principal objectives of this work are to identify the significant controlling parameters to develop theoretical models, justify theory with laboratory and field experiments, then perform the sensitivity analysis to determine the relative importance of the many independent variables. These studies provide vital input into environmental impact assessment of many sources of released contaminants.
 
@@ -17,3 +18,4 @@ In the following section an account of these and other studies is given in more 
 * Atlantic Richfield Hanford Company
 
 include::../modules/con_modeling_preliminaries_for_dry_deposition_to_a_canopy.adoc[leveloffset=+1]
+include::../assemblies/assembly_rate_limiting_aspects_of_the_dry_deposition_of_gases.adoc[leveloffset=+1]

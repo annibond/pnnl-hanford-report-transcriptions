@@ -1,4 +1,5 @@
 [id="ref_transuranium_elements_in_the_atmosphere_table-1_{ref-transuranium-elements-atmosphere-2}"]
+include::../attributes.adoc[]
 
 .Relative Abundance of Heavy Element Produced During Ivy Mike Test
 

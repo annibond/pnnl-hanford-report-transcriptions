@@ -1,4 +1,5 @@
 [id="ref_solvent_refined_coal_organic_constituents_present_figures_{ref-solvent-refined-coal-organic-constituents-1}"]
+include::../attributes.adoc[]
 
 .Gas Chromatogram of Process Naphtha Arising in the Solvent Refining of Coal (Neg 759016-1)
 

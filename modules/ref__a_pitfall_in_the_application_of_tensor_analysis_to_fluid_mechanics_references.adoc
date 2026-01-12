@@ -1,3 +1,4 @@
 [id="ref__a_pitfall_in_the_application_of_tensor_analysis_to_fluid_mechanics_references_{ref-pitfall-application-tensor-analysis-1}"]
+include::../attributes.adoc[]
 
-1. H. D. Block, [.underline]#Tensor Analysis#, Merrill Books, Inc., Columbus, OH, 1962.
+1. {HDB}, [.underline]#Tensor Analysis#, {MB}, Columbus, OH, 1962.

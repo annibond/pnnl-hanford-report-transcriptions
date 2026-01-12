@@ -1,0 +1,210 @@
+// Cold War Digital Preservation Project
+
+// Repository Ownership
+
+:me-a: Anni Simpson
+:me-b: Anni Bond
+
+:hometown: Kennewick, Washington
+:home: Durham, {NC}
+:tric: Tri-Cities, {WA}
+
+// Education
+
+:uncc: UNC Charlotte
+:major: BA in English
+:minor: technical writing
+:ncsu: North Carolina State University
+:mstc: MS in Technical Communications
+:ecu: East Carolina University
+:rhetoric: PhD in Rhetoric and Professional Writing
+
+// Work
+
+:ts: Troppus Software
+:es: Echostar Communications
+:ce: CenterEdge Software
+:ibm: IBM
+:rh: Red Hat
+:aap: Ansible Automation Platform
+:os: open source software
+
+// Locations, Organizations & Test Sites
+
+:AS: Atmospheric Sciences
+:AK: Alaska
+:bat: Battelle
+:BN: Battelle-Northwest
+:CW: Cold War
+:DA: Department Administration
+:DOC: U. S. Department of Commerce
+:DOE: U. S. Department of Energy
+:ERDA: Energy Research and Development Administration
+:GE: General Electric
+:HNR: Hanford Nuclear Reservation
+:MET: METROMEX
+:NAAQS: National Ambient Air Quality Standard
+:NARL: Naval Arctic Research Laboratory
+:NC: North Carolina
+:NJ: New Jersey
+:NY: New York
+:NYC: New York City
+:PMCMC: Pittsburg and Midway Coal Mining Company
+:PB: Point Barrow
+:PNL: Pacific Northwest Laboratories
+:PNNL: Pacific Northwest National Laboratory
+:quil: Quillayute
+:rich: Richland
+:UK: United Kingdom
+:US: United States
+:USA: United States of America
+:WA: Washington
+:WW2: World War II
+
+// Journals & Conferences
+:70: IAEA Symposium on the Use of Nuclear Techniques in the Measurement and Control of Environmental Pollution, Saltzburg, Austria
+:AC: Analytical Chemistry
+:ACS: Advances in Chemistry Series
+:AD: Atmospheric Diffusion
+:AG: Advances in Geophysics
+:AP: Academic Press
+:AR: Annual Report
+:BLM: Boundary Layer Meteorology
+:CSFEC: Comparative Studies of Food and Environmental Contamination
+:DP: Dover Publications
+:HSLEW: Health and Safety Laboratory Environmental Quarterly
+:IAEA: IAEA Symposium
+:IEEET: IEEE Transactions on Nuclear Science
+:JAM: Journal of Applied Meteorology
+:JAPCA: Journal of the Air Pollution Control Association
+:JAWSP: Journal of Air, Water and Soil Pollution
+:JGR: Journal of Geophysical Research
+:MA: Manhattan Project
+:MB: Merrill Books
+:NT: Nuclear Technology
+:OMAM: Operational Methods in Applied Mathematics
+:PNLAR: Pacific Northwest Laboratory Annual Report
+:PRSA: Proceedings of Royal Society A
+:PRERDA: Proceedings ERDA Conference on Atmosphere-Surface Exchange on Particles and Gases
+:QJRMS: Quarterly Journal of the Royal Meteorological Society
+:USAEC-D: USAEC 
+:USAEC-P3: USAEC Division of Biomedical and Environmental Research, Part III: Atmospheric Sciences
+:USAEC-V2-P1: USAEC Division of Biology and Medicine, Vol. II: Physical Sciences, Part I: Atmospheric Sciences
+
+// BNWL-2000
+
+:BNWL2000: BNWL-2000 PT 3
+
+// Authors
+
+:manager: {CLS}
+:manager-title: Manager of {AS} Program
+
+:AE: A. Einstein
+:AJA: A. J. Alkezweeny
+:AJM: A. J. McConnel
+:AKP: A. K. Postma
+:AM: A. Miller
+:CCT: C. C. Thomas, Jr.
+:CEE: C. E. Elderkin
+:CEH: C. E. Hane
+:CLS: C. L. Simpson
+:CMH: C. M. Hyche
+:CMM: C. M. Moore
+:CWT: C. W. Thomas
+:DCP: D. C. Powell
+:DFG: D. F. Gustafson
+:DG: D. Gray
+:DMH: D. M. Hattor
+:DMM: D. M. McKown
+:DMN: D. M. Nelson
+:DLE: D. L. Elliott
+:DRD: D. R. Drewes
+:DSR: D. S. Renné
+:DWG: D. W. Glover
+:EAC: E. A. Crecelius
+:EPH: E. P. Hardy
+:ELK: E. L. Kanabrock
+:FBS: F. B. Smith
+:FDL: F. D. Llyod
+:FG: F. Gifford
+:FP: F. Pasquill
+:GAS: G. A. Sehmel
+:GHC: G. H. Clark
+:GIT: G. I. Taylor
+:GPB: G. de P. Burke
+:HAP: H. A. Panofsky
+:HDB: H. D. Block
+:HHL: H. H. Lettau
+:HLV: H. L. Volchok
+:HSC: H. S. Carslaw
+:JAC: J. A. Cooper
+:JAR: J. A. Robbins
+:JAY: J. A. Young
+:JCJ: J. C. Jaeger
+:JCK: J. C. Kaimal
+:JCL: J. C. Laul
+:JDL: J. D. Ludwick
+:JHH: J. H. Harley
+:JGD: J. G. Droppo
+:JJF: J. J. Fuquay
+:JJL: J. J. Lashock
+:JMH: J. M. Hales
+:JMT: J. M. Thorp
+:JRK: J. R. Kline
+:JRV: J. R. Vogt
+:JVR: J. V. Ramsdell
+:JWW: J. W. Winchester
+:KAR: K. A. Rahn
+:KGV: K. G. Vogt
+:KH: K. Heiman
+:KLC: K. L. Caulder
+:KSP: K. S. Pillay
+:LA: L. Angelelli
+:LAR: L. A. Rancitelli
+:LLW: L. L. Wendell
+:LCS: L. C. Schwendiman
+:ME: M. Eichor
+:MK: M. Kay
+:MLB: M. L. Barad
+:MMO: M. M. Orgill
+:MRP: M. R. Petersen
+:MS: M. Smith
+:MTD: M. T. Dana
+:NAW: N. A. Wogman
+:NEB: N. E. Busch
+:NSL: N. S. Laulainen
+:OGS: O. G. Sutton
+:PEC: P. E. Coffey
+:PGS: P. G. Slater
+:PPR: P. P. Raft
+:PSL: P. S. Liss
+:PWN: P. W. Nickola
+:RD: R. Dams
+:REC: R. E. Connally
+:RFT: R. F. Tuttle
+:RGH: R. G. Harris
+:RLD: R. L. Drake
+:RLM: R. L. McKeever
+:RKH: R. K. Hadlock
+:RKW: R. K. Woodruff
+:RWP: R. W. Perkins
+:SMB: S. M. Bruntz
+:SSB: S. S. Brar
+:TDF: T. D. Fox
+:TFP: T. F. Parkinson
+:TJB: T. J. Bander
+:TMM: T. M. Moore
+:TMT: T. M. Tanner
+:TWH: T. W. Horst
+:WED: W. E. Davis
+:WHH: W. H. Hodgson
+:WFS: W. F. Sandusky
+:WGNS: W. G. N. Slinn
+:WNS: W. N. Stasiuk, Jr.
+
+:tribute: This documentation preserves the scientific legacy of {CLS} (1927-2001).
+
+:tribute-cont: whose work at the {PNNL} protected the {tric}, {WA} for decades.
+
+:tribute-cont-2: With love, your granddaughter, {AS-a}.

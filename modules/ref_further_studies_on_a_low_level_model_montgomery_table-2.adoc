@@ -1,5 +1,5 @@
 [id="ref_further_studies_on_a_low_level_model_montgomery_table-2_{ref-further-studies-on-a-low-level-model-montgomery-3}"]
-
+include::../attributes.adoc[]
 .Errors in ψ (x 10^-7^ cm^-2^ sec^2^) - November B | 1300 PST
 
 [cols="1,1,1,1,1,1,1,1,1"]

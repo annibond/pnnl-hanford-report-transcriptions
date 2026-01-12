@@ -1,0 +1,19 @@
+[id="assembly_rate_limiting_aspects_of_the_dry_deposition_{assembly-rate-limiting-dry-deposition}"]
+include::../attributes.adoc[]
+
+== Rate Limiting Aspects of the Dry Deposition of Gases
+[.big]#{WGNS}#
+
+_Results from a simple model are presented which demonstrate that the flux of a pollutant gas from the atmosphere to a surface can be rate limited by a number of processes other than atmospheric diffusion._
+
+include::../modules/con_rate_limiting_aspects_of_the_dry_deposition_of_gases.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_rate_limiting_aspects_of_the_dry_deposition_of_gases_references.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_rate_limiting_aspects_of_the_dry_deposition_of_gases_figures.adoc[leveloffset=+2]

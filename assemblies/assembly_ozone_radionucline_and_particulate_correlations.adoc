@@ -1,20 +1,20 @@
 [id="assembly_ozone_radionuclide_and_particulate_correlations_{assembly-ozone-radionuclide-particulate-quillayute}"]
 
-== Ozone, Radionuclide and Particulate Correlations in Air at Quillayute, Washington
-J. D. Ludwick and T. D. Fox
+== Ozone, Radionuclide and Particulate Correlations in Air at {quil}, {WA}
+[.big]#{JDL} and {TDF}
 
-include::../modules/con_ozone_radionucline_and_particulate_correlations.adoc[leveloffset=+2]
+include::../modules/con_ozone_radionucline_and_particulate_correlations.adoc[leveloffset=+1]
 
-== Appendices
+=== Appendices
 
-=== References
+==== References
 
-include::../modules/ref_ozone_radionucline_and_particulate_correlations_references.adoc[leveloffset=+3]
+include::../modules/ref_ozone_radionucline_and_particulate_correlations_references.adoc[leveloffset=+2]
 
-=== Tables
+==== Tables
 
-include::../modules/ref_ozone_radionucline_and_particulate_correlations_table-1.adoc[leveloffset=+3]
+include::../modules/ref_ozone_radionucline_and_particulate_correlations_table-1.adoc[leveloffset=+2]
 
 === Figures
 
-include::../modules/ref_ozone_radionucline_and_particulate_correlations_figures.adoc[leveloffset=+3]
+include::../modules/ref_ozone_radionucline_and_particulate_correlations_figures.adoc[leveloffset=+2]

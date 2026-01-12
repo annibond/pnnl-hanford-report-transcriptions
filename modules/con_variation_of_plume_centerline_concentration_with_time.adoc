@@ -1,5 +1,5 @@
 [id="con_variation_of_plume_centerline_concentration_with_time_{con-variation-plume-centerline-concentration}"]
-
+include::../attributes.adoc[]
 :stem: latexmath
 
 == Introduction

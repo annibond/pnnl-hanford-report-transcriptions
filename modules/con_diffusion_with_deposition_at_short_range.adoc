@@ -1,5 +1,5 @@
 [id="con_diffusion_with_deposition_at_short_range_{con-diffusion-deposition-short-range}"]
-
+include::../attributes.adoc[]
 :stem: latexmath
 
 == Introduction

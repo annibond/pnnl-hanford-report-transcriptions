@@ -1,7 +1,8 @@
 [id="assembly_further_studies_on_a_low_level_model_montgomery_table-4_{assembly-further-studies-on-a-low-level-model-montgomery}"]
+include::../attributes.adoc[]
 
-= Further Studies on a Low Level Model to Compute Montgomery Stream Functions
-W. E. Davis
+== Further Studies on a Low Level Model to Compute Montgomery Stream Functions
+[.big]#{WED}#
 
 _A previously developed model which computed geostrophic trajectories for Washington and Oregon has been changed, improved, and generalized. The model has been changed to compute more accurate stream functions. Improved to compute gradient wind trajectories, the model can more accurately estimate air flow in areas of frontal storms._
 
@@ -9,13 +10,13 @@ _The model has been generalized to compute trajectories anywhere sufficient data
 
 include::../modules/con_further_studies_on_a_low_level_model_montgomery.adoc[leveloffset=+1]
 
-== Appendices
+=== Appendices
 
-=== References
+==== References
 
 include::../modules/ref_further_studies_on_a_low_level_model_montgomery_references.adoc[leveloffset=+2]
 
-=== Tables
+==== Tables
 
 include::../modules/ref_further_studies_on_a_low_level_model_montgomery_table-1.adoc[leveloffset=+2]
 

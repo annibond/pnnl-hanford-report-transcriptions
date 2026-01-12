@@ -1,6 +1,7 @@
-[id="assembly_concentrates_and_removal_report_1975_44_63_{cassembly-concentrates_and_removal-MAIN}"]
+[id="assembly_concentrates_and_removal_report_1975_44_63_{cassembly-concentrates_and_removal-}"]
+include::../attributes.adoc[]
 
-= Air and Dispersion
+== Air and Dispersion
 
 Surveys are being made of effluents released into the atmosphere, within the source areas, to distances covering several states, and on hemispheric scales. Through these efforts, the Atmospheric Sciences and Radiological Sciences Departments are identifying the most urgent air pollution problems and continually reassessing them to set priorities for more detailed investigations.
 

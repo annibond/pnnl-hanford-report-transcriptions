@@ -1,6 +1,7 @@
 [id="ref_lead_pb_concentrations_associated_with_1000_mb_table-1_{ref-lead-concentrations-1000-mb-2}"]
+include::../attributes.adoc[]
 
-.Quillayute, Washington 1974 Pb Concentration Summary - by month (ng/cm^3^)
+.{quil}, {WA} 1974 Pb Concentration Summary - by month (ng/cm^3^)
 
 [cols="1,1,1,1,1,1,1,1"]
 

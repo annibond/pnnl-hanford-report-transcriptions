@@ -1,5 +1,5 @@
 [id="con_variation_of_sample_wind_components_spectra_{con-variation-spectra}"]
-
+include::../attributes.adoc[]
 :stem: latexmath
 
 == Introduction

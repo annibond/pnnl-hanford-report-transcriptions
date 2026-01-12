@@ -1,22 +1,23 @@
 [id="assembly_some_observations_of_the_relative_contribution_of_real_plume_{assembly-some-observations-relative-contribution-real-plume}"]
+include::../attributes.adoc[]
 
-= Some Observations of the Relative Contribution of Real Plume Diffusion and Meander to Apparent Plume Diffusion
-P. W. Nickola
+== Some Observations of the Relative Contribution of Real Plume Diffusion and Meander to Apparent Plume Diffusion
+[.big]#{PWN}#
 
 _The contribution of real plume diffusion to the apparent plume considered in hazards appraisals varies from less than 10% to more than 80%. No dependence on conventional stability measurements is obvious in the 8 field experiments examined._
 
 include::../modules/con_some_observations_of_the_relative_contribution_of_real_plume.adoc[leveloffset=+1]
 
-== Appendices
+=== Appendices
 
-=== References
+==== References
 
 include::../modules/ref_some_observations_of_the_relative_contribution_of_real_plume_references.adoc[leveloffse2=+5]
 
-=== Tables
+==== Tables
 
 include::../modules/ref_some_observations_of_the_relative_contribution_of_real_plume_table-1.adoc[leveloffset=+2]
 
-=== Figures
+==== Figures
 
 include::../modules/ref_some_observations_of_the_relative_contribution_of_real_plume_figures.adoc[leveloffset=+2]

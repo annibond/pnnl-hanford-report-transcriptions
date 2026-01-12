@@ -1,4 +1,5 @@
 [id="con_use_of_elemental_concentration_rations_to_distinguish_between_the_plumes_northeast_{con-use-elemental-concentration-rations-plumes-northeast}"]
+include::../attributes.adoc[]
 
 == Introduction
 

@@ -1,4 +1,5 @@
 [id="con_baseline_air_quality_colstrip_montana_{con-baseline-air-quality-colstrip}"]
+include::../attributes.adoc[]
 
 Three air monitoring sites were established near Colstrip in May 1975. The sites were situated to monitor airborne particulate material and gaseous emission from the power plant stacks. During the summer and fall of 1975 both  HiVol and Cascade impactor air particulate samples were collected. Vapor arsenic, mercury, and SO2 samples were also collected.
 
