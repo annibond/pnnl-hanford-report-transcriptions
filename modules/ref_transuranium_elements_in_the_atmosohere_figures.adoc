@@ -1,20 +1,38 @@
 [id="ref_transuranium_elements_in_the_atmosphere_figures_{ref-transuranium-elements-atmosphere-1}"]
 include::../attributes.adoc[]
 
-.Ratio of ^239^Pu to ^132^Cs in Fallout Debris [illegible] 1952
-image::../images/ref_transuranium_elements_in_the_atmosphere_figure-1.png[A line graph drawn on physical graphing paper with no x or y axis labeled.]
+== Figure 1: Ratio of ^239^Pu to ^132^Cs in Fallout Debris [illegible] 1952
 
-.Ratio of ^239^Pu to ^132^Cs in Fallout Debris [illegible] 1952
-image::../images/ref_transuranium_elements_in_the_atmosphere_figure-2.png[A line graph drawn on physical graphing paper with no x or y axis labeled.]
+[#img-transuranium-1]
+[caption="Ratio of Pu-239 and Ce-132 in Fallout Debris, Part 1", alt="{transuranium-alt-1}"]
+image::{transuranium-img-1}[Ratio of Pu-239 and Ce-132 in Fallout Debris, part 1]
 
-.Ratio of ^239^Pu to ^132^Cs in Fallout Debris [illegible] 1952
-image::../images/ref_transuranium_elements_in_the_atmosphere_figure-3.png[A line graph drawn on physical graphing paper with no x or y axis labeled.]
+== Figure 2: Ratio of ^239^Pu to ^132^Cs in Fallout Debris [illegible] 1952
 
-.^238^Pu and ^239^Pu Concentrations in Surface Air at Richland, Washington
-image::../images/ref_transuranium_elements_in_the_atmosphere_figure-4.png[Three scatterplots on top of each other showing, from top to bottom: (1) 238~Pu~, (2) 239~Pu~, and (3) 238~Pu~/239~Pu~. The x axis = the year including 1961 through 1963 in single year increments for each graph. The y axis = _dpm/KSCM_ in increments of (1) 0.01, (2) 0.1, and (3) 1. At the bottom is a fourth graph, a bar graph. The data points are labeled as "Detonations" for (1) the U.S., (2) the U.S.S.R., and (3) the Chinese. A final label is included, "^238^Pu from SNAP-9A BURNUP" but it is unclear what that means. The x axis = the year including 1961 through 1963 in single year increments. The y axis is unlabeled but shows increments of (1) 0.02 - 0.1 MT, (2) 0.1 - 1 MT, (3) 1.10 MT, and (4) > 10 MT. At the bottom, someone scratched out a label that read, "NEβ 726084-2".]
+[#img-transuranium-2]
+[caption="Ratio of Pu-239 and Ce-132 in Fallout Debris, Part 2", alt="{transuranium-alt-2}"]
+image::{transuranium-img-2}[Ratio of Pu-239 and Ce-132 in Fallout Debris, part 2]
 
-.Estimated Concentration of ^241^Pu and ^241^An as compared to the measured concentration of ^241^Am in Surface Air since 1982 at Richland
-image::../images/ref_transuranium_elements_in_the_atmosphere_figure-5.png[A line graph drawn on physical graphing paper with no x or y axis labeled. Someone wrote data points they labeled, "Estimated ^241^Pu".]
+== Figure 3: Ratio of ^239^Pu to ^132^Cs in Fallout Debris [illegible] 1952
 
-.Estimated Concentration of ^241^Pu and ^241^An as compared to the measured concentration of ^241^Am in Surface Air since 1982 at Richland
-image::../images/ref_transuranium_elements_in_the_atmosphere_figure-6.png[A line graph drawn on physical graphing paper with no x or y axis labeled. Someone wrote data points which they labeled, "measured ^241^Am" from the top and "estimated ^241^Am from the bottom. They are closely correlated.]
+[#img-transuranium-3]
+[caption="Ratio of Pu-239 and Ce-132 in Fallout Debris, Part 3", alt="{transuranium-alt-3}"]
+image::{transuranium-img-3}[Ratio of Pu-239 and Ce-132 in Fallout Debris, part 3]
+
+== Figure 4: ^238^Pu and ^239^Pu Concentrations in Surface Air at {rich}, {WA} (Neg 726084-2)
+
+[#img-transuranium-4]
+[caption="Ratio of Pu-239 and Ce-132 in Fallout Debris, Part 4", alt="{transuranium-alt-4}"]
+image::{transuranium-img-4}[Ratio of Pu-239 and Ce-132 in Fallout Debris, part 4]
+
+== Figure 5: Estimated Concentration of ^241^Pu and ^241^An as compared to the measured concentration of ^241^Am in Surface Air since 1982 at {rich}
+
+[#img-transuranium-5]
+[caption="Estimated Concentration of Pu-241 and Am-241, Part 1, alt="{transuranium-5}"]
+image::{transuranium-img-5}[Estimated Concentration of Pu-241 and Am-241, part 1]
+
+== Figure 6: Estimated Concentration of ^241^Pu and ^241^Am as compared to the measured concentration of ^241^Am in Surface Air since 1982 at {rich}
+
+[#img-transuranium-6]
+[caption="Estimated Concentration of Pu-241 and Am-241, Part 2", alt="{transuranium-alt-6}"]
+image::{transuranium-img-6}[Estimated Concentration of Pu-241 and Am-241, part 2]

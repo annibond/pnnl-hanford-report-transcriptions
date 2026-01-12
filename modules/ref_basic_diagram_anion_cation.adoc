@@ -1,0 +1,13 @@
+[id="ref_basic-diagrams_anion_cation_{ref-basic-diagrams-anion-cation}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+[#img-particle-exchange]
+[caption="Figure: Anions and Cations", alt="{anion-cation-alt}"]
+image::{anion-cation-img}[Anions and Cations]
+
+A diagram showing the difference between *cations* and *anions*. The direction in which the ion is charging is the *opposite* of the type of subatomic particle it is losing.
+
+* An *anion* is a *negatively charged ion*. Losing positrons result in becoming an anion.
+
+* A *cation* is a *positively charged ion*. Losing electrons results in becoming a cation.

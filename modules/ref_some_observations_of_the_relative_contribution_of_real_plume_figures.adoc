@@ -1,18 +1,26 @@
 [id="ref_some_observations_of_the_relative_contribution_of_real_plume_figures_{ref-some-observations-relative-contribution-real-plume-1}"]
 include::../attributes.adoc[]
 
-.Meteorology and General Character of the Plume During Experiment V6 (Neg 753125-1)
+== Figure 1: Meteorology and General Character of the Plume During Experiment V6 (Neg 753125-1)
 
-image::../images/ref_some_observations_of_the_relative_contribution_of_real_plume_figure-1.png[Two graphs on top of one another. (1) The top graph shows how the wind (atmospheric temperature profile) changes with regard to height 800 meters from the source. The x axis = temperature in degrees Fahrenheit in increments of (1) 60 and (2) 65 degrees. The y axis = height in meters in increments of (1) 0, (2) 10, (3) 20, and (4) 30 meters. (2) The second graph shows the path of the plume over time comparing one minute (--) and 10 seconds (- - -). The x axis = minutes in increments of (1) 0, (2) 5, (3) 10, and (4) 15 minutes. The y axis = 28 degrees Fahrenheit.]
+[#img-observe-relative-realm-plume-1]
+[caption="Meteorology and General Character of the Plume During Experiment V6" alt="{observe-relative-real-plume-alt-1}"]
+image::{observe-relative-real-plume-img-1}[Meteorology and General Character of the Plume During Experiment V6]
 
-.Meteorology and General Character of the Plume During Experiment V7 (Neg 753125-4)
+== Figure 2: Meteorology and General Character of the Plume During Experiment V7 (Neg 753125-4)
 
-image::../images/ref_some_observations_of_the_relative_contribution_of_real_plume_figure-2.png[Two graphs on top of one another. (1) The top graph shows how the wind (atmospheric temperature profile) changes with regard to height in meters 200 meters from the source. The x axis = temperature in degrees Fahrenheit in increments of (1) 0, (2) 10, (3) 20, and (4) 30 meters. The y axis = 54 degrees Fahrenheit. The second graph shows the path of the plume over time comparing 10 seconds (--) and one minute (- - -). The x axis = time in minutes in increments (1) 0, (2) 5, (3) 10, and (4) 15 minutes. The y axis = 54 in degrees Fahrenheit.]
+[#img-observe-relative-realm-plume-2]
+[caption="Meteorology and General Character of the Plume During Experiment V7", alt="{observe-relative-real-plume-alt-2}"]
+image::{observe-relative-real-plume-img-2}[Meteorology and General Character of the Plume During Experiment V7]
 
-.The Ratio of Diffusion in Short Plume Segments to Diffusion in the Mean or Apparent Plume as a Function of Observation Times at 200 Meters from the Source (Neg 72182-1)
+== Figure 3: The Ratio of Diffusion in Short Plume Segments to Diffusion in the Mean or Apparent Plume as a Function of Observation Times at 200 Meters from the Source (Neg 72182-1)
 
-image::../images/ref_some_observations_of_the_relative_contribution_of_real_plume_figure-3.png[A graph that shows measured plume dispersion to a theoretical or approximate models, from top to bottom and left to right, tests (1) C1, (2), C3, (3) C5, (4) V2, and (5) V7 at a height of 200 meters. The (--) line is stable and the (- - -) is unstable. The x axis = averaging time (T) to diffusion time (t) in increments (0) 1, (1) 5, (2) 10, (3) 50, and (4) 100 meters. The y axis = ratio of D^2^Y^2^ in increments of (1) 0.05, (2) 0.1, (3) 0.5, and (4) 1.0.]
+[#img-observe-relative-realm-plume-3]
+[caption="The Ratio of Diffusion in Short Plume Segments to Diffusion in the Mean or Apparent Plume as a Function of Observation Times at 200 Meters from the Source", alt="{observe-relative-real-plume-alt-3}"]
+image::{observe-relative-real-plume-img-3}[The Ratio of Diffusion in Short Plume Segments to Diffusion in the Mean or Apparent Plume as a Function of Observation Times at 200 Meters from the Source]
 
-.The Ratio of Diffusion in Short Plume Segments to Diffusion in the Mean or Apparent Plume as a Function of Observation Times at 200 Meters from the Source (Neg 72182-2)
+== Figure 4: The Ratio of Diffusion in Short Plume Segments to Diffusion in the Mean or Apparent Plume as a Function of Observation Times at 200 Meters from the Source (Neg 72182-2)
 
-image::../images/ref_some_observations_of_the_relative_contribution_of_real_plume_figure-4.png[A graph that shows measured plume dispersion to a theoretical or approximate models, from top to bottom and left to right, tests (1) C1, (2) V5, (3) V6, (4) V6 at 1,600 meters, (5) C5, and (6) C3 at a height of 800 meters. The (--) line is stable and the (- - -) is unstable. The x axis = averaging time (T) to diffusion time (t) in increments (0) 1, (1) 5, (2) 10, (3) 50, and (4) 100 meters. The y axis = ratio of D^2^Y^2^ in increments of (1) 0.05, (2) 0.1, (3) 0.5, and (4) 1.0.]
+[#img-observe-relative-realm-plume-4]
+[caption="he Ratio of Diffusion in Short Plume Segments to Diffusion in the Mean or Apparent Plume as a Function of Observation Times at 200 Meters from the Source", alt="{observe-relative-real-plume-alt-4}"]
+image::{observe-relative-real-plume-img-4}[he Ratio of Diffusion in Short Plume Segments to Diffusion in the Mean or Apparent Plume as a Function of Observation Times at 200 Meters from the Source]

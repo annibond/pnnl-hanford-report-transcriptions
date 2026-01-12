@@ -1,10 +1,14 @@
 [id="ref_field_measurement_of_the_effect_of_filter_orientation_figures_{ref_field_measurement_direction-figures}"]
 include::../attributes.adoc[]
 
-.The Ratio of Tracer Mass on Filters Facing Upward to Those Facing Toward Source as a Function of Wind Speed (Neg 72182-3)
+== Figure 1: The Ratio of Tracer Mass on Filters Facing Upward to Those Facing Toward Source as a Function of Wind Speed (Neg 72182-3)
 
-image::../images/ref_field_measurement_of_the_effect_of_filter_orientation_figure-1.png[A dotted graph that shows the measurement of tracer concentration when facing AWAY from the mean wind direction and the concentration by the filter facing TOWARD the mean wind direction with a wind speed of 2 meters high. There is an inverse correlation between wind speed and the concentration ratio. The x axis = wind speed in meters at 2 meters of elevation between 0 and 7 in meters per second in one meter increments. The y axis = the concentration ratio of the AWAY and TOWARD forces of the tracer nucleon between 0 and 1.2 in increments of 0.1.]
+[#img-field-filter-orientation-1]
+[caption="The Ratio of Tracer Mass on Filters Facing Upward to Those Facing Toward Source as a Function of Wind Speed", alt="{field-filter-orientation-alt-1}"]
+image::{field-filter-orientation-img-1}[The Ratio of Tracer Mass on Filters Facing Upward to Those Facing Toward Source as a Function of Wind Speed]
 
-.The Ratio of Tracer Mass on Filters Facing Upward to Those Facing Toward Source as a Function of Wind Speed (Neg 72182-4)
+== Figure 2: The Ratio of Tracer Mass on Filters Facing Upward to Those Facing Toward Source as a Function of Wind Speed (Neg 72182-4)
 
-image::../images/ref_field_measurement_of_the_effect_of_filter_orientation_figure-2.png[A dotted graph that shows the measurement of tracer concentration when facing UPWARD from the mean wind direction and the concentration and the concentration by the filter facing TOWARD the mean wind direction with a wind speed of 2 meters high. There is an inverse correlation between wind speed and the concentration ratio. The x axis = wind speed in meters at 2 meters of elevation between 0 and 7 in meters per second in one meter increments. The y axis = the concentration ratio of the UP and TOWARD forces of the tracer nucleon between 0 and 1.0 in increments of 0.1.]
+[#img-field-filter-orientation-2]
+[caption="The Ratio of Tracer Mass on Filters Facing Upward to Those Facing Toward Source as a Function of Wind Speed", alt="{field-filter-orientation-alt-2}"]
+image::{field-filter-orientation-img-2}[The Ratio of Tracer Mass on Filters Facing Upward to Those Facing Toward Source as a Function of Wind Speed]

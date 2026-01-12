@@ -1,0 +1,19 @@
+[id="ref_basic_diagrams_atmosphere_{ref-basic-diagrams-atmosphere}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+[#img-atmosphere]
+[caption="Figure: Layers of the Atmosphere", alt="{atmosphere-alt}"]
+image::{atmosphere-img}[Layers of the Atmosphere]
+
+A diagram showing the atmosphere from the outermost layer to the layer closest to Earth's surface:
+
+* The *exosphere: (over 600 km):* is the outermost layer of the atmosphere that gradually fades into space. The gases are extremely sparse, and the atmos and the molecules escape into space.
+
+* The *thermosphere (approx. 85 km to 700 km):* is the outer layer of the atmosphere where the temperature _increases_ with altitude. The aurora borealis and the auora australis occur here.
+
+* The *mesophere (approx. 50 km to 85 km):* is the coldest layer of space where the temperature _decreases_ with altitude. Most meteors burn up in this layer.
+
+* The *stratosphere (approx. 12 km to 50 km):* is the location of Earth's ozone, which absorbs the sun's ultraviolet (UV) rays. The temperature _increases_ with altitude.
+
+* The *troposphere (up to the first 12 km):* is the lowest layer of Earth's atmosphere where weather occurs and contains the most water vapor. The temperature _decreases_ with altitude.

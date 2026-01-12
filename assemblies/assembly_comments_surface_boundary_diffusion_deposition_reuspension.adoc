@@ -1,0 +1,19 @@
+[id="assembly_comments_surface_boundary_diffusion_deposition_resuspension_{assembly-comments-surface-boundary-ddr}"]
+include::../attributes.adoc[]
+
+== Some Contents on the Surface Boundary Conditions for the Diffusion-Deposition-Resuspension Problem
+[.big]#{WGNS}#
+
+_It is shown how previous analyses and assumptions for the surface boundary condition for the diffusion-deposition-resuspension problem can be fitted together within a single theoretical framework._
+
+include::../modules/con_comments_surface_boundary_diffusion_deposition_reuspension.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_comments_surface_boundary_diffusion_deposition_reuspension_references.adoc[leveloffset=+2]
+
+==== Tables
+
+include::../modules/ref_comments_surface_boundary_diffusion_deposition_reuspension_table-1.adoc[leveloffset=+2]

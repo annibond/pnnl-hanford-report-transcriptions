@@ -1,9 +1,11 @@
 [id="ref_modeling_preliminaries_for_dry_deposition_to_a_canopy_figures_{assembly-modeling-preliminaries-deposition-figures}"]
 include::../attributes.adoc[]
 
-.Assumed Pollutant Fluxes in a Canopy (Neg. 754519-13)
+== Figure 1: Assumed Pollutant Fluxes in a Canopy (Neg. 754519-13)
 
-image::../images/ref_modeling_preliminaries_for_dry_deposition_to_a_canopy_figure-1.png[A diagram that shows the process of particle transport between a boundary layer and a Canopy Layer of height H.]
+[#img-model-prelim-canopy-1]
+[caption="Assumed Pollutant Fluxes in a Canopy", alt="{model-prelim-canopy-alt-1}"]
+image::{model-prelim-canopy-img-1}[Assumed Pollutant Fluxes in a Canopy]
 
 [listing]
 ----
@@ -26,8 +28,8 @@ _____________________________________________________________________
 SURFACE / GROUND
 ----
 
-.A Plot of Eq. (3) with the Removal Rate Given by Eq. (6) (Neg 754519-6)
+== Figure 2: A Plot of Eq. (3) with the Removal Rate Given by Eq. (6) (Neg 754519-6)
 
-image::../images/ref_modeling_preliminaries_for_dry_deposition_to_a_canopy_figure-2.png[A diagram that shows how deposition velocity of particles change depending on their size. The x axis = particle radius "a" in nanometers (μm) in increments of (1) 10^-4, (2) 10^3, (3) 10^-2, (4) 10^-1, (5), 10^0, (6) 10^1, and (7) 10^2. The y axis = the deposition velocity (v⌄d) in centimenter seconds to the -1 power in increments of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 10^0, (5) 10^1, and (6) 10^2 in centimeters to the sec^-1.]
-
-A graph that demonstrates a significant increase in a deposition velocity for particles smaller than about 10 μm, with increases in canopy height H or biomass B. There is a similar increase of vd with increasing wind speed within the canopy ūc. The increase in vd with decreasing characteristic dimension of the collectors, λ, is even more dramatic because of the concomitant increase in the collection efficiency. At the left-hand side of the plot is qualitatively indicated at the possible reduction in vd fir gases because of the nonatmospheric effects. This reduction can be significantly less in a canopy (compare the dashed and solid portions of the Υ = 10° curve) because of the increased collector area.
+[#img-model-prelim-canopy-2]
+[caption="A Plot of Eq. (3) with the Removal Rate Given by Eq. (6)", alt="{model-prelim-canopy-alt-2}"]
+image::{model-prelim-canopy-img-2}[A Plot of Eq. (3) with the Removal Rate Given by Eq. (6)]

@@ -1,6 +1,6 @@
 [id="ref_field_measurement_of_the_effect_of_filter_orientation_references_{ref_field_measurement_direction-references}"]
 include::../attributes.adoc[]
 
-1. G. A. Sehmel, [.underline]#Subisokinetic Sampling of Particles in an Air Stream#, BNWL-217, {BN}, {rich}, {WA}, March 1, 1966.
+1. {GAS}, [.underline]#Subisokinetic Sampling of Particles in an Air Stream#, BNWL-217, {BN}, {rich}, {WA}, March 1, 1966.
 
-2. J. J. Fuquay, [.underline]#Progress in Atmospheric Physics: A Summary of Hanford Laboratories Work on this Program Under General Electric, 1959-1964#, HW-83602, General Electric Company, Richland, WA, September 1964.
+2. {JJF}, [.underline]#Progress in Atmospheric Physics: A Summary of Hanford Laboratories Work on this Program Under {GE} 1959-1964#, HW-83602, {GE} Company, {rich}, {WA}, September 1964.
