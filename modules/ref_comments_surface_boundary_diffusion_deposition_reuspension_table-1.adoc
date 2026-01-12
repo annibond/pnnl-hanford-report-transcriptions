@@ -1,0 +1,40 @@
+[id="ref_comments_surface_boundary_diffusion_deposition_resuspension_table-1_{ref-comments-surface-boundary-ddr-table}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+.Some Contents on the Surface Boundary Conditions for the Diffusion-Deposition-Resuspension Problem
+
+[cols="1,1"]
+
+|===
+
+^|*Options* ^|*Interrelations and Comments*
+
+2+<.^|*1. Specification of the jump discontinuity*
+
+| a. Gases (liquid absorber)
+| stem:[\chi_o = Hc_o], where stem:[H] = Henry's law constant
+
+| b. Particles
+| stem:[\chi_o = Jc_o] +
+  stem:[\chi_o = KG(a)], where stem:[K \cong J / \delta] is the resuspension factor (b)
+
+2+<.^| *2. Specification of the magnitude of the common Flux, F:*
+
+| a. Gases (liquid absorber)
+| stem:[F = \lambda(c_o - c_{\lambda b})] +
+  stem:[F = k_a (\chi_{ab} - \chi_o)] +
+  stem:[F = k_o (\chi_{ab} - Hc_{\lambda b})], where stem:[K_{\lambda} \cong D_z / \delta], stem:[k_a \cong K_z / H], and stem:[k_o^{-1} = k_a^{-1} + \lambda^{-1}]
+
+| b. Particles
+| stem:[F = v_d \chi_o] +
+  stem:[F = v_d \chi_o - v_r c_o] +
+  stem:[F = v_d \chi_o - \Lambda G] +
+  stem:[F = \Omega A - \lambda G(a)], where stem:[\infty < v_d > ?]
+
+| *Definitions (b)*
+| stem:[v_r] = resuspension velocity +
+  stem:[\Delta \cong v_r / \delta] = resuspension rate +
+  stem:[\Omega \cong v_d / H] = deposition rate
+
+|===

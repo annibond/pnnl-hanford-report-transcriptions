@@ -13,4 +13,4 @@ include::../modules/con_a_pitfall_in_the_application_of_tensor_analysis_to_fluid
 
 ==== References
 
-include::../modules/ref__a_pitfall_in_the_application_of_tensor_analysis_to_fluid_mechanics_references.adoc[leveloffset=+2]
+include::../modules/ref_a_pitfall_in_the_application_of_tensor_analysis_to_fluid_mechanics_references.adoc[leveloffset=+2]

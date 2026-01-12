@@ -1,0 +1,16 @@
+[id="ref_comments_surface_boundary_diffusion_deposition_resuspension_references_{assembly-comments-surface-boundary-ddr-references}"]
+include::../attributes.adoc[]
+
+1. {KLC}, "Atmospheric Diffusion of Particulate Material, Considered as a Boundary Value Problem," [.underline]#{JM}#, [.underline]#18#: pp. 413-416, 1961.
+
+2. {TSH} and {LKP}, "The Effect of Ground Level Absorption on the Dispersion of Pollutants in the Atmosphere," [.underline]#{AE}#, [.underline]#8# pp. 1143-1153, 1974.
+
+3. {TWH}, {JGD} and {CEE}, "An Assessment of the Long-Term Exposure Due to Resuspension," [.underline]#{PNLAR} for 1973 to {USAEC-P3}#, BNWL-1850, {BN}, {rich}, WA, 1974.
+
+4. {LRA}, {PLP}, {NCK} and {HGB}, "Wind Driven Redistribution of Surface Deposited Radioactivity," UCRL-74392, Preprint, Lawrence Livermore Lab., Livermore, CA. Presented at the IAEA/NEA/WHO Symposium on Environmental of Radionuclides Released in the Nuclear Industry, Aix-e-Provence, May 14-18, 1973, CONF-730503, paper IAEA/SM-172-71, 1973.
+
+5. {WGNS}, "Dry Deposition and Ruspension of Aerosol Particles - A New Look at Some Old Problems," [.underline]#{ASEPG}# - 1974, {RJE} and {GAS} coords., {ERDAS}, in press, 1975.
+
+6. {JR}, {GL} and {CTN, "Generation of Secondary Particles from Large Soil Particles Upon Impact," [.underline]#{ASEPG} - 1974#, {RJE} and {GAS} coords., {ERDAS}, in press 1975.
+
+7. {DAG}, "Production of Fine Dust by Wind Erosion of Soil - Effect of Wind and Soil Texture," [.underline]#{ASEPG} - 1974#, {RJE}, and {GAS} coords., {ERDAS}, in press, 1975.

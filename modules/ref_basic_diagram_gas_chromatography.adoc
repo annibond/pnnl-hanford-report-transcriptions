@@ -1,0 +1,19 @@
+[id="ref_basic_diagrams_gas_chromatography_{ref-basic-diagrams-gas-chromatography}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+[#img-gas-chromatography]
+[caption="Figure: Gas Chromatography", alt="{gas-chromatography-alt}"]
+image::{gas-chromatography-img}[Gas Chromatography]
+
+A block diagram of a *gas chromatography system*, showing the flow path:
+
+1. from the *carrier gas tank (a)* through the *pressure and flow controllers (b & c)*
+
+2. from the pressure and flow controllers* to the *sample injection port (d)*
+
+3. from the sample injection port to the *column oven (i)* containing *analytical columns (e)*
+
+4. from the column oven's analytical colums to the *detector (f)* and the *process signal (g)* 
+
+5. connected to the *outlet (h)*

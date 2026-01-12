@@ -95,6 +95,12 @@ include::../attributes.adoc[]
 |chromatography
 |a method of measurement that tracks the properties of a substance by analyzing how it interacts with radiation, using properties like light or the propertoes of ions
 
+|coagulation
+|the process by which a liquid changes to a solid or semi-solid state
+
+|convective
+|the movement caused inside a fluid by heat distribution
+
 |convective acceleration
 |the change in velocity experienced by a fluid particle as it moves from one location to another due to a non-uniform flow field
 
@@ -273,6 +279,9 @@ J = -D dC / dx
 |hazards appraisal
 |an analysis or assessment of the climate or weather’s ability to cause financial loss, negative health outcomes, or property damage
 
+|heat distribution
+|the process by which thermal energy spreads through conduction, convection, and radiation, always moving from hotter to cooler areas until equilibrium is obtained
+
 |Henry's law cosntant
 |K~H~ which defines how much a radioactive gas dissolves in a liquid relative to its partial pressure in the gas phase
 
@@ -311,6 +320,9 @@ J = -D dC / dx
 
 |inversion layer
 |where a layer of warm air is situated above cooler air in the atmosphere
+
+|inviolable
+|unbreakable
 
 |ionization
 |process where an atom loses or gains electrons, becoming a charged ion, typically as a result of interactions with high-energy nuclear radiation like alpha or beta particles
@@ -377,6 +389,9 @@ J = -D dC / dx
 
 |micrometer (μm)
 |1 millionth of a meter
+
+|micron (micrometer)
+|a unit of measurement for very small particles, open millionth of a meter (1 x 10^-6^ meters)
 
 |mineral residue
 |a geological deposit left behind after weathering or an accumulation of minerals in water
@@ -561,6 +576,9 @@ J = -D dC / dx
 Stk = Particle Characteristic Time / Flow Characteristic Time
 
 Stk = τ~p~/τ~f~
+
+|submicron particles
+|articles with a diameter of less than one micron
 
 |substrate
 |base layer or material on which a nuclear target is prepared or deposited

@@ -1,0 +1,143 @@
+[id="con_comments_surface_boundary_diffusion_deposition_resuspension_{con-comments-surface-boundary-ddr}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+If the implied assumptions are acceptable, a pollutant’s air concentration, _χ_, is governed by
+
+.Equation 1
+[latexmath]
+++++
+\frac{\partial \chi}{\partial t} + \vec{v} \cdot \nabla \chi = \nabla \cdot (\underline{K} \cdot \nabla \chi) + v_s \frac{\partial \chi}{\partial z}
+++++
+
+where the notation is standard. This note discusses the boundary between *Eq. (1)* (and approximations to it) for the description of deposition and resuspension.
+
+== Previous Studies
+
+First, relevant portions of previous studies will be mentioned. For depositioning particles, Calderfootnote:1[K. L. Calder, "Atmospheric Diffusion of Particulate Material, Considered as a Boundary Value Problem," Journal of Meteorology, 18: pp. 413-416, 1961.]
+
+.Equation 2
+[latexmath]
+++++
+\left[ K_z \frac{\partial \chi}{\partial z} + v_s \chi \right]_{z=0} = v_d^C \chi \bigg|_{z=0} \equiv v_d^C \chi_0
+++++
+
+which defines Calder's deposition, latexmath:[v_d^C]. One of the unsatisfactory features of *Eq. (2)* is that the (otherwise unspecified) deposition velocity ranges from zero (no flex to the surface and χ~o~ ≠ o) to infinity (perfect sink: finite flux χ~o~ ≠ o).
+
+For gases, Heines and Petersfootnote:2[T. S. Heines and L. K. Peters, "The Effect of Ground Level Absorption on the Dispersion of Pollutants in the Atmosphere," Atmospheric Environment, 8 pp. 1143-1153, 1974.] have included the possibility of reabsorption of a gas from the surface (or, in the terminology emphasized here, if “resuspension” from the surface). For the case that Henry’s law applies in their boundary condition simplifies to:
+
+.Equation 3
+[latexmath]
+++++
+K_z \frac{\partial \chi}{\partial z} \bigg|_{z=0} = \frac{k_l}{H} [\chi_0 - \chi_{eq}]
+++++
+
+where _k~l~_ is the mass transfer coefficient in the absorbing medium, _H_ is Henry’s law constant, and _χ~eq~ = Hc~1b~_ is the air concentration which would be in equilibrium with the actual concentration _c~1b~_ in the bulk of the absorbing medium.
+
+Recently, for the case of deposition and possible resuspension of particles, Horst et. alfootnote:3[T. W. Horst, J. G. Droppo and C. E. Elderkin, “An Assessment of the Long-Term Exposure Due to Resuspension,” Pacific Northwest Laboratories Annual Report for 1973 to USAEC Department of Biomedical and Environmental Research PT 3, BNWL-1850, Battelle-Northwest, Richland, WA, 1974.] suggested that in addition to *Eq. (1)* an equation be written for the pollutant’s concentration on the surface, _G_ (units m^-2^). Their proposed equation is
+
+.Equation 4
+[latexmath]
+++++
+\frac{\partial G}{\partial t} = v_d \chi_o - \Lambda G - \alpha G
+++++
+
+where λ is the resuspension rate and α is the rate at which G becomes fixed to the surface at which G becomes fixed to the surface and unavailable for resuspension. Concomitantly *Eq. (2)* is modified to
+
+.Equation 5
+[latexmath]
+++++
+K_z \frac{\partial \chi}{\partial z} \bigg|_{z=0} + v_s \chi_0 = v_d \chi_0 - \Lambda G
+++++
+
+Notice that the superscript _C_ has been removed from _v~d~_.
+
+This approach does have some desirable features. For example, if the ground concentration reaches a steady state value, then from *Eq. (4)*
+
+.Equation 6
+[latexmath]
+++++
+G_{ss} = \frac{v_d \chi_0}{\alpha + \Lambda}
+++++
+
+and this in *Eq. (5)* gives
+
+.Equation 7
+[latexmath]
+++++
+K_z \frac{\partial \chi}{\partial z} \bigg|_{z=0} + v_s \chi_0 = \frac{\alpha}{\alpha + \Lambda} v_d \chi_0
+++++
+
+Thus in the case of deposition velocity need not have the range from zero to infinity: no flux to the surface can be interpreted as zero fixation suspension rate _(α→o)_, infinitely rapid resuspension rate _(λ → ∞)_ or, see *Eq. (5)*, simply as a balance between deposition and resuspension; the surface acting as a perfect sink can be interpreted as _α → ∞_. However, there is some difficulty in reconciling these interpretations with time independent _G_.
+
+But, two other features of this approach urge reconsideration. One is that with negligible deposition, *Eq. (5)* predicts that the surface concentration decays exponentially:
+
+.Equation 8
+[latexmath]
+++++
+G(t) = G(o) \exp \left\{ -\int_{o}^{t} [\Lambda(\tau) + \alpha(\tau)] d\tau \right\}
+++++
+
+in which incidentally, λ and α are usually taken as constants.Yet data (e.g., Anspaugh et al.footnote:4[L. R. Anspaugh, P. L. Phelps, N. C. Kennedy and H. G. Booth, "Wind Driven Redistribution of Surface Deposited Radioactivity," UCRL-74392, Preprint, Lawrence Livermore Lab., Livermore, CA. Presented at the IAEA/NEA/WHO Symposium on Environmental of Radionuclides Released in the Nuclear Industry, Aix-e-Provence, May 14-18, 1973, CONF-730503, paper IAEA/SM-172-71, 1973.]) can be fit better with a simple power-law dependence on _G_ on timefootnote:5[W. G. N. Slinn, "Dry Deposition and Ruspension of Aerosol Particles - A New Look at Some Old Problems," Atmosphere-Surface Exchange of Particles and Gases - 1974, R. J. Engelmann and G. A. Sehmel coords., ERDA Symposium Series, in press, 1975.] in which incidentally, λ and α are usually taken as constants.Yet data (e.g., Anspaugh et al.) can be fit better with a simple power-law dependence of G on time suggesting that the governing physical process is more an increase of volume (in which the “surface concentration” is distributed) rather than just resuspension and fixation. A second phenomenon which may be important is suggested by the experimental results of Rosinski et al.footnote:6[J. Rosinski, G. Langer and C. T. Nagamoto, "Generation of Secondary Particles from Large Soil Particles Upon Impact," Atmosphere-Surface Exchange of Particles and Gases - 1974, R. J. Engelmann and G. A. Sehmel coords., ERDA Symposium Series, in press 1975.] and Gillettefootnote:7[D. A. Gillette, "Production of Fine Dust by Wind Erosion of Soil - Effect of Wind and Soil Texture," Atmosphere-Surface Exchange of Particles and Gases - 1974, R. J. Engelmann, and G. A. Sehmel coords., ERDA Symposium Series, in press, 1975.]. It appears that the deposition-resuspension process can frequently change the physical/chemical characteristics of the pollutant: sumicron particles can deposit with their characteristic settling speeds, become attached to larger host particles, and then during the resuspension process may or may not dislodge from these host particles whose settling speeds would typically be larger than those of the depositioning submicron particles. In the case of some chemicals (e.g., SO~2~) one could expect that a substantial portion could be chemically converted (e.g., SO~2~ → SO~stem:[\overline{\overline{4}}]~) before being resuspended.
+
+== Theory
+
+When phenomena such as these are important, it would appear necessary to discard the above approximations and formulate the problem in a more general manner which, nevertheless, is quite customary. That is, a convective diffusion equation is needed also for the pollutant’s concentration,_c_, in the surface layer:
+
+.Equation 9
+[latexmath]
+++++
+\frac{\partial c}{\partial t} + \vec{w} \cdot \nabla c = \nabla \cdot (\underline{D} \cdot \nabla c) - L(c) + G(c) + w_s \frac{\partial c}{\partial z}
+++++
+
+in obvious notion, with _L_ and _G_ some rate of loss and gain of _c_, respectively, by processes such as conversion to other species, coagulation, breakup, etc. An inviolable interface condition is equality of fluxes:
+
+.Equation 10
+[latexmath]
+++++
+K_z \frac{\partial \chi}{\partial z} \bigg|_{z=0} + v_s \chi_0 = D_z \frac{\partial c}{\partial z} \bigg|_{z=0} + w_s c_0
+++++
+
+It is less certain how to specify the necessary second boundary condition at the surface; for gases it seems acceptable to assume equilibrium is established at the interface, leading to
+
+.Equation 11
+[latexmath]
+++++
+\chi_0 = H c_0
+++++
+
+Where _H_ is Henry’s law constant (a typical example with illustrates this case is given elsewhere*); for particles the concentrations may be continuous (for example _χ~o~ = C~o~)_ but more likely are discontinuous (for example, _χ~o~ = J~C~_), to ascertain the discontinuity, analysis of the governing physical processes would be necessary.
+
+Alternatively, one can not only use the inviolable equality of fluxes, *Eq. (10)*, but also assume an expression for this common value. For example, analogous to Calder’s approach, the net flux to the surface could be set equal to _v~d~ - χ~o~ - v~r~ C~o~_  where _v~r~_ is a “resuspension velocity.” Of course, this method only postpones the inevitable table analysis of the controlling physical phenomena.
+
+To relate, this proposal to those made by others Eq. (9) is integrated over all z (< o). If _stem:[\vec{w}], w~s~, D~χ~, D~y~ and G(c)_ are ignored and if _L(c) = αc_, then *Eq. (9)* becomes
+
+.Equation 12
+[latexmath]
+++++
+\frac{\partial G}{\partial t} = \int_{-\infty}^{0} \frac{\partial}{\partial z} \left( D_z \frac{\partial c}{\partial z} \right) dz - \alpha G
+++++
+
+where the average concentration in the surface is
+
+.Equation 13
+[latexmath]
+++++
+G(x, y, t) = \int_{-\infty}^{0} c(x, y, z, t) dz
+++++
+
+The integral in *Eq. (12)* can be evaluated as _Dz (∂c / ∂z) | ~z = o~_, assuming no flux at _z = -∞_, and with *Eq. (10)* it is seen how this is related to the flux from the atmosphere. To obtain Horst et. al’s expression, *Eq. (4)* this common flux is assumed to be _v~d~ χ~o~ - AG_. To obtain Heines and Peters’ expression, *Eq. (3)*, the common flux is set equal to kλ [co - cλb]. One could also set it equal to _k~a~ [χ~ab~ - χ~o~]_ or _k~o~ (χ~ab~ - Jc~χb~) where the overall transfer coefficient ko can easily be seen to be given by +k~o~^-1^ = k~a~^-1^ + K~χ~^-1^.
+
+If _c_ were fairly uniformly mixed to a depth _δ_, the relation between _λ_ and the resuspension velocity, _v~r~_, would be approximately, _λ ~ v~r~ / δ_. For δ = 1 cm and λ = 10-3 sec-1 during a dust storm, then _v~r~ ~ 10^-3^ cm sec^-1^_. Similarly, in this case, the resuspension fraction _K = ~χo~G_ could be written as _χ~o~ / (cδ)_ and, therefore, if K is determined experimentally, this provides an estimate o f the jump discontinuity discussed earlier: _χ~o~_ = Kδc~o~_.
+
+== Conclusions
+
+This analysis has shown how different boundary conditions used by various authors for the diffusion-deposition-resuspension problem can be fit within a single framework; a summary is given in *Table 1*. Applications of these results are shown elsewhere in this volume.**
+
+NOTE: _*_ See report by author entitled: "Rate Limiting Aspects of the Dry Deposition of Gases,"" in this volume.
+
+NOTE: _**_ See the report by the author, "Approximations and Solutions for the Deposition-Resuspension Problem,"" this volume, pp. 76-79.
+
+NOTE: In *Eq. (3)* and in the following paragraph, the subscript after k~l~ is a lowercase "l" (ell) in the Roman alphabet.

@@ -1,0 +1,21 @@
+[id="ref_basic-diagrams_molecular-equilibrium_{ref-basic-diagrams-molecular-equilibrium}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+[#img-molecular-equilibrium]
+[caption="Figure: Molecular Equilibrium", alt="{molecular-equilibrium-alt}"]
+image::{molecular-equilibrium-img}[Molecular Equilibrium]
+
+*Key*
+
+* *positrons* are purple
+
+* *neutrons* are blue.
+
+A diagram showing the transfer of individual particles between two larger clusters. The isotope on the left latexmath:[14_8^Z] where _Z_ represents the element or isotope. This process stabilizes the isotope.
+
+1. during molecular equilibrium _Z-14_ *loses one positron*
+
+2. the *lost positron* becomes a *neutron*
+
+3. _Z-14_ becomes latexmath:[14_7^Z]

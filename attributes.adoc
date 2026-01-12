@@ -66,12 +66,15 @@
 :AC: Analytical Chemistry
 :ACS: Advances in Chemistry Series
 :AD: Atmospheric Diffusion
+:AEV: Atmospheric Environment
 :AG: Advances in Geophysics
 :AP: Academic Press
 :AR: Annual Report
+:ASEPG: Atmosphere-Surface Exchange of Particles and Gases
 :BLM: Boundary Layer Meteorology
 :CSFEC: Comparative Studies of Food and Environmental Contamination
 :DP: Dover Publications
+:ERDAS: ERDA Symposium Series
 :HSLEW: Health and Safety Laboratory Environmental Quarterly
 :IAEA: IAEA Symposium
 :IEEET: IEEE Transactions on Nuclear Science
@@ -79,6 +82,7 @@
 :JAPCA: Journal of the Air Pollution Control Association
 :JAWSP: Journal of Air, Water and Soil Pollution
 :JGR: Journal of Geophysical Research
+:JM: Journal of Meteorology
 :MA: Manhattan Project
 :MB: Merrill Books
 :NT: Nuclear Technology
@@ -111,7 +115,9 @@
 :CLS: C. L. Simpson
 :CMH: C. M. Hyche
 :CMM: C. M. Moore
+:CTN: C. T. Nagamoto
 :CWT: C. W. Thomas
+:DAG: D. A. Gillette
 :DCP: D. C. Powell
 :DFG: D. F. Gustafson
 :DG: D. Gray
@@ -132,9 +138,11 @@
 :GAS: G. A. Sehmel
 :GHC: G. H. Clark
 :GIT: G. I. Taylor
+:GL: G. Langer
 :GPB: G. de P. Burke
 :HAP: H. A. Panofsky
 :HDB: H. D. Block
+:HGB: H. G. Booth
 :HHL: H. H. Lettau
 :HLV: H. L. Volchok
 :HSC: H. S. Carslaw
@@ -151,6 +159,7 @@
 :JJL: J. J. Lashock
 :JMH: J. M. Hales
 :JMT: J. M. Thorp
+:JR: J. Rosinski
 :JRK: J. R. Kline
 :JRV: J. R. Vogt
 :JVR: J. V. Ramsdell
@@ -162,8 +171,10 @@
 :KSP: K. S. Pillay
 :LA: L. Angelelli
 :LAR: L. A. Rancitelli
-:LLW: L. L. Wendell
 :LCS: L. C. Schwendiman
+:LKP: L. K. Peters
+:LLW: L. L. Wendell
+:LRA: L. R. Anspaugh
 :ME: M. Eichor
 :MK: M. Kay
 :MLB: M. L. Barad
@@ -172,10 +183,12 @@
 :MS: M. Smith
 :MTD: M. T. Dana
 :NAW: N. A. Wogman
+:NCK: N. C. Kennedy
 :NEB: N. E. Busch
 :NSL: N. S. Laulainen
 :OGS: O. G. Sutton
 :PEC: P. E. Coffey
+:PLP: P. L. Phelps
 :PGS: P. G. Slater
 :PPR: P. P. Raft
 :PSL: P. S. Liss
@@ -186,6 +199,7 @@
 :RGH: R. G. Harris
 :RLD: R. L. Drake
 :RLM: R. L. McKeever
+:RJE: R. J. Engelmann
 :RKH: R. K. Hadlock
 :RKW: R. K. Woodruff
 :RWP: R. W. Perkins
@@ -196,6 +210,7 @@
 :TJB: T. J. Bander
 :TMM: T. M. Moore
 :TMT: T. M. Tanner
+:TSH: T. S. Heines
 :TWH: T. W. Horst
 :WED: W. E. Davis
 :WHH: W. H. Hodgson
@@ -208,3 +223,193 @@
 :tribute-cont: whose work at the {PNNL} protected the {tric}, {WA} for decades.
 
 :tribute-cont-2: With love, your granddaughter, {AS-a}.
+
+// Images
+
+:img-dir: ../images
+
+// Images (.png) (Meta)
+
+:acid-base-img: {img-dir}/ref_basic_acid_base_scale.png
+:anion-cation-img: {img-dir}/ref_basic_anion_cation.png
+:atmosphere-img: {img-dir}/ref_basic_atmosphere.png
+:gas-chromatography-img: {img-dir}/ref_basic_gas_chromatography.png
+:isotope-img: {img-dir}/ref_basic_isotope.png
+:molecular-equilibrium-img: {img-dir}/ref_basic_molecular_equilibrium.png
+:periodic-table-img: {img-dir}/ref_basic_periodic_table_of_elements.png
+:radioactive-decay-image: {img-dir}/ref_basic_radioactive_decay.png
+
+// Images Alt Text (Meta)
+
+:acid-base-alt: 
+
+:anion-cation-alt: Two isotopes next to each other. On the left (1), there is an image labeled "Cation", a negatively charged ion, that contains 4 neutrons, 4 protons, and 5 electrons. On the right (2), there is an image labeled "Anion", a positively charged ion, that contains 4 neutrons, 4 protons, and 3 electrons.
+
+:atmosphere-alt: An image that has five layers on top of one another (1) exposphere (over 600 km), (2) thermosphere (85 km to 700 km), (3) mesosphere (50 km - 85 km), stratosphere (12 km - 50 km), troposphere (under 12 km).
+
+:gas-chromatography-alt: 
+
+:isotope-alt:
+
+:molecular-equilbrium-alt: Two isotopes next to each other. On the left (1), there is an image labeled "Cation", a negatively charged ion, that contains 4 neutrons, 4 protons, and 5 electrons. On the right (2), there is an image labeled "Anion", a positively charged ion, that contains 4 neutrons, 4 protons, and 3 electrons.
+
+:periodic-table-alt: 
+
+:radioactive-decay-alt: 
+
+// Images (.png) (Figures)
+
+:field-filter-orientation-img-1: {img-dir}/ref_field_measurement_of_the_effect_of_filter_orientation_figure-1.png
+:field-filter-orientation-img-2: {img-dir}/ref_field_measurement_of_the_effect_of_filter_orientation_figure-2.png
+
+:model-prelim-canopy-img-1: {img-dir}/ref_modeling_preliminaries_for_dry_deposition_to_a_canopy_figure-1.png
+
+:model-prelim-canopy-img-2: {img-dir}/ref_modeling_preliminaries_for_dry_deposition_to_a_canopy_figure-2.png
+
+:observe-relative-real-plume-img-1: {img-dir}/ref_some_observations_of_the_relative_contribution_of_real_plume_figure-1.png
+:observe-relative-real-plume-img-2: {img-dir}/ref_some_observations_of_the_relative_contribution_of_real_plume_figure-2.png
+:observe-relative-real-plume-img-3: {img-dir}/ref_some_observations_of_the_relative_contribution_of_real_plume_figure-3.png
+:observe-relative-real-plume-img-4: {img-dir}/ref_some_observations_of_the_relative_contribution_of_real_plume_figure-4.png
+
+:plume-img-1: {img-dir}/ref_measurement_of_particulate_plume-figure-1.png
+:plume-img-2: {img-dir}/ref_measurement_of_particulate_plume-figure-2.png
+:plume-img-3: {img-dir}/ref_measurement_of_particulate_plume-figure-3.png
+:plume-img-4: {img-dir}/ref_measurement_of_particulate_plume-figure-4.png
+:plume-img-5: {img-dir}/ref_measurement_of_particulate_plume-figure-5.png
+:plume-img-6: {img-dir}/ref_measurement_of_particulate_plume-figure-6.png
+:plume-img-7: {img-dir}/ref_measurement_of_particulate_plume-figure-7.png
+:plume-img-8: {img-dir}/ref_measurement_of_particulate_plume-figure-8.png
+
+:predict-enviro-exposure-img-1: {img-dir}/ref_prediction_of_environmental_exposures_fig-1.png
+:predict-enviro-exposure-img-2: {img-dir}/ref_prediction_of_environmental_exposures_fig-2.png
+:predict-enviro-exposure-img-3: {img-dir}/ref_prediction_of_environmental_exposures_fig-3.png
+:predict-enviro-exposure-img-4: {img-dir}/ref_prediction_of_environmental_exposures_fig-4.png
+:predict-enviro-exposure-img-5: {img-dir}/ref_prediction_of_environmental_exposures_fig-5.png
+:predict-enviro-exposure-img-6: {img-dir}/ref_prediction_of_environmental_exposures_fig-6.png
+:predict-enviro-exposure-img-7: {img-dir}/ref_prediction_of_environmental_exposures_fig-7.png
+
+:pt-barrow-img-1: {img-dir}/ref_atmospheric_fallout_1975_{rich}_point_barrow_figure-1.png
+:pt-barrow-img-2: {img-dir}/ref_atmospheric_fallout_1975_{rich}_point_barrow_figure-2.png
+:pt-barrow-img-3: {img-dir}/ref_atmospheric_fallout_1975_{rich}_point_barrow_figure-3.png
+
+:pu-tu-img-1: {img-dir}/ref_concentrations_241_pu_and_99_tc_figure-1.png
+:pu-tu-img-2: {img-dir}/ref_concentrations_241_pu_and_99_tc_figure-2.png
+:pu-tu-img-3: {img-dir}/ref_concentrations_241_pu_and_99_tc_figure-3.png
+
+:rate-limiting-gases-img-1: {img-dir}/ref_rate_limiting_aspects_of_the_dry_deposition_of_gases_figure-1.png
+:rate-limiting-gases-img-2: {img-dir}/ref_rate_limiting_aspects_of_the_dry_deposition_of_gases_figure-2.png
+
+:removal-rate-img-1: {img-dir}/ref_concentrations_and_rates_of_removal_figure-1.png
+:removal-rate-img-2: {img-dir}/ref_concentrations_and_rates_of_removal_figure-2.png
+:removal-rate-img-3: {img-dir}/ref_concentrations_and_rates_of_removal_figure-3.png
+
+:short-diff-range-img-1: {img-dir}/ref_diffusion_with_deposition_at_short_range_figure-1.png
+:short-diff-range-img-2: {img-dir}/ref_diffusion_with_deposition_at_short_range_figure-2.png
+
+:solvent-refined-coal-img: {img-dir}/ref_solvent_refined_coal_organic_constituents_present_figure-1.png
+
+:transuranium-img-1: {img-dir}/ref_transuranium_elements_in_the_atmosphere_figure-1.png
+:transuranium-img-2: {img-dir}/ref_transuranium_elements_in_the_atmosphere_figure-2.png
+:transuranium-img-3: {img-dir}/ref_transuranium_elements_in_the_atmosphere_figure-3.png
+:transuranium-img-4: {img-dir}/ref_transuranium_elements_in_the_atmosphere_figure-4.png
+:transuranium-img-5: {img-dir}/ref_transuranium_elements_in_the_atmosphere_figure-5.png
+:transuranium-img-6: {img-dir}/ref_transuranium_elements_in_the_atmosphere_figure-6.png
+
+:variation-plume-centerline-img-1: {img-dir}/ref_variation_of_plume_centerline_concentration_with_time_figure-1.png
+:variation-plume-centerline-img-2: {img-dir}/ref_variation_of_plume_centerline_concentration_with_time_figure-2.png
+
+:varied-wind-spectra-img: {img-dir}/ref_variation_of_sample_wind_components_spectra_figure-1.png
+
+// Images Alt Text (Figures)
+
+:field-filter-orientation-alt-1: A dotted graph that shows the measurement of tracer concentration when facing AWAY from the mean wind direction and the concentration by the filter facing TOWARD the mean wind direction with a wind speed of 2 meters high. There is an inverse correlation between wind speed and the concentration ratio. The x axis = wind speed in meters at 2 meters of elevation between 0 and 7 in meters per second in one meter increments. The y axis = the concentration ratio of the AWAY and TOWARD forces of the tracer nucleon between 0 and 1.2 in increments of 0.1.
+
+:field-filter-orientation-alt-2: [A dotted graph that shows the measurement of tracer concentration when facing UPWARD from the mean wind direction and the concentration and the concentration by the filter facing TOWARD the mean wind direction with a wind speed of 2 meters high. There is an inverse correlation between wind speed and the concentration ratio. The x axis = wind speed in meters at 2 meters of elevation between 0 and 7 in meters per second in one meter increments. The y axis = the concentration ratio of the UP and TOWARD forces of the tracer nucleon between 0 and 1.0 in increments of 0.1.
+
+:model-prelim-canopy-alt-1: A diagram that shows how deposition velocity of particles change depending on their size. The x axis = particle radius "a" in nanometers (μm) in increments of (1) 10^-4, (2) 10^3, (3) 10^-2, (4) 10^-1, (5), 10^0, (6) 10^1, and (7) 10^2. The y axis = the deposition velocity (v⌄d) in centimenter seconds to the -1 power in increments of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 10^0, (5) 10^1, and (6) 10^2 in centimeters to the sec^-1.
+
+:model-prelim-canopy-alt-2: A graph that demonstrates a significant increase in a deposition velocity for particles smaller than about 10 μm, with increases in canopy height H or biomass B. There is a similar increase of vd with increasing wind speed within the canopy ūc. The increase in vd with decreasing characteristic dimension of the collectors, λ, is even more dramatic because of the concomitant increase in the collection efficiency. At the left-hand side of the plot is qualitatively indicated at the possible reduction in vd fir gases because of the nonatmospheric effects. This reduction can be significantly less in a canopy (compare the dashed and solid portions of the Υ = 10° curve) because of the increased collector area.
+
+:observe-relative-real-plume-alt-1: Two graphs on top of one another. (1) The top graph shows how the wind (atmospheric temperature profile) changes with regard to height 800 meters from the source. The x axis = temperature in degrees Fahrenheit in increments of (1) 60 and (2) 65 degrees. The y axis = height in meters in increments of (1) 0, (2) 10, (3) 20, and (4) 30 meters. (2) The second graph shows the path of the plume over time comparing one minute (--) and 10 seconds (- - -). The x axis = minutes in increments of (1) 0, (2) 5, (3) 10, and (4) 15 minutes. The y axis = 28 degrees Fahrenheit.
+
+:observe-relative-real-plume-alt-2: Two graphs on top of one another. (1) The top graph shows how the wind (atmospheric temperature profile) changes with regard to height in meters 200 meters from the source. The x axis = temperature in degrees Fahrenheit in increments of (1) 0, (2) 10, (3) 20, and (4) 30 meters. The y axis = 54 degrees Fahrenheit. The second graph shows the path of the plume over time comparing 10 seconds (--) and one minute (- - -). The x axis = time in minutes in increments (1) 0, (2) 5, (3) 10, and (4) 15 minutes. The y axis = 54 in degrees Fahrenheit.
+
+:observe-relative-real-plume-alt-3: A graph that shows measured plume dispersion to a theoretical or approximate models, from top to bottom and left to right, tests (1) C1, (2), C3, (3) C5, (4) V2, and (5) V7 at a height of 200 meters. The (--) line is stable and the (- - -) is unstable. The x axis = averaging time (T) to diffusion time (t) in increments (0) 1, (1) 5, (2) 10, (3) 50, and (4) 100 meters. The y axis = ratio of D^2^Y^2^ in increments of (1) 0.05, (2) 0.1, (3) 0.5, and (4) 1.0.
+
+:observe-relative-real-plume-alt-4: A graph that shows measured plume dispersion to a theoretical or approximate models, from top to bottom and left to right, tests (1) C1, (2) V5, (3) V6, (4) V6 at 1,600 meters, (5) C5, and (6) C3 at a height of 800 meters. The (--) line is stable and the (- - -) is unstable. The x axis = averaging time (T) to diffusion time (t) in increments (0) 1, (1) 5, (2) 10, (3) 50, and (4) 100 meters. The y axis = ratio of D^2^Y^2^ in increments of (1) 0.05, (2) 0.1, (3) 0.5, and (4) 1.0.
+
+:plume-alt-1: A graph which shows the electrical field strength for a transversal of 842 to the tops of the towers. This graph is for the transversal of 842 m for the element Krypton (Kr). The x axis = azimuth from 105 degrees - 135 degrees in increments of 5 degrees. The y axis = height from 0 meters - 60 meters in increments of 5 meters.
+
+:plume-alt-2: A graph which shows the electrical field strength for a transversal of 842 to the tops of the towers. This graph is for the transversal of 842 m for the element Florine (FP). The x axis = azimuth from 105 degrees - 135 degrees in increments of 5 degrees. The y axis = height from 0 meters - 60 meters in increments of 5 meters.
+
+:plume-alt-3: A dot graph which shows • tracking Krypton (Kr) at a transversal of 200 meters, ◦ tracking Krypton (Kr) at a transversal of 842 meters, □ tracking Florine (FP) at a transversal of 200 meters, and ■ tracking Florine (FP) at a transversal of 842 meters. The x axis = percent of tracer in meters from 0 m - 7 m in increments of 1. The y axis = height in meters from 0 m - 60 m in increments of 5 m. A dashed line (- - -) highlights the release height, which is just above 25 m. A dotted line highlights the top sampler at a transversal of 200 m. Another dotted line highlights the top sampler at a traversal of 842 m. All areas under curves normalized to 100 percent.
+
+:plume-alt-4: A dot graph which shows • tracking Krypton (Kr) and □ tracking Florine (FP). It is split into two sections vertically. The x axis for both = percent of tracer per meter of elevation. The first side shows 0 percent - 12 percent with increments of 1 percent for a transversal of 200 m. The second side shows 0 percent to 5 percent with increments of 1 percent for a transversal of 842 m. The y axis = height in meters from 0 m - 55 m in increments of 5 m. A dashed line (- - -) highlights the release height, which is just above 25 m. Data points of (1) a sum of 45 percent Kr and (2) a sum of 170 percent FP are highlighted on the left side. Data points of (1) a sum of 35 percent of Kr and (2) a sum of 120 percent of FP on the right side.
+
+:plume-alt-5: There are two line graphs which shows □ tracking Krypton (Kr) and • tracking Fluorine (FP). For both graphs, the x axis = percent of tracer in the air per meter of elevation with increments at (1) 0.01, (2) 0.1, (3) 1, and (4) 10. For both graphs, the y axis = height in meters from 0 meters - 45 meters with increments of 5 meters. A dashed line (- - -) highlights a release height of ~27 meters. The top half is for a transversal of 812 meters. Data points of (1) a sum of 79 percent Krypton and (2) a sum of 132 percent Fluorine are highlighted on the top half. The bottom half is for a transversal of 200 meters. Data points of (1) a sum of 56 percent of Krypton and (2) a sum of 87 percent of Fluorine.
+
+:plume-alt-6: There are two line graphs which shows □ tracking Krypton (Kr) and • tracking Fluorine (FP). For both graphs, the x axis = percent of tracer in the air per meter of elevation with increments at (1) 0.01, (2) 0.1, (3) 1, and (4) 10. For both graphs, the y axis = height in meters from 0 meters - 45 meters with increments of 5 meters. A dashed line (- - -) highlights a release height of ~27 meters. The top half is for a transversal of 842 meters. Data points of (1) a sum of 33 percent Krypton and (2) a sum of 120 percent Fluorine are highlighted on the top half. The bottom half is for a transversal of 200 meters. Data points of (1) a sum of 45 percent of Krypton and (2) a sum of 170 percent of Fluorine.
+
+:plume-alt-7: There are two line graphs which shows □ tracking Krypton (Kr) and • tracking Fluorine (FP). For both graphs, the x axis = percent of tracer in the air per meter of elevation with increments at (1) 0.01, (2) 0.1, (3) 1, and (4) 10. For both graphs, the y axis = height in meters from 0 meters - 45 meters with increments of 5 meters. A dashed line (- - -) highlights a release height of ~27 meters. The top half is for a transversal of 867 meters. Data point of a sum of 16 percent Krypton is highlighted on the top half. The left bottom quarter contains the text. “Krypton data essentially background”. The bottom half is for a transversal of 200 meters. Data points of (1) a sum of 23 percent of Krypton and (2) a sum of 79 percent of Fluorine.
+
+:plume-alt-8: There are three line graphs next to each other which shows □ tracking Krypton (Kr) and • tracking Fluorine (FP). For the first two graphs, x axis = percent of tracer in the air per meter elevation with increments from 0 meters - 3 meters with increments of 0.5 meters. In the rightmost graph, the x axis tracks 0 meters - 1.5 meters with increments of 0.5 meters. For all graphs, y axis = height in meters from 0 meters - 12 meters with increments of 1 meter. In the (1) leftmost graph, test V5 has a transversal height of 812 meters, (2) the middle graph has a transversal height of 842 meters, and (3) the rightmost graph has a transversal height of 200 meters.
+
+:predict-environ-exposure-alt-1: A line graph where △ represents Run 56 (Very Stable), ◦ represents Run 35 (Slightly Stable), and x represents Run 32 (Unstable). The x axis = distance (meters). It shows increments at (1) 10^2^, (2) 10^3^, (3), 10^4^, and (4) 10^5^. The y axis = E~p~ū/Q~t~ (meters^-2^). It shows increments at (1) 10^-6^, (2) 10^-5^, (3), 10^-4^, and (4) 10^-3^.
+
+:predict-environ-exposure-alt-2: A line graph where △ represents Run 56 (Very Stable), ◦ represents Run 35 (Slightly Stable), and x represents Run 32 (Unstable). The x axis = time (seconds). It shows increments at (1) 10, (2) 10^2^, (3) 10^3^, and 10^4^. The y axis = σ~y~/σ~θ~ (meters over radians). It shows increments at (1) 10^-6^, (2) 10^-5^, (3) 10^-4^, and (4) 10^-3^.
+
+:predict-environ-exposure-alt-3: A scatterplot graph that displays the R~i~ limits where x > 0.08, • = 0-0.08, and ◦ = < 0. The x axis = time (seconds). It shows a scale with increments at (1) 10, (2) 10^2^, (3) 10^3^, and (4) 10^4^. The y axis = σ~y~/σ~θ~ (meters over radians). It shows a scale with increments at (1) 10^2, (2) 10^3^, and (3) 10^4^.
+
+:predict-environ-exposure-alt-4: A scatterplot graph that displays the R1 limits where x > 0.08, • = 0-0.08, and ◦ = < 0. The x axis = _time (seconds)_. It shows a scale with increments at (1) 10, (2) 10^2^, (3) 10^3^, and (4) 10^4^. The y axis = _σ~y~/σ~θ~ū_. It shows a scale with increments at (1) 10^1^, (2) 10^2^, (3) 10^3^, and (4) 10^4^.
+
+:predict-environ-exposure-alt-5: A scatterplot graph with the trajectories drawn out. There are six lines, from largest to smallest: (1) _σ~θ~ū_ > 1.0, (2), 0.8 < _^σ^~θ~ū_ < 1.0, (3) 0.6 < _^σ^~θ~ū_ < 0.8, (4) 0.3 < ^σ^~θ~ū_ < 0.6, (5) 0.2 <^σ^~θ~ū_ < 0.3, and (6) ^σ^~θ~ū_ < 0.20. The x axis = time (seconds). It shows a scale with increments at (1) 10, (2) 100, (3) 1,000, and (4) 10,000. The y axis = σ~y~ (meters). It shows a scale with increments at (1) 10, (2) 100, and (3) 1,000.
+
+:predict-environ-exposure-alt-6: A scatterplot graph with the trajectories drawn out. There are 15 lines, from the top to bottom, from largest to smallest: (1) _σ~θ~ū_ = 3.0, (2) 2.0, (3), 1.6, (4) 1.2, (5) 1.0, (6) 0.9, (7) 0.8, (8) 0.7, (9) 0.6, (10) 0.6, (11) 0.4, (12) 0.3, (13) 0.2, (14) 0.1, and _σ~θ~n_ = 0.5. The x axis = time (seconds). It shows increments at (1) 10, (2) 10^2^, (3) 10^3^, (4) 10^4^, and (5) 10.^5^. The y axis = _σ~y~_ (meters). It shows increments at (1) 10, (2) 10^2^, (3) 10^3, and (4) 10^4^.
+
+:predict-environ-exposure-alt-7: A line graph with six data points show. The top two are, left to right: (1) Unstable, Ri < 0, 0.4 < _σ~θ~ū_ < 0.8 and (2) Stable (Ri > (0.08), _σ~θ~ū_ < 0.15. The remaining three are, left to right: (3) Unstable (Ri < 0). 0.8 < _σ~θ~ū_ < 1.4, (4) Slightly Stable, 0 < Ri < 0.08, 0.15 < _σ~θ~ū_ < 1.1, and (5) Stable (Ri > 0.08), 0.15 < _σ~θ~ū_ < 0.5. The x axis = time (seconds). It shows increments at (1) 10, (2) 10^2^, (3) 10^3^, and 10^4^. The y axis = _E~p~ū~/Q~t~_ (meters^-2^). It shows increments at (1) 10^-6^, (2) 10 ^-5^, (3) 10^-4^, and (4) 10^-3^.
+
+:pt-barrow-alt-1: A grid of 7 x 5 scatterdot graphs that show the amount of a given isotope's level of decay in the atmosphere. For all graphs, the x axis = year tested between 1961 - 1976 in increments of 1 year. There are two sets of data in each graph. In the top section of each graph, the y axis = decay per minute over kscm compounds at increments of (1) 0, (2) 0.01, (3) 0.1, (4) 1.0, and (5) 10 dpm/kscm. In the bottom section of each graph, the y axis = megatons of the same isotope detected in the atmosphere with increments of (1) 0.02 - 0.1, (2) 0.1 - 1, (3) 1 - 10, and (4) > 10 megatons. The detonations from each nation are denoted as a solid line for the United States, a dotted line for the U.S.S.R., and a dashed line for China.
+
+:pt-barrow-alt-2: A grid of 7 x 5 scatterdot graphs that show the amount of a given isotope's level of decay in the atmosphere. For all graphs, the x axis = year tested between 1961 - 1976 in increments of 1 year. There are two sets of data in each graph. In the top section of each graph, the y axis = decay per minute over kscm compounds at increments of (1) 0, (2) 0.01, (3) 0.1, (4) 1.0, and (5) 10 dpm/kscm. In the bottom section of each graph, the y axis = megatons of the same isotope detected in the atmosphere with increments of (1) 0.02 - 0.1, (2) 0.1 - 1, (3) 1 - 10, and (4) > 10 megatons. The detonations from each nation are denoted as a solid line for the United States, a dotted line for the U.S.S.R., and a dashed line for China.
+
+:pt-barrow-alt-3: A graph showing the monthly averages of isotopes ^7^Be and ^22^Na in the air. The x axis = months of the year in increments of 1 month and labeled by their names. There are two y axes. The left side y axis = Beryllium decay from 20 to 300 in increments of 20 per 1000 cubic meters.
+
+:pu-tu-alt-1: A scatter dot graph which shows the amount of radioactive decay for ^241^Pu/^239^Pu in Richland Washington. The graph is split into two parts on top of each other. For both graphs, the x axis = year tested between 1961 - 1976 in increments of 1 year. In the top section of the graph, the y axis = disintegration rate ratio in increments of (1) 0, (2) 10, and (3) 100 dpm/kscm. In the bottom section of each graph, the y axis = megatons of the same isotope detected in the atmosphere with increments of (1) 0.02 - 0.1, (2) 0.1 - 1, (3) 1 - 10, and (4) > 10 megatons. The detonations from each nation are denoted as a solid line for the United States, a dotted line for the U.S.S.R., and a dashed line for China.
+
+:pu-tu-alt-2: A scatter dot graph which shows the amount of the ^99^Tc isotope concentration in Richland Washington. The graph is split into two parts on top of each other. For both graphs, the x axis = year tested between 1961 - 1976 in increments of 1 year. In the top section of the graph, the y axis = ddisintegration rate ratio in increments of (1) 0, (2) 0.001, (3) 0.01, and (4) 1.0 dpm/kscm. In the bottom section of each graph, the y axis = megatons of the same isotope detected in the atmosphere with increments of (1) 0.02 - 0.1, (2) 0.1 - 1, (3) 1 - 10, and (4) > 10 megatons. The detonations from each nation are denoted as a solid line for the United States, a dotted line for the U.S.S.R., and a dashed line for China.
+
+:pu-tu-alt-3: A scatter dot graph which shows the amount of disintegration ratios of ^137^ to ^99^Tc. The x axis = year tested between 1961 - 1976 in increments of 1 year. The y axis = disintegration rate ratio in increments of (1) 10, (2) 100, and (3) 1,000 for ^137^Cs / ^99^Tc.
+
+:rate-limiting-gases-alt-1: A line graph which demonstrates that the dry deposition velocity for gases is frequently dictated by other than atmospheric phenomena. It shows how different types of gases including but not limited to Iodine (I2) behave when they hit the surface. Multiple curves labeled β represent different gas solubilities. The plot is divided into regions: (1) highly soluble, (2) sparingly soluble, (3) surface-diffusion limited, and (4) reaction-volume limited. The x axis = the dimensionless reaction rate κ = kt with intervals of (1) 10-3, (2) 10-2, (3) 10-1, (4) 100, (5) 101, (6) 102, (7) 103, (8) 104, (9) 105, (10) 106, and (11) 107. The y axis = the dimensionless deposition velocity v⌄d* - v⌄d (Kπt)^½ with intervals of (1) 10-3, (2), 10=2, (3) 10-1, and (4) 100.
+
+:rate-limiting-gases-alt-2: A graph that shows the plot of Equation (5) with β^-½ on the low abscissa and the reaction rate as a parameter. It shows the practical application of the paper's theoretical models to see how they actually behave in the environment. The x axis = solubility/diffusivity parameter β^½ = H⌄o (square root of D/K) with intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 10^0, (5) 10^1, and (6) 10^2. A second x axis at the top = Henry’s law constant at 20 degrees Celsius (cm^3 GAS cm ^-3 for H2O) with intervals of (1) 10^-2, (2) 10^-1, (3) 10^0, (4) 10^1, (5) 10^2, and (6) 10^3. The y axis = dimensionless deposition velocity where v⌄d/3.77 cm sec^-1 with intervals of (1) 10^-3), (2) 10^-2, (3) 10^-1, (4) 10^0.
+
+:removal-rate-alt-1: A spatial concentration contour map originating from St. Louis. Isopleth lines labeled 2 through 16 illustrate decreasing pollutant density as the plume moves southeast. Measurement points are marked with solid black dots across a grid spanning 120 miles.
+
+:removal-rate-alt-2: Atmospheric concentration map showing complex plume dispersion from St. Louis. Contour lines labeled 5 through 11 represent varied density levels across the sampling grid. The map illustrates non-linear dispersion patterns with several isolated pockets of concentration labeled at the 7 and 8 levels.
+
+:removal-rate-alt-3: Pollutant concentration map featuring vertical profile data. In addition to horizontal contour lines (1.5 to 7), the map includes specific altitude measurements at 1500 ft, 3000 ft, 4000 ft, and 5000 ft in altitude from the mean sea level, indicating how concentration values change at different layers of the atmosphere.
+
+:short-diff-range-alt-1: A dot graph which shows • tracking Krypton (Kr) at a transversal of 200 meters, ◦ tracking Krypton (Kr) at a transversal of 842 meters, □ tracking Florine (FP) at a transversal of 200 meters, and ■ tracking Florine (FP) at a transversal of 842 meters. The x axis = percent of tracer in meters from 0 m - 7 m in increments of 1. The y axis = height in meters from 0 m - 60 m in increments of 5 m. A dashed line (- - -) highlights the release height, which is just above 25 m. A dotted line highlights the top sampler at a transversal of 200 m. Another dotted line highlights the top sampler at a traversal of 842 m. All areas under curves normalized to 100 percent.
+
+:short-diff-range-alt-2: A dot graph which shows • tracking Krypton (Kr) at a transversal of 200 meters, ◦ tracking Krypton (Kr) at a transversal of 842 meters, □ tracking Florine (FP) at a transversal of 200 meters, and ■ tracking Florine (FP) at a transversal of 842 meters. The x axis = percent of tracer in meters from 0 m - 7 m in increments of 1. The y axis = height in meters from 0 m - 60 m in increments of 5 m. A dashed line (- - -) highlights the release height, which is just above 25 m. A dotted line highlights the top sampler at a transversal of 200 m. Another dotted line highlights the top sampler at a traversal of 842 m. All areas under curves normalized to 100 percent.
+
+:solvent-refined-coal-alt: A graph that displays the signal intensity of each of the chemical compounds separated by the SP-1000 at 10% from the process naphtha sample. The sample uses N~2~ as the carrier gas at a rate of 60 mL/min.  The x axis = the temperature in degrees Celsius in increments of (1) 100°, (2) 100°, (3) 150°, and (4) 200°C. The data continues after 200°C but evens out after that point. The first two increments on the x axis marked 100° represent the initial temperature of 100°, after which the temperature is held there as a constant for a specific period of time.  The y axis = the relative response. There are 22 data points which represent (1) 2-methylindan, (2) 5-methylindan, (3) 1, 3-dimethylindan, (4) 1, 2, 3 4-tetrahydronaphthalene, (5) 5-methyl-1, 2, 3, 4-tetrahydronaphthalene, (6) naphthalene, (7) 2-methylnaphthalene, (8) 1-methylnaphthalene, (9) 2, 6-dimethylnaphthalene, (10) phenol, o-cresol, (11) m-cresol, p-cresol, (12) 3, 5-xylenol, (13) acenaphthene, (14) dibenzofuran, (15) fluorene, (16) 9, 10-dihydrophenanthrene, (17) dibenzothiophene, (18) phenanthrene, anthracene, (19) 2-methylphenanthrene, (20) 1-methylphenanthrene, (21) fluoranthene, and (22) pyrene.
+
+:transuranium-alt-1:  A line graph drawn on physical graphing paper with no x or y axis labeled.
+
+:transuranium-alt-2: A line graph drawn on physical graphing paper with no x or y axis labeled.
+
+:transuranium-alt-3: A line graph drawn on physical graphing paper with no x or y axis labeled.
+
+:transuranium-alt-4: Three scatterplots on top of each other showing, from top to bottom: (1) 238~Pu~, (2) 239~Pu~, and (3) 238~Pu~/239~Pu~. The x axis = the year including 1961 through 1963 in single year increments for each graph. The y axis = _dpm/KSCM_ in increments of (1) 0.01, (2) 0.1, and (3) 1. At the bottom is a fourth graph, a bar graph. The data points are labeled as "Detonations" for (1) the U.S., (2) the U.S.S.R., and (3) the Chinese. A final label is included, "^238^Pu from SNAP-9A BURNUP" but it is unclear what that means. The x axis = the year including 1961 through 1963 in single year increments. The y axis is unlabeled but shows increments of (1) 0.02 - 0.1 MT, (2) 0.1 - 1 MT, (3) 1.10 MT, and (4) > 10 MT. At the bottom, someone scratched out a label.
+
+:transuranium-alt-5: A line graph drawn on physical graphing paper with no x or y axis labeled. Someone wrote data points they labeled, "Estimated 241^Pu".
+
+:transuranium-alt-6: A line graph drawn on physical graphing paper with no x or y axis labeled. Someone wrote data points which they labeled,  "measured 241^Am" from the top and "estimated 241^Am from the bottom". They are closely correlated.
+
+:variation-plume-centerline-alt-1: A pair of two graphs stacked on top of each other that show the concentration of tracer emissions in an unstable atmosphere. Both graphs show an electrical field strength of 2.7 x 10^-5^ over m^3^ and an initial tracer release of 200 meters high. A solid line (--) measures the history of exposure at a given distance, a dashed line (- - -) measures the exposure from a specific fence post for the electron positron, and the bar graph measures end-to-end peak concentrations for the plumes. The top graph (1) shows test V7. The x axis = time in seconds in increments of (1) 0.1 and (2) 0.10, although more time after 0.10 seconds is shown and unlabeled. The y axis = the relative concentration with increments of (1) 0.1, (2) 0.5, (3) 1.0, (4), 5.0, (5) 10.0, and (6) 20.0. The bottom graph (2) shows test V2. The x axis = time in minutes between 0 and 18 minutes in two minute increments. The y axis = the relative concentration with increments of (1) 0.2, (2) 0.5, (3) 1.0, (4) 5.0, (5) 10.0, (6) 20.0, and (7) 30.0.
+
+:variation-plume-centerline-alt-2: A set of three graphs stacked on top of each other that show the concentration of tracer emissions in a stable atmosphere. All three graphs show an electrical field strength of 2.7 x 10^-5^ over m^3^. A solid line (--) measures the history of exposure at a given distance, a dashed line (- - -) measures the exposure from a specific fence post for the electron positron, and the bar graph measures end-to-end peak concentrations for the plumes. For all three graphs, the x axis = time in minutes between 0 and 24 minutes in increments of one minute. The y axis = the relative concentration in increments of (1) 0, (2) 0.5, (3) 1.0, (4) 2.0, and (5) 3.0. The top two graphs have an additional y-value of (7) 4.0. The top graph (1) shows test V6 with initial tracer release of 800 meters high. The middle graph (2) shows test V6 with an initial tracer release of 1600 meters high. The bottom graph (3) shows test V5 with an initial tracer release of 800 meters high.
+
+:varied-wind-spectra-alt: A stack of three graphs that show the ratio of an emissions sample of airborne contaminants versus the expected (modeled) contaminants in the air at distances of, top to bottom, (1) 60, (2) 15, and (3) 7.5 meters. The x axis in all three graphs is the distance in meters with increments of (1) 10, (2) 100, and (3) 1000 meters. The y axis in all three graphs is the ratio (Ry/Rz) between 0.5 and 3.0 in increments of 0.5.
