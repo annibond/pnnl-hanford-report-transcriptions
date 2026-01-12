@@ -1,3 +1,4 @@
 [id="ref_further_studies_on_a_low_level_model_montgomery_references_{ref-further-studies-on-a-low-level-model-montgomery-1}"]
+include::../attributes.adoc[]
 
-1. W. E. Davis, “A Model to Compute Lower Level Montgomery Stream Functions - Part II,” [.underline]#Pacific Northwest Laboratories Annual Report for 1974 to the USAEC Division of Biology and Environmental Research, Part 3, Atmospheric Sciences#, BNWL-1950 PT 3, Battelle, Pacific Northwest Laboratories, Richland, WA, February 1975.
+1. {WED}, "A Model to Compute Lower Level Montgomery Stream Functions - Part II,"" [.underline]#{PNLAR} for 1974 to the {USAEC-P3}#, BNWL-1950 PT 3, {bat}, {PNL}, {rich}, {WA}, February 1975.

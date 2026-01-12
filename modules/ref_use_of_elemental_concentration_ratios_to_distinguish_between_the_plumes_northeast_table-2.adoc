@@ -1,4 +1,5 @@
 [id="ref_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast_table-2{ref-use-elemental-concentration-rations-plumes-northeast-3}"]
+include::../attributes.adoc[]
 
 .Elemental Concentrations Over Rural Areas, Part 1
 
@@ -6,7 +7,7 @@
 
 |===
 
-^| ^|*St. Louis to Indianapolis* ^|*Columbus to Pittsburgh* ^|*Syracuse to Allentown* ^|*Upwind of Philadelphia-Baltimore-Washington* ^|*Washington to New York (Upwind)* ^|*New York to Washington (Upwind)*
+^| ^|*{STL} to {indy}* ^|*{colu} to {pitt}* ^|*{syra} to {allen}* ^|*Upwind of {philly}-{balt}-{WA}* ^|*{WA} to {NY} (Upwind)* ^|*{NY} to {WA} (Upwind)*
 
 ^|*Time (Local)*
 >|1305 - 1358
@@ -40,7 +41,7 @@
 
 |===
 
-^| ^|*St. Louis to Indianapolis* ^|*Columbus to Pittsburgh* ^|*Syracuse to Allentown* ^|*Upwind of Philadelphia-Baltimore-Washington* ^|*Washington to New York (Upwind)* ^|*New York to Washington (Upwind)*
+^| ^|*{STL} to {indy}* ^|*{colu} to {pitt}* ^|*{syra} to {allen}* ^|*Upwind of {philly}-{balt}-{WA}* ^|*{WA} to {NY} (Upwind)* ^|*{NY} to {WA} (Upwind)*
 
 ^|Sodium
 >|890

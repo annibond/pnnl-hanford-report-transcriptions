@@ -1,4 +1,5 @@
 [id="con_field_measurement_of_the_effect_of_filter_orientation_{con_field_measurement_direction}"]
+include::../attributes.adoc[]
 
 == Introduction
 

@@ -1,16 +1,16 @@
 [id="assembly_a_pitfall_in_the_application_of_tensor_analysis_to_fluid_mechanics_{assembly-pitfall-application-tensor-analysis}"]
-
+include::../attributes.adoc[]
 :stem: latexmath
 
-= A Pitfall in the Application of Tensor Analysis to Fluid Mechanics
-W. G. N. Slinn
+== A Pitfall in the Application of Tensor Analysis to Fluid Mechanics
+[.big]#{WGNS}#
 
 _An inconsistency is exposed between the conventional use of the convective acceleration in fluid mechanics, v • ∇ v, and the definition for the gradient of a vector +++<span class="math inline">\( \nabla\vec{v} = v_{i,j} \vec{e}^{i} \vec{e}^{i} \)+++. Two remedies are proposed._
 
-include::../modules/con_a_pitfall_in_the_application_of_tensor_analysis_to_fluid_mechanics.adoc[leveloffset=+1]
+include::../modules/con_a_pitfall_in_the_application_of_tensor_analysis_to_fluid_mechanics.adoc[leveloffset=+]
 
-== Appendices
+=== Appendices
 
-=== References
+==== References
 
 include::../modules/ref__a_pitfall_in_the_application_of_tensor_analysis_to_fluid_mechanics_references.adoc[leveloffset=+2]

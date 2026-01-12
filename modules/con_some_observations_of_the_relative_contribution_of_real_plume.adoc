@@ -1,5 +1,5 @@
 [id="con_some_observations_of_the_relative_contribution_of_real_plume_{con-some-observations-relative-contribution-real-plume}"]
-
+include::../attributes.adoc[]
 :stem: latexmath
 
 == Introduction

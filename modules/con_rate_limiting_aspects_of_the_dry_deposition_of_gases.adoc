@@ -1,0 +1,55 @@
+[id="con_rate_limiting_aspects_of_the_dry_deposition_figures_{con-rate-limiting-dry-deposition}"]
+:stem: latexmath
+include::../attributes.adoc[]
+
+== Introduction
+
+As is discussed elsewherefootnote:1[W. G. N. Slinn, “Some Approximations for the Wet and Dry Removal of Particles and Gasses from the Atmosphere,” BNWL-SA-5489, submitted for publication in Journal of Air, Water and Soil Pollution, 1975.], a neutral atmosphere is capable of delivering the flux of gases to a surface of about stem:[u_*^2 / \overline{u}_1 \chi_1] where stem:[u_*] is the friction velocity, stem:[\overline{u}_1] is the wind speed at 1 m, and stem:[\chi_1] is the concentration of gas at this height. However, experimental results indicate that this deposition flux is rarely attained except for very reactive gasses such as I~2~. This report presents a simple model which illuminates some of the other possible rate limiting aspects of the dry deposition process for gases.
+
+== Candidate Processes
+
+Many other processes could conceivably be the rate limiting step in the dry deposition process for gases (if, indeed, a single process dominates). An extreme example of nonatmospheric rate limitation is the case of dry deposition of the noble gases, whose deposition velocity is essentially zero. For most gases, the flux to the ground or vegetation is rarely limited by the conversion of the gas to a less volatile compound, by diffusion into the ground water or the ground water’s motion, or by the passage of the gas through plant membranes. In the case of gas deposition to lakes or oceans for reasonably reactive gases, the atmosphere may be rate-limiting since turbulent mixing in the water body’s surface layer may promote the transfer of the gas in these sinks. Liss and Slater’sfootnote:2[P. S. Liss and P. G. Slater, Mechanism and Rate of Gas Transfer Across the Air-Sea Interface,” in Atmosphere - Surface Exchange of Particles and Gases - 1974, R. J. Engelmann and G. A. Sehmel, coords., ERDA Symposium Series, in press.] estimates lead them to conclude that the transport to the ocean of SO~2~, NH~3~, NO~2~, SO~3~, and HCl is limited by the atmospheric processes, whereas, even to the ocean, the transport of cases such as N~2~O, CO, CH~4~, CCl~4~, CCl~3~F, MeI and Me~2~S is rate-limited by transport in the ocean.
+
+== Simple Model
+
+A simple model for dry deposition of gases to a stationary water body (which could be a simulation for soil or plant moisture) can assist toward quantifying the above comments. With obvious approximations and assumptions, the problem is to solve:
+
+.Equation 1
+[latexmath]
+++++
+\frac{\partial \chi}{\partial t} = K \frac{\partial^2 \chi}{\partial z^2} \quad (z \ge 0)
+++++
+
+.Equation 2
+[latexmath]
+++++
+\frac{\partial c}{\partial t} = D \frac{\partial^2 c}{\partial z^2} - kc \quad (z \le 0)
+++++
+
+.Equation 3
+[latexmath]
+++++
+K \frac{\partial \chi}{\partial z} = D \frac{\partial c}{\partial z} \quad (z = 0)
+++++
+
+.Equation 4
+[latexmath]
+++++
+c(0, t) = H_O \chi(0, t)
+++++
+
+where _χ_ is the concentration of the gas in the atmosphere and _c_ its concentration in the water; _K_ and _D_ are diffusivities in the respective regions; _k_ is the rate at which the dissolved gas is irreversibly converted to a nonvolatile product; and H~o~ is the overall partition coefficient of the total gas in solution including any ionized component) to the equilibrium air concentration (e.g., see Postmafootnote:3[A. K. Postma, "Effect of Solubility of Gases on Their Scavenging," Precipitation Scavenging - 1970, R. J. Engelmann and W. G. N. Slinn, coords., AEC Symposium Series, CONF - 700601, 1970.]).
+
+The solution to *Equations (1) - (4)* with initial conditions like _χ(z, o) - o_ can easily be found using Laplace transform techniques. It is 
+
+.Equation 5
+[latexmath]
+++++
+\frac{v_d}{(K / \pi t)^{1/2}} = \frac{\beta^{1/2} e^{-\kappa} - 1}{\beta - 1} + \frac{\beta (\pi \kappa)^{1/2}}{(\beta - 1)^{3/2}} \exp \left\{ \frac{\kappa}{\beta - 1} \right\} \cdot \left[ \text{erf} \left( \frac{\beta \kappa}{\beta - 1} \right)^{1/2} - \text{erf} \left( \frac{\kappa}{\beta - 1} \right)^{1/2} \right]
+++++
+
+where _κ = kt_, _β = K/(H~o~^2^D)_ and _v~d~_ is the ratio of magnitude of the flux to the air concentration of _χ~o~_. For _β = 1_, the rhs* of *Eq. (5)* reduces to _[1 - {1 - ex -κ} / (2κ)]_. For _β < 1_, *Eq. (5)* can be written in terms of Dawson’s integral.
+
+=== Results and Conclusions
+
+*Equation (5)* is plotted in *Figure 1* and demonstrates that the dry deposition velocity for gases can be rate-limited by slow mixing in the ground water [large _β = K / H~o~^2^D)_], low solubility (again large _β_) or by slow conversion to a nonvolatile compound (small _k_). The plot of *Equation (5)* in *Figure 2* suggests that the model may have some merit for the interpretation of dry deposition to vegetation.

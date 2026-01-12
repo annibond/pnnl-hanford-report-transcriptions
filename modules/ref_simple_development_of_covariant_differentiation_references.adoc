@@ -1,7 +1,8 @@
 [id="ref_simple_development_of_covariant_differentiation_references_{ref-simple-development-covariant-differentiation-1}"]
+include::../attributes.adoc[]
 
-1. A. J. McConnel, [.underline]#Applications of Tensor Analysis#, Dover Publications, Inc., New York, 1975.
+1. {AJM}, [.underline]#Applications of Tensor Analysis#, {DP}, Inc., {NY}, 1975.
 
-2. H. D. Block, [.underline]#Tensor Analysis#, Merril Books, Inc. Columbus, Ohio, 1962.
+2. {HDB}, [.underline]#Tensor Analysis#, Merril Books, Inc. Columbus, Ohio, 1962.
 
-3. A. Einstein, “The Foundations of the General Theory of Relativity,” translated from [.underline]#Annalen der Physik#, 49, 1916 in [.underline]#The Principles of Relativity#, H. A. Lorentz et al. Dover Publications Inc., New York, 1923.
+3. {AE}, “The Foundations of the General Theory of Relativity,” translated from [.underline]#Annalen der Physik#, 49, 1916 in [.underline]#The Principles of Relativity#, H. A. Lorentz et al. {DP,} Inc., {NY}, 1923.

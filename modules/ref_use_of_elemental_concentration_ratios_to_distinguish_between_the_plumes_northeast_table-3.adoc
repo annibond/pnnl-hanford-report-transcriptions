@@ -1,4 +1,5 @@
 [id="ref_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast_table-3{ref-use-elemental-concentration-rations-plumes-northeast-4}"]
+include::../attributes.adoc[]
 
 .Concentration Rations of Selected Elements
 
@@ -8,7 +9,7 @@
 
 ^| ^|*Na/V* ^|*Na/Zn* ^|*Na/Se* ^|*S/Na* ^|*S/Zn* ^|*S/Se* ^|*V/Se* ^|*V/Sb* ^|*Zn/V* ^|*Zn/As* ^|*Zn/Sb* ^|*As/V* ^|*As/Se* ^|*Br/Se* ^|*Br/Sb* ^|*Sb/Se* ^|*Pb/Se* ^|*Pb/Sb*
 
-^|*St. Louis (7/17/73) 20 Miles Downwind*
+^|*{STL} (7/17/73) 20 Miles Downwind*
 >|73
 >|3.8
 >|195
@@ -28,7 +29,7 @@
 >|46
 >|156
 
-^|*St. Louis (7/17/73) 60 Miles Downwind*
+^|*{STL} (7/17/73) 60 Miles Downwind*
 >|65
 >|5.2
 >|279
@@ -48,7 +49,7 @@
 >|54
 >|140
 
-^|*St. Louis (12/5/74)*
+^|*{STL} (12/5/74)*
 ^|
 ^|
 ^|
@@ -68,7 +69,7 @@
 >|28
 >|153
 
-^|*Indianapolis*
+^|*{indy}*
 >|117
 >|13
 >|833
@@ -88,7 +89,7 @@
 >|382
 >|157
 
-^|*Columbus*
+^|*{colu}*
 >|86
 >|11
 >|135
@@ -108,7 +109,7 @@
 >|13
 >|11
 
-^|*Pittsburgh*
+^|*{pitt}*
 >|0.33
 >|2.1
 >|65
@@ -128,7 +129,7 @@
 >|59
 >|109
 
-^|*Buffalo*
+^|*{buff}*
 >|2.5
 >|10.78
 >|47
@@ -148,7 +149,7 @@
 >|172
 >|140
 
-^|*Rochester*
+^|*{roch}*
 >|54
 >|11
 >|1120
@@ -168,7 +169,7 @@
 >|278
 >|26
 
-^|*Philadelphia*
+^|*{philly}*
 >|172
 >|15
 >|830
@@ -188,7 +189,7 @@
 >|103
 >|31
 
-^|*Baltimore*
+^|*{balt}*
 >|39
 >|6.2
 >|145
@@ -208,7 +209,7 @@
 >|30
 >|78
 
-^|*Washington D.C.*
+^|*{WA} D.C.*
 >|61
 >|31
 >|1679
@@ -228,7 +229,7 @@
 >|91
 >|73
 
-^|*New York City (12/12/74)*
+^|*{NYC} (12/12/74)*
 >|4.6
 >|1.3
 >|157
@@ -248,7 +249,7 @@
 >|218
 >|21
 
-^|*New York City (March, 1972)*
+^|*{NYC} (March, 1972)*
 >|13
 >|3.1
 >|53
@@ -268,7 +269,7 @@
 >|176
 >|83
 
-^|*St. Louis to Indianapolis*
+^|*{STL} to {indy}*
 ^|
 >|68
 >|6357
@@ -288,7 +289,7 @@
 >|24
 >|7.5
 
-^|*Columbus to Pittsburgh*
+^|*{colu} to {pitt}*
 >|63
 >|4.2
 >|353
@@ -308,7 +309,7 @@
 >|2.5
 >|0.97
 
-^|*Syracuse to Allentown*
+^|*{syra} to {allen}*
 >|104
 >|16
 >|2230
@@ -328,8 +329,8 @@
 >|346
 >|52
 
-^|*"Upwind of Philadelphia-Baltimore-
-Washington D.C."*
+^|*"Upwind of {philly}-{balt}-
+{WA} D.C."*
 >|3.3
 >|0.89
 >|25
@@ -349,7 +350,7 @@ Washington D.C."*
 >|23
 >|94
 
-^|*Washington to New York (Upwind)*
+^|*{WA} to {NY} (Upwind)*
 >|46
 >|9.1
 >|8500
@@ -369,7 +370,7 @@ Washington D.C."*
 >|1170
 >|13
 
-^|*New York to Washington (Upwind)*
+^|*{NY} to {WA} (Upwind)*
 >|2.7
 >|0.082
 >|29

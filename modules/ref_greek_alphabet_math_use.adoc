@@ -1,5 +1,5 @@
 [id="ref_greek_alphabet_math_use_{ref-greek-letters}"]
-
+include::../attributes.adoc[]
 .Greek Letters & Definitions
 
 [cols="1,1,1"]

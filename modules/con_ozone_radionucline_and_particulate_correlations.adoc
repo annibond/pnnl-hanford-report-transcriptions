@@ -1,4 +1,5 @@
 [id="con_ozone_radionuclide_and_particulate_correlations_{con-ozone-radionuclide-particulate-quillayute}"]
+include::../attributes.adoc[]
 
 == Introduction
 

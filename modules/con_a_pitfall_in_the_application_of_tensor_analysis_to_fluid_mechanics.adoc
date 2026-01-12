@@ -1,5 +1,5 @@
 [id="con_a_pitfall_in_the_application_of_tensor_analysis_to_fluid_mechanics_{con-pitfall-application-tensor-analysis}"]
-
+include::../attributes.adoc[]
 :stem: latexmath
 
 == Introduction

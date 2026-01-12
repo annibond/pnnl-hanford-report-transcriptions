@@ -1,4 +1,5 @@
 [id="con_measurement_of_particulate_plume_{con-particulate-plume-depletion}"]
+include::../attributes.adoc[]
 
 == Introduction
 

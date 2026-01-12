@@ -1,5 +1,5 @@
 [id="ref_glossary_of_terms_{ref-glossary}"]
-
+include::../attributes.adoc[]
 :stem: latexmath
 
 .Glossary of Terms
@@ -7,6 +7,9 @@
 [cols="1,1"]
 |===
 ^|*Term* ^|*Definition*
+
+|abscissa
+|in a graph when the x-coordinate is the distance from a point to the y-axis is measured parallel to the x-axis
 
 |acid
 |a substance that can donate a proton (H^+^), has a Ph < 7 on the pH scale
@@ -122,14 +125,25 @@
 |cubic feet per minute (cfm)
 |measurement for airflow over time
 
+|Dawson's integral (function)
+|a mathematical equation used in problems related to heat and spectroscopy
+
+stem:[F(x) = e^{-x^2} \int_{0}^{x} e^{t^2} dt]
+
 |deleterious
 |harmful
 
 |deposition
 |the process by which particles are removed from the atmosphere and land on the ground
 
+|diffusion coefficient (D)
+|a proportionality constant in Fick's law that quantifies how fast a substance diffuses through another
+
 |deposition flux
 |the rate at which radioactive materials are removged from the atmosphere and accumulate on the ground
+
+|deposition velocity
+|a measurement of the speed airborne radioactive materials settle from the atmosphere to the Earth's surface, a proportional constant used in models to remove the contaminants from the air
 
 |dibenzothiophene
 |a tricyclic organic sulfur compound with the formula  C~12~H~8~S
@@ -139,6 +153,9 @@
 
 |diffusitivity
 |measurement rate at which particules, heat, or fluids spread through a medium
+
+|diffusivities
+|the rate in which particles, heat, or momentum spread (diffuse) through a medium, quantified by the diffusion coefficient
 
 |diluent
 |inert liquid added to reduce the concentration of a substance
@@ -158,6 +175,9 @@
 |downwind
 |something or somewhere positioned in the direction of the wind
 
+|dry deposition process
+|the process where airborne radioactive gases are directly moved from the atmosphere to Earth's surface without the help of precipitation
+
 |eddy energy
 |kinetic energy associated with the swirling, turbulent motions a fluid (e.g., ocean, air)
 
@@ -176,6 +196,9 @@
 |environ
 |surrounding area or conditions that may be affected by radiation or nuclear processes
 
+|equilibrium
+|when the chemicals within a substance are in balance, where there is no tendencies for the quantities of the two substances to change
+
 |facing away
 |the nuclear force binding the nucleon has enough force over a somewhat larger distance (microscopic), causing the force of the nucleons to overpower the repulsion between protons and bring them closer together
 
@@ -187,6 +210,17 @@
 
 |fentometer (fm)
 |a fermi, one quadrillionth of a meter (10^-5^ meters)
+
+|Fick's Laws
+|how substances move from high to low concentrations within a medium
+
+|Fick's First Law (Steady-State Diffusion)
+|the rate of diffusion (flux, J) is directly proportional to the negative concentration gradiant (dC / dx), see heat transfer
+
+J = -D dC / dx
+
+|Fick's Second Law
+|predicts the rate at which concentration acculmulates or depletes in a specific volume as diffusion occurs
 
 |filter
 |a device or mathematical processised to selectively remove unwanted particles, radiation, or noise from the data set
@@ -239,20 +273,26 @@
 |hazards appraisal
 |an analysis or assessment of the climate or weather’s ability to cause financial loss, negative health outcomes, or property damage
 
+|Henry's law cosntant
+|K~H~ which defines how much a radioactive gas dissolves in a liquid relative to its partial pressure in the gas phase
+
 |heptasulfide
 |chemical compound containing seven sulfur atoms in each molecule
 
 |heptoxide
 |chemical compound containing seven oxygen atoms in each molecule
 
+|immiscible
+|two liquids that do not form a homogenous mixture when combined (e.g., oil and water)
+
+|impactor
+|an instrument used to sample and size-segregate airborne particles, including radioactive aerosols
+
 |inert
 |unmoving, stopped
 
 |ingrowth emitter
 |a radioactive isotope that produces additional radioactive materials as it decays
-
-|impactor
-|an instrument used to sample and size-segregate airborne particles, including radioactive aerosols
 
 |inertial capture
 |the process where a particle's own weight and momentum prevent it from following a curved path in the air
@@ -304,6 +344,9 @@
 
 |lanthanides
 |series of 15 soft, silvery metals in the periodic table of elements 57-71
+
+|Laplace transform technique
+|a mathematical tool that converts a differential equation into a simpler algebraic equation
 
 |Liquid Metal Breeder Reactor (LMBR)
 |nuclear reactor that uses a liquid metal (such as liquid sodium) as the primary coolant and is designed to "breed" more fissile material than it consumes
@@ -392,6 +435,9 @@
 |orthogonal
 |at a right angle
 
+|partition coefficient
+|the ratio of a substance's concentration in one liquid phase to its concentration in a second, immiscible liquid phase
+
 |Pasquill Stability Class (Pasquill Category)
 |a system used to classify atmospheric stability and the amount of turbulent mixing in the atmosphere
 
@@ -458,8 +504,8 @@
 |Rankin counting method
 |statistical analyze of random fluctuations during nuclear decay
 
-|rate-limited
-|the restriction of how often an action can be repeated within a specific time frame
+|rate limiting
+|the speed of the single slowest step in a multi-part process
 
 |reactive nonmetals
 |elements that are very eager to gain electrons to form chemical bonds
@@ -469,6 +515,9 @@
 
 |resuspension
 |the process by which particles that have approached or struck a surface are kicked back into the air through a force of air
+
+|right-hand side (rhs)
+|the product of a chemical reaction
 
 |roentgens
 |legacy (inactive) unit of measurement for x-rays and gamma rays

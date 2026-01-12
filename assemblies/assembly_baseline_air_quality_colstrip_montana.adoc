@@ -1,14 +1,15 @@
 [id="assembly_baseline_air_quality_colstrip_montana_{assembly-baseline-air-quality-colstrip}"]
+include::../attributes.adoc[]
 
-= Baseline Air Quality Data from Colstrip, Montana
-E. A. Crecelius, J. C. Laul, L. A. Rancitelli, and R. L. McKeever
+== Baseline Air Quality Data from Colstrip, Montana
+[.big]#{EAC}, {EAC}, {JCL}, {LAR} and {RLM}#
 
-Colstrip, located in the range land of eastern Montana, is the site of a coal-fired power plant complex. Unit 1 (350 MW) will begin generating power in late 1975. Concern over the possible environmental impact caused by these power plants led to a study of the air quality before the first plant became operational. As expected the air quality was very good. The air quality will continue to be monitored while Unit 1 is operating.
+Colstrip, located in the range land of eastern {MO}, is the site of a coal-fired power plant complex. Unit 1 (350 MW) will begin generating power in late 1975. Concern over the possible environmental impact caused by these power plants led to a study of the air quality before the first plant became operational. As expected the air quality was very good. The air quality will continue to be monitored while Unit 1 is operating.
 
 include::../modules/con_baseline_air_quality_colstrip_montana.adoc[leveloffset=+1]
 
-== Appendices
+=== Appendices
 
-=== Tables
+==== Tables
 
 include::../modules/ref_baseline_air_quality_colstrip_montana_table-1.adoc[leveloffset=+2]

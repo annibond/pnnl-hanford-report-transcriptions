@@ -1,4 +1,5 @@
 [id="ref_prediction_of_environmental_exposures_table-1_{ref-prediction-of-environmental-exposure-3}"]
+include::../attributes.adoc[]
 
 .Relative Abundance of Heavy Element Produced During Ivy Mike Test
 

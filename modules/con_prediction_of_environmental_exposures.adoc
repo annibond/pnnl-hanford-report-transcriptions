@@ -1,4 +1,5 @@
 [id="con_prediction_of_environmental_exposure_{con-prediction-of-environmental-exposure}"]
+include::../attributes.adoc[]
 
 == Abstract
 

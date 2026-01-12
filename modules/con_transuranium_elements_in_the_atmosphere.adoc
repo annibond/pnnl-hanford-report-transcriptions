@@ -1,4 +1,5 @@
 [id="con_transuranium_elements_in_the_atmosphere_{con-transuranium-elements-atmosphere}"]
+include::../attributes.adoc[]
 
 == Introduction
 

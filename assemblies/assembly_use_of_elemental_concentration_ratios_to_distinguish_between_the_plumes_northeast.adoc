@@ -1,9 +1,10 @@
 [id="assembly_use_of_elemental_concentration_rations_to_distinguish_between_the_plumes_northeast_{assembly-use-elemental-concentration-rations-plumes-northeast}"]
+include::../attributes.adoc[]
 
-= The Use of Elemental Concentration Ratios to Distinguish Between the Plumes of Different Northeastern Cities
-J. A. Young, N. S. Laulainen, L. L. Wendell and T. M. Tanner
+== The Use of Elemental Concentration Ratios to Distinguish Between the Plumes of Different Northeastern Cities
+[.big]#{JAY}, {NSL}, {LLW} and {TMT}#
 
-The atmospheric concentrations of trace elements have been measured downwind of 11 cities in the northeastern quarter of the United States, to determine whether the concentration ratios of the trace elements are sufficiently unique for different cities that the plume of each city can be identified from the concentration ratios. It was found that the ratios of anthropogenic element concentration generally varied the most from city to city. Between any two cities there were generally several concentration rations which differed by more than an order of magnitude; so, it appears that the concentration ratios can be used to distinguish the plumes of different cities. Concentrations with time of the concentration ratios are much smaller than the differences between different cities.
+The atmospheric concentrations of trace elements have been measured downwind of 11 cities in the northeastern quarter of the {United States}, to determine whether the concentration ratios of the trace elements are sufficiently unique for different cities that the plume of each city can be identified from the concentration ratios. It was found that the ratios of anthropogenic element concentration generally varied the most from city to city. Between any two cities there were generally several concentration rations which differed by more than an order of magnitude; so, it appears that the concentration ratios can be used to distinguish the plumes of different cities. Concentrations with time of the concentration ratios are much smaller than the differences between different cities.
 
 include::../modules/con_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast.adoc[leveloffset=+1]
 

@@ -1,4 +1,5 @@
 [id="ref_transuranium_elements_in_the_atmosphere_table-8_{ref-transuranium-elements-atmosphere-9}"]
+include::../attributes.adoc[]
 
 .Atmospheric Concentration of Fallout Debris from Chinese Test of 3-18-72 in Surface Air at Richland, Wash.
 

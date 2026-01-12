@@ -1,7 +1,8 @@
 [id="assembly_field_measurement_of_the_effect_of_filter_orientation_{assembly_field_measurement_direction}"]
+include::../attributes.adoc[]
 
-= Field Measurement of the Effect of Filter Orientation on Sampling of a Particulate Tracer
-P. W. Nickola
+== Field Measurement of the Effect of Filter Orientation on Sampling of a Particulate Tracer
+[.big#]{PWN}#
 
 _A particulate tracer was sampled by filters facing upward and filters facing toward and away from the mean wind direction. The toward-source samplers proved most efficient while the upward-facing filters displayed lowest efficiencies. Irrespective of efficiency, aerosol sampling under conditions departing significantly from iskinetic may be invalid._
 

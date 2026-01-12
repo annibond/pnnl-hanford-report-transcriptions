@@ -1,4 +1,5 @@
 [id="ref_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast_table-4{ref-use-elemental-concentration-rations-plumes-northeast-5}"]
+include::../attributes.adoc[]
 
 .Concentration Ratios Which Differ by More than an Order of Magnitude Between Pairs of Cities
 
@@ -6,9 +7,9 @@
 
 |===
 
-^| ^|*Indianpolis* ^|*Columbus* ^|*Pittsburgh* ^|*Buffalo* ^|*Rochester* ^|*Allentown-Bethlehem* ^|*Philadelphia* ^|*Baltimore* ^|*Washington D.C.* ^|*New York City*
+^| ^|*{indy}* ^|*{colu}* ^|*{pitt}* ^|*{buff}* ^|*{roch}* ^|*{allen}-{beth}* ^|*{philly}* ^|*{balt}* ^|*{WA} D.C.* ^|*{NYC}*
 
-^|*St. Louis*
+^|*{STL}*
 ^|Zn/Sb, As/Se, Br/Se, Sb/Se, Pb/Se
 ^|S/Cl, Cl/As, Cl/Sb*, Cl/Pb, Zn/V, Zn/As, Zn/Sb, Pb/Sb
 ^|Cl/As, Zn/As, Sb/Se
@@ -21,7 +22,7 @@
 ^|Na/V, Cl/V, Cl/Sb*, V/Se, Zn/V, Zn/Sb, As/Se, Br/Se, Sb/Se
 
 ^|
-^|*Indianapolis*
+^|*{indy}*
 ^|Cl/S, Cl/V, Cl/As, Cl/Sb*, Cl/Pb, Br/Se, Pb/Se, Pb/Sb
 ^|Na/Se, Cl/As, Cl/Se, Sb/Se, Na/Mo, Cl/Mo
 ^|Na/S, Na/V, Na/Zn, Na/Se
@@ -34,7 +35,7 @@
 
 ^|
 ^|
-^|*Columbus*
+^|*{colu}*
 ^|Cl/Sb, Sb/Se
 ^|Na/V, Na/Zn, S/Na, Cl/Sb, V/Se, V/Sb, Pb/Se, Pb/Sb
 ^|S/Cl, Cl/V, Cl/As, V/Se, Br/Se, Pb/Cl, Pb/Se
@@ -47,7 +48,7 @@
 ^|
 ^|
 ^|
-^|*Pittsburgh*
+^|*{pitt}*
 ^|Na/V, S/Na, S/Se, V/Se, Sb/Se
 ^|Na/Se, Cl/Se, V/Se
 ^|Cl/As, Zn/As, Sb/Se
@@ -60,7 +61,7 @@
 ^|
 ^|
 ^|
-^|*Buffalo*
+^|*{buff}*
 ^|Na/V, Na/Zn, Na/Se, S/Na
 ^|S/Na, S/Zn, S/Se, Cl/S, Zn/V
 ^|Na/V, Na/Zn, NaSe, S/Na*, S/So*, As/V
@@ -73,7 +74,7 @@
 ^|
 ^|
 ^|
-^|*Rochester*
+^|*{roch}*
 ^|Na/Zn, Na/Se, Zn/As, Zn/Sb, Br/Se, Sb/Se
 ^|S/Se
 ^|Sb/Se
@@ -86,7 +87,7 @@
 ^|
 ^|
 ^|
-^|*Allentown-Bethlehem*
+^|*{allen}-{beth}*
 ^|Zn/As, Zn/Sb
 ^|Na/Zn
 ^|Zn/As, Zn/V, Zn/Se
@@ -99,7 +100,7 @@
 ^|
 ^|
 ^|
-^|*Philadelphia*
+^|*{philly}*
 ^|S/Se
 ^|S/Se, V/Sb
 ^|Na/V, Na/Zn, S/Na, S/Se, Cl/V, As/V
@@ -112,7 +113,7 @@
 ^|
 ^|
 ^|
-^|*Baltimore*
+^|*{balt}*
 ^|Na/Se
 ^|Cl/S, Cl/Sb*, Cl/Pb, As/Se, Sb/Se
 
@@ -125,7 +126,7 @@
 ^|
 ^|
 ^|
-^|*Washington D.C.*
+^|*{WA} D.C.*
 ^|Na/Se
 
 ^|
@@ -138,6 +139,6 @@
 ^|
 ^|
 ^|
-^|*New York City*
+^|*{NYC}*
 
 |===

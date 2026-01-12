@@ -1,4 +1,5 @@
 [id="ref_periodic_table_of_elements_{ref-periodic-table}"]
+include::../attributes.adoc[]
 
 .Periodic Table of Elements
 

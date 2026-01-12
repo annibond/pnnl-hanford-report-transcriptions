@@ -1,15 +1,16 @@
 [id="ref_use_of_elemental_concentration_ratios_to_distinguish_between_the_plumes_northeast_references{ref-use-elemental-concentration-rations-plumes-northeast-1}"]
+include::../attributes.adoc[]
 
-1. S. S. Brar, D. M. Nelson, J. R. Kline, D. F. Gustafson, E. L. Kanabrock, C. M. Moore, and D. M. Hattor, "Instrumental Analysis for Trace Elements Present in Chicago Area Surface Air," [.underline]#Journal of Geophysical Research 75#, 1970.
+1. {SSB}, {DMN}, {JRK}, {DFG}, {ELK}, {CMM}, and {DMH}, "Instrumental Analysis for Trace Elements Present in Chicago Area Surface Air," [.underline]#{JGR} 75#, 1970.
 
-2. R. Dams, J.A. Robbins, K. A. Rahn, and J. W. Winchester, "Nondestructive Neutron Activation Analysis of Air Pollution Particulates," [.underline]#Analytical Chemistry 42#, pp. 861-867, 1970.
+2. {RD}, {JAR}, {KAR}, and {JWW}, "Nondestructive Neutron Activation Analysis of Air Pollution Particulates," [.underline]#{AC} 42#, pp. 861-867, 1970.
 
-3. R. F. Tuttle, J. R. Vogt, and T. F. Parkinson, "Neutron Activation Analysis of Trace Elements in Airborne Particulates," IAEA Symposium on the Use of Nuclear Techniques in the Measurement and Control of Environmental Pollution, Saltzburg, Austria, October 26-30, 1970.
+3. {RFT}, {JRV}, and {TFP}, "Neutron Activation Analysis of Trace Elements in Airborne Particulates," IAEA Symposium on the Use of Nuclear Techniques in the Measurement and Control of Environmental Pollution, Saltzburg, Austria, October 26-30, 1970.
 
-4. K.S. Pillay, C. C. Thomas, Jr., and C. M. Hyche, "Neutron Activation Analysis of Inorganic Constituents of Airborne Particulates," [.underline]#Nuclear Technology 10#, pp. 224-231, 1971.
+4. {KSP}, {CCT}, and {CMM}, "Neutron Activation Analysis of Inorganic Constituents of Airborne Particulates," [.underline]#{NT} 10#, pp. 224-231, 1971.
 
-5. D. Gray, D. M. McKown, M. Kay, M. Eichor, and J. R. Vogt, “Determination of the Trace Element Levels in Atmospheric Pollutants by Instrumental Neutron Activation Analysis,” [.underline]#IEEE Transactions on Nuclear Science#, [.underline]#NS-19#, No. 1, pp. 194-198, 1972.
+5. {DG}, {DMM}, {MK}, {ME}, and {JRV}, “Determination of the Trace Element Levels in Atmospheric Pollutants by Instrumental Neutron Activation Analysis,” [.underline]#{IEEET}#, [.underline]#NS-19#, No. 1, pp. 194-198, 1972.
 
-6. L. A. Rancitelli, J. A. Cooper, and R. W. Perkins, "Multielement Characterization of Atmospheric Aerosols by Instrumental Neutron Activation Analysis," [.underline]#Comparative Studies of Food and Environmental Contamination#, IAEA-SM-175/24, pp. 431-454, 1974.
+6. {LAR}, {JAC}, and {RWP}, "Multielement Characterization of Atmospheric Aerosols by Instrumental Neutron Activation Analysis," [.underline]#{CSFEC}#, IAEA-SM-175/24, pp. 431-454, 1974.
 
-7. T. M. Tanner, J. A. Young, and J. A. Cooper, "Multielement Analysis of St. Louis Aerosols by Nondestructive Techniques," [.underline]#Chemosphere 3#, pp. 211-220, 1974.
+7. {TMT}, {JAY} and {JAC}, "Multielement Analysis of {STL} Aerosols by Nondestructive Techniques," [.underline]#Chemosphere 3#, pp. 211-220, 1974.}

@@ -1,4 +1,5 @@
 [id="con_further_studies_on_a_low_level_model_montgomery_{con-further-studies-on-a-low-level-model-montgomery}"]
+include::../attributes.adoc[]
 
 == Model
 

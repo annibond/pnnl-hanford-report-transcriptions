@@ -1,9 +1,10 @@
 [id="assembly_lead_pb_concentrations_associated_with_1000_mb_{assembly-lead-concentrations-1000-mb}"]
+include::../attributes.adoc[]
 
-= Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at Quillayute
-T. D. Fox and J. D. Ludick
+== Lead (Pb) Concentrations Associated with 1000 mb Geostrophic Back Trajectories at :quil:
+[.big]#{TDF} and {JDL}#
 
-Daily averaged Pb concentrations in the air at Quillayute, Washington, are related by an objective method of 1000 mb geostrophic backward one-day air trajectories. The results confirm the expectation that land areas are source regions for Pb. The highest Pb values are characteristic of anthropogenic sources within the influence of the air monitoring station.
+Daily averaged Pb concentrations in the air at {quil}, {WA}, are related by an objective method of 1000 mb geostrophic backward one-day air trajectories. The results confirm the expectation that land areas are source regions for Pb. The highest Pb values are characteristic of anthropogenic sources within the influence of the air monitoring station.
 
 include::../modules/con_lead_pb_concentrations_associated_with_1000_mb.adoc[leveloffset=+1]
 

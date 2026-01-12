@@ -1,4 +1,5 @@
 [id="ref_transuranium_elements_in_the_atmosphere_table-2_{ref-transuranium-elements-atmosphere-3}"]
+include::../attributes.adoc[]
 
 .Tests for Producing Transuranic Isotopes
 

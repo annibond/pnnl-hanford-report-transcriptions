@@ -1,4 +1,5 @@
 [id="ref_compounds_isotopes_{ref-compounds-isotopes}"]
+include::../attributes.adoc[]
 
 .Compounds & Isotope Names
 
@@ -8,14 +9,35 @@
 
 ^|*Compound* ^|*Compound Name*
 
-|C~10~H~12~
-|2, 5-methylindan
+|CCl~4~
+|Carbon Tetrachloride
+
+|CCl~3~F
+|Trichlorofluoromethane
+
+|CH~4~
+|Methane
+
+|CO
+|Carbon Monoxide
 
 |Fe(OH)~3~
 |Ferric Hydroxide
 
+|HCl
+|Hydrogen Chloride
+
 |kCi
 |Potassium Chloride
+
+|MeI
+|Iodomethane
+
+|Me~2~S
+|Dimethyl Sulfide
+
+|N~2~O
+|Nitrous Oxide
 
 |Na~2~Co~3~
 |Sodium Carbonate
@@ -23,70 +45,16 @@
 |Na~2~O~2~
 |Sodium Chloride
 
+|NH~3~
+|Ammonia
+
+|NO~2~
+|Nitrogen Dioxide
+
+|SO~3~
+|Sulfur Trioxide
+
 |ZnS
 |Zinc Sulfide
-
-|1, 3-dimethylindan
-|C~11~H~14~
-
-|1, 2, 3 4-tetrahydronaphthalene
-|C~10~H12~
-
-|5-methyl-1, 2, 3, 4-tetrahydronaphthalene
-|C~11~H~14
-
-|naphthalene
-|C~10~H~8~
-
-|2-methylnaphthalene
-|C~11~H~10
-
-|1-methylnaphthalene
-|C~10~H~7~CH~3~
-
-|2, 6-dimethylnaphthalene
-|C~10~H~6~(CH~3~)~2~
-
-|phenol
-|C~6~H~5~OH
-
-|o-cresol
-|CH~3!C~6~H~4~OH (or C~7~H~8~O)
-
-|m-cresol
-|CH~3~C~6~H~4~(OH)
-
-|p-cresol
-|CH~3~C~6~H~4~OH (or C~7~H~8~O)
-
-|3, 5-xylenol
-|(CH~3~)~2~C~6~H~3~O (or C~7~H~8~O)
-
-|acenaphthene
-|C~12~H~10~
-
-|dibenzofuran
-|C~12~H~8~O
-
-|fluorene
-|C~13~H~10~
-
-|9, 10-dihydrophenanthrene
-|C~14~H~12~
-
-|dibenzothiophene
-|C~12~H~8~S
-
-|phenanthrene, anthracene
-|C~14~H~10~
-
-|2-methylphenanthrene
-|C~15~H~12~
-
-|1, 2-methylphenanthrene
-|C~15~H~12~
-
-|fluoranthene, pyrene
-|C~16~H~10~
 
 |===

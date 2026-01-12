@@ -1,4 +1,5 @@
 [id="ref_variation_of_plume_centerline_concentration_with_time_table-1_{ref-variation-plume-centerline-concentration-3}"]
+include::../attributes.adoc[]
 
 .Peak-to-Mean Concentration Ratios and Reduction in Apparent Plume Centerline Due to Meander (E~p~/[.overline]#χ#~p~)
 

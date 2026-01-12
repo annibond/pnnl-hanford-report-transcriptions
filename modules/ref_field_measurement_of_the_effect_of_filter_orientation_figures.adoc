@@ -1,4 +1,5 @@
 [id="ref_field_measurement_of_the_effect_of_filter_orientation_figures_{ref_field_measurement_direction-figures}"]
+include::../attributes.adoc[]
 
 .The Ratio of Tracer Mass on Filters Facing Upward to Those Facing Toward Source as a Function of Wind Speed (Neg 72182-3)
 

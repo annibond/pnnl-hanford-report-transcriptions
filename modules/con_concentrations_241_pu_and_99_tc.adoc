@@ -1,4 +1,5 @@
 [id="con_concentrations_241_pu_and_99_tc_{con-concentrations-pu-tc}"]
+include::../attributes.adoc[]
 
 == Introduction
 

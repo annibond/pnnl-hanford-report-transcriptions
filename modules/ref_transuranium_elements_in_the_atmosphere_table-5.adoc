@@ -1,4 +1,5 @@
 [id="ref_transuranium_elements_in_the_atmosphere_table-5_{ref-transuranium-elements-atmosphere-6}"]
+include::../attributes.adoc[]
 
 .Accumulation ^239^Pu and ^238^Pu Concentrations in Air at Richland, Washington and Pt. Barrow, Alaska
 

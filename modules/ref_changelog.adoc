@@ -1,6 +1,21 @@
 [id="ref_changelog_{ref-changelog}"]
+include::../attributes.adoc[]
 
-= Changelog
+== Changelog
+
+.11 January 2026 - 17 January 2026, BNWL-2000, pp.
+
+* Created "Rate-Limiting Aspects of the Dry Deposition of Gases"
+
+* Reference Material
+
+- Created "Attributes" and added all of the author names; relevant publication, organization and location names, retroactively applied and added attributes.adoc to all modules
+
+- Updated "Compounds & Isotopes", "Glossary of Terms", and one of the meta-reference diagrams added
+
+* Miscellaneous
+
+- So much fixing leveloffset title errors
 
 .04 January 2026 - 10 January 2026, BNWL-2000, pp.
 
