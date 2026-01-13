@@ -1,0 +1,121 @@
+[id="con_approximations_and_solutions_resuspension_{con-approximations-solutions-resuspension}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+The complete formulation of the diffusion-deposition-resuspension problem is rather formidable:
+
+.Equation 1
+[latexmath]
+++++
+\frac{\partial \chi}{\partial t} + vec{t} \cdot (K \cdot \nabla \chi) = \nabla \cdot (K \cdot \nabla \chi) + v_s \frac(\partial \chi){\partial z}
+++++
+
+.Equatio 2
+[latexmath]
+++++
+\frac{\partial c}{\partial t} + \vec{w} \cdot \nabla \chi = \nabla (\cdot (D \cdot c) + G(c) - L(c) + w_s \frac{\partial c}{\partial z}
+++++
+
+where _χ_ is the pollutant’s concentration in the atmosphere and _c_ its concentration in the surface. Other notation is standard. To complete the specification of the problem, suitable initial and boundary conditions are needed and these will be introduced later. This report discusses solutions to approximate versions of *Eq. (1)* and *Eq. (2)*, which may be used to assist analyses of the complete problem.
+
+== Averages
+
+To obtain an approximate description of the physical processes, *Eq. (1)* and *Eq. (2)* are averaged over the crosswind _(y)_ and vertical _(z)_ directions. Further, if x-diffusion is the atmosphere is ignored as well as both x-diffusion and all transport in the surface, then *Eq. (1)* and *Eq. (2)* become
+
+.Equation 3
+[latexmath]
+++++
+\frac{\partial A}{\partial t} + \overline{u} \frac{\partial A}{\partial x} = - \int_{-\infty}^{+\infty} dy [K_z \frac{\partial \chi}{\partial x} + v_s \bigg|_{z=o}
+++++
+
+.Equation 4
+[latexmath]
+++++
+\frac{\partial G}{\partial t} = \int_{-\infty}^{+\infty} dy D_z \frac{\partial c}{\partial z} \bigg|_{z=o} - \alpha G
+++++
+
+where _A_ is the crosswind and vertical integral of the contaminant in the atmosphere,
+
+.Equation 5
+[latexmath]
+++++
+A (x, t) = \int_{-\infty}^{+\infty} + dy \int_{o}^{\infty} dz \chi (x, y, z, t)
+++++
+
+and similarly for _G_, the ground concentration. To obtain *Eq. (4)* it has been assumed that _G(c) = o_ and the loss term, _L(c) = -αc_ where _α_ is the rate at which _c_ is attached to the surface, thereby becoming unavailable for resuspension.
+
+== Boundary Conditions
+
+The boundary conditions can be used to obtain some information about the integral terms in *Eq. (3)* and *Eq. (4)*. Equality of fluxes states
+
+.Equation 6
+[latexmath]
+++++
+-\bigg [K_z \frac{\partial \chi}{\partial z} + v_s \bigg ]_{z=o} = -\bigg [D_z \frac{\partial c}{\partial z} \bigg]_{z=o}
+++++
+
+which can be integrated over y. Now, extending the method of Horst et al.footnote:1[T. W. Horst, J. G. Droppo and C. E. Elderkin, "An Assessment of the Long-Term Exposure Due to Resuspension," Pacific Northwest Laboratories Annual Report for 1973 to the USAEC Division of Biomedical and Environmental Research, BNWL-1850, PT 3, Battelle, Pacific Northwest Laboratories, Richland, WA, 1974.], we assume that these y-averaged fluxes are given by _ΛG - ΩA_ where _Λ_ is a resuspension rate and, similarly, _Ω_ is a deposition rate. Then *Eq. (3)* and *Eq. (4)* become
+
+.Equation 7
+[latexmath]
+++++
+\frac{\partial A}{\partial t} + \overline{u} \frac {\partial A}{\partial x} = \nabla G - \Omega A
+++++
+
+.Equation 8
+[latexmath]
+++++
+\frac{\partial G}{\partial \tau} = \Omega A - \delta G - \alpha G
+++++
+
+== Parameter Estimates
+
+Horst et. al.footnote:1 reference experimental data for the resuspension rate, _Λ_, in the range of _10^-7^_ to _5 x 10^-9^ sec^-1^_ and for the fixation rate, _α_, they suggest a value of about 10-7 sec-1. However, this author questions if such values adequately reflect reality. Even a casual observation of the resuspension that occurs during a dust storm suggests that the actual process has a time constant on the order of hours (rather than years). The experimental data that lead to _Λ ~ 10^-8^ sec^-1^_ may better reflect the time constant of the sampling process (~ months) rather than the time constant of the physical process. Of course if only a few high wind situations occur per year, then a long-time average of Λ will lead to a value such as _Λ ~ 10^-8^_ sec. Here, however, an approximate analysis will be performed to estimate the air concentration during time periods comparable to the duration of an individual dust storm and, therefore, we take (with only casual observations as the experimental basis) _Λ ~ Ω_. In turn, the deposition rate can be estimated to the _Ω ≅ v~d~/H_, where H is the height of the mixed layer. Typical values for the deposition velocity are _1 ⪅ Ω ⪅ 10_ days. The rate _α_ is assumed to be slow enough to be ignored during the time scale of interest.
+
+== Solutions
+
+*Equation (7)* and *Eq. (8)* are vastly simplified versions of *Eq. (1)* and *Eq. (2)* but still are difficult to solve analytically. The steady-state solution 
+
+.Equation 9
+[latexmath]
+++++
+A (x) = A (o) - \frac{\alpha}{\overline {u}} \int_{o}^{x} G (\epsilon) d \epsilon
+++++
+
+Does not seem to be of much practical value. If _G(x)_ can be considered time independent then the steady-state solution for _A_ is
+
+.Equation 10
+[latexmath]
+++++
+A(x) = \exp \left\{ -\frac{\Omega x}{\alpha} \right\} \left[ A(o) + \frac{\Lambda}{\bar{u}} \int_{0}^{x} e^{\Omega \xi / \bar{u}} G(\xi) d\xi \right]
+++++
+
+which is similar to the case studied by Horstfootnote:2[T. W. Horst, "The Suspension Ratio for a Gaussian Plume," Pacific Northwest Laboratories Annual Report for 1974 to the USAEC Division of Biomedical and Environmental Research, BNWL-1950, PT 3, Battelle, Pacific Northwest Laboratories, Richland, WA, 1975.], who includes x-diffusion.
+
+To solve *Eq. (7)* and *Eq. (8)* in the general case, subject to the boundary and initial conditions _A (x - o, t) = o, A (x, t = o) = o_ and _G (x, o) = Q~o~δ (x - x~o~)_, Laplace transforms in _t_ (parameter _s_) and _x_ (parameter _p_) are taken of *Eq. (7)* and *Eq. (8)*. This leads to
+
+.Equation 11
+[latexmath]
+++++
+\overline {Â} (p, s) = \frac {\delta Q_o e^{-px_o}}{(s + \delta \alpha) (s +  \overline {u} + \Omega - \Omega \lambda)}
+++++
+
+Inverting the p-Laplace transform gives
+
+.Equation 12
+[latexmath]
+++++
+\frac{\Lambda Q_o e^{-px_o}}{(s + \Lambda + \alpha)(s + p\bar{u} + \Omega - \Omega \Lambda)}
+++++
+
+This last expression is difficult to invert because of the essential singularity at _s = - (Λ + α)_.  Evaluating the residue the residue and recognizing the sum as the expansion of a zeroth-order, modified Bessel function finally yields the solution
+
+.Equation 13
+[latexmath]
+++++
+A(x, t; x_o, t=o) = \frac{\Lambda Q_o}{\bar{u}} e^{-\Omega \tau} \exp \{ - (\Omega + \alpha) (t - \tau) \} \cdot I_o \left[ 2 \{ \Omega \Lambda \tau (t - \tau) \}^{1/2} \right]
+++++
+
+in which _τ = (x - x~o~) / [.overline]#u#_ and it is required that _τ < t_ or (x - x~o~)_ < _[.overline]#u#t_, whose physical significance is obvious. From *Eq. (13)*, which is essentially the Green’s function of the problem, the solution for an arbitrary initial distribution of _G_ can be found easily. The solution for _G(x, t)_ is given elsewherefootnote:4[W. G. N. Slinn, "Reformulation and a Solution of the Diffusion-Deposition-Resuspension Problem,"" accepted for publication in Atmospheric Environment, 1976.].

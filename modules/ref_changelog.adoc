@@ -3,21 +3,25 @@ include::../attributes.adoc[]
 
 == Changelog
 
-.11 January 2026 - 17 January 2026, BNWL-2000, pp. 69-
+.11 January 2026 - 17 January 2026, BNWL-2000, pp. 69-78
 
 * Created "Rate-Limiting Aspects of the Dry Deposition of Gases"
 
-* Created "Contents on the Surface Boundary Conditions for the Diffusion-Deposition-Resuspension Problem"
+* Created "Some Comments on the Surface Boundary Conditions for the Diffusion-Deposition-Resuspension Problem"
 
 * Reference Material
 
 - Created "Attributes" and added all of the author names; relevant publication, organization and location names, retroactively applied and added attributes.adoc to all modules
+
+- Separately created image attributes in the above file, same deal
 
 - Updated "Compounds & Isotopes", "Glossary of Terms", and one meta-reference created, and two of the meta-reference diagrams added to assembly
 
 * Miscellaneous
 
 - So much fixing leveloffset title errors
+
+- Created labels and milestones in the repo
 
 .04 January 2026 - 10 January 2026, BNWL-2000, pp. 65-68
 

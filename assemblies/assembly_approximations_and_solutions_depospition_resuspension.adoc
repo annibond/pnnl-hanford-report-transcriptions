@@ -1,0 +1,20 @@
+[id="assembly_approximations_and_solutions_resuspension_{assembly-approximations-solutions-resuspension-assembly}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Approximations and Solutions for the Deposition-Resuspension Problem
+[.big]#{WGNS}#
+
+_Some simple solutions of the deposition-resuspension equations are obtained for the z-averaged contaminant concentration in the ground and in the atmosphere._
+
+include::../modules/con_approximations_and_solutions_depospition_resuspension_references.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_approximations_and_solutions_depospition_resuspension_references.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_approximations_and_solutions_depospition_resuspension_figures.adoc[leveloffset=+2]

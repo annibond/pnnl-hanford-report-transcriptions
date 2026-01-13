@@ -1,0 +1,20 @@
+[id="ref_approximations_and_solutions_resuspension_figures_{ref=approximations-solutions-resuspension-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: A Plot of the Nondimensionalized Air and Group Concentrations for Resuspension Rapid Compared with Deposition (Neg 759088-3)
+
+[#img-approx-solution-deposition-resuspension-1]
+[caption="A Plot of the Nondimensionalized Air and Group Concentrations for Resuspension Rapid Compared with Deposition", alt="{approx-solution-deposition-resuspension-alt-1}"]
+image::{approx-solution-deposition-resuspension-img-1}[A Plot of the Nondimensionalized Air and Group Concentrations for Resuspension Rapid Compared with Deposition]
+
+== Figure 2: A Plot of the Nondimensionalized Air and Ground Concentrations for Equal Rates of Resuspension and Deposition (Neg 759088-2)
+
+[#img-approx-solution-deposition-resuspension-2]
+[caption="A Plot of the Nondimensionalized Air and Ground Concentrations for Equal Rates of Resuspension and Deposition", alt="{approx-solution-deposition-resuspension-alt-2}"]
+image::{approx-solution-deposition-resuspension-img-2}[A Plot of the Nondimensionalized Air and Ground Concentrations for Equal Rates of Resuspension and Deposition]
+
+== Figure 3: A Plot of the Nondimensionalized Air and Ground Concentrations for Deposition Rapid Compared with Resuspension (Neg 759088-4)
+
+[#img-approx-solution-deposition-resuspension-3]
+[caption="A Plot of the Nondimensionalized Air and Ground Concentrations for Equal Rates of Resuspension and Deposition, alt="{approx-solution-deposition-resuspension-alt-3}"]
+image::{approx-solution-deposition-resuspension-img-2}[A Plot of the Nondimensionalized Air and Ground Concentrations for Equal Rates of Resuspension and Deposition]
