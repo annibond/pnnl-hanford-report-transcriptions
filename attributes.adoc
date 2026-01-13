@@ -104,6 +104,7 @@
 :manager: {CLS}
 :manager-title: Manager of {AS} Program
 
+:ACC: A. C. Chamberlain
 :AE: A. Einstein
 :AJA: A. J. Alkezweeny
 :AJM: A. J. McConnel
@@ -259,6 +260,10 @@
 
 // Images (.png) (Figures)
 
+:approx-solution-deposition-resuspension-img-1: {img-dir}/ref_approximations_and_solutions_depospition_resuspension_figure-1.png
+:approx-solution-deposition-resuspension-img-2: {img-dir}/ref_approximations_and_solutions_depospition_resuspension_figure-2.png
+:approx-solution-deposition-resuspension-img-3: {img-dir}/ref_approximations_and_solutions_depospition_resuspension_figure-3.png
+
 :field-filter-orientation-img-1: {img-dir}/ref_field_measurement_of_the_effect_of_filter_orientation_figure-1.png
 :field-filter-orientation-img-2: {img-dir}/ref_field_measurement_of_the_effect_of_filter_orientation_figure-2.png
 
@@ -321,6 +326,12 @@
 :varied-wind-spectra-img: {img-dir}/ref_variation_of_sample_wind_components_spectra_figure-1.png
 
 // Images Alt Text (Figures)
+
+:approx-solution-deposition-resuspension-alt-1: A graph that shows the nondimensional downwind distance compared to the nondimensional concentration in the air and on the ground. This figure represents the case where the removal rate Lambda equals the deposition rate Omega. Three sets of curves are shown for nondimensional times: (1) tau = At, (2) tau = Omega(tau), and (3) Lambda/Omega = 1. The x axis = nondimension downwind distance with intervals of 10^-1, (2) 10^0, and (3) 10^1. The y axis = the nondimensional concentration in the air and ground with intervals of (1) 10^-4, (2) 10^-3, (3) 10^-2, (4) 10^-1, and (5) 1. Both air and ground concentrations decrease by several orders of magnitude and shift further downwind, with ground concentration consistently lagging slightly below air concentration.
+
+:approx-solution-deposition-resuspension-alt-2: A graph that shows the nondimensional downwind distance compared to the nondimensional concentration in the air and on the ground. This figure represents the case where the removal rate Lambda equals the deposition rate Omega. Three sets of curves are shown for nondimensional times: (1) tau = At, (2) tau = Omega(tau), and (3) Lambda/Omega = 10. The x axis = the nondimensional downwind distance with intervals of (1) 10^-1, (2) 10^0, and (3) 10^1. The y axis = nondimensional concentration in the air and on the ground with intervals (1) 10-4, (2) 10-3, (3) 10-2, (4) 10-1, and (5) 1. At large distances, the air concentration (a) drops significantly faster than the ground inventory (g), highlighting that when removal is high, the surface cannot be replenished by the passing plume as effectively.
+
+:approx-solution-deposition-resuspension-alt-3: A graph that shows the nondimensional downwind distance compared to the nondimensional concentration in the air and on the ground. This figure represents the case where the removal rate Lambda equals the deposition rate Omega. Three sets of curves are shown for nondimensional times: (1) tau = At, (2) tau = Omega(tau), and (3) Lambda/Omega = 1. The x axis = the nondimensional downwind distance with intervals of (1) 10^-1, (2) 10^0, and (3) 10^1. The y axis = nondimensional concentration in the air and on the ground with intervals (1) 10-4, (2) 10-3, (3) 10-2, (4) 10-1, and (5) 1. This demonstrates that when deposition is the dominant process, the surface "holds onto" the material much longer, creating a more persistent ground-level footprint. The plume clings to the earth.
 
 :field-filter-orientation-alt-1: A dotted graph that shows the measurement of tracer concentration when facing AWAY from the mean wind direction and the concentration by the filter facing TOWARD the mean wind direction with a wind speed of 2 meters high. There is an inverse correlation between wind speed and the concentration ratio. The x axis = wind speed in meters at 2 meters of elevation between 0 and 7 in meters per second in one meter increments. The y axis = the concentration ratio of the AWAY and TOWARD forces of the tracer nucleon between 0 and 1.2 in increments of 0.1.
 

@@ -1,0 +1,9 @@
+[id="ref_approximations_and_solutions_resuspension_references_{ref-approximations-solutions-resuspension-references}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+1. {TWH}, {JGD} and {CEE}, "An Assessment of the Long-Term Exposure Due to Resuspension," [.underline]#{PNLAR} for 1973 to the {USAEC-P3}#, BNWL-1850, {bat}, {PNL}, {rich}, WA, 1974.
+
+2. {TWH}, "The Suspension Ratio for a Gaussian Plume," [.underline]#{PNLAR} for 1974 to the {USAEC-P3}#, BNWL-1950, {bat}, {PNL}, {rich}, WA, 1975.
+
+3. {WGNS}, "Reformulation and a Solution of the Diffusion-Deposition-Resuspension Problem," accepted for publication in [.underline]#Atmospheric Environment#, 1976.

@@ -387,11 +387,11 @@ J = -D dC / dx
 |metalloids
 |elements that exhibits some metal and some nonmetal properties
 
-|micrometer (μm)
-|1 millionth of a meter
+|microdosimetry
+|the study of how energy from ionized radiation is distributed randomly on the subatomic level
 
-|micron (micrometer)
-|a unit of measurement for very small particles, open millionth of a meter (1 x 10^-6^ meters)
+|micrometer (μm)
+|1 millionth of a meter, a micron
 
 |mineral residue
 |a geological deposit left behind after weathering or an accumulation of minerals in water
@@ -618,5 +618,8 @@ Stk = τ~p~/τ~f~
 
 |x-ray fluorescence (XRF)
 |analytical technique that identifies the elemental composition of a material
+
+|z-average
+|the mean of the microdosimetry to quanitfy the random nature of radiation energy deposition on the subatomic level
 
 |===

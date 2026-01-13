@@ -10,7 +10,7 @@ In previous Battelle reportsfootnote:1[D. C. Powell and C. E. Elderkin, “Profi
 .Equation 1
 [latexmath]
 ++++
-\frac{\sigma_{y,z}}{X} = \frac{u_{*}}{\bar{U}} \left\{ \int_{-\infty}^{\infty} \left[ \frac{n S_{v,w}(n)}{u_{*}^{2}} (F) \right] \frac{\sin^{2}\theta}{\theta^{2}} d\left[ \ln(F) \right] \right\}^{1/2}
+\frac{\sigma_{y,z}}{X} = \frac{u_{*}}{\bar{U}} \left\{ \int_{-\infty}^{\infty} \bigg [ \frac{n S_{v,w}(n)}{u_{*}^{2}} (F) \bigg] \frac{\sin^{2}\theta}{\theta^{2}} d \bigg[ \ln(F) \bigg ] \right\}^{1/2}
 ++++
 
 where
