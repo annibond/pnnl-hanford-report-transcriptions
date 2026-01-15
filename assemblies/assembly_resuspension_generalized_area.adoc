@@ -1,0 +1,17 @@
+[id="assembly_resuspension_generalized_area_{assembly-resuspension-generalized-area}"]
+include::../attributes.adoc[]
+
+== Resuspension from a Generalized Area Source
+[.big]#{TWH}#
+
+include::../modules/con_resuspension_generalized_area.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_resuspension_generalized_area_references.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_resuspension_generalized_area_figures.adoc[leveloffset=+2]

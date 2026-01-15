@@ -3,7 +3,15 @@ include::../attributes.adoc[]
 
 == Changelog
 
-.11 January 2026 - 17 January 2026, BNWL-2000, pp. 69-78
+=== 2026
+
+==== 11 January 2026 - 17 January 2026, BNWL-2000, pp. 69-83
+
+* Created "Resuspension in a Generalized Area Source"
+
+* Created "Approximations and Solutions for the Deposition-Resuspension Problem"
+
+* Created "Some Comments on the Surface Boundary Conditions for the Diffusion-Deposition-Resuspension Problem"
 
 * Created "Rate-Limiting Aspects of the Dry Deposition of Gases"
 
@@ -15,15 +23,13 @@ include::../attributes.adoc[]
 
 - Separately created image attributes in the above file, same deal
 
-- Updated "Compounds & Isotopes", "Glossary of Terms", and one meta-reference created, and two of the meta-reference diagrams added to assembly
+- Updated "Compounds & Isotopes", "Glossary of Terms", and 1 meta-reference diagram created, and 3 of the meta-reference diagrams added to assembly
 
 * Miscellaneous
 
 - So much fixing leveloffset title errors
 
-- Created labels and milestones in the repo
-
-.04 January 2026 - 10 January 2026, BNWL-2000, pp. 65-68
+==== 04 January 2026 - 10 January 2026, BNWL-2000, pp. 65-68
 
 * Created "Modeling Preliminaries for Dry Deposition to a Canopy"
 
@@ -31,7 +37,9 @@ include::../attributes.adoc[]
 
 - Updated "Glossary of Terms"
 
-.14 December 2025 - 20 December, 2025, BNWL-2000, pp. 61-63
+=== 2025
+
+==== 14 December 2025 - 20 December, 2025, BNWL-2000, pp. 61-63
 
 * Created "Deposition and Resuspension" section assembly, pp. 64-126
 
@@ -43,7 +51,7 @@ include::../attributes.adoc[]
 
 NOTE: "Further Studies on a Low Level Model to Compute Montgomery Stream Functions" signals the end of the second section of the report.
 
-.7 December 2025 - 13 December, 2025, BNWL-2000, pp. 53-60
+==== 7 December 2025 - 13 December, 2025, BNWL-2000, pp. 53-60
 
 * Created "Field Measurement of the Effect of Filter Orientation on Sampling of a Particulate Tracer"
 
@@ -59,7 +67,7 @@ NOTE: "Further Studies on a Low Level Model to Compute Montgomery Stream Functio
 
 * *HaPpY BiRtHdAy to me! I am longer in my _prime_.* (Get it? 37 is a prime number!)
 
-.30 November 2025 - 6 December 2025, BNWL-2000, pp. 39-52
+==== 30 November 2025 - 6 December 2025, BNWL-2000, pp. 39-52
 
 * Created "Variation of Plume Centerline Concentration with Time"
 
@@ -85,7 +93,7 @@ NOTE: "Further Studies on a Low Level Model to Compute Montgomery Stream Functio
 
 NOTE: Pages ("pp.") refer to the page numbers in the original, printed document, *not* the PDF copy's page numbers.
 
-.23 November 2025 - 29 November 2025, BNWL-2000, pp. 25-36
+==== 23 November 2025 - 29 November 2025, BNWL-2000, pp. 25-36
 
 * Created "Baseline Air Quality Data from Colstrip, Montana"
 
@@ -105,7 +113,7 @@ NOTE: Pages ("pp.") refer to the page numbers in the original, printed document,
 
  - Created "Anion vs. Cation", "Periodic Table of Elements", "Radioactive Decay", "Gas Chromatography", "Acid - Base Scale"
 
-.16 November 2025 - 22 November 2025, BNWL-2000, pp. iii, 2-25
+==== 16 November 2025 - 22 November 2025, BNWL-2000, pp. iii, 2-25
 
 * Created new entries for additional reports under the "Pacific Northwest Laboratory Annual Report for 1975 to the USERDA Division of Biomedical and Environmental Research Part 3 Atmospheric Sciences"
 

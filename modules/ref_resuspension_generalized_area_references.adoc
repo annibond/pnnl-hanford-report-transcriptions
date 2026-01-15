@@ -1,0 +1,8 @@
+[id="ref_resuspension_generalized_area_references_{ref-resuspension-generalized-area-references}"]
+include::../attributes.adoc[]
+
+1. {TWH}, "Resuspension from a Uniform Area Source," [.underline]#{PNLAR} for 1974 to the {USAEC-V2-P3}#, PNWL-1950, {bat}, {PNL}, {rich} WA, February, 1975.
+
+2. {TWH}, "A Surface Flux Model for Diffusion, Deposition and Resuspension," [.underline]#{PNLAR} for 1973 to the {USAEC-V2-P3}#, BNWL-1850, {bat}, {PNL}, {rich}, WA, April 1974.
+
+3. {GAB}, Diffusion Estimation for Small Emissions, {DOE}, NOAA-ERL- ATDL contribution No. 79 (draft), Oak Ridge, TN, May 1973.
