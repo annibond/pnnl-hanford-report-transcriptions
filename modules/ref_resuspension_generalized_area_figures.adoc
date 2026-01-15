@@ -1,0 +1,20 @@
+[id="ref_resuspension_generalized_area_figures_{ref-resuspension-generalized-area-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Resuspended Air Concentration for a Uniform Area Source (Neg 72065-2)
+
+[#img-resuspension-generalized-area-1]
+[caption="Resuspended Air Concentration for a Uniform Area Source", alt="{resuspension-generalized-area-alt-1}"]
+image::{resuspension-generalized-area-img-1}[Resuspended Air Concentration for a Uniform Area Source]
+
+* The *Pasquill A* equation represents an unstable or turbulent atmosphere.
+
+* The *Pasquill D* equation represents an neutral or standard atmosphere.
+
+* The *Pasquill F* equation represents a stable atmosphere.
+
+== Figure 2: Resuspended Air Concentration for a Gaussian Surface Source (Neg 72065-1)
+
+[#img-resuspension-generalized-area-2]
+[caption="Resuspended Air Concentration for a Gaussian Surface Source", alt="{resuspension-generalized-area-alt-2}"]
+image::{resuspension-generalized-area-img-2}[Resuspended Air Concentration for a Gaussian Surface Source]

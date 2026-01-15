@@ -1,0 +1,137 @@
+[id="con_resuspension_generalized_area_{con-resuspension-generalized-area}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+The air concentration of material resuspended from an area is a complicated function of the current meteorology, source geometry and source history. An investigationfootnote:1[T. W. Horst, "Resuspension from a Uniform Area Source," Pacific Northwest Laboratory Annual Report for 1974 to the USAEC Division of Biomedical and Environmental Research, Vol. II, Atmospheric Sciences, PNWL-1950, PT 3, Battelle, Pacific Northwest Laboratories, Richland, WA, February, 1975.] begun by studying a uniform field of resuspendable material of infinite extent in the crosswind direction. These results have now been extended to the case of a general distribution in the downwind direction.
+
+A distribution of surface contamination _G(x)_ which depends only on the downwind coordinate _x_ and extends infinitely in the crosswind direction is assumed to resuspend at a rate _Λ_ and redeposit with a deposition velocity vd from the resulting air concentration _C_. The relevant coordinates are the z above the ground and the downwind distance _x_ from the upwind edge of the contaminated area.
+
+== Uniform Area Source
+
+Using the surface flux modelfootnote:2[T. W. Horst, "A Surface Flux Model for Diffusion, Deposition and Resuspension," Pacific Northwest Laboratory Annual Report for 1973 to the USAEC Division of Biomedical and Environmental Research, Vol. II, Atmospheric Science, BNWL-1850 PT 3, Battelle, Pacific Northwest Laboratories, Richland, WA, April 1974.], the air concentration is
+
+.Equation 1
+[latexmath]
+++++
+C(x, z) = \int_{0}^{x} \left[ \Lambda G(\xi) - v_d C(\xi, z_d) \right] \psi_o(x - \xi, z) \, d\xi
+++++
+
+Here _z~d~_ is the reference height for deposition and D_(x, z)_ describes the vertical diffusion from a ground-level, crosswind infinite line source of nondepositing material, 
+
+.Equation 2
+[latexmath]
+++++
+D(x, z) = \frac{2}{\sqrt{2 \pi} \delta_z} exp (-z^2 / 2 \delta_z^{2})
+++++
+
+where _u_ is the mean wind speed and the dispersion parameter of _δz (x)_ is calculated from the formulas of Briggsfootnote:3[G. A. Briggs, Diffusion Estimation for Small Emissions, U. S. Department of Commerce, NOAA-ERL- ATDL contribution No. 79 (draft), Oak Ridge, TN, May 1973.].
+
+If for resuspension from a uniform area source without deposition we define
+
+.Equation 4
+[latexmath]
+++++
+\psi_{o} (x, z) = u C (x, z)/ \lambda G
+++++
+
+then Horstfootnote:1[] has shown that which deposition
+
+.Equation 5
+[latexmath]
+++++
+\psi(x, z) \simeq \frac{\psi_o(x, z)}{1 + \frac{v_d}{u} \psi_o(x, z_d)}
+++++
+
+This equation follows from an analysis of *Eq. (1)*, utilizing the basic properties of the diffusion function _D_, and is verified by numerical solutions of *Eq. (1)*. The approximation is best for small z since D then has its peak value near the source. *Figure 1* shows _ψ_, as calculated numerically at _z = zd = 1 m_, for three different atmospheric stability categories, for no deposition and for _v~d~ / u = 10^-2^_.
+
+== Increasing Source
+
+If we consider now a surface contamination _G(x)_ which increases the downwind direction, it can be shown from *Eq. (1)* that the above results can be generalized by introducing a scaling distance
+
+.Equation 6
+[latexmath]
+++++
+x^* = \frac{1}{G (x)} \int_{o}^{x} G (\epsilon) d \epsilon
+++++
+
+Then we have 
+
+.Equation 7
+[latexmath]
+++++
+\psi (x, z) \simeq \frac{u C (x, z)}{\lambda G (x)} \simeq \frac{\psi_{o} (x*, z)}{1 + \frac{v_d}{u} \psi_{o} (x*, z_d)}
+++++
+
+This approximation has been verified by numerical solution of *Eq. (1)* for several different _G(x) distributions and is also best for _z_.
+
+== General Source
+
+Finally, for a real source which increases to a maximum at _x = x~o~_ and then decreases, these results may be applied by defining
+
+.Equation 8
+[latexmath]
+++++
+\begin{aligned}
+G_1(x) &= \begin{cases} G(x), & x < x_o \\ G(x_o), & x > x_o \end{cases} \\
+G_2(x) &= \begin{cases} 0, & x < x_o \\ G(x_o) - G(x), & x > x_o \end{cases}
+\end{aligned}
+++++
+
+These distributions are each monotonically increasing in the downwind direction and their difference is equal to _G(x)_. Hence, applying *Eq. (7)*,
+
+.Equation 9
+[latexmath]
+++++
+\begin{aligned}
+G_1(x) &= \begin{cases} G(x), & x < x_o \\ G(x_o), & x > x_o \end{cases} \\
+G_2(x) &= \begin{cases} 0, & x < x_o \\ G(x_o) - G(x), & x > x_o \end{cases}
+\end{aligned}
+++++
+
+*Figure 2* is an example of the application of *Eq. (9)* to a Gaussian distribution of surface contamination which is peaked at xo and which has a standard deviation of _1 km_. The air concentration, normalized by the peak surface contamination, is shown as calculated exactly with *Eq. (1)* for the case of no deposition (solid curve) and for the case of _v~d~ / u = 10^-2^_ (broken curve). The dotted line similarly gives the shape of the surface contamination distribution. The predictions of *Eq. (9)* are plotted as squares and agree with the exact solution within 10% to 20%. Also shown, as dotted data points, are the predicted air concentrations for an equivalent point source of nondepositing material located at _x = x~o~_. Note the close match with the Gaussian source several standard deviations downwind of the peak.
+
+== Horizontal Flux
+
+The total horizontal flux of material in the downwind direction,
+
+.Equation 10
+[latexmath]
+++++
+F_H = \int_{o}^{\infty} u C (x, z) dz
+++++
+
+can be approximated with *Eq. (7)* to be
+
+.Equation 11
+[latexmath]
+++++
+F_H ≅ \frac{\lambda G (x) \int_{o}^{\infty} \psi_{o} {x^*, z} dz}{1 + \frac{v_d}{u} \psi_{o} (x^*, z_d)}
+++++
+
+Since the numerator applies also for the case of no deposition, conservation of material requires that 
+
+.Equation 12
+[latexmath]
+++++
+F_H ≅ \frac{\lambda G (x) x^*}{1 + \frac{v_d}{u} \psi_{o} (x^*, z_d)}
+++++
+
+This also follows from a direct application of *Eq. (1)*. The extension of *Eq. (12)* to the general source as evaluated with *Eq. (8)* should be obvious.
+
+In obtaining *Eq. (11)*, *Eq. (7)* was assumed to be applicable at all heights, whereas in fact it is best for small _z_ and becomes less valid as _z_ increases. However, due to the vertical distribution of _ψ~o~_, the major contribution to F~H~ is near _z = 0_, i.e., the bulk of the flux is carried near the surface, and *Eq. (11)* is a fairly good approximation. This is again verified by numerical calculations of *Eq. (10)*.
+
+== The Resuspension Factor
+
+In order to estimate resuspended air concentrations, much use has been made in the past of the resuspension factor _K = C / G_. The concept does not account for the variations in C due to source configuration or the dependence of diffusion on source-receptor separation. Hence measured values of _K_ can be used with confidence to estimate _C_ in new situations only when _K_ is known to vary little with location relative to the contamination distribution _G(x)_. The results outlined above may be used to comment more specifically on the variation of _K_.
+
+The vertical separation of the air concentration curves from the surface contamination curve in *Figure 2* is proportional to the resuspension factor. K increases slowly _x_ upwind of the peak and then increases very rapidly downwind of the peak. In general the resuspension factor has little use downwind of a contaminated area because _C_ is controlled by the upwind contamination rather than the local contamination. Note that the inclusion of deposition increases somewhat the linkage of _C_ with the local value of _G_. A large deposition velocity decreases the downwind influence of the surface contamination on the air concentration.
+
+*Equation (7)* directly predicts the value of _K_ upwind of the contamination. *Figure 1* shows _ψ_, or _K_ in units of _Λ / u_, at time deposition reference height of _1 m_. For _x^*^ ⪅ 100 m_, _ψ_ increases rapidly with _x~*~_; between _100 m_ and _10 kb_, _ψ~o~_ increases least rapidly; and beyond 10 km ψo begins to increase more rapidly again as the vertical mixing reaches a limiting value, especially for the stable *Pasquill F*. The unstable *Pasquill A* increases least rapidly because the strong vertical mixing of the contaminant limits its downwind influence. As observed previously, deposition also limits the downwind influence of the contaminant, reducing the variation of the resuspension factor with location. From *Eq. (7)* it can be seen that at large _x^*^_, and hence also _ψ~o~, _K_ with deposition approaches a limiting value _Λ / v~d~_.
+
+The influence on _K_ of the rate of change of _G_ with _x_ can be investigated by representing the surface distribution as a power function, _G(x) ~ x^n^_. Then the scaling distance is simply _x* = x(n + 1)_, and _ψ_ can be plotted as  a function of _x_ in *Figure 1* by shifting the curves to the right by the factor _(n + 1)_. It is then apparent that, at a given value of _x_, the _G_ with the largest n also has the least constant resuspension factor. The only exception is for the very large values of _x*_ where the slope of _ψ_ in Figure 1 increases with _x*_.
+
+NOTE: The absence of *Equation (3)* is intentional, as it is missing from the original report.
+
+NOTE: Emphasis on Pasquill's equations are mine.
