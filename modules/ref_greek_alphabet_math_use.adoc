@@ -2,118 +2,87 @@
 include::../attributes.adoc[]
 .Greek Letters & Definitions
 
-[cols="1,1,1"]
+[id="ref_greek_alphabet_table_{ref-greek-alphabet}"]
+include::../attributes.adoc[]
+
+.Greek Alphabet
+
+[cols="1,1,1,1"]
 
 |===
 
-^|*Symbol* ^|*Greek Letter* ^|*Definition*
+^|*α* (alpha)
 
-|α
-|alpha (lowercase)
-|alpha particle
+alpha particle, two protons and two neutrons
+^|*β* (beta)
 
-|β
-|beta (lowercase)
-|beta particle
+beta particle, an electron emitted during beta decay
+^|*γ* (gamma)
 
-|γ
-|gamma (lowercase)
-|high-energy photons, a type of radioactive decay
+gamma readiation (type of radioactive decay)
+^|*Δ* (Delta)
 
-|Δ, ∇
-|Delta (Uppercase)
-|finite difference
+difference between two measurements
 
-|δ
-|delta (lowercase)
-|a function that is zero everywhere except at the origin, where it is infinitely high
+^|*δ* (delta)
 
-|ɛ̝
-|epsilon (lowercase)
-|a variable typically used to represent an arbitrarily small positive number or an error term
+an infitesimal difference or variation
+^|*Ε* (Epsilon)
 
-|θ
-|theta (lowercase)
-|the scattering angle of particles after they interact with a target nucleus
+energy in Joules or an electrial field (uncommon)
+^|*ε* (epsilon)
 
-|Κ
-|Kappa (uppercase)
-|the state of a nuclear chain reaction
+permittivity, electric field intensity, or emissivity
+^|*Ζ* (Zeta)
 
-|κ
-|kappa (lowercase)
-|the neutron multiplication factor
+atomic number of an element
+^|*Φ* (theta)
 
-|Λ
-|Lambda (uppercase)
-|radioactive decay constant
+the angle of particles scattered during a collison
+^|*κ* (kappa)
 
-|λ
-|lambda (lowercase)
-|decay constant, which represents the probability per unit time that a radioactive nucleus will decay
+coefficient of thermal conductivity 
+^|*λ* (lambda)
 
-|μ
-|mu (lowercase)
-|the mean or the linear absorption coefficient in radiation physics
+decay constant (half-life)
+^|*μ* (mu)
 
-|ν
-|nu (lowercase)
-|the average number of neutrons released per fission event
+a prefix for micro (_10^-6^_)
 
-|π
-|pi (lowercase)
-|pion, a type of subatomic particle that mediates the strong nuclear force binding protons and neutrons together
+^|*ν* (nu)
 
-|Σ
-|Sigma (uppercase)
-|sum
+the mean of neutrons released per fission event
+^|*π* (pi)
 
-|σ / ς
-|sigma (lowercase)
-|a measurement of the probability of a nuclear reaction occurring
+a subatomic particle that mediates nuclear parity
+^|*ρ* (rho)
 
-|Τ
-|Tau (uppercase)
-|the mean lifetime of a radioactive substance
+density
+^|*Σ* (Sigma)
 
-|τ
-|tau (lowercase)
-|the mean lifetime of a radioactive isotope
+sum
 
-|Υ
-|Upsilon (uppercase)
-|a bound state of a bottom quark and a bottom antiquark
+^|*σ* (Tau)
 
-|Φ
-|Phi (uppercase)
-|a meson, a subatomic studied for its properties in nuclear matter (also known as a pion)
+the probability of a nuclear reaction occurring
+^|*τ* (tau)
 
-|φ / ϕ
-|phi (lowercase)
-|a meson, a subatomic studied for its properties in nuclear matter
+the mean lifetime of a radioactive isotope
+^|*χ* (chi)
 
-|ψ
-|psi (lowercase)
-|wave function
+energy distribution of neutrons released during fission
+^|*Ψ* (psi)
 
-|Χ
-|Chi (uppercase)
-|tensor
+the wave function
+^|*Ω* (Omega)
 
-|χ
-|chi (lowercase)
-|square distribution
+represents _Ω^-^, a subatomic particle containing three quarks
+^|*ω*(omega)
 
-|Ω
-|Omega (uppercase)
-|angular frequency
-
-|𝒪
-|big O
-|the upper bound of a function's growth rate
-
-|σθū
-|N/A
-|covariance between the variable θ and a defined variable ū
+angular frequency or a meson that mediates the nuclear force between nucleons
 
 |===
+
+NOTE: _β^+^_ represents a positron.
+
+NOTE: _∂_ represents partial derivative, which is common in the formulas in this database. However, it is not a Greek letter.

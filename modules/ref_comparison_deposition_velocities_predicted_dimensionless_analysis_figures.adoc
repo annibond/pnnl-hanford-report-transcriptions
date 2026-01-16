@@ -1,0 +1,14 @@
+[id="ref_comparison_deposition_velocities_predicted_dimensionless_analysi_figures_{ref-compare-depo-velocity-predicted-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: 1974 Model Predicted Deposition Velocities at 1 m for u~*~ = 30 cm/sec and Particle Densities 1, 4 and 11.5 g/cm^3^
+
+[#img-compare-depo-dimensionles-1]
+[caption="Vertical Profiles of Fraction of Tracer Per Unit Height for Nickola and Clark's Test V6", alt="{short-diff-range-alt-1}"]
+image::{compare-depo-dimensionless-img-1}[1974 Model Predicted Deposition Velocities at 1 m]
+
+== Figure 2: 1975 Model Predicted Deposition Velocities at 1 m for u* = 30 cm/sec and Particle Densities 1, 4 and 11.5 g/cm3
+
+[#img-compare-depo-dimensionles-2]
+[caption="1974 Model Predicted Deposition Velocities at 1 m for u = 30 cm over sec and Particle Densities 1, 4 and 11.5 g/cm3", alt="{compare-depo-dimensionless-alt-1}"]
+image::{compare-depo-dimensionless-img-2}[1975 Model Predicted Deposition Velocities at 1 m]

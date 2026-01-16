@@ -21,3 +21,5 @@ include::../assemblies/assembly_modeling_preliminaries_for_dry_deposition_to_a_c
 include::../assemblies/assembly_rate_limiting_aspects_of_the_dry_deposition_of_gases.adoc[leveloffset=+1]
 include::../assemblies/assembly_approximations_and_solutions_depospition_resuspension.adoc[leveloffset=+1]
 include::../assemblies/assembly_resuspension_generalized_area.adoc[leveloffset=+1]
+include::../assemblies/assembly_comparison_deposition_velocities_predicted_dimensionless_analysis.adoc[leveloffset=+1]
+include::../assemblies/assembly_particle_deposition_penetration_through_canopies.adoc[leveloffset=+1]

@@ -1,0 +1,86 @@
+[id="con_comparison_deposition_velocities_predicted_dimensionless_analysis_{con-compare-depo-velocity-predicted}"]
+:stem: latexmath
+include::../attributes.adoc[]
+
+== Introduction
+
+Particle deposition velocities are a function of many variables including surface, particle, and meteorological parameters. Limited deposition velocity measurements in the field have never been correlated into any predictive model. Possibly no field-based predictive model exists because experimental conditions in the field cannot be controlled. However, deposition velocities can be measured in controlled experiments in wind tunnels. Results from wind tunnel experiments have been correlated into an initial predictive model. The present objective was to determine if an improved predictive model could be developed based on a second modeling approach.
+
+== Models
+
+A particle deposition velocity _K_, can be describedfootnote:1[G. A. Sehmel and W. H. Hodgson, “Predicted Dry Deposition Velocities,” Proceedings of the Atmosphere-Surface Exchange of Particulate and Gaseous Pollutants - 1975 Symposium, Richland, WA, September 4-6 1974. Energy Research and Development Administration Symposium Series CONF-750921, National Technical Information Service, U.S. Department of Commerce, Springfield, VA, pp. 399-422, in press 1975.], footnote:2[G. A. Sehmel and W. H. Hodgson, “Particle and Gaseous Removal in the Atmosphere by Dry Deposition,” in the Proceedings of the Symposium on the Atmospheric Diffusion and Air Pollution, Santa Barbara, CA, September 9-13, 1974, pp. 253-260, American Meteorological Society, Boston, MA, 1974.], footnote:3[G. A. Sehmel and W. H. Hodgson, “Particle Dry Deposition Velocities,” Pacific Northwest Laboratory Annual Report for 1974 to the USAEC Division of Biomedical and Environmental Research, Part 3, Atmospheric Sciences, BNWL-1950, PT 3, Battelle-Northwest, Richland, WA, pp. 175-180, 1975.] by the equation,
+
+.Equation 1
+[latexmath]
+++++
+K = \frac{v_t}{1 - (1 / \alpha)}
+++++
+
+where _v~t~_ is the settling velocity for a monodispersed particle. This equation indicates the lower limit of deposition velocities to be the gravity settling velocity. However, as _v~t~ approaches zero, mass transfer is controlled by Brownian eddy diffusion. The term _α_ is a model-derived expression containing a grouping of mass transfer resistance
+
+.Equation 2
+[latexmath]
+++++
+\alpha = exp (- v_t Int/u_*)
+++++
+
+where u* is the friction velocity and Int is an integral mass transfer resistance term. Obviously, Int is related to simple resistance _R_ by,
+
+The initial modeling approach was to correlate Int as a function with dimensionless groupings. In this case, _Int_ included only the mass transfer resistance within the closest _1 cm_ adjacent to the deposition surface. Methods for predicting the meteorological contributions to _Int_ above _1 cm_ have been described.
+
+The initial or 1974 correlation for _Int_ was,
+
+.Equation 4
+[latexmath]
+++++
+\begin{aligned}
+\text{Int}_{1974} = - \exp \bigg\{ &-23.667 + 5.555 \ln \frac{d}{z_o} \\
+&- 0.07681 \left( \ln \frac{d}{z_o} \right)^2 + 0.9722 \ln \frac{u_*}{v_t} \\
+&+ 0.03799 \left( \ln \frac{u_*}{v_t} \right)^2 - 2.254 \ln \frac{D}{u_* z_o} \\
+&- 3.724 \ln \frac{\rho_p u_* d^2}{18 \mu z_o} \bigg\}
+\end{aligned}
+++++
+
+in which _d_ is particle diameter, _z~o~_ is roughness height, _D_ is the Brownian diffusion coefficient, _ρ~p~_ is particle density of _1.5 g/cm^3^_, and _μ_ is viscosity. Since particle density was not varied in the development of this correlation _Int_ is assumed to be independent of particle density changes.
+
+In the new modeling approachfootnote:1[] was to correlate as a function with dimensionless groupings. In this case, _Int_ included only the mass transfer resistance within the closest 1 cm adjacent to the deposition surface. Methods for predicting the meteorological contributions to Int above 1 cm have been describedfootnote:2[].
+
+The initial or 1974 correlation for _Int_ was,
+
+.Equation 5
+[latexmath]
+++++
+\tau^+ = \frac{\rho_p d^2}{18 \mu} \frac{u_*^2}{\nu}
+++++
+
+and
+
+.Equation 6
+[latexmath]
+++++
+Sc = v/D
+++++
+
+A new correlation, based upon _τ^+^_, Sc and statistically significant interactions, was developed using least squares techniques to fit experimental values for _Int_. The correlation is
+
+.Equation 7
+[latexmath]
+++++
+\begin{aligned}
+\text{Int}_{1975} = - \exp \bigg\{ &-66.392 \\
+&+ \ln \text{Sc} \left[ 11.42 - 0.4438 \ln \text{Sc} + 9.562 \times 10^{-3} \ln \frac{d}{z_o} \right] \\
+&+ \ln \tau^+ \left[ -5.216 - 0.3247 \ln \tau^+ + 0.3337 \ln \frac{d}{z_o} - 0.3910 \ln \frac{D}{z_o u_*} \right] \bigg\}
+\end{aligned}
+++++
+
+In both correlations all terms are statistically significant at the 99% level and multiple correlation coefficients are 0.92. There appears to be no statistically significant difference between fitting the data with either *Eq. (5)* and *Eq. (6)*.
+
+== Predicted Deposition Velocities
+
+Deposition velocities were predicted using the mass transfer resistances from both correlations combined with the meteorological mass transfer resistances from _1 cm_ to _1 m_ heights. These deposition velocities, _K1-M_, are referenced to the airborne concentration _1 m_ above the surface. Deposition velocities were predicted as a function of particle diameter, friction velocity, surface roughness, and particle density. Particle density changes effect only _v~t_ and not _Int_ in *Eq. (1)* through *Eq. (3)*. 
+
+Comparisons for predictions between the two models are shown in *Figures 1 and 2* for a friction velocity of _30 cm/sec_. Deposition velocities are always greater than the terminal settling velocity _v~t~_. The main difference between predictions is the minimum deposition velocity value for each roughness height. For other friction velocities, the minimum values from the two models show both less and greater deviation examples for the two correlations. In general, the new correlation does not predict as large a dependency of _K1-M_ upon roughness as the older correlation.
+
+== Conclusions
+
+Predicted deposition velocities depend on which correlation is used to predict the mass transfer adjacent to the deposition surface. As the data base for developing correlations is increased, predicted deposition velocities should become more accurate. Nevertheless, these are the only experimentally-based correlations to predict deposition velocities for rough surfaces.

@@ -1,0 +1,8 @@
+[id="ref_comparison_deposition_velocities_predicted_dimensionless_analysis_references_{ref-compare-dep-velocity-predicted-references}"]
+include::../attributes.adoc[]
+
+1. {GAS} and {WHH}, "Predicted Dry Deposition Velocities," [.underline]#{PRERDA} - 1975 Symposium#, {rich}, WA, September 4-6 1974. Energy Research and Development Administration Symposium Series CONF-750921, National Technical Information Service, {DOC}, Springfield, VA, pp. 399-422, in press 1975.
+
+2. {GAS} and {WHH}, "Particle and Gaseous Removal in the Atmosphere by Dry Deposition," in the [.underline]#{PSADAP}#," Santa Barbara, CA, September 9-13, 1974, pp. 253-260, {AMS}, Boston, MA, 1974.
+
+3. {GAS} and {WHH}, "Particle Dry Deposition Velocities," [.underline]#{PNLAR} for 1974 to the {USAEC-P3}#, BNWL-1950 PT 3, {BN}, {rich}, WA, pp. 175-180, 1975.

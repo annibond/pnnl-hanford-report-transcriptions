@@ -1,0 +1,22 @@
+[id="ref_particle_deposition_penetration_through_canopies_figures_{ref-particle-depo-penetration-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Deposition Velocities to a Canopy of Plastic Trees 9 cm High (Neg-760188-3)
+
+[#img-particle-depo-penetration-1]
+[caption="Deposition Velocities to a Canopy of Plastic Trees 9 cm High", alt="{particle-depo-penetration-alt-1}"]
+image::{particle-depo-penetration-img-1}[Deposition Velocities to a Canopy of Plastic Trees 9 cm High]
+
+== Figure 2: Penetration of Depositing Particles Through a Canopy of Plastic Trees (Neg 760188-1)
+
+[#img-particle-depo-penetration-2]
+[caption="Penetration of Depositing Particles Through a Canopy of Plastic Trees", alt="{particle-depo-penetration-alt-2}"]
+image::{particle-depo-penetration-img-2}[Penetration of Depositing Particles Through a Canopy of Plastic Trees]
+
+NOTE: There were _8 rows_ of trees. Each row had _6 trees_ each. (There were a total of _48 trees_.) Each tree was _3.8 cm_ wide and _9 cm_ tall (_3.8 x 9 cm_).
+
+== Figure 3: Penetration of Depositing Particles Through 3.8 to 5.1 cm Diameter Crushed Rock to an Underlying Surface (Neg 760188-2)
+
+[#img-particle-depo-penetration-3]
+[caption="Penetration of Depositing Particles Through 3.8 to 5.1 cm Diameter", alt="{particle-depo-penetration-alt-3}"]
+image::{particle-depo-penetration-img-3}[Penetration of Depositing Particles Through 3.8 to 5.1 cm Diameter]
