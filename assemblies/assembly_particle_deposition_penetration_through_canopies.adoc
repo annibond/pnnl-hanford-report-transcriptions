@@ -1,0 +1,19 @@
+[id="assembly_particle_deposition_penetration_through_canopies_{assembly-particle-depo-penetration}"]
+include::../attributes.adoc[]
+
+== Particle Deposition and Penetration through Vegetation Canopies from Wind Tunnel Experiments
+[.big]#{GAS} and {WHH}#
+
+_Particle deposition velocities of monodispersed 0.8 to 29 μm diameter particles were measured during deposition onto 3.8 to 5.1 cm diameter crushed gravel and 9 cm tall artificial trees. At higher wind speeds increased foliage area for trees appears to significantly alter deposition velocity curves, (as a function of particle diameter). Particle penetration through the canopies to the underlying surface ranged up to 83._
+
+include::../modules/con_particle_deposition_penetration_through_canopies.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_particle_deposition_penetration_through_canopies_references.adoc[leveloffset=+1]
+
+=== Figures
+
+include::../modules/ref_particle_deposition_penetration_through_canopies_figures.adoc[leveloffset=+1]

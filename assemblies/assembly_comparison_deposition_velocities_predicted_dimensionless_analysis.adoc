@@ -1,0 +1,19 @@
+[id="assembly_comparison_deposition_velocities_predicted_dimensionless_analysis_{assembly-compare-depo-velocity-predicted}"]
+include::../attributes.adoc[]
+
+== Particle Deposition and Penetration through Vegetationn Canopies from Wind Tunnel Experiments
+[.bag]#{GAS}#
+
+_Experimental particle deposition velocity data used for determining the initial surface mass transfer resistance correlation were used to develop a second correlation. Statistical tests suggest both correlations fit equally well. Additional data are needed as a data base since extrapolations from the two correlations can show wide variations in the predicted deposition velocities._
+
+include::../modules/con_comparison_deposition_velocities_predicted_dimensionless_analysis.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_comparison_deposition_velocities_predicted_dimensionless_analysis_references.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_comparison_deposition_velocities_predicted_dimensionless_analysis_figures.adoc[leveloffset=+2]

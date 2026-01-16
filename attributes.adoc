@@ -69,6 +69,7 @@
 :AD: Atmospheric Diffusion
 :AEV: Atmospheric Environment
 :AG: Advances in Geophysics
+:AMS: American Meteorological Society
 :AP: Academic Press
 :AR: Annual Report
 :ASEPG: Atmosphere-Surface Exchange of Particles and Gases
@@ -91,8 +92,8 @@
 :PNLAR: Pacific Northwest Laboratory Annual Report
 :PRSA: Proceedings of Royal Society A
 :PRERDA: Proceedings ERDA Conference on Atmosphere-Surface Exchange on Particles and Gases
+:PSADAP: Proceedings of the Symposium on the Atmospheric Diffusion and Air Pollution
 :QJRMS: Quarterly Journal of the Royal Meteorological Society
-:USAEC-D: USAEC 
 :USAEC-P3: USAEC Division of Biomedical and Environmental Research, Part 3: Atmospheric Sciences
 :USAEC-V2-P1: USAEC Division of Biology and Medicine, Vol. II: Physical Sciences, Part 1: Atmospheric Sciences
 :USAEC-V2-P3: USAEC Division of Biology and Medicine, Vol. II: Physical Sciences, Part 3: Atmospheric Sciences
@@ -207,6 +208,7 @@
 :RKH: R. K. Hadlock
 :RKW: R. K. Woodruff
 :RWP: R. W. Perkins
+:SLS: S. L. Sutter
 :SMB: S. M. Bruntz
 :SSB: S. S. Brar
 :TDF: T. D. Fox
@@ -267,17 +269,24 @@
 :approx-solution-deposition-resuspension-img-2: {img-dir}/ref_approximations_and_solutions_depospition_resuspension_figure-2.png
 :approx-solution-deposition-resuspension-img-3: {img-dir}/ref_approximations_and_solutions_depospition_resuspension_figure-3.png
 
+:compare-depo-dimensionless-img-1: {img-dir}/ref_comparison_deposition_velocities_correlations_figure-1.png
+:compare-depo-dimensionless-img-2: {img-dir}/ref_comparison_deposition_velocities_correlations_figure-2.png
+
 :field-filter-orientation-img-1: {img-dir}/ref_field_measurement_of_the_effect_of_filter_orientation_figure-1.png
 :field-filter-orientation-img-2: {img-dir}/ref_field_measurement_of_the_effect_of_filter_orientation_figure-2.png
 
 :model-prelim-canopy-img-1: {img-dir}/ref_modeling_preliminaries_for_dry_deposition_to_a_canopy_figure-1.png
-
 :model-prelim-canopy-img-2: {img-dir}/ref_modeling_preliminaries_for_dry_deposition_to_a_canopy_figure-2.png
 
 :observe-relative-real-plume-img-1: {img-dir}/ref_some_observations_of_the_relative_contribution_of_real_plume_figure-1.png
 :observe-relative-real-plume-img-2: {img-dir}/ref_some_observations_of_the_relative_contribution_of_real_plume_figure-2.png
 :observe-relative-real-plume-img-3: {img-dir}/ref_some_observations_of_the_relative_contribution_of_real_plume_figure-3.png
 :observe-relative-real-plume-img-4: {img-dir}/ref_some_observations_of_the_relative_contribution_of_real_plume_figure-4.png
+
+:particle-depo-penetration-img-1: {img-dir}/ref_particle_deposition_penetration_through_canopies_figure-1.png
+:particle-depo-penetration-img-2: {img-dir}/ref_particle_deposition_penetration_through_canopies_figure-2.png
+:particle-depo-penetration-img-3: {img-dir}/ref_particle_deposition_penetration_through_canopies_figure-3.png
+:particle-depo-penetration-img-trees: {img-dir}/ref_particle_deposition_penetration_through_canopies-trees.png
 
 :plume-img-1: {img-dir}/ref_measurement_of_particulate_plume-figure-1.png
 :plume-img-2: {img-dir}/ref_measurement_of_particulate_plume-figure-2.png
@@ -335,9 +344,13 @@
 
 :approx-solution-deposition-resuspension-alt-1: A graph that shows the nondimensional downwind distance compared to the nondimensional concentration in the air and on the ground. This figure represents the case where the removal rate Lambda equals the deposition rate Omega. Three sets of curves are shown for nondimensional times: (1) tau = At, (2) tau = Omega(tau), and (3) Lambda/Omega = 1. The x axis = nondimension downwind distance with intervals of 10^-1, (2) 10^0, and (3) 10^1. The y axis = the nondimensional concentration in the air and ground with intervals of (1) 10^-4, (2) 10^-3, (3) 10^-2, (4) 10^-1, and (5) 1. Both air and ground concentrations decrease by several orders of magnitude and shift further downwind, with ground concentration consistently lagging slightly below air concentration.
 
-:approx-solution-deposition-resuspension-alt-2: A graph that shows the nondimensional downwind distance compared to the nondimensional concentration in the air and on the ground. This figure represents the case where the removal rate Lambda equals the deposition rate Omega. Three sets of curves are shown for nondimensional times: (1) tau = At, (2) tau = Omega(tau), and (3) Lambda/Omega = 10. The x axis = the nondimensional downwind distance with intervals of (1) 10^-1, (2) 10^0, and (3) 10^1. The y axis = nondimensional concentration in the air and on the ground with intervals (1) 10-4, (2) 10-3, (3) 10-2, (4) 10-1, and (5) 1. At large distances, the air concentration (a) drops significantly faster than the ground inventory (g), highlighting that when removal is high, the surface cannot be replenished by the passing plume as effectively.
+:approx-solution-deposition-resuspension-alt-2: A graph that shows the nondimensional downwind distance compared to the nondimensional concentration in the air and on the ground. This figure represents the case where the removal rate Lambda equals the deposition rate Omega. Three sets of curves are shown for nondimensional times: (1) tau = At, (2) tau = Omega(tau), and (3) Lambda/Omega = 10. The x axis = the nondimensional downwind distance with intervals of (1) 10^-1, (2) 10^0, and (3) 10^1. The y axis = nondimensional concentration in the air and on the ground with intervals (1) 10^-4, (2) 10^-3, (3) 10^-2, (4) 10^-1, and (5) 1. At large distances, the air concentration (a) drops significantly faster than the ground inventory (g), highlighting that when removal is high, the surface cannot be replenished by the passing plume as effectively.
 
-:approx-solution-deposition-resuspension-alt-3: A graph that shows the nondimensional downwind distance compared to the nondimensional concentration in the air and on the ground. This figure represents the case where the removal rate Lambda equals the deposition rate Omega. Three sets of curves are shown for nondimensional times: (1) tau = At, (2) tau = Omega(tau), and (3) Lambda/Omega = 1. The x axis = the nondimensional downwind distance with intervals of (1) 10^-1, (2) 10^0, and (3) 10^1. The y axis = nondimensional concentration in the air and on the ground with intervals (1) 10-4, (2) 10-3, (3) 10-2, (4) 10-1, and (5) 1. This demonstrates that when deposition is the dominant process, the surface "holds onto" the material much longer, creating a more persistent ground-level footprint. The plume clings to the earth.
+:approx-solution-deposition-resuspension-alt-3: A graph that shows the nondimensional downwind distance compared to the nondimensional concentration in the air and on the ground. This figure represents the case where the removal rate Lambda equals the deposition rate Omega. Three sets of curves are shown for nondimensional times: (1) tau = At, (2) tau = Omega(tau), and (3) Lambda/Omega = 1. The x axis = the nondimensional downwind distance with intervals of (1) 10^-1, (2) 10^0, and (3) 10^1. The y axis = nondimensional concentration in the air and on the ground with intervals (1) 10^-4, (2) 10^-3, (3) 10^-2, (4) 10^-1, and (5) 1. This demonstrates that when deposition is the dominant process, the surface "holds onto" the material much longer, creating a more persistent ground-level footprint. The plume clings to the earth.
+
+:compare-depo-dimensionless-alt-1: A graph showing a stable atmosphere with roughness height in centimeters in 1974. The x axis = particulate diameter in micrometers with intervals of (1) 10^-2, (2) 10^-1, (3) 1, and (4) 10. The y axis = K⌄1-M in centimeters per second with intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 1, and (5) 10. Four different lines for z⌄o, from top to bottom, that represent roughness heights (z⌄o) at (1) 0.001, (2) 0.1, (3) 3, and (4) 10 centimeters. There are also three curves that represent particle densities for p at (1) 1.0, (2) 4.0, and (3) 11.5 grams over centimeters cubed. The curves follow a distinct "U-shape," where deposition velocity is high for very small particles and very large particles but reaches a minimum for particles between 0.1 and 1.0 micrometers. Increasing the surface roughness (z⌄o) shifts all sets of curves upward, increasing the overall deposition rate across all particle sizes.
+
+:compare-depo-dimensionless-alt-2: A graph showing a stable atmosphere with roughness height in centimeters in 1975. The x axis = particulate diameter in micrometers with intervals of (1) 10^-2, (2) 10^-1, (3) 1, and (4) 10. The y axis = K⌄1-M in centimeters per second with intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 1, and (5) 10. Four different lines for z⌄o, from top to bottom, that represent roughness heights (z⌄o) at (1) 0.001, (2) 0.1, (3) 3, and (4) 10 centimeters. There are also three curves that represent particle densities for p at (1) 1.0, (2) 4.0, and (3) 11.5 grams over centimeters cubed. The curves follow a distinct "U-shape," where deposition velocity is high for very small particles and very large particles but reaches a minimum for particles between 0.1 and 1.0 micrometers. Increasing the surface roughness (z⌄o) shifts all sets of curves upward, increasing the overall deposition rate across all particle sizes.
 
 :field-filter-orientation-alt-1: A dotted graph that shows the measurement of tracer concentration when facing AWAY from the mean wind direction and the concentration by the filter facing TOWARD the mean wind direction with a wind speed of 2 meters high. There is an inverse correlation between wind speed and the concentration ratio. The x axis = wind speed in meters at 2 meters of elevation between 0 and 7 in meters per second in one meter increments. The y axis = the concentration ratio of the AWAY and TOWARD forces of the tracer nucleon between 0 and 1.2 in increments of 0.1.
 
@@ -354,6 +367,14 @@
 :observe-relative-real-plume-alt-3: A graph that shows measured plume dispersion to a theoretical or approximate models, from top to bottom and left to right, tests (1) C1, (2), C3, (3) C5, (4) V2, and (5) V7 at a height of 200 meters. The (--) line is stable and the (- - -) is unstable. The x axis = averaging time (T) to diffusion time (t) in increments (0) 1, (1) 5, (2) 10, (3) 50, and (4) 100 meters. The y axis = ratio of D^2^Y^2^ in increments of (1) 0.05, (2) 0.1, (3) 0.5, and (4) 1.0.
 
 :observe-relative-real-plume-alt-4: A graph that shows measured plume dispersion to a theoretical or approximate models, from top to bottom and left to right, tests (1) C1, (2) V5, (3) V6, (4) V6 at 1,600 meters, (5) C5, and (6) C3 at a height of 800 meters. The (--) line is stable and the (- - -) is unstable. The x axis = averaging time (T) to diffusion time (t) in increments (0) 1, (1) 5, (2) 10, (3) 50, and (4) 100 meters. The y axis = ratio of D^2^Y^2^ in increments of (1) 0.05, (2) 0.1, (3) 0.5, and (4) 1.0.
+
+:particle-depo-penetration-alt-1: A graph showing the particle diameter compared to the deposition velocity. The x axis = particle diameters in micrometers in increments of (1) 0, (2), 1, and (3) 10 micrometers, with additional data shown after x = 10 micrometers. The y axis = deposition velocity in increments of (1) 10^-2, (2) 10^-1, (3) 1, (4) 10, and (5) 10^2 centimeters over seconds. There are three lines, from top to bottom, shown where (1) ○ represents 13.0 m/sec using a dashed line (- - -), (2) △ represents 2.2 m/sec using a solid line (---), and (3) shows the model data of K=VT. (1) has a slight curve between ~ x = 1.2 - 10 cm/sec, (2) has a backwards-S shape where the lowest dip is x = 1.1 and the highest peak is ~ x = 10 cm/sec, and (3) is a linear pattern where an increase in x correlates to an increase in y.
+
+:particle-depo-penetration-alt-2: A graph showing the particle diameter compared to the percentage of particle deposition on top of the underlying surface. The x axis = particle diameter in micrometers with interfaces of (1) 0, (2), 1, and (3) 10 micrometers, with additional data shown after x = 10 micrometers. The y axis = percentage of particle deposition on the top of an underlying surface between 0 and 90 percent in increments of 10 percent. There are two lines shown where (1) △ represents 2.2 m/sec with a solid line (---) and (2) ○ represents 13.0 m/sec with a dashed line (- - -). For (1), there are four data points highlighted with the variability (error bars) at (1) ~ x = 1.2, (2) ~ x = 1.7, (3) x = 10, and (4) and (5) where x > 10 micrometers. The further away x gets from 10 micrometers, the variability of (1) increases. (1) shows a slow decreasing correlation until x = 10, at which point it sharply increases. (2) shows a large, consistent increase in positive correlation from its first data point at ~ x = 1.1.
+
+:particle-depo-penetration-alt-3: A graph showing the particle diameter compared to the percentage of particle deposition on top of the underlying surface. The x axis = particle diameter in micrometers with interfaces of (1) 0, (2), 1, and (3) 10 micrometers, with additional data shown after x = 10 micrometers. The y axis = percentage of particle deposition on the top of an underlying surface between 0 and 60 percent in increments of 10 percent. There are two lines shown where (1) △ represents 1.6 m/sec with a solid line (---) and (2) ○ represents 10.9 m/sec with a dashed line (- - -). Both (1) and (2) highlight eight data points where (1) ~ x = 0.012, (2) x = 0.01, (3) ~ x = 1, (4) ~ x = 1.3, (5) ~ x = 1.4, (6) ~ x = 1.9, (7) where x = 10, and (8) where x > 10 micrometers. In line (1), the data slopes down gently until x = 0.01 with low variability, at which point it rises sharply in an upside down U-shape with a peak of ~ 1.3 < x < 1.7, at which point it slopes downward again. In line (2), the data shows a similar shape to the first graph (with lower percentages) until the x = 1.2 data point, at which point it mirrors the line instead. The level of variability is not consistent with one another.
+
+:particle-depo-penetration-alt-trees: A figure showing a 6 x 8 grid of identical green, cloud-like shapes that each say 3.8 cm wide, 9 cm high. It is meant to represent the setup of plastic trees used for the experiment from Figure 2.
 
 :plume-alt-1: A graph which shows the electrical field strength for a transversal of 842 to the tops of the towers. This graph is for the transversal of 842 m for the element Krypton (Kr). The x axis = azimuth from 105 degrees - 135 degrees in increments of 5 degrees. The y axis = height from 0 meters - 60 meters in increments of 5 meters.
 
@@ -391,9 +412,9 @@
 
 :pt-barrow-alt-3: A graph showing the monthly averages of isotopes ^7^Be and ^22^Na in the air. The x axis = months of the year in increments of 1 month and labeled by their names. There are two y axes. The left side y axis = Beryllium decay from 20 to 300 in increments of 20 per 1000 cubic meters.
 
-:pu-tu-alt-1: A scatter dot graph which shows the amount of radioactive decay for ^241^Pu/^239^Pu in Richland Washington. The graph is split into two parts on top of each other. For both graphs, the x axis = year tested between 1961 - 1976 in increments of 1 year. In the top section of the graph, the y axis = disintegration rate ratio in increments of (1) 0, (2) 10, and (3) 100 dpm/kscm. In the bottom section of each graph, the y axis = megatons of the same isotope detected in the atmosphere with increments of (1) 0.02 - 0.1, (2) 0.1 - 1, (3) 1 - 10, and (4) > 10 megatons. The detonations from each nation are denoted as a solid line for the United States, a dotted line for the U.S.S.R., and a dashed line for China.
+:pu-tu-alt-1: A scatter dot graph which shows the amount of radioactive decay for ^241^Pu/^239^Pu in Richland, Washington. The graph is split into two parts on top of each other. For both graphs, the x axis = year tested between 1961 - 1976 in increments of 1 year. In the top section of the graph, the y axis = disintegration rate ratio in increments of (1) 0, (2) 10, and (3) 100 dpm/kscm. In the bottom section of each graph, the y axis = megatons of the same isotope detected in the atmosphere with increments of (1) 0.02 - 0.1, (2) 0.1 - 1, (3) 1 - 10, and (4) > 10 megatons. The detonations from each nation are denoted as a solid line for the United States, a dotted line for the U.S.S.R., and a dashed line for China.
 
-:pu-tu-alt-2: A scatter dot graph which shows the amount of the ^99^Tc isotope concentration in Richland Washington. The graph is split into two parts on top of each other. For both graphs, the x axis = year tested between 1961 - 1976 in increments of 1 year. In the top section of the graph, the y axis = ddisintegration rate ratio in increments of (1) 0, (2) 0.001, (3) 0.01, and (4) 1.0 dpm/kscm. In the bottom section of each graph, the y axis = megatons of the same isotope detected in the atmosphere with increments of (1) 0.02 - 0.1, (2) 0.1 - 1, (3) 1 - 10, and (4) > 10 megatons. The detonations from each nation are denoted as a solid line for the United States, a dotted line for the U.S.S.R., and a dashed line for China.
+:pu-tu-alt-2: A scatter dot graph which shows the amount of the ^99^Tc isotope concentration in Richland, Washington. The graph is split into two parts on top of each other. For both graphs, the x axis = year tested between 1961 - 1976 in increments of 1 year. In the top section of the graph, the y axis = ddisintegration rate ratio in increments of (1) 0, (2) 0.001, (3) 0.01, and (4) 1.0 dpm/kscm. In the bottom section of each graph, the y axis = megatons of the same isotope detected in the atmosphere with increments of (1) 0.02 - 0.1, (2) 0.1 - 1, (3) 1 - 10, and (4) > 10 megatons. The detonations from each nation are denoted as a solid line for the United States, a dotted line for the U.S.S.R., and a dashed line for China.
 
 :pu-tu-alt-3: A scatter dot graph which shows the amount of disintegration ratios of ^137^ to ^99^Tc. The x axis = year tested between 1961 - 1976 in increments of 1 year. The y axis = disintegration rate ratio in increments of (1) 10, (2) 100, and (3) 1,000 for ^137^Cs / ^99^Tc.
 
@@ -406,7 +427,6 @@
 :removal-rate-alt-2: Atmospheric concentration map showing complex plume dispersion from St. Louis. Contour lines labeled 5 through 11 represent varied density levels across the sampling grid. The map illustrates non-linear dispersion patterns with several isolated pockets of concentration labeled at the 7 and 8 levels.
 
 :removal-rate-alt-3: Pollutant concentration map featuring vertical profile data. In addition to horizontal contour lines (1.5 to 7), the map includes specific altitude measurements at 1500 ft, 3000 ft, 4000 ft, and 5000 ft in altitude from the mean sea level, indicating how concentration values change at different layers of the atmosphere.
-
 
 :resuspension-generalized-area-alt-1: A graph that shows the normalized air concentration versus the scaled distance. The x axis = the scaled distance, x^* in meters with intervals of (1) 10, (2) 10^2, (3) 10^3, (4) 10^4, and (5) 10^5. The y axis = normalized air concentration (psi(Z = X⌄d)) with intervals of (1) 1, (2) 10, (3) 10^2, and (4) 10^3. There are six lines plotted, from top to bottom, show (1) a solid line (---) representing no deposition with Pasquill's F equation, (2) a solid line representing no deposition with Pasquill's D equation, (3) a dashed line (- - -) representing deposition v⌄d/u 10^-2 using Paquill's F equation, (4) a dashed line representing deposition using Pasquill's D equation, (5) no deposition representing Pasquill's A equation, and (6) deposition with Pasquill's A equation. All six show an exponential, positive correlation as scaled distance increases.
 

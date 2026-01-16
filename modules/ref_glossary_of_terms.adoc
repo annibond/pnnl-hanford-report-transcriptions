@@ -51,10 +51,10 @@ include::../attributes.adoc[]
 |the atmosphere’s ability to push air upwards, increasing the dispersion of radioactive emissions
 
 |Avogadro's number
-|6.022x10^23^
+|_6.022x10^23^_
 
 |base
-|a substance that can accept a proton (H^+^), has a Ph > 7 on the pH scale
+|a substance that can accept a proton (_H^+^_), has a Ph > _7_ on the pH scale
 
 |beta decay
 |radioactive decay in which an unstable atomic nucleus transforms by emitting a beta particle, which is either an electron or a positron
@@ -199,11 +199,17 @@ stem:[F(x) = e^{-x^2} \int_{0}^{x} e^{t^2} dt]
 |electrodeposition
 |electrochemical process that uses an electric current to deposit a thin layer of a material, such as metal, onto a substrate
 
+|emissivity
+|the measurement of a surface's ability toemit thermal energy as radiation
+
 |environ
 |surrounding area or conditions that may be affected by radiation or nuclear processes
 
 |equilibrium
 |when the chemicals within a substance are in balance, where there is no tendencies for the quantities of the two substances to change
+
+|error bar
+|a data point in a graph that indicates variability, uncertainty, or the standard deviation
 
 |facing away
 |the nuclear force binding the nucleon has enough force over a somewhat larger distance (microscopic), causing the force of the nucleons to overpower the repulsion between protons and bring them closer together
@@ -245,6 +251,9 @@ J = -D dC / dx
 
 |flame ionization detector
 |a tool that uses a small hydrogen flame to detect and measure organic compounds in a gas sample
+
+|fluorimetry
+|a laboratory technique that measures the concentration of a substance by analyzing its fluorescence
 
 |force
 |the push or pull on an object, Newton's second law of physics, F = ma (Force = mass x acceleration)
@@ -360,6 +369,9 @@ J = -D dC / dx
 |Laplace transform technique
 |a mathematical tool that converts a differential equation into a simpler algebraic equation
 
+|least squares technique
+|statistical method for finding the best-fitting line or curve in a data set by minimizing the sum of squared differences (residuals) between the actual observed values and the values of the prediction model
+
 |Liquid Metal Breeder Reactor (LMBR)
 |nuclear reactor that uses a liquid metal (such as liquid sodium) as the primary coolant and is designed to "breed" more fissile material than it consumes
 
@@ -381,8 +393,8 @@ J = -D dC / dx
 |megawatt day exposure (mwd)
 |a unit of energy to measure fuel burn-up
 
-|meson
-|subatomic particle (also called "pion") studied for its properties in nuclear matter
+|meson (pion)
+|a subatomic particle that mediate the nuclear force between nucleons or nuclear parity
 
 |metalloids
 |elements that exhibits some metal and some nonmetal properties
@@ -406,7 +418,7 @@ J = -D dC / dx
 |short-term or immediate data
 
 |monodisperse
-|collection of particles that are the same size
+|collection of particles that are share similar size, shape, and mass, creating a narrow or single distribution
 
 |most probable charge (Zp)
 |the most likely proton number of a fission fragment within an isobaric chain in nuclear fission
@@ -416,6 +428,12 @@ J = -D dC / dx
 
 |naphtha
 |volatile, often flammable liquid hydrocarbon mixtures used chiefly as solvents and diluents
+
+|nuclear parity
+|the energy of a nucleus
+
+|neutrino
+|subatomic particle produced during beta decay
 
 |neutron capture
 |nuclear reaction where a nucleus absorbs a neutron, resulting in a heavier nucleus or a new element
@@ -456,13 +474,16 @@ J = -D dC / dx
 |Pasquill Stability Class (Pasquill Category)
 |a system used to classify atmospheric stability and the amount of turbulent mixing in the atmosphere
 
-|peak exposure (E~p~)
+|peak exposure (_E~p~_)
 |the center of the average of a plume
 
-|perchclorate (ClO [.overline]#~4~#)
+|perchclorate (_ClO [.overline]#~4~#_)
 |compounds containing the perchlorate anion
 
-|perrhenate (ReO [.overline]#~4~#)
+|permittivity  (_ε_)
+|the measurement of a substance's ability to permit electric field lines to pass through, _ε~0~_ representing how it functions in a vacuum
+
+|perrhenate (_ReO [.overline]#~4~#_)
 |compounds containing the perrhenate anion
 
 |phenol
@@ -471,8 +492,8 @@ J = -D dC / dx
 |pilot plant
 |small-scale, pre-commercial facility used to test and refine the process for a future scale nuclear plant
 
-|pion
-|subatomic particle (also called "meson") studied for its properties in nuclear matter
+|pion (meson)
+|a subatomic particle that mediate the nuclear force between nucleons or nuclear parity
 
 |plume
 |gas or aerosol released into the atmosphere at an approximately steady rate
@@ -549,6 +570,9 @@ J = -D dC / dx
 |Sf
 |spontaneous fission
 
+|semi-fluid
+|a substance that has a consistency between a liquid and a solid
+
 |Sinex SO~2~ monitor
 |device used to measure the concentration of sulfur dioxide in the air
 
@@ -570,12 +594,12 @@ J = -D dC / dx
 |stationary period
 |a length of time during which two weather fronts remain stable and unchanging
 
-|Stokes number (Stk)
-|the ratio of a particle's aerodynamic response time (τνp) to the time scale of the fluid flow (τνf)
+|Stokes number (_Stk_)
+|the ratio of a particle's aerodynamic response time (_τνp_) to the time scale of the fluid flow (_τνf_)
 
-Stk = Particle Characteristic Time / Flow Characteristic Time
+_Stk_ = Particle Characteristic Time / Flow Characteristic Time
 
-Stk = τ~p~/τ~f~
+_Stk = τ~p~/τ~f~_
 
 |submicron particles
 |articles with a diameter of less than one micron
@@ -607,8 +631,14 @@ Stk = τ~p~/τ~f~
 |upwind
 |somethingor somewhere positioned against the direction of the wind
 
+|uranine
+|the water-soluble sodium salt of florescein
+
 |velocity
 |the rate at which an object's position changes and includes both magnitude (speed) and direction
+
+|viscosity
+|the thickness and stickiness in a semi-fluid substance
 
 |volumetric flow rate
 |the volume of a fluid that passes a certain point per unit of time

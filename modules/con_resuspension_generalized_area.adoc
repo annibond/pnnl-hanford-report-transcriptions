@@ -53,7 +53,7 @@ If we consider now a surface contamination _G(x)_ which increases the downwind d
 .Equation 6
 [latexmath]
 ++++
-x^* = \frac{1}{G (x)} \int_{o}^{x} G (\epsilon) d \epsilon
+x* = \frac{1}{G (x)} \int_{o}^{x} G (\epsilon) d \epsilon
 ++++
 
 Then we have 

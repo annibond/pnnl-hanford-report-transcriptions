@@ -5,7 +5,11 @@ include::../attributes.adoc[]
 
 === 2026
 
-==== 11 January 2026 - 17 January 2026, BNWL-2000, pp. 69-83
+==== 11 January 2026 - 17 January 2026, BNWL-2000, pp. 69-89
+
+* Created "Particle Deposition and Penetration through Vegetation Canopies and Tunnel Experiments"
+
+* Created "Comparison of Deposition Velocities Predicted from Dimensionless Analysis Correlations"
 
 * Created "Resuspension in a Generalized Area Source"
 
@@ -25,9 +29,11 @@ include::../attributes.adoc[]
 
 - Updated "Compounds & Isotopes", "Glossary of Terms", and 1 meta-reference diagram created, and 3 of the meta-reference diagrams added to assembly
 
+- Reworked the "Greek Alphabet" reference into a table
+
 * Miscellaneous
 
-- So much fixing leveloffset title errors
+- So many assembly "leveloffset" title errors
 
 ==== 04 January 2026 - 10 January 2026, BNWL-2000, pp. 65-68
 

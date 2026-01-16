@@ -1,0 +1,12 @@
+[id="ref_particle_deposition_penetration_through_canopies_references_{ref-particle-depo-penetration-references}"]
+include::../attributes.adoc[]
+
+1. {GAS}, "Comparison of Deposition Velocities Predicted from Dimensionless Analysis Correlections," see this report.
+
+2. {GAS} and {WHH}, "Particle Dry Deposition Velocities," [.underline]#{PNLAR} for 1974 to the {USAEC-P3}#, BNWL-1950, {BN}, {rich}, {WA}, pp. 175-180, 1975.
+
+3. {GAS} and {WHH}, "Predicted Dry Deposition Velocities," [.underline]#Proceedings of the Atmosphere-Surface Exchange of Particulate and Gaseous Pollutants - 1974 Symposium#, {rich}, {WA}, Sept. 4 - 6, 1974, ERDA Symposium Series CONF-740921 in press, November 1975.
+
+4. {GAS} and {WHH}, "Penetration of Depositing Particles through Crushed Gravel", [.underline]#{PNLAR} for 1974 to the {USAEC-P3}#, BNWL-1950, {BN}, {rich}, {WA}, pp. 175-180, 1975.
+
+5. {GAS} and {WHH}, "Dry Deposition of Particles,” Pacific Laboratory Annual Report for 1973: Part 3, Atmospheric Sciences", BNWL-1850 PT 3, {BN}, {rich}, {WA}, pp. 157-162, 1974.

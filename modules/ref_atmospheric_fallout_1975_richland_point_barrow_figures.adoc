@@ -20,7 +20,7 @@ include::../modules/ref_atmospheric_fallout_1975_richland_point_barrow_figures_t
 == Figure 3: Monthly Averages of Atmospheric ^7^Be from 1964 to 1967 and ^22^Na from 1967 to 1975
 
 [#img-pt-barrow-3]
-[caption=="Monthly Averages of Atmospheric ^7^Be from 1964 to 1967 and ^22^Na from 1967 to 1975", alt={pt-barrow-alt-3}]
+[caption="Monthly Averages of Atmospheric ^7^Be from 1964 to 1967 and ^22^Na from 1967 to 1975", alt={pt-barrow-alt-3}]
 image::{pt-barrow-img-3}[Monthly Averages of Atmospheric ^7^Be from 1964 to 1967 and ^22^Na from 1967 to 1975]
 
 NOTE: Concentrations are in disintegrations per 1000 standard cubic meters (dpm/kscm).
