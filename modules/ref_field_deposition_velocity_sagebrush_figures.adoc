@@ -1,0 +1,20 @@
+[id="ref_field_deposition_velocity_sagebrush_figures_{con-deposition-velocity-sagebrush-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Field Deposition Arrays (Neg 760188-17)
+
+[#img-field-sagebrush]
+[caption="Field Deposition Arrays", alt="{field-sagebrush-img-1}"]
+image::{short-diff-range-img-1}[Field Deposition Arrays]
+
+The diagram shows the path of particulate that uses the same setup as the tree grid in "Particle Deposition and Penetration through Vegetation Canopies from Wind Tunnel Experiments":
+
+1. Particulate is released at *Detail A* (_particle generation array_) where the nebulizer locations are marked.
+
+2. From the initial release, particulates move back and forth between the starting point (_particle generation array_) and upwind array over a distance of 45.1 meters.
+
+3. The particulate hits the “checkin” at the mast (upwind array) with distances of 3.05 and 6.1 meters wide on each side of the release location.
+
+4. The particulate then moves through the sagebrush upwind over a distance of _91.4 meters_.
+
+The particulate hits the "end" of the tracer tracking (_downwind array_) with distances of _9.14_, _6.1_, and _3.05 meters_ wide on each side of the release location. The filter heights at the end of the horizontal axis see particulate heights of _0.3_, _0.61_, _0.91_, _1.52_, _3.05_, and _6.1 meters_ on each side of the release location. In the center, the heights are tracked at additional heights of _9.14_, _15.2_, and _21.3 meters_, as well.

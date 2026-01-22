@@ -1,0 +1,36 @@
+[id="con_field_deposition_velocity_sagebrush_{con-deposition-velocity-sagebrush}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+Particulate air pollution removal by dry deposition has been predicted from controlled wind tunnel experiments to be a function of many variables including particle diameter, surface roughness, and air friction velocity. Predictedfootnote:1[G. A. Sehmel, "Comparison of Deposition Velocities Predicted from Dimensionless Analysis Correlations," see this annual report, pp. 83-89.] deposition velocities increase as both surface roughness and friction velocity increase, but any effects of the canopy vegetation density on deposition velocities are unknown and are only now being studiedfootnote:2[G. A. Sehmel and W. H. Hodson, "Particle Deposition and Penetration through Vegetation Canopies from Wind Tunnel Experiments," see this annual report, pp. 86-89.]. Predicted deposition velocities as a function of particle diameter are a minimum and are almost constant in the particle diameter range of _~0.1 to 1 μm_. In contrast, deposition velocities reported for field measurements have not been correlated and generalized into predictive models. The inability to correlate field data may have been caused by inaccuracies in the experimental techniques. The principal experimental difficulty probably has been poor particle size control. Reported field deposition velocity measurements may be accurate, but these deposition velocities cannot be generalized. The results are masked by the particle size dependency and the use of polydispersed particle sizes.
+
+The objective of this research is to measure deposition velocities in the field with particle sizes for which deposition velocities are nearly independent of particle size. The initial deposition site is a reasonably dense sagebrush area.
+
+== Experimental
+
+An initial deposition velocity mass budget measurement was made with the field deposition arrays shown in Figure 1. The arrays are used to determine a mass budget between the airborne particles entering the upwind array and exiting through the downwind array. The experiment was conducted for a _11-min time_ interval during which the wind was blowing from the particle generation array into the upwind and downwind tower arrays.
+
+The particle generation array consisted of 100 Retec nebulizers* mounted in a V-shaped rack. As shown, particles were generated at five heights from _0.3 to 1.37 m_. Particles were generated from a _1g/λ uranine_ solution of _80% ethanol – 20%_ water. After solution droplet drying in the air, the mass average particle diameter was _0.7 μm_ with a standard deviation of _1.9_. After generation, the particles had 30 sec to dry at a _1.5 m/sec_ average wind speed before passing through the upwind tower array.
+
+All air sampling towers were 6.1 m high except the central _21.3 m_ high towers. Distances between towers were _3.05_ to _9.14 m_. Airborne particles were sampled onto _47 mm_ fiberglass filters mounted on each tower at heights from _0.3 m_ to _21.3 m_. The average sample flow rate was _0.03 m3/min_. After sampling, the uranine on the filters was dissolved and each solution was analyzed fluorimetrically to determine the mass of uramine collected.
+
+== Calculations
+
+Airborne particle fluxes entering the upwind array and downwind array were determined from the uranine exposure at each filter location. The exposure at each filter location was calculated from
+
+[latexmath]
+++++
+Exposure = \frac{[(uranine mass on filter) (wind velocity at filter height)]}{(filter face velocity)}
+++++
+
+The assumption was that the wind velocity profile at the central upwind tower was representative of all tower sites. Total exposure at each height was calculated by graphically integrating as a function of crosswind distance the exposures at each filter location. Since the wind direction and subsequently the maximum of the airborne plume had shifted from the central tower during the experiment, crosswind integration was from the plume maximum to one-half the tower spacing distance beyond the outermost tower. The total plume was assumed to be symmetrical around this maximum plume location. The total vertical airborne exposure was calculated by integrating with height the total exposure at each height.
+
+== Results
+
+Plume depletion in the _1.2_ to _1.5 m_ high sagebrush was 65% between the upwind and downwind air sampling arrays for a _1.5 min/sec_ air velocity at a _1.5 m_ height. Uncertainties in the mass budget suggest the depletion suggest the depletion uncertainty is between 57% and 73% due to the noncentering of the plume on the central tower. However, uncertainties could be greater since deposition was only 22% from the particle generators to the upwind sampling array. For equivalent deposition/length, this 22% corresponds to only 45% deposition between upwind and downwind sampling towers. The experiment will be repeated to minimize uncertainties. A deposition velocity is yet to be calculated from the observed plume disposition.
+
+== Conclusion
+
+Plume depletion was much more rapid than the few percent expected. The experiment will be repeated at different meteorological and surface conditions to determine reproducibility. If the results are reproducible, dense vegetation is an excellent dry deposition surface.

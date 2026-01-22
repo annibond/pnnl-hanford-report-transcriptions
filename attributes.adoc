@@ -272,6 +272,8 @@
 :compare-depo-dimensionless-img-1: {img-dir}/ref_comparison_deposition_velocities_correlations_figure-1.png
 :compare-depo-dimensionless-img-2: {img-dir}/ref_comparison_deposition_velocities_correlations_figure-2.png
 
+:field-sagebrush-img-1: {img-dir}/ref_field_deposition_velocity_sagebrush_figure-1.png
+
 :field-filter-orientation-img-1: {img-dir}/ref_field_measurement_of_the_effect_of_filter_orientation_figure-1.png
 :field-filter-orientation-img-2: {img-dir}/ref_field_measurement_of_the_effect_of_filter_orientation_figure-2.png
 
@@ -352,9 +354,11 @@
 
 :compare-depo-dimensionless-alt-2: A graph showing a stable atmosphere with roughness height in centimeters in 1975. The x axis = particulate diameter in micrometers with intervals of (1) 10^-2, (2) 10^-1, (3) 1, and (4) 10. The y axis = K⌄1-M in centimeters per second with intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 1, and (5) 10. Four different lines for z⌄o, from top to bottom, that represent roughness heights (z⌄o) at (1) 0.001, (2) 0.1, (3) 3, and (4) 10 centimeters. There are also three curves that represent particle densities for p at (1) 1.0, (2) 4.0, and (3) 11.5 grams over centimeters cubed. The curves follow a distinct "U-shape," where deposition velocity is high for very small particles and very large particles but reaches a minimum for particles between 0.1 and 1.0 micrometers. Increasing the surface roughness (z⌄o) shifts all sets of curves upward, increasing the overall deposition rate across all particle sizes.
 
+:field-sagebrush-alt-1: A diagram that shows how sensors and filters track a particle plume as it moves through a canopy. There are three distinct markers including: (1) the particle generation array with a wind force in both directions, (2) the upwind array with distances of 6.1 and 3.05 meters on each side of the mean with a wind force moving forward, and (3) the downwind array with filter distances of 9.14, 6.1, and 3.05 meters on both sides of the mean. The filter heights at each end of the downwind array are 0.3, 0.61, 0.91, 1.52, 3.05, and 6.1 meters. The filter height at the mean also includes 9.14, 15.2, and 21.3 meters. "Detail A nebulizer locations" is zoomed in to show the distances and markers more specifically.
+
 :field-filter-orientation-alt-1: A dotted graph that shows the measurement of tracer concentration when facing AWAY from the mean wind direction and the concentration by the filter facing TOWARD the mean wind direction with a wind speed of 2 meters high. There is an inverse correlation between wind speed and the concentration ratio. The x axis = wind speed in meters at 2 meters of elevation between 0 and 7 in meters per second in one meter increments. The y axis = the concentration ratio of the AWAY and TOWARD forces of the tracer nucleon between 0 and 1.2 in increments of 0.1.
 
-:field-filter-orientation-alt-2: [A dotted graph that shows the measurement of tracer concentration when facing UPWARD from the mean wind direction and the concentration and the concentration by the filter facing TOWARD the mean wind direction with a wind speed of 2 meters high. There is an inverse correlation between wind speed and the concentration ratio. The x axis = wind speed in meters at 2 meters of elevation between 0 and 7 in meters per second in one meter increments. The y axis = the concentration ratio of the UP and TOWARD forces of the tracer nucleon between 0 and 1.0 in increments of 0.1.
+:field-filter-orientation-alt-2: A dotted graph that shows the measurement of tracer concentration when facing UPWARD from the mean wind direction and the concentration and the concentration by the filter facing TOWARD the mean wind direction with a wind speed of 2 meters high. There is an inverse correlation between wind speed and the concentration ratio. The x axis = wind speed in meters at 2 meters of elevation between 0 and 7 in meters per second in one meter increments. The y axis = the concentration ratio of the UP and TOWARD forces of the tracer nucleon between 0 and 1.0 in increments of 0.1.
 
 :model-prelim-canopy-alt-1: A diagram that shows how deposition velocity of particles change depending on their size. The x axis = particle radius "a" in nanometers (μm) in increments of (1) 10^-4, (2) 10^3, (3) 10^-2, (4) 10^-1, (5), 10^0, (6) 10^1, and (7) 10^2. The y axis = the deposition velocity (v⌄d) in centimenter seconds to the -1 power in increments of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 10^0, (5) 10^1, and (6) 10^2 in centimeters to the sec^-1.
 
@@ -455,3 +459,8 @@
 :variation-plume-centerline-alt-2: A set of three graphs stacked on top of each other that show the concentration of tracer emissions in a stable atmosphere. All three graphs show an electrical field strength of 2.7 x 10^-5^ over m^3^. A solid line (--) measures the history of exposure at a given distance, a dashed line (- - -) measures the exposure from a specific fence post for the electron positron, and the bar graph measures end-to-end peak concentrations for the plumes. For all three graphs, the x axis = time in minutes between 0 and 24 minutes in increments of one minute. The y axis = the relative concentration in increments of (1) 0, (2) 0.5, (3) 1.0, (4) 2.0, and (5) 3.0. The top two graphs have an additional y-value of (7) 4.0. The top graph (1) shows test V6 with initial tracer release of 800 meters high. The middle graph (2) shows test V6 with an initial tracer release of 1600 meters high. The bottom graph (3) shows test V5 with an initial tracer release of 800 meters high.
 
 :varied-wind-spectra-alt: A stack of three graphs that show the ratio of an emissions sample of airborne contaminants versus the expected (modeled) contaminants in the air at distances of, top to bottom, (1) 60, (2) 15, and (3) 7.5 meters. The x axis in all three graphs is the distance in meters with increments of (1) 10, (2) 100, and (3) 1000 meters. The y axis in all three graphs is the ratio (Ry/Rz) between 0.5 and 3.0 in increments of 0.5.
+
+// LaTeX Operators
+
+:infin: \infty
+:integer: \integer

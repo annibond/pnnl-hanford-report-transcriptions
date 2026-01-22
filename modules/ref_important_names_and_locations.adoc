@@ -27,7 +27,9 @@ include::../attributes.adoc[]
 
 |Green Glow Program
 |{rich}, WA
-|The Green Glow Diffusion Program at the Hanford site was a series of atmospheric field diffusion experiments conducted in 1959 to test techniques for tracking airborne materials.
+|The Green Glow Diffusion Program at the Hanford site was a series of atmospheric field diffusion experiments conducted in 1959 to test techniques for tracking airborne materials, now known as the Green Run experiment
+
+https://en.wikipedia.org/wiki/Green_Run[Wikipedia - Green Run]
 
 |{HNR}
 |{rich}, WA
@@ -55,9 +57,13 @@ https://www.youtube.com/watch?v=Plr7_SAuB6g[EPA, EPA, EPA!]
 |{rich}, WA
 |today known as the {PNNL} (PNNL), managed by the {DOE}, distinct from {HNR} as an employer
 
-|{quill} Air Reference Station
-|{quill}, WA
-|former military air station and current air sampling and monitoring station, named for the federally recognized Native American people, pronounced KWIL-yoot 
+|{quil} Air Reference Station
+|{quil}, WA
+|former military air station and current air sampling and monitoring station, named for the federally recognized Native American people, pronounced KWIL-yoot
+
+|Retec Development Laboratory (Retec)
+|Portland, OR
+|Manufacturer that produced devices including nebulizers and therapeutic breathing devices
 
 |Solvent Refined Coal (SRC) Pilot Plant
 |Fort Lewis, WA

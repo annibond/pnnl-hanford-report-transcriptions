@@ -429,8 +429,8 @@ J = -D dC / dx
 |naphtha
 |volatile, often flammable liquid hydrocarbon mixtures used chiefly as solvents and diluents
 
-|nuclear parity
-|the energy of a nucleus
+|nebulizer
+|a device that converts liquid samples into aerosol mist used to introduce samples into high-temperature atomization experiments
 
 |neutrino
 |subatomic particle produced during beta decay
@@ -444,20 +444,23 @@ J = -D dC / dx
 |nitric acid
 |corrosive, poisonous with strong oxidizing properties, made in a laboratory by distilling nitrates and sulfuric acid
 
-|nuclear reactor
-|a device that houses and controls a sustained nuclear chain reaction, most commonly through fission, to produce a steady and controllable release of energy
-
 |noble gases
 |stable gases which have a full outer shell of electrons
 
 |normalizing data
 |the scaling of a data set so that all probable outcomes approaches or equals 100%
 
+|nuclear parity
+|the energy of a nucleus
+
 |nucleon
 |a subatomic particle's combined nucleus, containing protons and neutrons
 
 |nuclide
 |isotope
+
+|nuclear reactor
+|a device that houses and controls a sustained nuclear chain reaction, most commonly through fission, to produce a steady and controllable release of energy
 
 |oceanographic
 |the physical and biological properties and phenomena of the sea

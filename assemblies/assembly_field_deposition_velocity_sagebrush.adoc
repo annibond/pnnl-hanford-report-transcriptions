@@ -1,0 +1,20 @@
+[id="assembly_field_deposition_velocity_sagebrush_{assembly-deposition-velocity-sagebrush}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Field Deposition Velocity Measurements to a Sagebrush Canopy
+[.big]#{GAS} and {WHH}#
+
+_Experimental upwind and downwind air sampling arrays were set up and initial mass budget experiment conducted to measure particle deposition velocities across a 136 m fetch of sagebrush. Particle diameters in the range of 0.7 μm (where deposition velocities should be nearly independent of particle diameter) were used. Plume depletion within the canopy was 65%._
+
+include::../modules/con_field_deposition_velocity_sagebrush.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_field_deposition_velocity_sagebrush_references.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_field_deposition_velocity_sagebrush_figures.adoc[leveloffset=+2]
