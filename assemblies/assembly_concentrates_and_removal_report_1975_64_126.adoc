@@ -23,3 +23,5 @@ include::../assemblies/assembly_approximations_and_solutions_depospition_resuspe
 include::../assemblies/assembly_resuspension_generalized_area.adoc[leveloffset=+1]
 include::../assemblies/assembly_comparison_deposition_velocities_predicted_dimensionless_analysis.adoc[leveloffset=+1]
 include::../assemblies/assembly_particle_deposition_penetration_through_canopies.adoc[leveloffset=+1]
+include::../assemblies/assembly_field_deposition_velocity_sagebrush.adoc[leveloffset=+1]
+include::../assemblies/assembly_resuspension_rates_circular_field_source.adoc[leveloffset=+1]

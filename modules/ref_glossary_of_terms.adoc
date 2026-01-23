@@ -41,6 +41,9 @@ include::../attributes.adoc[]
 |anthropogenic
 |caused or produced by humans
 
+|areal
+|relating to the area of a a surface or space
+
 |aromatic hydrocarbon
 |an  organic compound containing hydrogen and carbon atoms, most commonly featuring a stable six-carbon ring structure called a benzene ring
 
@@ -118,6 +121,12 @@ include::../attributes.adoc[]
 
 |counts per minute (cpm)
 |measurement of the rate of events detected by a radiation monitoring instrument, such as a Geiger counter
+
+|cowl
+|a protective, weather-vane-like housing
+
+|Cowling approximation 
+|a mathematical formula used to account for anisokinetic sampling
 
 |covariance
 |a statistical measure that shows how much two variables change together
@@ -304,10 +313,16 @@ J = -D dC / dx
 |two liquids that do not form a homogenous mixture when combined (e.g., oil and water)
 
 |impactor
-|an instrument used to sample and size-segregate airborne particles, including radioactive aerosols
+|a device used to sample and size-fractionate airborne particles based on their inertia
+
+|impactor-cowl
+|a field instrument to sample airborne particles while accounting for the challenges of inconsistent wind speed and direction
 
 |inert
 |unmoving, stopped
+
+|inertia
+|the resistance of a nucleus to change its movement
 
 |ingrowth emitter
 |a radioactive isotope that produces additional radioactive materials as it decays
@@ -447,6 +462,9 @@ J = -D dC / dx
 |noble gases
 |stable gases which have a full outer shell of electrons
 
+|nonrespirable
+|radioactive airborne particles that are too large to penetrate in the gas-exchange space
+
 |normalizing data
 |the scaling of a data set so that all probable outcomes approaches or equals 100%
 
@@ -578,6 +596,12 @@ J = -D dC / dx
 
 |Sinex SO~2~ monitor
 |device used to measure the concentration of sulfur dioxide in the air
+
+|nonrespirable
+|radioactive airborne particles that are too large to penetrate in the gas-exchange space
+
+|size-fractionate
+|the physical separation of particles, colloids, or radionuclides within a sample onto portions based on their physical diameter or weight
 
 |solvent
 |a substance used to dissolve other substances

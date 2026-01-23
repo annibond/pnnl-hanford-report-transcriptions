@@ -31,6 +31,7 @@
 
 // Locations, Organizations & Test Sites
 
+:alex: Alexandria
 :AS: Atmospheric Sciences
 :AK: Alaska
 :bat: Battelle
@@ -58,6 +59,7 @@
 :UK: United Kingdom
 :US: United States
 :USA: United States of America
+:VA: Virginia
 :WA: Washington
 :WW2: World War II
 
@@ -80,6 +82,7 @@
 :HSLEW: Health and Safety Laboratory Environmental Quarterly
 :IAEA: IAEA Symposium
 :IEEET: IEEE Transactions on Nuclear Science
+:ISA: Instrument Society of America
 :JAM: Journal of Applied Meteorology
 :JAPCA: Journal of the Air Pollution Control Association
 :JAWSP: Journal of Air, Water and Soil Pollution
@@ -88,10 +91,12 @@
 :MA: Manhattan Project
 :MB: Merrill Books
 :NT: Nuclear Technology
+:NTIC: National Technical Information Center
+:NTIS: National Technical Information Service
 :OMAM: Operational Methods in Applied Mathematics
 :PNLAR: Pacific Northwest Laboratory Annual Report
 :PRSA: Proceedings of Royal Society A
-:PRERDA: Proceedings ERDA Conference on Atmosphere-Surface Exchange on Particles and Gases
+:PRERDA: Proceedings ERDA Conference on Atmosphere-Surface Exchange on Particles and Gaseous Pollutants
 :PSADAP: Proceedings of the Symposium on the Atmospheric Diffusion and Air Pollution
 :QJRMS: Quarterly Journal of the Royal Meteorological Society
 :USAEC-P3: USAEC Division of Biomedical and Environmental Research, Part 3: Atmospheric Sciences
@@ -322,6 +327,8 @@
 :removal-rate-img-2: {img-dir}/ref_concentrations_and_rates_of_removal_figure-2.png
 :removal-rate-img-3: {img-dir}/ref_concentrations_and_rates_of_removal_figure-3.png
 
+:resuspension-circular-field-img-1: {img-dir}/ref_resuspension_rates_circular_field_source_figure-1.png
+
 :resuspension-generalized-area-img-1: {img-dir}/ref_resuspension_from_a_generalized_area_source_figure-1.png
 :resuspension-generalized-area-img-2: {img-dir}/ref_resuspension_from_a_generalized_area_source_figure-2.png
 
@@ -436,6 +443,8 @@
 
 :resuspension-generalized-area-alt-2: A graph that shows the normalized air concentration versus the downwind distance from the contamination peak. The x axis = the downwind distance from the contamination peak (x - x⌄o) etween -2 and 5 10^-3 meters with intervals of 1. The y axis = normalized air concentration (psi(Z = X⌄d)) with intervals of (1) 1, (2) 10, (3) 10^2, and (4) 10^3. There are three lines plotted against the actual data points, from top to bottom, (1) a solid line (---) representing no deposition, (2) a dashed line (- - -) representing v⌄d / u 10^-2, and (3) a dotted line (. . .) representing the surface contamination distribution (G(x)/G⌄o). There are also two markers representing different data points: (1) ■ for the analytical approximation and (2) • for the equivalent point source. All three show an exponential, positive correlation as downwind distance increases until it peaks around x is between 1 and 2 10^-3 meters before cresting downward. The bottom line shows more of an upside down U-shape.
 
+:resuspension-circular-field-alt-1: A graph that shows the relationship between wind speed and resuspension rate of particles from a circular field. The x axis = the wind speed in meters over seconds with intervals of (1) 1, (2) 10, and (3) 10^2. The y axis = the resuspension rate in fraction over seconds. There are three types of data tracked where (1) an empty circle (○) represents data from January 16 through February 8, 1974, (2) an empty triangle (△) represents data from March 4 through April 25, 1974, and (3) an empty square () represents data from May 6 through September 18, 1974. Each data point also shows varying rates of standard deviation from the actual data.
+
 :short-diff-range-alt-1: A dot graph which shows • tracking Krypton (Kr) at a transversal of 200 meters, ◦ tracking Krypton (Kr) at a transversal of 842 meters, □ tracking Florine (FP) at a transversal of 200 meters, and ■ tracking Florine (FP) at a transversal of 842 meters. The x axis = percent of tracer in meters from 0 m - 7 m in increments of 1. The y axis = height in meters from 0 m - 60 m in increments of 5 m. A dashed line (- - -) highlights the release height, which is just above 25 m. A dotted line highlights the top sampler at a transversal of 200 m. Another dotted line highlights the top sampler at a traversal of 842 m. All areas under curves normalized to 100 percent.
 
 :short-diff-range-alt-2: A dot graph which shows • tracking Krypton (Kr) at a transversal of 200 meters, ◦ tracking Krypton (Kr) at a transversal of 842 meters, □ tracking Florine (FP) at a transversal of 200 meters, and ■ tracking Florine (FP) at a transversal of 842 meters. The x axis = percent of tracer in meters from 0 m - 7 m in increments of 1. The y axis = height in meters from 0 m - 60 m in increments of 5 m. A dashed line (- - -) highlights the release height, which is just above 25 m. A dotted line highlights the top sampler at a transversal of 200 m. Another dotted line highlights the top sampler at a traversal of 842 m. All areas under curves normalized to 100 percent.
@@ -460,7 +469,53 @@
 
 :varied-wind-spectra-alt: A stack of three graphs that show the ratio of an emissions sample of airborne contaminants versus the expected (modeled) contaminants in the air at distances of, top to bottom, (1) 60, (2) 15, and (3) 7.5 meters. The x axis in all three graphs is the distance in meters with increments of (1) 10, (2) 100, and (3) 1000 meters. The y axis in all three graphs is the ratio (Ry/Rz) between 0.5 and 3.0 in increments of 0.5.
 
-// LaTeX Operators
+// LaTeX - Operators
 
-:infin: \infty
-:integer: \integer
+:cos: \cos
+:dot: \cdot
+:fraction: \frac
+:greater-equal: \geq
+:infinity: \infty
+:integer: \int
+:lesser-equal: \leq
+:not-equal: \neq
+:over: \overline
+:partial: \partial
+:plus-minus: \pm
+:similar-equal: \simeq
+:sin: \sin
+:tan: \tan
+:vector: \vec
+
+// LaTeX - Symbols
+
+:square: \Box
+:triangle-down: \bigtriangledown
+:triangle-up: \bigtriangleup
+
+// LaTeX - Variables
+
+:alpha: \alpha
+:beta: \beta
+:chi-l: \chi
+:chi-u: \Chi
+:delta-u: \Delta
+:delta-l: \delta
+:epsilon: \epsilon
+:gamma: \gamma
+:kappa: \kappa
+:lambda-l: \lambda
+:lambda-u: \Lambda
+:mu: \mu
+:nabla: \nabla
+:nu: \nu
+:omega-u: \Omega
+:partial: \part
+:pi: \pi
+:psi: \psi
+:rho: \rho
+:sigma-u: \Sigma
+:tau-l: \tau
+:tau-u: \Tau
+:theta: \theta
+:upsilon-u: \Upsilon

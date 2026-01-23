@@ -7,6 +7,8 @@ include::../attributes.adoc[]
 
 ==== 18 January 2026 - 24 January 2026, BNWL-2000, pp. 89-
 
+* Created "Resuspension Rates from a Circular Field Source"
+
 * Created "Field Deposition Velocity Measurements to a Sagebrush Canopy"
 
 * Reference Matterial

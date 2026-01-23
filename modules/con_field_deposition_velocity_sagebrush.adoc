@@ -34,3 +34,5 @@ Plume depletion in the _1.2_ to _1.5 m_ high sagebrush was 65% between the upwin
 == Conclusion
 
 Plume depletion was much more rapid than the few percent expected. The experiment will be repeated at different meteorological and surface conditions to determine reproducibility. If the results are reproducible, dense vegetation is an excellent dry deposition surface.
+
+NOTE: _*_ Retec model PN7002, Retec Development Laboratory, Portland, Oregon

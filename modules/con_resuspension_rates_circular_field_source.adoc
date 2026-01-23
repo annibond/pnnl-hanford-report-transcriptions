@@ -1,0 +1,26 @@
+[id="con_resuspension_rates_circular_field_source_{con-resuspension-circular-field}"]
+include::../attributes.adoc[]
+
+== Introduction
+
+Wind surface stresses can resuspend surface-deposited materials into the air. Prior to this research, concentrations of resuspended plutonium and other radioactive materials were measured over contaminated areas, and these results were reported as resuspension factors [defined as the ratio of airborne concentration to the surface (areal) concentrations]. The resuspension factors reportedly decreased with a half-life of about 30 days.
+
+This research sought to determine, using controlled sources, wind-caused particle resuspension rates as a function of the wind speed, and also to measure the weathering half-life.
+
+== Experimental
+
+Wind resuspension experiments are continuing at the original controlled source resuspension sitefootnote:1[G. A. Sehmel and F. D. Lloyd, "Particle Resuspension Rates," Proceedings of the Atmosphere-Surface Exchange of Particulate and Gaseous Pollutants - 1974 Symposium, Richland, Washington, September 4 - 6, 1974. ERDA Symposium Series, CONF-740921, National Technical Information Center, U.S. Department of Commerce, Springfield, VA, in press, November 1975.]. Briefly, the site is a lightly vegetated desert soil with a roughness height _z~o~_, of _3.4 cm_. On October 2, 1973, a known quantity of a tracer suspension of submicrometer calcium molybdate was sprayed on the ground in a circle of _22.9 m_ radius. Resuspended Mo tracer was sampled from a _6.1 m_ tower erected at the center of the tracer area. Self-orienting impactor-cowlfootnote:2[G. A. Sehmel, "An Evaluation of a High-Volume Cascade Particle Impactor System," Proceedings of the Second Joint Conference on Sensing of Environmental Pollutants, Instrument Society of America, Pittsburg, PA, pp. 109-115, 1973.] air samplers directed into the wind were mounted at tower heights of _0.3_, _0.9_, _1.8_, _3.0_, and _6.1 m_. Three air samplers were at each height. Thus, there were three sets of six air samplers. Each set of six air samplers was turned on automatically when the wind speed was within selected wind-speed increments. Resuspension rates were calculated for each wind speed increment from the vertical airborne concentration files of Mo.
+
+Analytical results from the air filters have been received for two additional air sampling time periods. Resuspension rates were calculated from airborne Mo fluxes, ground surface concentration, and sampling times. Average resuspension rates were calculated for all particles entering each particle impactor. A resuspension rate for larger “nonrespirable” particles was also determined from particles settling within each cowl.
+
+== Results
+
+Resuspension rates for respirable particles increased rapidly with increase in wind speed. Resuspension rates are shown in *Figure 1*. Data points are omitted at the lower limit of each wind speed interval. A horizontal line through each data point extends to the upper limit of that wind speed interval. Resuspension rates increased two orders of magnitude, from _2 x 10^-10^ fraction resuspended/sec_ to _2 x 10^-8^ fraction resuspended/sec_, as wind speed increased from _1.3_ to _6.6 m/sec_. The overall increase in resuspension rates is a nonlinear function of wind speed. However, between _4.4_ to _6.6 m/sec_ wind speeds. Resuspension rates appear to increase with the 4th to 5th power of wind speed. The experiment is continuing and is directed toward determining the exponential relationship.
+
+Resuspension rates for tracer particles used at this location do not appear to be decreasing as a function of time during the period the tracer has been on the ground. The resuspension rate is so small that the total source concentration. Since there are _3.15 x 10^7^ sec/year_, only _0.1_ of the source would be resuspended even if resuspension rates were the highest measured for an entire year.
+
+Resuspension rates for "nonrespirable" particles were _1.3 x 10^-11^ fraction resuspended/sec_ during January 16 to February 8, 1974, and _8.9 x 10^-12^ fraction resuspended/sec_ during May 6 to September, 1974. Wind speed dependency could not be determined for these larger particles due to the sampling technique. Large particles could be blown into the sampling cowls even if the high-volume air sampler were not operating.
+
+== Conclusions
+
+Particle resuspension rates caused by wind stresses are of the order of _10^-10^_ to _10^-8^ fraction resuspended/sec_ for a lightly vegetated desert soil and increase rapidly with an increase in wind speed. Since these rates are nearly constant over an 8-month time period, the concept of a 30-day weathering half-time is questioned. Results from additional experiments should determine when and if resuspension dates decrease. Other sites must be studied to determine both resuspension rates and weather as a function of soil, surfacefootnote:3[G. A. Sehmel, "Experimental Measurements and Predictions of Particle Deposition and Resuspension Rates," paper 75-25.2 presented at the 68th Annual Meeting of the Air Pollution Control Association, Boston, MA, 1975, BNWL-SA-5228, Battelle-Northwest. Richland. WA. 1975.], particle, and wind parameters.
