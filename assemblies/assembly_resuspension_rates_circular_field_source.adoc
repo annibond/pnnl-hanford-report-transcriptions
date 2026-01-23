@@ -1,0 +1,19 @@
+[id="assembly_resuspension_rates_circular_field_source_{assembly-resuspension-circular-field}"]
+include::../attributes.adoc[]
+
+== Resuspension Rates from a Circular Field Source
+[.big]#{GAS} and {FDL}#
+
+_Experiments are continuing in a lightly vegetated area to measure wind-caused particle resuspension rates of a controlled submicrometer inert tracer. Resuspension rates continue to reproducibly increase with wind speed for this aged source. The apparent availability for resuspension has not decreased for times up to 8 months._
+
+include::../modules/con_resuspension_rates_circular_field_source.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_resuspension_rates_circular_field_source_references.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_resuspension_rates_circular_field_source_figures.adoc[leveloffset=+2]

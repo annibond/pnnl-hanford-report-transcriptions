@@ -1,0 +1,8 @@
+[id="ref_resuspension_rates_circular_field_source_figures_{ref-resuspension-circular-field-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Particle Resuspension Rates as a Function of Wind Speed (Neg 751152-1)
+
+[#img-resuspension-circular-field]
+[caption="Particle Resuspension Rates as a Function of Wind Speed", alt="{resuspension-circular-field-alt-1}"]
+image::{resuspension-circular-field-img-1}[Particle Resuspension Rates as a Function of Wind Speed]

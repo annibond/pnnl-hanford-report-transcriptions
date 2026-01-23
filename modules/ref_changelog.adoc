@@ -5,6 +5,18 @@ include::../attributes.adoc[]
 
 === 2026
 
+==== 18 January 2026 - 24 January 2026, BNWL-2000, pp. 89-
+
+* Created "Resuspension Rates from a Circular Field Source"
+
+* Created "Field Deposition Velocity Measurements to a Sagebrush Canopy"
+
+* Reference Matterial
+
+- Created attributes for LaTeX equations
+
+- Updated 
+
 ==== 11 January 2026 - 17 January 2026, BNWL-2000, pp. 69-89
 
 * Created "Particle Deposition and Penetration through Vegetation Canopies and Tunnel Experiments"
@@ -41,7 +53,7 @@ include::../attributes.adoc[]
 
 * Reference Material
 
-- Updated "Glossary of Terms"
+- Updated "Glossary of Terms", "Important Names & Locations"
 
 === 2025
 

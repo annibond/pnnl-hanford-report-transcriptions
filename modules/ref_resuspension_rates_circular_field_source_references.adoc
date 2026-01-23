@@ -1,0 +1,8 @@
+[id="ref_resuspension_rates_circular_field_source_references_{ref-resuspension-circular-field-references}"]
+include::../attributes.adoc[]
+
+1. {GAS} and {FDL}, "Particle Resuspension Rates," [.underline]#{PRERDA} - 1974 Symposium#, {rich}, {WA}, September 4 - 6, 1974. {ERDAS}, CONF-740921, {NTIC}, {DOC}, Springfield, VA, in press, November 1975.
+
+2. {GAS}, "An Evaluation of a High-Volume Cascade Particle Impactor System," [.underline]#Proceedings of the Second Joint Conference on Sensing of Environmental Pollutants#, {ISA}, Pittsburg, PA, pp. 109-115, 1973.
+
+3. {GAS}, "Experimental Measurements and Predictions of Particle Deposition and Resuspension Rates," paper 75-25.2 presented at the [.underline]#68th Annual Meeting of the Air Pollution Control Association#, Boston, MA, 1975, BNWL-SA-5228, {BN}, {rich}, {WA}, 1975.

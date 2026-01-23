@@ -1,0 +1,6 @@
+[id="ref_diffusion_with_deposition_at_short_range_references_{con-diffusion-deposition-short-references}"]
+include::../attributes.adoc[]
+
+1. {GAS}, "Comparison of Deposition Velocities Predicted from Dimensionless Analysis Correlations," see this annual report, pp. 83-89.
+
+2. {GAS} and {WHH}, "Particle Deposition and Penetration through Vegetation Canopies from Wind Tunnel Experiments," see this annual report, pp. 86-89.
