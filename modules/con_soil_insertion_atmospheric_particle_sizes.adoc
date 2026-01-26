@@ -1,0 +1,55 @@
+[id="con_soil_insertion_atmospheric_particle_sizes_{con-soil-insertion-particles}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+Atmospheric aerosol size distributions in both urban and nonurban investigators. Results in general show size distributions can be multi-modal. A mode is a predominant concentration of a size range between valleys of lower concentration for larger and smaller size ranges. Whitby, et at.footnote:1[K. T. Whitby and B. Cantrell, "Atmospheric Aerosols-Characteristics and Measurement," Paper 29-1, presented at the International Conference on Environmental Sensing and Assessment, Las Vegas, NV, September 14-19, 1975.],footnote:2[K. Willeke and K. T. Whitby, "Atmospheric Aerosols: Size Distribution Interpretation," APCA Journal, 25, 529-534, 1975.],footnote:3[K. T. Whitby, R. B. Husar, and B. Y. H. Liu, "The Aerosol Size Distribution of Los Angeles Smog," Journal of Colloid and Interface Science, 29, 177-204, 1972.] define the three volume modes as:
+
+1. A transient nuclei or Aitken nuclei mode for particles less than about _0.08 μm_.
+
+2. An accumulation mode between about _0.8 μm_ and _2 μm_.
+
+3. A mechanically-generated aerosol or coarse mode for particles greater than _μm_.
+
+The accumulation mode is often caused by anthropogenic sources while the coarse mode is often mainly airborne soil. Modes are being considered importantfootnote:4[William E. Wilson, open discussion, 8th Aerosol Technology Meeting, Chapel Hill, NC, October 6-8, 1975.] in identifying and monitoring air pollution since chemical composition is often different in each mode. Similar modes below _2 μm_ might also occur for resuspended soil. Consequently, the objective was to determine airborne soil concentrations and possible modes in a region with low anthropogenic air pollution. 
+
+== Experimental
+
+Airborne particle concentrations were measured with a laser optical particle counter. Measurements were usually _0.9 m_ above the ground and were for both dust storm and nondust storm conditions. The range of repeated measurements will be compared with previously reportedfootnote:6[G. A. Sehmel, "Influence of Soil Erosion on the Airborne Particle Size Distribution Function," paper 73-162 presented at the 66th Annual Meeting of the Air Pollution Control Association, Chicago, Illinois, 1973, BNWL-SA-4472, Battelle-Northwest, Richland, WA, 1973.] results for the Hanford area. These latter results were determined with particle cascade impactor-cowl systems. The cowl is an entry passage to the impactor where larger particles deposit by gravity settling. Impactor data are for three particle diameters between _1.1_ to _3.6 μm_ while the cowl particle data are for larger particles up to _230 μm_ diameter.
+
+Results are reported as the volume distribution:
+
+.Equation 1
+[latexmath]
+++++
+\frac{\Delta V}{\Delta \ln D} = \frac{\pi D^4}{6} \frac{\Delta N}{\Delta D}
+++++
+
+which has units of _μm^3^ / cm^3^_. The total airborne particle volume is the integral of *Eq. (1)*. The total dust loading in _μg / m^3^_ is calculated from the volume once a density is assumed. For this study a _2g / cm^3^_ density is assumed.
+
+== Results
+
+Volume distributions are shown in *Figure 1* for the optical counter, impactor-cowl systems, and also for Los Angeles airborne particles in 1969. The range of optical counter results is shown by the lined area. In general, these volume distributions increase with approximately the square of particle diameter. There are no significant modes indicated in the ragged edges. The impactor-cowl data are shown for April 1972, during a dust storm. Concentrations were maximum near ground and decreased with increasing sampling heights. For nondust storm conditions, lower limits were indicated by the impactor-cowl system. These limits are:
+
+.Equation 2
+[latexmath]
+++++
+\frac {\Delta D}{\Delta \ln D} = 3.46 D^{0.12} and \frac {\Delta V}{\Delta \ln d} = 1160 D^{1.48}
+++++
+
+No significance should be attributed to their intersection at _38 μm_.
+
+There is reasonable consistency between the optical counter and impactor-cowl data. The data overlap between _1_ and _4 μm_. Differences between results for the two counting systems can probably be attributed to differences in soil moisture content and meteorology during sampling periods.
+
+The lower and upper limit curves were integrated to determine the range of mass loading indicated by these volume distributions. Results are shown in Table 1 for three diameter ranges as well as the total mass from 0.16 to 230 μm. The maximum airborne loading is _232.6 mg / m^3^_ with a _162 μm_ mass-average particle diameter. The lowest airborne loading is 2_7.7 μg / m^3^_ with _19 μm_ mass-average particle diameter.
+
+== Discussion
+
+Airborne soil concentrations are also compared in *Figure 1* with the 1969 average Los Angeles distribution between _0.1_ and _7 μm_. This curve between _0.1_ and _2 μm_ illustrates the accumulation mode. Most of the accumulation mode is over one order of magnitude greater than for local airborne soil concentrations. However, in the particle size range of around _2 μm_ (a "valley" in the Los Angeles size distribution) the concentration of airborne soil could be greater. Indeed, a fine soil insertion mode could be defined as maximizing at about _2 μm_. Similarly, coarse soil insertion modes could be defined as maximizing at about _50_ to _80 μm_.
+
+== Conclusions
+
+Volume distributions of airborne soil do not fit the bimodal distributions reported near cities with significant air pollution. There are different modes which reflect differences in the nature of the particle source.
+
+Airborne soil concentrations should depend upon many variables including sampling height, wind speed has been determined with impactor-cowl systems, but additional data from the optical counter is needed to determine the influence of wind speed on the concentrations of the smaller soil particles.

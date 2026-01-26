@@ -1,0 +1,19 @@
+[id="assembly_experiment_particle_resuspension_annular_{assembly-experiment-particle-annular}"]
+include::../attributes.adoc[]
+
+== An Experiment to Measure Particle Resuspension from a Large Annular Area
+[.big]#{GAS} and {FDL}#
+
+_Equipment installation was completed and the first experiment begin to measure inert particle resuspension rates from a 1031 m2 annular source. Mass budgets are being made with 108 air filter samplers mounted on six towers. Air is sampled as a function of wind direction and six wind speed increments._
+
+include::../modules/con_experiment_particle_resuspension_annular.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_experiment_particle_resuspension_annular_references.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_experiment_particle_resuspension_annular_figures.adoc[leveloffset=+2]

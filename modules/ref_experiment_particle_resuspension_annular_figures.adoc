@@ -1,0 +1,8 @@
+[id="ref_experiment_particle_resuspension_annular_figures_{ref-experiment-particle-annular-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Resuspension Experiment Sampling Only Selected Wind Direction and Wind Speed Increments (Neg 760188-16)
+
+[#img-experiment-particle-annual]
+[caption="Resuspension Experiment Sampling Only Selected Wind Direction and Wind Speed Increments", alt="{experiment-particle-annual-alt-1}"]
+image::{experiment-particle-annual-img-1}[Resuspension Experiment Sampling Only Selected Wind Direction and Wind Speed Increments]

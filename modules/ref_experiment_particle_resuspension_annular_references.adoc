@@ -1,0 +1,4 @@
+[id="ref_experiment_particle_resuspension_annular_references_{ref-experiment-particle-annular-references}"]
+include::../attributes.adoc[]
+
+1. {GAS} and {FAD}, "Resuspension Rates from a Circular Field Source," this volume, pp. 92-93.

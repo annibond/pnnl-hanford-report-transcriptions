@@ -1,0 +1,36 @@
+[id="con_particle_resuspension_truck_traffic_{con-particle-truck}"]
+include::../attributes.adoc[]
+
+== Introduction
+
+Plutonium or other hazardous materials deposited on environmental surfaces are resuspended into the air by surface stresses produced from vehicular traffic. These resuspension stresses can be greater than simple wind stresses. Resuspension rates for car and truck traffic on  asphalt roads have been determined using a ZnS tracer. Resuspension rates increased with vehicular speed. At _60 mph_, approximately 1% of the tracer became airborne when the vehicle was driven through the tracer.
+
+Most contaminated areas, however, are not asphalt roads. Usually contaminated areas are highly vegetated, controlled areas which are restricted to human activity. The vegetation cover helps to decrease wind resuspension; this is desirable to decrease potential downwind transport. Nevertheless, human activity including vehicular traffic can occur in these contaminated areas. Consequently, controlled experiments were needed to estimate resuspension rates caused by vehicular traffic in contaminated areas. The objective of these experiments was to determine truck-caused resuspension rates as a function of truck speed in a cheat grass area.
+
+== Experimental
+
+Particle resuspension rates were determined on two dry June days using the experimental arrangement shown schematically in *Figure 1*.
+
+The important features are the _10 x 50 ft_ ZnS tracerfootnote:1[G. A. Sehmel, "Particle Resuspension from an Asphalt Road Caused by Car and Truck Traffic," Atmospheric Environment, vol. 7, pp. 291-301, 1973.] area defining the road, the wind blowing perpendicular to the road, and the seven air sampling towers downwind and adjacent to the road. The average airborne exposure of ZnS* tracer resuspended from the tracer area road was determined by horizontally and vertically integrating the ZnS amounts collected on the eight air filters on each tower. Wind-caused resuspension was measured immediately after the tracer was deposited on the ground and also after ¾ ton truck resuspension runs had been completed. In these wind cases, average wind speeds were determined by integrating Casella cup anemometers located at heights of _20_, _43_, and _88 in_.
+
+The ZnS particles were deposited onto the ground by rapping containers on the ground. Deposition was through _25 μm_ screens on the bottom of the containers. The mass mean particle diameter passing through the screens on the bottom of the containers. The mass mean particle diameter passing through the screens was 8 μm. An average of _0.25 g / f^2^_ was deposited on the tracer area.
+
+Airborne particles were collected on the towers with membrane filters at a flow rate of _1 cfm_. Exposed filter was _1.6 in_. Particles collected were analyzedfootnote:1[] for total ZnS.
+
+== Results
+
+Six resuspension experiments were conducted in a 2-day time period rather than 1 day since the wind direction was not always into the air sampling towers. On the first day tests were for initial wind resuspension and for a truck speed of _5 mph_. On the second, experiments were for truck speeds of _15_, _30_ and _40 mph_, and a final wind resuspension experiment.
+
+Wind resuspension rates are shown in *Table 1*. On the first day, the resuspension rate was _3.38 x 10^-8^  fraction resuspended/sec_ for a _4.7 m / sec_ average wind speed. This is a relatively high resuspension rate and probably reflects increased resuspension of ZnS particles from the upper portions of the cheat grass.
+
+After _3.5 x 10^-3^_ of the ZnS has been removed by truck traffic, the wind resuspension rate decreased to _1.25 x 10^-9^ fraction resuspended/sec_. This last rate is almost one order magnitude greater than the _2 x 10^-10^ fraction/sec resuspensionfootnote:2[G. A. Sehmel and F. D. Lloyd, "Resuspension Rates from a Circular Field Source," this volume pp. 92-93.] rate_ of an inert submicron tracer from a somewhat comparable resuspension site and average wind speed.
+
+Truck resuspension rates are defined as the fraction of particles removed each time the truck was driven at a constant speed through the tracer area. The units are fraction resuspended per vehicle pass concept, the total airborne material is the product: (fraction resuspended/pass) (length of pass) (average surface contamination/length of pass). Fraction resuspension per pass = airborne/initial deposit.
+
+Truck resuspension rates are shown in *Figure 2* for the cheat grass experiments and are compared to vehicle resuspensionfootnote:1[] from an asphalt road. Truck resuspension from the cheat grass is always less than for the asphalt road. This decrease is attributed to the protective action of the cheat grass in hindering truck generated air turbulence from reaching the ground. For the asphalt, resuspension/pass increased with vehicle speed. This increased resuspension was caused by greater surface wind stresses from the increased vehicle speed. In contrast, the resuspension/pass decreased for the cheat grass as the truck speed was increased from _5_ to _30 mph_. This decrease is attributed to the truck speed sequence used in the experiments. The initial truck resuspension was at _5 mph_. Apparently, the large suspension/pass at _5 mph_ was caused by removing the most readily resuspended particles from the cheat grass itself. In succeeding experiments at increasing truck speeds up to 15 mph (and possibly _30 mph_) all the readily resuspended material was removed from the cheat grass foliage. When truck speed was increased from _30_ to _40 mph_, resuspension/pass increased air turbulence at the base of the cheat grass is suggested as the source of increased resuspension.
+
+== Conclusions
+
+Particle resuspension rates from a cheat grass area is a function of both vehicle speed and the relative location of the material being resuspended. The results suggest that material at the base of the cheat grass is more protected from resuspension forces and is less readily resuspended than material on the upper portions of the cheat grass.
+
+NOTE: ZnS type 2210, United States Radium Corporation.
