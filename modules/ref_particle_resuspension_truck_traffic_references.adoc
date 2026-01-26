@@ -1,0 +1,6 @@
+[id="ref_particle_resuspension_truck_traffic_references_{ref-particle-truck-references}"]
+include::../attributes.adoc[]
+
+1. {GAS}, "Particle Resuspension from an Asphalt Road Caused by Car and Truck Traffic," [.underline]#{AEV}#, vol. 7, pp. 291-301, 1973.
+
+2. {GAS} and {FDL}, "Resuspension Rates from a Circular Field Source," this volume pp. 92-93.

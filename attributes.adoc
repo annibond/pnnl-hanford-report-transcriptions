@@ -43,6 +43,7 @@
 :ERDA: Energy Research and Development Administration
 :GE: General Electric
 :HNR: Hanford Nuclear Reservation
+:JCIS: Journal of Colloid and Interface Science
 :MET: METROMEX
 :NAAQS: National Ambient Air Quality Standard
 :NARL: Naval Arctic Research Laboratory
@@ -65,6 +66,7 @@
 
 // Journals & Conferences
 
+:66A: 66th Annual Meeting of the Air Pollution Control Association
 :70: IAEA Symposium on the Use of Nuclear Techniques in the Measurement and Control of Environmental Pollution, Saltzburg, Austria
 :AC: Analytical Chemistry
 :ACS: Advances in Chemistry Series
@@ -81,6 +83,7 @@
 :ERDAS: ERDA Symposium Series
 :HSLEW: Health and Safety Laboratory Environmental Quarterly
 :IAEA: IAEA Symposium
+:ICESA: International Conference on Environmental Sensing and Assessment
 :IEEET: IEEE Transactions on Nuclear Science
 :ISA: Instrument Society of America
 :JAM: Journal of Applied Meteorology
@@ -118,6 +121,8 @@
 :AJM: A. J. McConnel
 :AKP: A. K. Postma
 :AM: A. Miller
+:BC: B. Cantrell
+:BYHL: B. Y. H. Liu
 :CCT: C. C. Thomas, Jr.
 :CEE: C. E. Elderkin
 :CEH: C. E. Hane
@@ -179,6 +184,8 @@
 :KH: K. Heiman
 :KLC: K. L. Caulder
 :KSP: K. S. Pillay
+:KTW: K. T. Whitby
+:KW: K. Willeke
 :LA: L. Angelelli
 :LAR: L. A. Rancitelli
 :LCS: L. C. Schwendiman
@@ -203,6 +210,7 @@
 :PPR: P. P. Raft
 :PSL: P. S. Liss
 :PWN: P. W. Nickola
+:RBH: R. B. Husar
 :RD: R. Dams
 :REC: R. E. Connally
 :RFT: R. F. Tuttle
@@ -224,9 +232,10 @@
 :TSH: T. S. Heines
 :TWH: T. W. Horst
 :WED: W. E. Davis
-:WHH: W. H. Hodgson
+:WEW: William E. Wilson
 :WFS: W. F. Sandusky
 :WGNS: W. G. N. Slinn
+:WHH: W. H. Hodgson
 :WNS: W. N. Stasiuk, Jr.
 
 :tribute: This documentation preserves the scientific legacy of {CLS} (1927-2001).
@@ -277,6 +286,8 @@
 :compare-depo-dimensionless-img-1: {img-dir}/ref_comparison_deposition_velocities_correlations_figure-1.png
 :compare-depo-dimensionless-img-2: {img-dir}/ref_comparison_deposition_velocities_correlations_figure-2.png
 
+:experiment-particle-annual-img-1: {img-dir}/ref_experiment_particle_resuspension_annular_figure_1.png
+
 :field-sagebrush-img-1: {img-dir}/ref_field_deposition_velocity_sagebrush_figure-1.png
 
 :field-filter-orientation-img-1: {img-dir}/ref_field_measurement_of_the_effect_of_filter_orientation_figure-1.png
@@ -294,6 +305,9 @@
 :particle-depo-penetration-img-2: {img-dir}/ref_particle_deposition_penetration_through_canopies_figure-2.png
 :particle-depo-penetration-img-3: {img-dir}/ref_particle_deposition_penetration_through_canopies_figure-3.png
 :particle-depo-penetration-img-trees: {img-dir}/ref_particle_deposition_penetration_through_canopies-trees.png
+
+:particle-truck-img-1: {img-dir}/ref_particle_resuspension_truck_traffic_figure-1.png
+:particle-truck-img-2: {img-dir}/ref_particle_resuspension_truck_traffic_figure-2.png
 
 :plume-img-1: {img-dir}/ref_measurement_of_particulate_plume-figure-1.png
 :plume-img-2: {img-dir}/ref_measurement_of_particulate_plume-figure-2.png
@@ -335,6 +349,8 @@
 :short-diff-range-img-1: {img-dir}/ref_diffusion_with_deposition_at_short_range_figure-1.png
 :short-diff-range-img-2: {img-dir}/ref_diffusion_with_deposition_at_short_range_figure-2.png
 
+:soil-insertion-particles-img-1: {img-dir}/ref_soil_insertion_atmospheric_particle_sizes_figure-1.png
+
 :solvent-refined-coal-img: {img-dir}/ref_solvent_refined_coal_organic_constituents_present_figure-1.png
 
 :transuranium-img-1: {img-dir}/ref_transuranium_elements_in_the_atmosphere_figure-1.png
@@ -361,6 +377,8 @@
 
 :compare-depo-dimensionless-alt-2: A graph showing a stable atmosphere with roughness height in centimeters in 1975. The x axis = particulate diameter in micrometers with intervals of (1) 10^-2, (2) 10^-1, (3) 1, and (4) 10. The y axis = K⌄1-M in centimeters per second with intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 1, and (5) 10. Four different lines for z⌄o, from top to bottom, that represent roughness heights (z⌄o) at (1) 0.001, (2) 0.1, (3) 3, and (4) 10 centimeters. There are also three curves that represent particle densities for p at (1) 1.0, (2) 4.0, and (3) 11.5 grams over centimeters cubed. The curves follow a distinct "U-shape," where deposition velocity is high for very small particles and very large particles but reaches a minimum for particles between 0.1 and 1.0 micrometers. Increasing the surface roughness (z⌄o) shifts all sets of curves upward, increasing the overall deposition rate across all particle sizes.
 
+:experiment-particle-annual-alt-1: A diagram that shows the plan for the field experiment on particle resuspension from a contaminated area. It focuses on the "tracer area". The diagram contains a map of the tracer area. In the center of this circle, he placed a sampling tower equipped with those impactor-cowl systems at various heights where (1) ▼ represents 0.5 to 2.5, (2) ○ represents 3 to 5, (3) □ represents 5 to 7, (4) △ represents 7 to 11, (5) ⬤ 11 to 15, and (6) ▲ represents 15 to 18 meters over seconds. The plane view shows a range 27.5 meters horizontally. It shows this data of tower sampler elevations of 0 through 9 meters.
+
 :field-sagebrush-alt-1: A diagram that shows how sensors and filters track a particle plume as it moves through a canopy. There are three distinct markers including: (1) the particle generation array with a wind force in both directions, (2) the upwind array with distances of 6.1 and 3.05 meters on each side of the mean with a wind force moving forward, and (3) the downwind array with filter distances of 9.14, 6.1, and 3.05 meters on both sides of the mean. The filter heights at each end of the downwind array are 0.3, 0.61, 0.91, 1.52, 3.05, and 6.1 meters. The filter height at the mean also includes 9.14, 15.2, and 21.3 meters. "Detail A nebulizer locations" is zoomed in to show the distances and markers more specifically.
 
 :field-filter-orientation-alt-1: A dotted graph that shows the measurement of tracer concentration when facing AWAY from the mean wind direction and the concentration by the filter facing TOWARD the mean wind direction with a wind speed of 2 meters high. There is an inverse correlation between wind speed and the concentration ratio. The x axis = wind speed in meters at 2 meters of elevation between 0 and 7 in meters per second in one meter increments. The y axis = the concentration ratio of the AWAY and TOWARD forces of the tracer nucleon between 0 and 1.2 in increments of 0.1.
@@ -386,6 +404,10 @@
 :particle-depo-penetration-alt-3: A graph showing the particle diameter compared to the percentage of particle deposition on top of the underlying surface. The x axis = particle diameter in micrometers with interfaces of (1) 0, (2), 1, and (3) 10 micrometers, with additional data shown after x = 10 micrometers. The y axis = percentage of particle deposition on the top of an underlying surface between 0 and 60 percent in increments of 10 percent. There are two lines shown where (1) △ represents 1.6 m/sec with a solid line (---) and (2) ○ represents 10.9 m/sec with a dashed line (- - -). Both (1) and (2) highlight eight data points where (1) ~ x = 0.012, (2) x = 0.01, (3) ~ x = 1, (4) ~ x = 1.3, (5) ~ x = 1.4, (6) ~ x = 1.9, (7) where x = 10, and (8) where x > 10 micrometers. In line (1), the data slopes down gently until x = 0.01 with low variability, at which point it rises sharply in an upside down U-shape with a peak of ~ 1.3 < x < 1.7, at which point it slopes downward again. In line (2), the data shows a similar shape to the first graph (with lower percentages) until the x = 1.2 data point, at which point it mirrors the line instead. The level of variability is not consistent with one another.
 
 :particle-depo-penetration-alt-trees: A figure showing a 6 x 8 grid of identical green, cloud-like shapes that each say 3.8 cm wide, 9 cm high. It is meant to represent the setup of plastic trees used for the experiment from Figure 2.
+
+:particle-truck-alt-1: A diagram that shows the experimental layout for a truck's resuspension. A truck would drive through the ZnS tracer area over a distance of 50 feet. There are seven air filter heights tracked including (1) 0.5, (2) 1, (3) 2, (4) 3, (5) 4, (6) 6, and (7) 8 feet in the air. There are seven air sampling towers across the length of the truck's distance spaced 5 feet apart.  The wind direction moves from the left side of the diagram to the right (towards the sampling towers). The width of the road is marked as 10 feet across. There is an additional 10 feet given for the start of the truck's initial stationary position.
+
+:particle-truck-alt-2: A graph which shows the fraction resuspension for the trucks as they passed each of the sampling towers. The x axis = vehicle speed in miles per hour with intervals of (1) 1, (2) 10, and (3) 50 miles per hour with data shown after 50 mph. The y axis = fraction of particles resuspended with intervals of (1) 10^-6, (2) 10^-5, (3) 10^-4, (4) 10^-3, and (5) 10^-2.  There are three lines that show the path of a (1) truck on an asphalt road, (2) car on an asphalt road, and (3) truck on the cheat grass road. The results show the (1) truck on the cheat grass road with a "U" shape where the highest point is ~ x = 5 with a ~ y = 0.00015, hits a low of ~ x = 20 with a ~ y = 0.00001, and ends at x = 50 with a ~ y = 0.0001, (2) the car on an asphalt road that has a positive linear correlation, and (3) the truck on an asphalt road with a mild positive linear correlation.
 
 :plume-alt-1: A graph which shows the electrical field strength for a transversal of 842 to the tops of the towers. This graph is for the transversal of 842 m for the element Krypton (Kr). The x axis = azimuth from 105 degrees - 135 degrees in increments of 5 degrees. The y axis = height from 0 meters - 60 meters in increments of 5 meters.
 
@@ -448,6 +470,8 @@
 :short-diff-range-alt-1: A dot graph which shows • tracking Krypton (Kr) at a transversal of 200 meters, ◦ tracking Krypton (Kr) at a transversal of 842 meters, □ tracking Florine (FP) at a transversal of 200 meters, and ■ tracking Florine (FP) at a transversal of 842 meters. The x axis = percent of tracer in meters from 0 m - 7 m in increments of 1. The y axis = height in meters from 0 m - 60 m in increments of 5 m. A dashed line (- - -) highlights the release height, which is just above 25 m. A dotted line highlights the top sampler at a transversal of 200 m. Another dotted line highlights the top sampler at a traversal of 842 m. All areas under curves normalized to 100 percent.
 
 :short-diff-range-alt-2: A dot graph which shows • tracking Krypton (Kr) at a transversal of 200 meters, ◦ tracking Krypton (Kr) at a transversal of 842 meters, □ tracking Florine (FP) at a transversal of 200 meters, and ■ tracking Florine (FP) at a transversal of 842 meters. The x axis = percent of tracer in meters from 0 m - 7 m in increments of 1. The y axis = height in meters from 0 m - 60 m in increments of 5 m. A dashed line (- - -) highlights the release height, which is just above 25 m. A dotted line highlights the top sampler at a transversal of 200 m. Another dotted line highlights the top sampler at a traversal of 842 m. All areas under curves normalized to 100 percent.
+
+:soil-insertion-particles-alt-1: A graph that shows the log volume distribution of individual models for air sampling of the impactor cowl. The x axis = particle diameter (D) in micrometers with intervals of (1) 10^-1, (2) 1, (3) 10, (4) 10^2, and (5) 10^3 micrometers. The y axis = log volume distribution ΔV over Δ ln D in micrometers cubed to centimeters cubed in intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 1, (5)  10, (6) 10^2, and (7) 10^3. There are six heights of air sampling impactor cowl represented: (1) 0.3, (2) 1, (3) 2, (4) 3, (5) 10, and (6) 32 meters. All of them show a mountain-like positive correlation. The grand average of Los Angeles in 1969 is represented by a dotted line (. . .). The optical counter range is shaded in between (0.01, 0.001) through (10, ~ 0.01). Lower limits from impactor cowl are (1) 3.46 D^0.12 and (2) 1160 D^-1.48.  
 
 :solvent-refined-coal-alt: A graph that displays the signal intensity of each of the chemical compounds separated by the SP-1000 at 10% from the process naphtha sample. The sample uses N~2~ as the carrier gas at a rate of 60 mL/min.  The x axis = the temperature in degrees Celsius in increments of (1) 100°, (2) 100°, (3) 150°, and (4) 200°C. The data continues after 200°C but evens out after that point. The first two increments on the x axis marked 100° represent the initial temperature of 100°, after which the temperature is held there as a constant for a specific period of time.  The y axis = the relative response. There are 22 data points which represent (1) 2-methylindan, (2) 5-methylindan, (3) 1, 3-dimethylindan, (4) 1, 2, 3 4-tetrahydronaphthalene, (5) 5-methyl-1, 2, 3, 4-tetrahydronaphthalene, (6) naphthalene, (7) 2-methylnaphthalene, (8) 1-methylnaphthalene, (9) 2, 6-dimethylnaphthalene, (10) phenol, o-cresol, (11) m-cresol, p-cresol, (12) 3, 5-xylenol, (13) acenaphthene, (14) dibenzofuran, (15) fluorene, (16) 9, 10-dihydrophenanthrene, (17) dibenzothiophene, (18) phenanthrene, anthracene, (19) 2-methylphenanthrene, (20) 1-methylphenanthrene, (21) fluoranthene, and (22) pyrene.
 

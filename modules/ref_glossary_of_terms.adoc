@@ -128,6 +128,8 @@ include::../attributes.adoc[]
 |Cowling approximation 
 |a mathematical formula used to account for anisokinetic sampling
 
+stem:[\frac{\delta}{\Phi} = 0]
+
 |covariance
 |a statistical measure that shows how much two variables change together
 

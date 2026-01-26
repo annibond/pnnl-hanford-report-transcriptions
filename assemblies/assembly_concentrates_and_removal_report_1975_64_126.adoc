@@ -25,3 +25,6 @@ include::../assemblies/assembly_comparison_deposition_velocities_predicted_dimen
 include::../assemblies/assembly_particle_deposition_penetration_through_canopies.adoc[leveloffset=+1]
 include::../assemblies/assembly_field_deposition_velocity_sagebrush.adoc[leveloffset=+1]
 include::../assemblies/assembly_resuspension_rates_circular_field_source.adoc[leveloffset=+1]
+include::../assemblies/assembly_experiment_particle_resuspension_annular.adoc[leveloffset=+1]
+include::../assemblies/assembly_particle_resuspension_truck_traffic.adoc[leveloffset=+1]
+include::../assemblies/assembly_soil_insertion_atmospheric_particle_sizes.adoc[leveloffset=+1]

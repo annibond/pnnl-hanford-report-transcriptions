@@ -1,0 +1,23 @@
+[id="assembly_soil_insertion_atmospheric_particle_sizes_{assembly-soil-insertion-particles}"]
+include::../attributes.adoc[]
+
+== The Influence of Soil Insertion on Atmospheric Particle Size Distributions
+[.big]#{GAS}#
+
+_Measured volume distributions indicate airborne concentrations from soil resuspension are different from bimodal distributions reported near cities with significant air pollution. Fine and coarse soil insertion modes are suggested as two modes which should be included with air pollution modes near cities. The fine soil insertion mode can fill the reported valley at 1 to 3 μm reported near cities._
+
+include::../modules/con_soil_insertion_atmospheric_particle_sizes.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_soil_insertion_atmospheric_particle_sizes_references.adoc[leveloffset=+2]
+
+==== Tables
+
+include::../modules/ref_soil_insertion_atmospheric_particle_sizes_table-1.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_soil_insertion_atmospheric_particle_sizes_figures.adoc[leveloffset=+2]

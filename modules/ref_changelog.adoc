@@ -5,7 +5,19 @@ include::../attributes.adoc[]
 
 === 2026
 
-==== 18 January 2026 - 24 January 2026, BNWL-2000, pp. 89-
+==== 25 January 2026 - 30 January 2026, BNWL-2000, pp. 96-101
+
+* Created "The Influence of Soil Insertion on Atmospheric Particle Size Distributions"
+
+* Created "Particle Resuspension from Truck Traffic in a Cheat Grass Area"
+
+* Reference Material
+
+- Updated "Glossary of Terms" to include the equation to Cowling's approximation
+
+==== 18 January 2026 - 24 January 2026, BNWL-2000, pp. 89-95
+
+* Created "An Experiment to Measure Particle Resuspension from a Large Annular Area"
 
 * Created "Resuspension Rates from a Circular Field Source"
 
@@ -15,7 +27,7 @@ include::../attributes.adoc[]
 
 - Created attributes for LaTeX equations
 
-- Updated 
+- Updated "Glossary of Terms", "Important Names & Locations to Hanford"
 
 ==== 11 January 2026 - 17 January 2026, BNWL-2000, pp. 69-89
 

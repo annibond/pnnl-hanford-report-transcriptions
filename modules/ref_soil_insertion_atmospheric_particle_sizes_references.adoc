@@ -1,0 +1,18 @@
+[id="ref_soil_insertion_atmospheric_particle_sizes_references_{ref-soil-insertion-particles-references}"]
+include::../attributes.adoc[]
+
+1. {KTW} and {BC}, "Atmospheric Aerosols-Characteristics and Measurement," Paper 29-1, presented at the [.underline]#{ICESA}#, Las Vegas, NV, September 14-19, 1975,
+
+2. {KW} and {KTW}, "Atmospheric Aerosols: Size Distribution Interpretation," [.underline]#APCA Journal#, 25, 529-534, 1975.
+
+3. {KTW}, {RBH} and {BYHL}, "The Aerosol Size Distribution of Los Angeles Smog," [.underline]#{JCIS}#, 29, 177-204, 1972.
+
+4. {WEW}, open discussion, [.underline]#8th Aerosol Technology Meeting#, Chapel Hill, NC, October 6-8, 1975.
+
+5. {GAS}, "Initial Observations of Airborne Concentrations of Small Particle Size Ranges During Two Dust Storms," see this annual report.
+
+6. {GAS}, "Influence of Soil Erosion on the Airborne Particle Size Distribution Function," paper 73-162, presented at the [.underline]#{66A}#, Chicago, Illinois, 1973, BNWL-SA-4472, {BN}, {rich}, {WA}, 1973.
+
+7. {GAS} and {FDL}, "Resuspension by Wind at Rocky Flats", [.underline]#{PNLAR} for 1973 {USAEC-P3}#, BNWL-1850, {BN}, {rich}, {WA}, pp. 204-211, April 1974.
+
+8. {GAS} and {FDL}, "Airborne Dust Size Distributions as a Function of Wind Speed", [.underline]#{PNLAR} for 1974 {USAEC-P3}#, BNWL-1950, {BN}, {rich}, {WA}, pp. 204-211, April 1974.

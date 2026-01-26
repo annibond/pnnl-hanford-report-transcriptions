@@ -1,0 +1,24 @@
+[id="ref_particle_resuspension_truck_traffic_table-1_{ref-particle-truck-table}"]
+include::../attributes.adoc[]
+
+.Wind Caused Resuspension Rates
+
+[cols="1,1,1,1,1"]
+
+|===
+
+^|*Time* ^|*Wind Speed at 15 m / sec* ^|*u cm / sec* ^|*z~o~ cm* ^|*Resuspension Rate fraction / sec*
+
+^|Immediately after ZnS Deposited
+>|4.7
+>|52
+>|4
+>|3.38 x 10^-8^
+
+^|After 3.5 10^-3^ of ZnS Removed by Truck Traffic
+>|2.7
+>|51
+>|2
+>|1.25 x 10^-9^
+
+|===

@@ -1,0 +1,23 @@
+[id="assembly_particle_resuspension_truck_traffic_{assembly-particle-truck}"]
+include::../attributes.adoc[]
+
+== Particle Resuspension from Truck Traffic in a Cheat Grass Area
+[.big]#{GAS}#
+
+_Resuspension rates caused by truck traffic were determined using ZnS tracer particles and downwind air sampling towers in a flat cheat grass area. Resuspension rates were initially high until most of the tracer readily available on the upper portions of the grass was removed. Resuspension rates were one to two orders of magnitude lower than similar rates for resuspension from an asphalt road._
+
+include::../modules/con_particle_resuspension_truck_traffic.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_particle_resuspension_truck_traffic_references.adoc[leveloffset=+2]
+
+==== Tables
+
+include::../modules/ref_particle_resuspension_truck_traffic_table-1.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_particle_resuspension_truck_traffic_references.adoc[leveloffset=+2]

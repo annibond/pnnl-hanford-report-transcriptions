@@ -1,0 +1,26 @@
+[id="ref_particle_resuspension_truck_traffic_figures_{ref_particle-truck-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Schematic Showing Experimental Design for Particle Resuspension from a Cheat Grass Area Caused by Truck Passage (Neg 760188-15)
+
+[#img-particle-truck-1]
+[caption="Schematic Showing Experimental Design for Particle Resuspension", alt="{particle-truck-alt-1}"]
+image::{particle-truck-img-1}[Schematic Showing Experimental Design for Particle Resuspension]
+
+The setup of the diagram:
+
+1. The truck described in the experiment parks at the beginning of a single-lane road.
+
+2. The road is 10 feet wide and 50 feet long. It moves at a consistent speed. 
+
+3. On the right side of the road, 7 air sampling towers take particle resuspension.
+
+4. Wind blows from left to right in the direction of the tracers.
+
+5. Samples are taken from the towers at heights of 0.5, 1, 2, 3, 4, 6, and 8 feet high as the truck drives by.
+
+== Figure 2: Particle Resuspension Rates from Asphalt and Cheat Grass Roads Caused by Vehicle Passage (Neg 760188-4)
+
+[#img-particle-truck-2]
+[caption="Particle Resuspension Rates from Asphalt and Cheat Grass Roads", alt="{particle-truck-alt-2}"]
+image::{particle-truck-img-2}[Particle Resuspension Rates from Asphalt and Cheat Grass Roads]

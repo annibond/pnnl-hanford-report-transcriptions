@@ -1,0 +1,18 @@
+[id="ref_soil_insertion_atmospheric_particle_sizes_figures_{ref-soil-insertion-particles-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Airborne Particle Volume Distribution (Neg 760188-5)
+
+[#img-soil-insertion-particles]
+[caption="Airborne Particle Volume Distribution", alt="{soil-insertion-particles-alt-1}"]
+image::{soil-insertion-particles-img-1}[Airborne Particle Volume Distribution]
+
+This graph shows the impact of the size of a particle within an isotype on the volume distribution _ΔV/Δ ln D_ in _μm^3^ / cm^3^_.
+
+1. When the *wind speed* increases, the *particle volume* increases exponentially.
+
+2. When the *sampling height* decreases, the *particle volume* increases exponentially.
+
+3. The *upper and lower limits* represent the limits of the technology to detect data.
+
+4. The peak of the *particle volume* is approximately ~ _20 through 50 μm_, representing the typical size of resuspended soil.

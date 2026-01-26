@@ -1,0 +1,20 @@
+[id="con_experiment_particle_resuspension_annular_{con-experiment-particle-annular}"]
+include::../attributes.adoc[]
+
+== Introduction
+
+Wind-caused particle resuspension rates of tracer particles are being measured using one sampling tower in a lightly vegetated areafootnote:1[G. A. Sehmel and F. D. Llyod, "Resuspension Rates from a Circular Field Source," this volume, pp. 92-93.]. To determine reproducibility, resuspension rate measurements were needed at a second site. The objectives of this second experiment are to determine resuspension rates as a function wind speed increments and atmospheric stability as well as the upward diffusion coefficients for resuspended particles.
+
+== Experimental
+
+Equipment installation was completed and a resuspension experiment began at the site shown schematically in *Figure 1*. The figure shows the tracer area; one upwind background sampling tower, T-7; and six downwind sampling towers. Open-faced _8 x 10 in._ air filter samplers are mounted on these towers. Sampler orientation is toward a 225° wind direction.
+
+The tracer area is a sector bounded by radial lines on 190° and 260° with a center on tower 1. The inner part of the sector to a distance of _15 m_ (_arc passes through tower 2_) is not seeded with tracer. Tracer is also seeded in 70° arcs upwind of towers 4, 5, 6. These areas extend somewhat beyond the arc centered on tower 1. This geometry of the source resulted from tower placement and the desire to sample a near-uniform tracer area from 190° to 260°, generally upwind of each tower. The tracer was sprayed in 30 equal segments to give an average surface loading of _0.87 g Mo / ft_. The tower area is flat and was reasonably unvegetated when sprayed. Originally, cheat grass covered the area, but was burned over a few weeks before spraying. Vegetation is now growing back in the area.
+
+The sampler locations on each tower are schematically shown on the right side of the figure. There are 18 samplers on each tower at heights from _0.2_ to _30 m_. These samplers turn on automatically when both the wind direction is from 190° to 260° and the wind speed is within six indicated increments extending from _0.5 to 17 m / sec_. Three wind speed increments are used for towers 5 and 6 and three other wind speed increments are used for towers 1, 2, 3, and 4. Airborne concentrations measured with towers 1, 2, 3, and 4 will be used to determine resuspension rate reproducibility and upward diffusion coefficients. Results from all the towers will be used to determine the resuspension rate depending upon wind speed.
+
+This initial experiment is being run for all atmospheric stabilities due to the short time between tracer spraying and expected winter conditions. Future experiments will also utilize the temperature lapse rate along with wind direction and speed to activate the air samplers.
+
+== Conclusions
+
+Resuspension rates from this experiment will determine the wind speed dependence of resuspension rates. In an earlier experiment the dependency of resuspension rate on wind speed was poorly defined since only three wind speed increments were used. Succeeding experiments will determine decreased resuspension rates caused by growing vegetation and effects of atmospheric stability on resuspension rates.
