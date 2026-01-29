@@ -1,0 +1,14 @@
+[id="ref_initial_observations_airborne_concentrations_dust_storms_figures_{ref-airborne-dust-storms-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Airborne Particle Volume Density Function During Dust Storm Day on May 23, 1975 (Neg 760188-7)
+
+[#img-airborne-dust-storms-1]
+[caption="Airborne Particle Volume Density Function During Dust Storm - May", alt="{airborne-dust-storms-alt-1}"]
+image::{airborne-dust-storms-img-1}[Airborne Particle Volume Density Function During Dust Storm - May]
+
+== Figure 1: Airborne Particle Volume Density Function During Dust Storm Day on September 11, 1975 (Neg 760188-6)
+
+[#img-airborne-dust-storms-2]
+[caption="Airborne Particle Volume Density Function During Dust Storm - September", alt="{airborne-dust-storms-alt-2}"]
+image::{airborne-dust-storms-img-2}[Airborne Particle Volume Density Function During Dust Storm - September]

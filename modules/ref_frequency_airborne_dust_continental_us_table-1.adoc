@@ -1,0 +1,33 @@
+[id="ref_frequency_airborne_dust_continental_us_table-1_{ref-frequency-airborne-dust-table-1}"]
+include::../attributes.adoc[]
+
+.Annual Regional Dust Frequency for Seven Regions of the United States
+
+[cols="1,1"]
+
+|===
+
+^|*Region* ^|*Annual RADF (%)*
+
+|South Central Region
+>|0.61
+
+|Rocky Mountain Region
+>|0.17
+
+|North Central Region
+>|0.17
+
+|Pacific Coast Region
+>|0.07
+
+|South Eastern Region
+>|0.06
+
+|Great Lakes Region
+>|0.04
+
+|North Eastern Region
+>|0.01
+
+|===

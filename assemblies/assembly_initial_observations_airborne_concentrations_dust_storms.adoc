@@ -1,0 +1,15 @@
+[id=assembly_initial_observations_airborne_concentrations_dust_storms_{assembly-airborne-dust-storms}"]
+include::../attributes.adoc[]
+
+== Initial Observations of Airborne Concentrations of Small Particle Size Ranges During Two Dust Storms
+[.big]#{GAS}#
+
+_Airborne respirable soil concentrations were measured in small diameter increments with a laser optical counter. Concentrations were measured during two dust storms. Particles from 0.13 to 2 μm diameter particles._
+
+include::../modules/con_initial_observations_airborne_concentrations_dust_storms.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== Figures
+
+include::../modules/ref_initial_observations_airborne_concentrations_dust_storms_figures.adoc[leveloffset=+2]

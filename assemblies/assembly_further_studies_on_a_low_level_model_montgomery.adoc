@@ -1,4 +1,4 @@
-[id="assembly_further_studies_on_a_low_level_model_montgomery_table-4_{assembly-further-studies-on-a-low-level-model-montgomery}"]
+[id="assembly_further_studies_on_a_low_level_model_montgomery_{assembly-further-studies-on-a-low-level-model-montgomery}"]
 include::../attributes.adoc[]
 
 == Further Studies on a Low Level Model to Compute Montgomery Stream Functions

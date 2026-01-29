@@ -1,0 +1,49 @@
+[id="con_frequency_airborne_dust_continental_us_{con-frequency-airborne-dust}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+The purpose of this study was to evaluate and quantify wind translocation and natural wind-caused airborne dust loadings throughout the contiguous United States. Initial results of this study were presented in last year’s Annual Reportfootnote:1[M. M. Orgill and G. A. Sehmel, "Frequency and Diurnal Variation of Dust in the Continental United States," Pacific Northwest Laboratories Annual Report for 1974 to the USAEC Division of Biomedical and Environmental Research, Atmospheric Sciences, BNWL-1950 PT 3, Battelle, Pacific Northwest Laboratories, Richland, WA, February 1975.]. The study is now completed and will appear as a separate reportfootnote:2[M. M. Orgill and G. A. Sehmel, Frequency and Diurnal Variations of Dust Storms in the Continental United States, BNWL-SA-5615, Battelle, Pacific Northwest Laboratories, Richland, WA, November 1975.]. In this summary, some results from the final report will be presented on regional and seasonal distribution of suspended.
+
+== Procedure
+
+Data summaries for 343 weather observation stations were obtained from the National Climatic Center for this study. Data on the frequency of occurrence of dust, blowing dust and sand for annual, monthly and three-hourly periods were then extracted, plotted and analyzed. Frequency of dusty periods was based on summarized hourly weather observations from stations that recorded, dust, etc., when visibility was less than _7 miles_ (_11 km_) or when the dust concentration was generally over _3 mg / m^-3^_ footnote:2[]. Further details on the procedures are explained in the final report.
+
+== Results
+
+=== Regional Average Dust Frequency
+
+The country was divided into seven different regions; South Central, Rocky Mountain, North Central, Pacific Coast, Southeastern, Great Lakes, and Northeastern. The divisions considered relative dust frequency, spatial dust frequency, patterns and geography. To quantify the dustiness in these seven regions a simple regional average dust frequency was defined as:
+
+.Equation 1
+[latexmath]
+++++
+RADF = \sum_{i = 1}^{i - N} \frac{f_i}{N}
+++++
+
+where _RADF_ is the annual or monthly regional average dust frequency _f~i~_ is the annual or monthly percent frequency of dust occurrence for the ith station in each region, and N is the total number of stations for each region.
+
+A comparison of relative average dustiness of the seven regions was made by computing an annual regional average dust frequency from *Eq. (1)* for each region. These frequencies are shown in *Table 1*.
+
+Comparison of the annual _RADF_ for the seven regions show that the Southern Central, Rocky Mountain (Western States) and North Central regions of the country have the highest relative dust frequency. The Northeast and Great Lakes regions have the lowest frequency. However, the relatively high frequency of dustiness for the Pacific Coast region is due entirely to the relatively high dust frequency of Central and Southern California. The coastal regions of Oregon, Washington, and Northern California have one of the lowest (if not the lowest) dust frequencies in the nation.
+
+=== Seasonal and Monthly Variations of Airborne Dust
+
+The maximum frequency of suspended dust for the country occurs during the months of March, April and May. *Figure 1* shows that during this period around 72% of the stations showed maximum monthly dust frequencies. In March, 41% of the stations indicated maximum monthly dust frequencies.
+
+A much smaller secondary maximum in dust frequency (4 to 5% of the stations) occurs during the months of September and October. This is primarily because several stations in the Pacific Coast and Rocky Mountain regions have their monthly maximum dust frequency during the fall months. This is the case in eastern Washington and the San Joaquin-Sacramento valleys of California.
+
+A monthly _RADF_ was computed for each of the seven regions of the country by *Eq. (1)*. The results are presented in *Figure 2*. One of the most distinguishing characteristics of these results is the definite maximum in dust during the spring months for all areas except the Pacific Coast. In this latter case, the maximum occurs during the fall and early winter months. All the regions show a definite decrease during the summer months.
+
+Three, perhaps four, of the regions (South Central, Greek Lakes, North Central, and Rocky Mountain), have a seasonal bimodal distribution in dust frequency with a primary maximum in the spring months and a secondary maximum in the fall or early months. Also, a number of individual stations in some of the other regions show bimodal dust frequency distributions.
+
+The regional distribution of dust frequency for March, the month of greatest dustiness, is shown in *Figure 3*. The most significant aspect of the monthly dust frequency for March is the widespread increase of dust in the east portion of the country. Apparently, this is due to “dust fronts” moving east from the South and North Central Regions and contributions from local dust sources. The regional dust frequency locations in the Western States are generally quasi-permanent and do not change much in position from month to month, but the frequency of dust is higher for the month of March.
+
+== Discussion
+
+The suspended dust potential of a region depends on several closely interrelated factors. Factors which may influence soil particle translocation are properties, surface properties, and meteorological factorfootnote:3[G. R. Hilst and P. W. Nickola, "On the Wind Erosion of Small Particles," Bulletin of the American Meteorological Society, vol. 40, No. 2, pp. 73-77, 1959.]. These factors and their components have been the subject of extensive research for several years.
+
+It is important in assessing the dust potential of a region to consider the presence or absence of protective vegetative cover. When vegetative cover is disturbed by mechanical means, such as construction, plowing, etc., the regional dust potential is expected to increase. Since the early spring and fall months are usually when farmland is prepared for future crops, vast areas of disturbed soil become available for wind translocation. Apparently, agricultural activity may cause the high frequency of dustiness for the whale country during the spring months and possibly again during the fall months (as shown in *Figures 1 and 2*).
+
+Generally, the study has shown, with some exceptions, that most regions of the continental United States are susceptible to suspended dust from wind translocation. Further details on the different regional characteristics of dust frequency would require additional studies on the principal factors which govern natural wind-caused dust suspension.

@@ -1,0 +1,30 @@
+[id="ref_frequency_airborne_dust_continental_us_figures_{ref-frequency-airborne-dust-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: The Percent of Observation Stations That Have a Maximum Frequency of Airborne Dust During a Particular Month (Neg 756686-16)
+
+[#img-frequency-airborne-dust-1]
+[caption="The Percent of Observation Stations That Have a Maximum Frequency of Airborne Dust", alt="{:frequency_airborne_dust-alt-1}"]
+image::{frequency_airborne_dust-img-1}[The Percent of Observation Stations That Have a Maximum Frequency of Airborne Dust]
+
+== Figure 2: Monthly Regional Average Dust Frequencies from Seven Defined Dust Regions in the Contiguous United States (Neg 756686-15)
+
+[#img-frequency-airborne-dust-2]
+[caption="Monthly Regional Average Dust Frequencies", alt="{:frequency_airborne_dust-alt-2}"]
+image::{frequency_airborne_dust-img-2}[Monthly Regional Average Dust Frequencies]
+
+== Figure 3: Monthly Percentage Frequency of Dusty Hours from March Based on Hourly Observations from 343 Observation Weather Stations (Neg 756686-12)
+
+[#img-frequency-airborne-dust-3]
+[caption="Monthly Percentage Frequency of Dusty Hours from March", alt="{:frequency_airborne_dust-alt-3}"]
+image::{frequency_airborne_dust-img-3}[Monthly Percentage Frequency of Dusty Hours from March]
+
+Key trends include:
+
+* The *Great Plains* region contains the highest concentrations and frequency of dust, more specifically over the central and southern portions of the region (Kansas, Oklahoma, and the Texas Panhandle). There are multiple data points between _5.0_ and _7.0 percent_.
+
+* The *South Central* region contains significant concentrations and frequency of dust, specifically over the desert over Arizona and New Mexico. The highest concentration in this region is approximately _1.1 percent_ towards the Arizona-California border. This desert is the *Western Sonoran Desert*.
+
+* The *Pacific Northwest* contains an isolated pocket of dust particulate near the Washington-Oregon border. This desert is the *Columbia Basin*. Hanford is located within the Columbia Basin.
+
+* The *Coastal and Eastern* regions have more frequent and closely-clustered dust around the coastlines and the Eastern half of the United States. The concentration of dust is _⪅ (equal to or less than) 0.05 percent_. This is due to the humidity and forest environment in that part of the United States.
