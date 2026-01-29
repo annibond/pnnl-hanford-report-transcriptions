@@ -1,0 +1,8 @@
+[id="ref_frequency_airborne_dust_continental_us_references_{ref-frequency-airborne-dust-references}"]
+include::../attributes.adoc[]
+
+1. {MMO} and {GAS}, "Frequency and Diurnal Variation of Dust in the Continental United States," [.underline]#{PNLAR} for 1974 {USAEC-P3}#, {BN}, {rich}, {WA}, February 1975.
+
+2. {MMO} and {GAS}, "Frequency and Diurnal Variations of Dust Storms in the Continental United States", BNWL-SA-5615, {PNL}, {rich}, {WA}, November 1975.
+
+3. {GHR} and {PWN}, "On the Wind Erosion of Small Particles", [.underline]#{BAMS}#, vol. 40, No. 2, pp. 73-77, 1959.

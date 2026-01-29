@@ -5,7 +5,11 @@ include::../attributes.adoc[]
 
 === 2026
 
-==== 25 January 2026 - 30 January 2026, BNWL-2000, pp. 96-101
+==== 25 January 2026 - 30 January 2026, BNWL-2000, pp. 96-111
+
+* Created "Frequency of Airborne Dust in the Continental United States"
+
+* Created "Initial Observations of Airborne Concentrations of Small Particle Size Ranges During Two Dust Storms"
 
 * Created "The Influence of Soil Insertion on Atmospheric Particle Size Distributions"
 
@@ -13,7 +17,7 @@ include::../attributes.adoc[]
 
 * Reference Material
 
-- Updated "Glossary of Terms" to include the equation to Cowling's approximation
+- Updated "Glossary of Terms" to include the equation to Cowling's approximation, "Conceptual Diagrams"
 
 ==== 18 January 2026 - 24 January 2026, BNWL-2000, pp. 89-95
 

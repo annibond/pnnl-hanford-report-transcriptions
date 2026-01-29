@@ -1,0 +1,23 @@
+[id="assembly_frequency_airborne_dust_continental_us_{assembly-frequency-airborne-dust}"]
+include::../attributes.adoc[]
+
+== Frequency of Airborne Dust in the Continental United States
+[.big]#{MMO} and {GAS}#
+
+_Frequency of airborne dust periods having visibility less than 11 km were determined by analyzing existing weather data from 343 stations throughout the continental United States. Seasonal and regional distributions of dust frequency show that the majority of the country is subjected to suspended dust._
+
+include::../modules/con_frequency_airborne_dust_continental_us.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_frequency_airborne_dust_continental_us_references.adoc[leveloffset=+2]
+
+==== Tables
+
+include::../modules/ref_frequency_airborne_dust_continental_us_table-1.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_frequency_airborne_dust_continental_us_figures.adoc[leveloffset=+2]

@@ -26,6 +26,9 @@ include::../attributes.adoc[]
 |aerovane
 |meteorological instrument that combines a wind vane with a propeller anemometer to simultaneously measure both wind speed and direction
 
+|agglomeration
+|the process of combining particles into clusters
+
 |Aitken nuclei
 |extremely small particles in the atmosphere, typically 0.001 to 0.1 micrometers in diameter, which can serve as nuclei for condensation of water vapor
 
@@ -146,6 +149,9 @@ stem:[\frac{\delta}{\Phi} = 0]
 |a mathematical equation used in problems related to heat and spectroscopy
 
 stem:[F(x) = e^{-x^2} \int_{0}^{x} e^{t^2} dt]
+
+|deagglomeration
+|the process of breaking apart cluster particles
 
 |deleterious
 |harmful

@@ -1,0 +1,41 @@
+[id="con_initial_observations_airborne_concentrations_dust_storms_{con-airborne-dust-storms}"]
+:stem: latexmath
+include::../attributes.adoc[]
+
+== Introduction
+
+Wind will resuspend plutonium or other hazardous contaminants deposited on soil. These contaminants will resuspend as particles the same size as originally deposited, or attached to host soil particles. Whichever the resuspension mode, it is important to know wind stresses remove particles as a function of particle size. Soil particle resuspension is rapid during dust storms. Consequently, measurements of airborne respirable particle concentrations as a function of particle diameter in dust storms should suggest if all particle sizes are resuspended similarly. This paper reports initial history observations of airborne respirable size increments during the progress of two dust storms.
+
+== Experimental
+
+The dust storms sampled were on May 23 (SW winds) and on September 11, 1975 on the Hanford reservation. Particles were sampled with a laser optical counter* located 93 cm above the surface. The counter sizes and accumulates counts in multiple channels, with channel widths as small as 0.07 μm. These channels sized particles into the following size intervals, in μm: _0.13_ to _0.2_, _0.2_ to _0.3_, _0.37_ to _0.45_, _0.65_ to _0.75_, _0.95_ to _1.05_, _1.45_ to _1.55_, _1.60_ to _1.85_, and _1.85_ to _2.10_.
+
+Results are presented as the volume density function
+
+.Equation 1
+[latexmath]
+++++
+\frac{\Delta V}{\Delta \ln D} = \frac {\pi D^{4}}{6} = \frac{\Delta N}{\Delta D}
+++++
+
+evaluated at the average diameter _D_, for the increment. _N_ is the number concentration. The units of _ΔV / Δ ln D_ are _μm^3^ / cm^3^_.
+
+== Results
+
+Volume density functions are shown in *Figures 1 and 2* as a function of location standard time. Data points are plotted at the start of each sampling time increment indicated by horizontal lines at the bottom of each figure. Error limits for each data point are the 95% confidence limits from counting statistics. Standard deviations were calculated from the square root of the counts in each increment.
+
+Airborne particle sizes concentrations from the beginning to the end of a dust storm have yet to be measured. Particle sizes and concentrations were measured during a period following storm initiation, as it built up to a maximum, and the dust storm decay.
+
+Discrete particle size data prior to the first dust storm and during the dust storm decay are shown in *Figure 1*. Measurements in the dust storm began at 5:00 PM, and continued until the dust storm was nearly dissipated at 7:00 PM. Visibility was less than _10 km_ at 5:00 PM and subsequently improved. Maximum measured concentrations occurred at 5:00 PM and subsequently decreased. The decrease was more rapid for the larger particles.
+
+*Figure 1* also shows ambient particle size data taken earlier during the day of the dust storm, but at _32 km_ from the dust storm measurement site. Ambient concentrations increased during the day, approaching the higher dust storm concentrations. This increase may signal an imminent dust storm. Too few measurements have been made to confirm such a generalization, but additional measurements may support our theory that early increase in dust loading may indicate a dust storm.
+
+A more complete dust storm history was taken for the second dust storm. Size data are shown in *Figure 2*. Concentrations in general are greater than for the storm represented in *Figure 1*. For particle diameters greater than about _0.37 μm_, concentrations maximized about 9:30 AM. At that time, maximum visibility was 1.4 km. Subsequently, concentrations of greater than _0.37 μm_ particles decreased and visibility increased. In contrast, concentrations of _0.3 μm_ and smaller particles did not significantly decrease with time.
+
+Only tentative model insights are currently suggested to explain the observed airborne particle concentrations as a function of particle diameter and time. In the simplistic case, a dust storm is a volume of air transporting dust at an average air velocity. Within the dust storm it is unknown if airborne concentrations change by either deagglomeration or agglomeration. Nevertheless, airborne soil concentrations must maximize at some point in the dust storm. Subsequently, larger diameter airborne soil particles are removed by dry deposition more rapidly than the smaller 0.3 μm particles. Obviously, measured concentrations are larger if the location of the maximum dust storm concentration is near the sample site. In comparison to the large particles, the smaller particles appear to be airborne longer at the sampling site. The reason for this increased residency time is not obvious if one thinks of a dust storm as a single air mass moving at average velocity. Possibly, a dust storm is caused by a series of air eddies penetrating the relatively stagnant boundary layer. After resuspension, the eddies lose their identity and mix with the relatively stagnant air. In this case, the longer residency time of the stagnant air could explain the increased residency time of the small particles. However, some eddies must both penetrate the boundary layer and retain their identity in order to raise particles to large heights observed in dust storms.
+
+== Conclusion
+
+Air motions and particle transport in dust storms are not understood. Particle airborne residency times in the dust storm are a function of particle diameter. Some of this change can be attributed to increased dry deposition velocities for the layer particles. Although dust storm physics is not understood, the air concentration data are indicative that respirable sized particles can be resuspended.
+
+NOTE: Active Scattering Aerosol Spectrometer, Particle Measuring System, Inc., Boulder, Colorado.

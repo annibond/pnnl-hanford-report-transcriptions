@@ -1,0 +1,26 @@
+[id="ref_basic_periodic_table_of_elements_{ref-periodic-table}"]
+include::../attributes.adoc[]
+
+[#img-periodic-table]
+[caption="Periodic Table of Elements, alt="{periodic-table-alt}"]
+image::{periodic-table-img}[Periodic Table of Elements]
+
+The Periodic Table of elements contains eight categories of element type: 
+
+* Reactive Non-Metals
+
+* Noble Gases
+
+* Metalloids
+
+* Post-Transition Metals
+
+* Alkaline Earth Metals
+
+* Transition Metals
+
+* Lanthanide
+
+* Actinides
+
+* Unknown Chemical Properties

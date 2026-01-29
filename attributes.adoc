@@ -77,6 +77,7 @@
 :AP: Academic Press
 :AR: Annual Report
 :ASEPG: Atmosphere-Surface Exchange of Particles and Gases
+:BAMS: Bulletin of the American Meteorological Society
 :BLM: Boundary Layer Meteorology
 :CSFEC: Comparative Studies of Food and Environmental Contamination
 :DP: Dover Publications
@@ -152,6 +153,7 @@
 :GAB: G. A. Briggs
 :GAS: G. A. Sehmel
 :GHC: G. H. Clark
+:GHR: G. R. Hilst
 :GIT: G. I. Taylor
 :GL: G. Langer
 :GPB: G. de P. Burke
@@ -273,11 +275,14 @@
 
 :molecular-equilbrium-alt: Two isotopes next to each other. On the left (1), there is an image labeled "Cation", a negatively charged ion, that contains 4 neutrons, 4 protons, and 5 electrons. On the right (2), there is an image labeled "Anion", a positively charged ion, that contains 4 neutrons, 4 protons, and 3 electrons.
 
-:periodic-table-alt: 
+:periodic-table-alt: A diagram that shows the entire periodic table of elements organized by type of element: (1) alkaline earth metal, (2) noble gas, (3) actinide, (4) metalloid, (5) post-transition metal, (6) lanthanide, (7) reactive nonmetal, (8) transition metal, and (9) unknown element properties.
 
 :radioactive-decay-alt: 
 
 // Images (.png) (Figures)
+
+:airborne-dust-storms-img-1: {img-dir}/ref_initial_observations_airborne_concentrations_dust_storms_figure-1.png
+:airborne-dust-storms-img-2: {img-dir}/ref_initial_observations_airborne_concentrations_dust_storms_figure-2.png
 
 :approx-solution-deposition-resuspension-img-1: {img-dir}/ref_approximations_and_solutions_depospition_resuspension_figure-1.png
 :approx-solution-deposition-resuspension-img-2: {img-dir}/ref_approximations_and_solutions_depospition_resuspension_figure-2.png
@@ -292,6 +297,10 @@
 
 :field-filter-orientation-img-1: {img-dir}/ref_field_measurement_of_the_effect_of_filter_orientation_figure-1.png
 :field-filter-orientation-img-2: {img-dir}/ref_field_measurement_of_the_effect_of_filter_orientation_figure-2.png
+
+:frequency_airborne_dust-img-1: {img-dir}/ref_frequency_airborne_dust_continental_us_figure-1.png
+:frequency_airborne_dust-img-2: {img-dir}/ref_frequency_airborne_dust_continental_us_figure-2.png
+:frequency_airborne_dust-img-3: {img-dir}/ref_frequency_airborne_dust_continental_us_figure-3.png
 
 :model-prelim-canopy-img-1: {img-dir}/ref_modeling_preliminaries_for_dry_deposition_to_a_canopy_figure-1.png
 :model-prelim-canopy-img-2: {img-dir}/ref_modeling_preliminaries_for_dry_deposition_to_a_canopy_figure-2.png
@@ -367,6 +376,10 @@
 
 // Images Alt Text (Figures)
 
+:airborne-dust-storms-alt-1: A graph that shows the volume density of the particles over time. The x-axis = the local time  between 8:00 through 19:00 (7:00 PM) in Pacific standard time in intervals of one hour. The y axis = the volume density (calculated by ΔD over Δ ln D in intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 1, (5) 10, and (6) 10^2 micrometers cubed over centimeters cubed. There are five different data sets shown representing, from top to bottom, a sampling diameter range (1) 1.45 to 1.65, (2) 0.65 to 0.75, (3) 0.37 to 0.45, (4) 0.20 to 0.30, and (5) 0.13 to 0.10 micrometers. All five have an upside down U shape with a long tail at the beginning. From 9:00 AM to 2:00 PM to, the line slowly increases exponentially, increases faster until they all peak at ~ 4:30 PM, then gently decreases less exponentially until the end of the data set. Margins of error are highlighted for all highlighted data points.
+
+:airborne-dust-storms-alt-2: A graph that shows the volume density of the particles over time on September 11, 1975. The x-axis = the local time  between 7:00 through 15:00 (3:00 PM) in Pacific standard time in intervals of one hour. The y axis = the volume density (calculated by ΔD over Δ ln D in intervals of (1) 10^-2, (2) 10^-1, (3) 1, (4) 10, (5) 10^2, and (6) 10^3 micrometers cubed over centimeters cubed. There are seven different data sets shown representing, from top to bottom, a sampling diameter range (1) 1.85 to 2.10, (2) 1.60 to 1.85, (3) 0.95 to 1.05, (4) 0.65 to 0.75, (5) 0.37 to ).45, (6) 0.20 to 0.30, and (7) 0.13 to 2.0 micrometers. All seven have an upside down U shape with a short tail at the beginning. From 7:00 AM to ~ 9:30 AM until they all peak ~ 9:30 AM, then gently decreases less exponentially until the end of the data set. Margins of error are highlighted for all highlighted data points.
+
 :approx-solution-deposition-resuspension-alt-1: A graph that shows the nondimensional downwind distance compared to the nondimensional concentration in the air and on the ground. This figure represents the case where the removal rate Lambda equals the deposition rate Omega. Three sets of curves are shown for nondimensional times: (1) tau = At, (2) tau = Omega(tau), and (3) Lambda/Omega = 1. The x axis = nondimension downwind distance with intervals of 10^-1, (2) 10^0, and (3) 10^1. The y axis = the nondimensional concentration in the air and ground with intervals of (1) 10^-4, (2) 10^-3, (3) 10^-2, (4) 10^-1, and (5) 1. Both air and ground concentrations decrease by several orders of magnitude and shift further downwind, with ground concentration consistently lagging slightly below air concentration.
 
 :approx-solution-deposition-resuspension-alt-2: A graph that shows the nondimensional downwind distance compared to the nondimensional concentration in the air and on the ground. This figure represents the case where the removal rate Lambda equals the deposition rate Omega. Three sets of curves are shown for nondimensional times: (1) tau = At, (2) tau = Omega(tau), and (3) Lambda/Omega = 10. The x axis = the nondimensional downwind distance with intervals of (1) 10^-1, (2) 10^0, and (3) 10^1. The y axis = nondimensional concentration in the air and on the ground with intervals (1) 10^-4, (2) 10^-3, (3) 10^-2, (4) 10^-1, and (5) 1. At large distances, the air concentration (a) drops significantly faster than the ground inventory (g), highlighting that when removal is high, the surface cannot be replenished by the passing plume as effectively.
@@ -384,6 +397,12 @@
 :field-filter-orientation-alt-1: A dotted graph that shows the measurement of tracer concentration when facing AWAY from the mean wind direction and the concentration by the filter facing TOWARD the mean wind direction with a wind speed of 2 meters high. There is an inverse correlation between wind speed and the concentration ratio. The x axis = wind speed in meters at 2 meters of elevation between 0 and 7 in meters per second in one meter increments. The y axis = the concentration ratio of the AWAY and TOWARD forces of the tracer nucleon between 0 and 1.2 in increments of 0.1.
 
 :field-filter-orientation-alt-2: A dotted graph that shows the measurement of tracer concentration when facing UPWARD from the mean wind direction and the concentration and the concentration by the filter facing TOWARD the mean wind direction with a wind speed of 2 meters high. There is an inverse correlation between wind speed and the concentration ratio. The x axis = wind speed in meters at 2 meters of elevation between 0 and 7 in meters per second in one meter increments. The y axis = the concentration ratio of the UP and TOWARD forces of the tracer nucleon between 0 and 1.0 in increments of 0.1.
+
+:frequency_airborne_dust-alt-1: A graph that shows the maximum frequency of dust in percentage in 1974 - 1975. The x axis = months in January 1974 through January 1975 in intervals of one month. The y axis = percentage between 0 and 40 percent in increments of 5 percent. March - April 1974 is significantly more saturated compared to all other months.
+
+:frequency_airborne_dust-alt-2: A graph that shows the monthly regional average dust frequencies for the seven regions named in the article during 1974 - 1975. The x axis = months in January 1974 through January 1975 in intervals of one month. The y axis = percentage with intervals of (1) 0.001, (2) 0.01, (3) 0.1, (4) 1.0, and (5) 10 percent. There are seven regions where (1) + represents “I Pacific Coast Region”, (2) ■ represents “II Rocky Mountain Region”, (3) △ represents “III North Central Region”, (4) ○ “IV South Central Region”, (5) X represents “V Southeast Region”, ▼ represents “VI Great Lakes Region”, ◆ represents “VII Northeast Region”. All seven models start at a relatively low point, hit a peak around April - May 1974, and inconsistently increase and decrease for the remaining time.
+
+:frequency_airborne_dust-alt-3: A map that shows a geographic summary of the frequency of airborne dust particles across the continental United States. 
 
 :model-prelim-canopy-alt-1: A diagram that shows how deposition velocity of particles change depending on their size. The x axis = particle radius "a" in nanometers (μm) in increments of (1) 10^-4, (2) 10^3, (3) 10^-2, (4) 10^-1, (5), 10^0, (6) 10^1, and (7) 10^2. The y axis = the deposition velocity (v⌄d) in centimenter seconds to the -1 power in increments of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 10^0, (5) 10^1, and (6) 10^2 in centimeters to the sec^-1.
 
