@@ -1,0 +1,64 @@
+[id="con_frequency_dust_devils_hanford_{con-frequency-dust-devils}"]
+include::../attributes.adoc[]
+
+== Introduction
+
+A literature survey and limited field studyfootnote:1[K. H. Berman, On the Dynamic Stability of Convective Atmospheric Vortices, ECOM-6866-1, Department of Atmospheric Science, University of Washington, Seattle, Washington, 1970.] on dust devils sought to place in better perspective the frequency of occurrence and significance of dust devils and other convective vortices in the Hanford Reservation. We were particularly interested in the resuspension of contaminated soils and organic debris.
+
+Dust devils are observed frequently in the reservation between April and October but little quantitative information is available on their frequency, location of occurrence, intensity, persistence and kinematics. However, theoretical, laboratory, and field investigations of convective vortices by other investigators have been undertaken in other locations and this information was reviewed and summarized during this interim study. Limited field observations of dust devils were made in the project area during the summer of 1974 to obtain better information on the frequency of these highly transient convective systems.
+
+== Dust Devil Characteristics from Literature Survey
+
+The review of the literature on dust devils showed that in general five atmospheric elements necessary for their development and persistence:
+
+* A thick layer of unstable stratification and a strong superadiabatic layer (_< -0.10° m^-1^_ in the surface boundary layer.
+
+* A thermal disturbance or plume.
+
+* Generation of large vorticity (_> 10^-4^ sec^-1^_) or rotary motion.
+
+* Light to moderate wind speeds (_0.5_ to _5 ms^-1^_) or vertical wind shear.
+
+* Vortex stability.
+
+The existence and persistence of a dust devil appears to depend on whether a thermal plume or disturbance can acquire and maintain a critical amount of vorticity or rotation without friction, large scale turbulence, or helical disrupting the concentrated cortex column. The fact that most dust devils seldom persist over _4_ to _5 min_ suggests that vortex stability is very important to the genesis, persistence and dissipation of dust devilsfootnote:1[].
+
+Typical characteristics of dust devils are:
+
+* Maximum frequency, _20_ to _60 hr^-1^_ (_~ 1 mile_ footnote:1[] area).
+
+* Duration, a few seconds to _8 hours_.
+
+* Diameter, _< 3 m_ to _> 30 m_.
+
+* Dust column height, _< 1.5_ to _1200 m_.
+
+* Total height, up to _4800 m_.
+
+* Tangential velocity, _1 ms^-1^_ to _30 ms^-1^_.
+
+* Vertical velocity, _1 ms^-1^_ to _20 ms^-1^_.
+
+* Dust loading, _11 - 50 particles cm^-3^_ (density _~ 5.3 gm m^-3^_).
+
+* Dust particle sizes, _1 μm_ to _350 μm_.
+
+* Potential gradient, up to _105 volts m^-1^_ (negative).
+
+== Field Results
+
+Volunteer observers during the warmer months of 1974 observed over 36 dust devils in the Hanford Reservation. Dust devils were observed in several different locations in their project area, indicating that their development was generally ubiquitous. Out of the 36 dust devils, 3 had dust columns from _150 m_ to over _300 m_ in height, 4 had diameters _15 m_ to _30 m_ and only one had an observed duration of over _10 min_.
+
+A special observation of the frequency of dust devils was conducted approximately _2.4 miles_ (_3.8 km_) northwest of the 300 Area in an area of about _1 mile_ footnote:1[]. This area was involved in a grass-fire on July 15, 1974, and the surface and vegetation were partially blackened. The area consists of undulating rocky and sandy terrain. Observations were made on July 16, 17 and 18, and August 9, 1974. On one day, observations were taken in the 200-W area just north of the U-Pond.
+
+A tabulation of observed dust devils according to approximate diameter of dust column is given in *Table 1*. The maximum observed dust devil frequency was about _20 / hr_. Duration of most dust devils was between 1 and 5 min with only one exceeding _15 min_. On July 17, the total of 36 dust devils over a _2-hr_ period coincided generally with one of the unstable periods shown in *Figure 1*. The near-surface lapse rates at the 200-W tower varied between _-0.06°C m^-1^_ and _-0.21°C m^-1^_ during the period but due to the sparse vegetation and dark surface at the burned area, near-surface lapse rates may have been greater (negatively) than at the tower located approximately _30 km_ northwest of the burned area. 
+
+The dust devil frequency occurred in bursts of activity, with 3 or more dust devils appearing near the same time. Then the activity would slack off with periods of little activity for several minutes. Periods of higher dust devil activity generally coincided with westerly to northerly winds (*Table 1*) which correlated well with the findings of a climatological study between local wind directions and highly unstable lapse rates (_< 0.15°C m^-1^_ footnote:2[M. M. Orgill and L. C. Schwendiman, Nature and Significance of Convective Votives (Dust Devils) in Hanford Project, Interim Report, BNWL-B-410, Battelle, Pacific Northwest Laboratories, Richland, Washington, 1975.]).The reason for these correlations is unknown at this point. However, westerly environmental flow may be more favorable for dust devil activity due to topographic production of mesoscale vorticity and the development of highly unstable lapse rates.
+
+== Conclusions
+
+Limited field observations in the Hanford Reservation showed that 20 (visible dust devils per hour (_~ 1 mile_) may form under favorable wind, stability and surface conditions. Light to moderate winds may be more favorable for dust devil activity than winds from the east sectors. Additional field work is needed to verify this tentative relationship.
+
+Normal summertime dust devil activity may be a significant resuspension mechanism at times. This time of "convective" wind translocation mecha
+
+NOTE: _*_ Sponsored by the Atlantic Richfield Hanford Company

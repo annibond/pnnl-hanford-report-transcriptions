@@ -1,0 +1,23 @@
+[id="assembly_resuspension_radioactive_isotopes_burning_forest_{assembly-logging-slash}"]
+include::../attributes.adoc[]
+
+== Rususpension of Radioactive Isotopes Induced by Burning Forest Logging Slash
+[.big]#{GAS} and {MMO}#
+
+_Airborne particulates from burning forest logging slash were sampled with an aircraft for air filter. Radioactive isotope concentrations in air samples collected from the smoke plume were compared to ambient airborne background concentrations. Smoke plume radioactive isotope concentrations for ^155^Eu and ^137^Cs were > 9 and 22 times ambient background levels, respectively._
+
+include::../modules/con_resuspension_radioactive_isotopes_burning_forest.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_resuspension_radioactive_isotopes_burning_forest_references.adoc[leveloffset=+2]
+
+==== Tables
+
+include::../modules/ref_resuspension_radioactive_isotopes_burning_forest_table-1.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_resuspension_radioactive_isotopes_burning_forest_figures.adoc[leveloffset=+2]

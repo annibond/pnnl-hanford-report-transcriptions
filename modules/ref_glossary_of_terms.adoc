@@ -23,6 +23,11 @@ include::../attributes.adoc[]
 |adiabatic lapse rate
 |the theoretical measurement of the rate at which a rising or sinking item of air cools or warms, which is an inverse correlation
 
+|adiabatic process
+|the process in which a temperature change in a system does not trasnfer any heat
+
+stem:[Q = 0]
+
 |aerovane
 |meteorological instrument that combines a wind vane with a propeller anemometer to simultaneously measure both wind speed and direction
 
@@ -201,6 +206,9 @@ stem:[F(x) = e^{-x^2} \int_{0}^{x} e^{t^2} dt]
 |dry deposition process
 |the process where airborne radioactive gases are directly moved from the atmosphere to Earth's surface without the help of precipitation
 
+|dust devil
+|a cyclonic storm of dust and debris, weaker and smaller than a tornado and formed during sunny, increasingly warm weather
+
 |eddy energy
 |kinetic energy associated with the swirling, turbulent motions a fluid (e.g., ocean, air)
 
@@ -308,6 +316,9 @@ J = -D dC / dx
 |heat distribution
 |the process by which thermal energy spreads through conduction, convection, and radiation, always moving from hotter to cooler areas until equilibrium is obtained
 
+|helical
+|having the shape or form of a cone or cylinder
+
 |Henry's law cosntant
 |K~H~ which defines how much a radioactive gas dissolves in a liquid relative to its partial pressure in the gas phase
 
@@ -392,11 +403,24 @@ J = -D dC / dx
 |Laplace transform technique
 |a mathematical tool that converts a differential equation into a simpler algebraic equation
 
+|lapse rate
+|change of temperature  with altitude
+
+stem:[\frac{\Delta T}{\Delta H}]
+
 |least squares technique
 |statistical method for finding the best-fitting line or curve in a data set by minimizing the sum of squared differences (residuals) between the actual observed values and the values of the prediction model
 
 |Liquid Metal Breeder Reactor (LMBR)
 |nuclear reactor that uses a liquid metal (such as liquid sodium) as the primary coolant and is designed to "breed" more fissile material than it consumes
+
+|logarithm (math)
+|the power to which a variable must be raised to equal a given number
+
+stem:[\log_{b} {x} = y]
+
+|logging slash burns
+|controlled, intentional fires intended to dispose of forestry debris including branches, treetops, and stumps left behind after timber harvesting
 
 |low background
 |experiments or detectors designed to have an extremely low level of background radiation to detect rare nuclear events
@@ -406,6 +430,12 @@ J = -D dC / dx
 
 |mass spectrometry (m/z)
 |analytical technique used to identify and quantify compounds by measuring the mass-to-charge ratio
+
+|maximum permissible concentration (MPC)
+|the upper limit of a substance (e.g., radionuclides) allowed in air, water, or soiul before it is considered risky for human exposure with regard to adverse health impacts
+
+|mean sea level (msl)
+|the average height of the surface of the sea during all stages of the ocean's tide, used to determine aircraft altitude and terrain elevation
 
 |meander diffusion
 |the average spreading of radioactive is greater than the calculated or theoretical average in real-time, long-term measurements
@@ -636,6 +666,9 @@ _Stk_ = Particle Characteristic Time / Flow Characteristic Time
 
 _Stk = τ~p~/τ~f~_
 
+|stratovolcano (composite volanco)
+|steep, cone shaped mountain ( _~ 10°_ to _35°_ slope) built from alternating layors of hardened, viscous lava, ash, and tephra
+
 |submicron particles
 |articles with a diameter of less than one micron
 
@@ -647,6 +680,9 @@ _Stk = τ~p~/τ~f~_
 
 |tensor
 |a mathematical object that can describe the properties of a nucleus, a way to describe physical quantities that are more complex than a single number
+
+|tephra
+|fragmented, airborne, or deposited solid materials that occur during a volcanic eruption including ash
 
 |tetraphenyl arsonium chloride
 |organoarsenic compound used as a reagent in organic synthesis and analytical chemistry

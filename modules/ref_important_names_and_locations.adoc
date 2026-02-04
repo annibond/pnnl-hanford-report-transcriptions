@@ -21,9 +21,9 @@ include::../attributes.adoc[]
 |{WA}, D.C.
 |A former {US} federal agency established from the split of the Atomic Energy Commission (AEC) 1975, later merged with the {US} Department of Energy in 1977
 
-|Montana's Malmstrom Air Force Base
-|Colstrip, Mo
-|Location of multiple intercontinetal ballistic missle silos (ICBMs) and site of significant nuclear testing radioactive fallout
+|Gifford Pinchot National Forest
+|near Amboy, {WA}, in the {sw} part of the state
+|National forest in southern {WA} managed by the {USFS} that extends along the {CMR}, including {mt-helens}, {mt-ranier}, and the {col-river}.
 
 |Green Glow Program
 |{rich}, WA
@@ -42,6 +42,14 @@ https://en.wikipedia.org/wiki/Green_Run[Wikipedia - Green Run]
 |Manhattan Project
 |{US}, {UK}, and Canada
 |research and development program undertaken during {WW2} to produce nuclear weapons on the side of the Allies, directed by {US} Major General Leslie Groves
+
+|Montana's Malmstrom Air Force Base
+|Colstrip, Mo
+|Location of multiple intercontinetal ballistic missle silos (ICBMs) and site of significant nuclear testing radioactive fallout
+
+|{mt-helens} (Mt. St. Helens)
+|Skamania County, {WA}
+|Active volcano a part of the {CMR}, 98 miles (_~ 157.72 km_) south of {sea} and 52 (_~ 83.69 km_) {ne} of {port}, {OR}, named Lawetlat'la to the local Cowlitz nation (pronounced lah-weight-lot-lah)
 
 |{NAAQS} (NAAQS)
 |{WA} D.C.
@@ -77,6 +85,10 @@ https://www.youtube.com/watch?v=Plr7_SAuB6g[EPA, EPA, EPA!]
 |{WA} D.C.
 |department of the federal government that oversees national energy policy, the development of nuclear power, and the military's weapons program for the {US}
 
+|{USFS} (USFS)
+|{DC}, {port}, {OR}
+|Agency founded in 1905 that operates under the {US} {DOA} and manages the nation's 154 national forests and 20 national grasslands. The R6 range exclusively covers {OR} and {WA}.
+
 |{US} Radium Corporation
 |Orange, NJ
 |a coporation founded in 1914 that produced uranium and developed radioluminescent paint, responsible for the infamous Radium Girls case in which workers in their plant died slowly from radiation poisoning
@@ -84,3 +96,7 @@ https://www.youtube.com/watch?v=Plr7_SAuB6g[EPA, EPA, EPA!]
 https://en.wikipedia.org/wiki/Radium_Girls[Radium Girls]
 
 |===
+
+NOTE: Conversions between miles and kilometers are rounded to the second decimal point due to many of the papers in this series being limited to the same decimal point. Sometimes Imperial measurements are used in these papers, as Hanford published the first Cold War research in a desert climate.
+
+NOTE: The federal government eliminated protections _~ 60 million acres_ for portions of the {USFS} referenced in these reports including R6, the region containing {WA} and {OR}. The guesstimates for R6's cuts are significant, but those details were not forthcoming as of this page's last update (Feb. 1, 2026).

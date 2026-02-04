@@ -7,9 +7,17 @@ This repository exists for a few reasons:
 
 . My grandfather, {CLS}, was a meteorologist for the {HNR} and the {PNL} during {WW2} and the {CW} in {rich}, {WA}. He was born in 1927 and given to a (Depression-era) orphanage. I don't know when he moved to {WA}. He was 60 years old when I was born, and he died in the early 2000s when I was in the seventh grade. I miss him. I read the work to be close to him again.
 
+. Dad, Kyle Simpson, was also a journeyman millwright at Hanford until 1992.
+
 . In the "current era" of the {US} on the road to fascism and the potential withdrawal from NATO, Hanford's history with nuclear weapons testing isn't just part of our history; it's part of our present.
 
 . I am a technical writer in "cutting edge" technology in software development including cybersecurity, automation, and {os}. Partially, I feel connected to a man who also worked in cutting edge technology in the nuclear era and wrote technical reports about it. However banal though, I want to keep current on written documentation.
+
+[#img-dad-wedding]
+[caption="Mom & Dad's Wedding 1985", alt="{dad-wedding-alt}"]
+image::{dad-wedding-img}[Mom & Dad's Wedding 1985]
+
+The photo above is my grandparents and father at my parents' wedding in 1985. From left to right are Grandma, Dad, and Grandpa.
 
 == Why should YOU give a shit?
 
@@ -36,3 +44,19 @@ My name is {me-a}, and I was born in Pasco, {WA} in 1987. Because it's been the 
 . My father and grandfather worked at Hanford - a nuclear plant - which had massive safety concerns and violations that are ongoing including being the "most toxic place in the Western *hemisphere*" due to the pollution of the Columbia River. That would sorta put it on the same level as Springfield per "The Simpson's Movie", ironically the last movie we saw as a family unit of the four of us.
 
 If you make a joke about it to me, there's a good chance I'll find it funny.
+
+== Challenges
+
+=== AsciiDoc Conversion
+
+There are several things I didn't know how to do prior to this project that I either had to write down for myself as a reference or eventually "clicked" after using it so many times.
+
+* Information architecture: So far (Feb. 4, 2026), there is one large paper and three smaller papers. The larger paper contains 313 pages (in PDF form) of individual reports gathered together for the {PNL} in 1975. It was easier to organize everything by paper when there were just a few and treating them as top level modules made sense. That changed when I had to convert a report with multiple sections with multiple papers each.
+
+* LaTeX: The last time I took a math class was in 2007, and so I never had to use LaTeX or any "real" technology to understand what I was doing - outside of the required TI-83 calculator which I could (at best) write a program that did the quadratic formula for me. Nuclear physics equations were another ballgame. Eventually, all of the "coding" equations clicked for me and I began hand-writing it without any trouble. That was basically overnight.
+
+* Attributes, attributes, attributes: If you've gone through a lot of these reports, author names, organizations, and journals reappear over and over. Moreover, they weren't consistently referenced. Using attributes was the only way to do any of that without losing my head.
+
+* Tables: I knew how to do tables. I had no idea how using two headers would "mess with" the table organization. I had to decide between tables that had the second header missing one line, showing every line in the grid, or very long header names to compensate. That was extremely frustrating.
+
+* Math precision: You may have noticed the reports aren't written with consistency with regard to how many decimal places out they use, or whether or not they're written as logarithms or as standard numbers. I chose to remain consistent to what was written, but for scanning that data, my next step is going to write more consistent, scannable tables. However, the way it displays now is true to how it was published.

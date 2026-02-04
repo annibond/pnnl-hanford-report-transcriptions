@@ -1,0 +1,10 @@
+[id="ref_frequency_dust_devils_hanford_figures_{ref-frequency-dust-devils-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Temporal Variation of the Magnitude of Superadiabatic Lapse Dates and Ground Temperatures (Neg 7510195-3)
+
+[#img-dust-devil]
+[caption="Temporal Variation of the Magnitude of Superadiabatic Lapse Dates and Ground Temperatures", alt="{dust-devil-alt}"]
+image::{dust-devil-img}[Temporal Variation of the Magnitude of Superadiabatic Lapse Dates and Ground Temperatures]
+
+Hanford studied the dust devil storm on July 17, 1974. Dust devils were observed near 300 Area during the observation period 13:00 - 16:00 (1:00 - 4:00 PM) Pacific Time.

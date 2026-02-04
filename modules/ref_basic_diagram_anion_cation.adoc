@@ -1,4 +1,4 @@
-[id="ref_basic-diagrams_anion_cation_{ref-basic-diagrams-anion-cation}"]
+[id="ref_basic-diagram_anion_cation_{ref-basic-diagram-anion-cation}"]
 include::../attributes.adoc[]
 :stem: latexmath
 

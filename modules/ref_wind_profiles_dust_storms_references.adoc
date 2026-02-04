@@ -1,0 +1,6 @@
+[id="ref_wind_profiles_dust_storms_references_{ref-wind-profiles-dust-storms-references}"]
+include::../attributes.adoc[]
+
+1. {FAB}, [.underline]#The Physics of Blown Sand and Desert Dunes#, New York, William Morrow and Co., 1943.
+
+2. {MMO}, {GAS} and {TJB}, "Regional Wind Resuspension of Dust," [.underline]#{PNLAR} for 1973 to the {USAEC-P3}#, BNWL-1850, PT 3, {bat}, {PNL}, {rich}, {WA}, pp. 214-219, April 1974.

@@ -1,0 +1,22 @@
+[id="ref_basic_diagram_radioactive_decay_{ref-basic-diagram-radioactive-decay}"]
+include::../attributes.adoc[]
+
+[#rimg-radioactive-decay]
+[caption="Periodic Table of Elements, alt="{radioactive-decay-alt}"]
+image::{radioactive-decay-img}[Periodic Table of Elements]
+
+Radioactive decay is a spontaneous process in which a nuclide or isotope loses energy by emitting radiation to become more stable.
+
+* Isotopes want to stabilize.
+
+* Radioactive decay is spontaneous and random.
+
+* The length of the decay is based on the element's half life.
+
+* There are three types of radioactive decay:
+
+- *Alpha (α) decay:* Releases a helium nucleus (2 protons and 2 neutrons)
+
+- *Beta (β) decay:* Releases a beta particle (electron or positron), which transforms a neutron or a proton
+
+- *Gamma (γ) decay:* Releases photons to shed excess energy

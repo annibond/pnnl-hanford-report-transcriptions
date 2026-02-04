@@ -23,3 +23,7 @@ include::../modules/ref_basic_diagram_molecular_equilibrium.adoc[leveloffset=+1]
 === Periodic Table of Elements
 
 include::../modules/ref_basic_periodic_table_of_elements.adoc[leveloffset=+1]
+
+=== Radioactive Decay
+
+include::../modules/ref_basic_diagram_radioactive_decay.adoc[leveloffset=+1]
