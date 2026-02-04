@@ -1,0 +1,32 @@
+[id="ref_concentration_removal_st_louis_figures_{ref-concentration-removal-st-louis-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Trichlorofluoromethane Concentration in ppb on August 3-6, 1975 (Neg-760035-11) 
+
+[#removal-downwind-st-louis-1]
+[caption="Concentration of Trichlorofluoromethane in St. Louis - August 1975", alt="{removal-downwind-st-louis-alt-1}"]
+image::{removal-downwind-st-louis-img-1}[Concentration of Trichlorofluoromethane in St. Louis - August 1975]
+
+== Figure 2:Carbon Monoxide Concentration in ppm on August 3-6, 1975 (Neg 730035-10)
+
+[#removal-downwind-st-louis-2]
+[caption="Concentration of Carbon Monoxide in St. Louis - August 1975", alt="{removal-downwind-st-louis-alt-2}"]
+image::{removal-downwind-st-louis-img-2}[Concentration of Carbon Monoxide in St. Louis - August 1975]
+
+== Figure 3: Lead Concentration in _10^-7^ g / m^3^_ on August 4, 1975 (Neg 760035-1)
+
+[#removal-downwind-st-louis-3]
+[caption="Concentration of Lead in St. Louis - August 1975", alt="{removal-downwind-st-louis-alt-3}"]
+image::{removal-downwind-st-louis-img-3}[Concentration of Lead in St. Louis - August 1975]
+
+== Figure 4: Zinc Concentration in _10^-8^ g / m^3^_ on August 4, 1975 (upwind concentration = _1.8_)
+
+[#removal-downwind-st-louis-4]
+[caption="Concentration of Zinc in St. Louis - August 1975", alt="{removal-downwind-st-louis-alt-4}"]
+image::{removal-downwind-st-louis-img-4}[Concentration of Zinc in St. Louis - August 1975]
+
+== Figure 5: Sulfur Dioxide Concentration in ppb x 10 on August 3-6, 1975 (Neg 760035-8)
+
+[#removal-downwind-st-louis-5]
+[caption="Concentration of Sulfur Dioxide in St. Louis - August 1975", alt="{removal-downwind-st-louis-alt-5}"]
+image::{removal-downwind-st-louis-img-5}[Concentration of Sulfur Dioxide in St. Louis - August 1975]

@@ -38,6 +38,7 @@
 :BN: Battelle-Northwest
 :CW: Cold War
 :DA: Department Administration
+:DOA: Department of Agriculture
 :DOC: U. S. Department of Commerce
 :DOE: U. S. Department of Energy
 :ERDA: Energy Research and Development Administration
@@ -57,12 +58,22 @@
 :PNNL: Pacific Northwest National Laboratory
 :quil: Quillayute
 :rich: Richland
+:sea: Seattle
 :UK: United Kingdom
 :US: United States
 :USA: United States of America
+:USFS: United States Forest Service
+:UW: University of Washington
 :VA: Virginia
 :WA: Washington
 :WW2: World War II
+
+// Landmarks
+
+:app: Appalachian Mountains
+:CMR: Cascade Mountain Range
+:mt-helens: Mount Saint Helen
+:mt-ranier: Mount Ranier
 
 // Journals & Conferences
 
@@ -146,6 +157,7 @@
 :EAC: E. A. Crecelius
 :EPH: E. P. Hardy
 :ELK: E. L. Kanabrock
+:FAB: F. A. Bagnold
 :FBS: F. B. Smith
 :FDL: F. D. Llyod
 :FG: F. Gifford
@@ -184,6 +196,7 @@
 :KAR: K. A. Rahn
 :KGV: K. G. Vogt
 :KH: K. Heiman
+:KHB: K. H. Berman
 :KLC: K. L. Caulder
 :KSP: K. S. Pillay
 :KTW: K. T. Whitby
@@ -259,7 +272,7 @@
 :isotope-img: {img-dir}/ref_basic_isotope.png
 :molecular-equilibrium-img: {img-dir}/ref_basic_molecular_equilibrium.png
 :periodic-table-img: {img-dir}/ref_basic_periodic_table_of_elements.png
-:radioactive-decay-image: {img-dir}/ref_basic_radioactive_decay.png
+:radioactive-decay-img: {img-dir}/ref_basic_radioactive_decay.png
 
 // Images Alt Text (Meta)
 
@@ -277,9 +290,21 @@
 
 :periodic-table-alt: A diagram that shows the entire periodic table of elements organized by type of element: (1) alkaline earth metal, (2) noble gas, (3) actinide, (4) metalloid, (5) post-transition metal, (6) lanthanide, (7) reactive nonmetal, (8) transition metal, and (9) unknown element properties.
 
-:radioactive-decay-alt: 
+:radioactive-decay-alt: Three isotopes next to each other in a row. There are seven subatomic particles in the first two isotope. (1) The first isotope has four blue and three purple subatomic particles. It is a stable isotope. This isotope points to the middle isotope. (2) The middle isotope has three blue and three purple subatomic particles. The seventh particle in the middle is now bright green. Above it there is "radioactive decay" in the air, represented by three green lines. This isotope is unstable and points to the final isotope. (3) The last isotope is the result of the radioactive decay. The isotope now has three blue and four purple particles after the decay changed its state.
 
-// Images (.png) (Figures)
+// Images (Photos)
+
+:dad-grandma-img: {img-dir}/simpson_dad_grandma_brandy.jpg
+:dad-millwright-img: {img-dir}/dad-journeyman-millwright.jpg
+:dad-wedding-img: {img-dir}/dad_grandma_grandpa_wedding.jpg
+
+// Images Alt Text (Photos)
+
+:dad-grandma-alt: Kyle Simpson (Dad) standing next to Grandma Simpson, who is hugging him around his waist. They are standing in front of the Yakima River. Brandy, a white dog, is hidden on the left side.
+:dad-millwright-alt: Four men who passed becoming journeymen millwrights for Hanford in the 1980s. They have their hands on top of one another like they're about to cheer. The man on the right most side is Kyle Simpson (Dad).
+:dad-wedding-alt: Dad and his family standing next to one another in a formal wedding photo at my parents' wedding in 1985. From left to right is Grandma Simpson, Kyle Simpson (Dad), and Grandpa Simpson (C. L. Simpson).
+
+// Images (Figures)
 
 :airborne-dust-storms-img-1: {img-dir}/ref_initial_observations_airborne_concentrations_dust_storms_figure-1.png
 :airborne-dust-storms-img-2: {img-dir}/ref_initial_observations_airborne_concentrations_dust_storms_figure-2.png
@@ -291,6 +316,8 @@
 :compare-depo-dimensionless-img-1: {img-dir}/ref_comparison_deposition_velocities_correlations_figure-1.png
 :compare-depo-dimensionless-img-2: {img-dir}/ref_comparison_deposition_velocities_correlations_figure-2.png
 
+:dust-devil-img: {img-dir}/ref_frequency_dust_devils_hanford_figure-1.png
+
 :experiment-particle-annual-img-1: {img-dir}/ref_experiment_particle_resuspension_annular_figure_1.png
 
 :field-sagebrush-img-1: {img-dir}/ref_field_deposition_velocity_sagebrush_figure-1.png
@@ -301,6 +328,8 @@
 :frequency_airborne_dust-img-1: {img-dir}/ref_frequency_airborne_dust_continental_us_figure-1.png
 :frequency_airborne_dust-img-2: {img-dir}/ref_frequency_airborne_dust_continental_us_figure-2.png
 :frequency_airborne_dust-img-3: {img-dir}/ref_frequency_airborne_dust_continental_us_figure-3.png
+
+:logging-slash-resuspension-img: {img-dir}/ref_resuspension_radioactive_isotopes_burning_forest_figure-1.png
 
 :model-prelim-canopy-img-1: {img-dir}/ref_modeling_preliminaries_for_dry_deposition_to_a_canopy_figure-1.png
 :model-prelim-canopy-img-2: {img-dir}/ref_modeling_preliminaries_for_dry_deposition_to_a_canopy_figure-2.png
@@ -346,6 +375,12 @@
 :rate-limiting-gases-img-1: {img-dir}/ref_rate_limiting_aspects_of_the_dry_deposition_of_gases_figure-1.png
 :rate-limiting-gases-img-2: {img-dir}/ref_rate_limiting_aspects_of_the_dry_deposition_of_gases_figure-2.png
 
+:removal-downwind-st-louis-img-1: {img-dir}/ref_concentrations_rates_of_removal_downwind_st_louis_figure-1.png
+:removal-downwind-st-louis-img-2: {img-dir}/ref_concentrations_rates_of_removal_downwind_st_louis_figure-2.png
+:removal-downwind-st-louis-img-3: {img-dir}/ref_concentrations_rates_of_removal_downwind_st_louis_figure-3.png
+:removal-downwind-st-louis-img-4: {img-dir}/ref_concentrations_rates_of_removal_downwind_st_louis_figure-4.png
+:removal-downwind-st-louis-img-5: {img-dir}/ref_concentrations_rates_of_removal_downwind_st_louis_figure-5.png
+
 :removal-rate-img-1: {img-dir}/ref_concentrations_and_rates_of_removal_figure-1.png
 :removal-rate-img-2: {img-dir}/ref_concentrations_and_rates_of_removal_figure-2.png
 :removal-rate-img-3: {img-dir}/ref_concentrations_and_rates_of_removal_figure-3.png
@@ -374,6 +409,9 @@
 
 :varied-wind-spectra-img: {img-dir}/ref_variation_of_sample_wind_components_spectra_figure-1.png
 
+:wind-profile-dust-img-1: {img-dir}/ref_wind_profiles_dust_storms_figure-1.png
+:wind-profile-dust-img-2: {img-dir}/ref_wind_profiles_dust_storms_figure-2.png
+
 // Images Alt Text (Figures)
 
 :airborne-dust-storms-alt-1: A graph that shows the volume density of the particles over time. The x-axis = the local time  between 8:00 through 19:00 (7:00 PM) in Pacific standard time in intervals of one hour. The y axis = the volume density (calculated by ΔD over Δ ln D in intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 1, (5) 10, and (6) 10^2 micrometers cubed over centimeters cubed. There are five different data sets shown representing, from top to bottom, a sampling diameter range (1) 1.45 to 1.65, (2) 0.65 to 0.75, (3) 0.37 to 0.45, (4) 0.20 to 0.30, and (5) 0.13 to 0.10 micrometers. All five have an upside down U shape with a long tail at the beginning. From 9:00 AM to 2:00 PM to, the line slowly increases exponentially, increases faster until they all peak at ~ 4:30 PM, then gently decreases less exponentially until the end of the data set. Margins of error are highlighted for all highlighted data points.
@@ -390,6 +428,8 @@
 
 :compare-depo-dimensionless-alt-2: A graph showing a stable atmosphere with roughness height in centimeters in 1975. The x axis = particulate diameter in micrometers with intervals of (1) 10^-2, (2) 10^-1, (3) 1, and (4) 10. The y axis = K⌄1-M in centimeters per second with intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 1, and (5) 10. Four different lines for z⌄o, from top to bottom, that represent roughness heights (z⌄o) at (1) 0.001, (2) 0.1, (3) 3, and (4) 10 centimeters. There are also three curves that represent particle densities for p at (1) 1.0, (2) 4.0, and (3) 11.5 grams over centimeters cubed. The curves follow a distinct "U-shape," where deposition velocity is high for very small particles and very large particles but reaches a minimum for particles between 0.1 and 1.0 micrometers. Increasing the surface roughness (z⌄o) shifts all sets of curves upward, increasing the overall deposition rate across all particle sizes.
 
+:dust-devil-alt: Two graphs stacked on top of each other showing the environmental impact of the weather during dust devil conditions.
+
 :experiment-particle-annual-alt-1: A diagram that shows the plan for the field experiment on particle resuspension from a contaminated area. It focuses on the "tracer area". The diagram contains a map of the tracer area. In the center of this circle, he placed a sampling tower equipped with those impactor-cowl systems at various heights where (1) ▼ represents 0.5 to 2.5, (2) ○ represents 3 to 5, (3) □ represents 5 to 7, (4) △ represents 7 to 11, (5) ⬤ 11 to 15, and (6) ▲ represents 15 to 18 meters over seconds. The plane view shows a range 27.5 meters horizontally. It shows this data of tower sampler elevations of 0 through 9 meters.
 
 :field-sagebrush-alt-1: A diagram that shows how sensors and filters track a particle plume as it moves through a canopy. There are three distinct markers including: (1) the particle generation array with a wind force in both directions, (2) the upwind array with distances of 6.1 and 3.05 meters on each side of the mean with a wind force moving forward, and (3) the downwind array with filter distances of 9.14, 6.1, and 3.05 meters on both sides of the mean. The filter heights at each end of the downwind array are 0.3, 0.61, 0.91, 1.52, 3.05, and 6.1 meters. The filter height at the mean also includes 9.14, 15.2, and 21.3 meters. "Detail A nebulizer locations" is zoomed in to show the distances and markers more specifically.
@@ -403,6 +443,8 @@
 :frequency_airborne_dust-alt-2: A graph that shows the monthly regional average dust frequencies for the seven regions named in the article during 1974 - 1975. The x axis = months in January 1974 through January 1975 in intervals of one month. The y axis = percentage with intervals of (1) 0.001, (2) 0.01, (3) 0.1, (4) 1.0, and (5) 10 percent. There are seven regions where (1) + represents “I Pacific Coast Region”, (2) ■ represents “II Rocky Mountain Region”, (3) △ represents “III North Central Region”, (4) ○ “IV South Central Region”, (5) X represents “V Southeast Region”, ▼ represents “VI Great Lakes Region”, ◆ represents “VII Northeast Region”. All seven models start at a relatively low point, hit a peak around April - May 1974, and inconsistently increase and decrease for the remaining time.
 
 :frequency_airborne_dust-alt-3: A map that shows a geographic summary of the frequency of airborne dust particles across the continental United States. 
+
+:logging-slash-resuspension-alt: Photo of the smoke plume caused by the forest logging slash burn at Mount Saint Helens on September 6, 1975. The plume blows away at an angle before making a sharp turn and blowing away relatively straight and horizontal.
 
 :model-prelim-canopy-alt-1: A diagram that shows how deposition velocity of particles change depending on their size. The x axis = particle radius "a" in nanometers (μm) in increments of (1) 10^-4, (2) 10^3, (3) 10^-2, (4) 10^-1, (5), 10^0, (6) 10^1, and (7) 10^2. The y axis = the deposition velocity (v⌄d) in centimenter seconds to the -1 power in increments of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 10^0, (5) 10^1, and (6) 10^2 in centimeters to the sec^-1.
 
@@ -474,6 +516,16 @@
 
 :rate-limiting-gases-alt-2: A graph that shows the plot of Equation (5) with β^-½ on the low abscissa and the reaction rate as a parameter. It shows the practical application of the paper's theoretical models to see how they actually behave in the environment. The x axis = solubility/diffusivity parameter β^½ = H⌄o (square root of D/K) with intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 10^0, (5) 10^1, and (6) 10^2. A second x axis at the top = Henry’s law constant at 20 degrees Celsius (cm^3 GAS cm ^-3 for H2O) with intervals of (1) 10^-2, (2) 10^-1, (3) 10^0, (4) 10^1, (5) 10^2, and (6) 10^3. The y axis = dimensionless deposition velocity where v⌄d/3.77 cm sec^-1 with intervals of (1) 10^-3), (2) 10^-2, (3) 10^-1, (4) 10^0.
 
+:removal-downwind-st-louis-alt-1: An isoplething diagram that shows the atmospheric dispersion of trichlorofluoromethane (CCl⌄3F) in St. Louis. The concentration is centered at the source of the dispersion with a secondary plume at approximatly 60 miles away. The dispersion of CCl⌄3F is impacted mostly by the wind patterns in St. Louis that day.
+
+:removal-downwind-st-louis-alt-2: An isoplething diagram that shows the atmospheric dispersion of carbon monoxide (CO) in St. Louis. The cluster at the point of dispersion is generally closely clustered until 30-40 miles. At the 60-mile mark, there is a horizontal line of dispersal, from which point the particulate scatters.
+
+:removal-downwind-st-louis-alt-3: An isoplething diagram that shows the atmospheric dispersion of lead (Pb) in St. Louis. The concentration at the source is relatively spare compared to the other particulate. The dispersion after that is spread out and not closely associated. This diagram had the least correlation.
+
+:removal-downwind-st-louis-alt-4: An isoplething diagram that shows the atmospheric dispersion of zinc (Zn) in St. Louis. There is a general concentration of Zn at the point of dispersion. There is a general spread down the middle of the diagram until approximately the 90-mile mark, at which point there is a very wide, thin spread.
+
+:removal-downwind-st-louis-alt-5: An isoplething diagram that shows the atmospheric dispersion of carbon monoxide (CO⌄2). There is a concentrated dispersion at the source and near the Mississippi River. At that point, the dispersion spreads out and slants towards the left.
+
 :removal-rate-alt-1: A spatial concentration contour map originating from St. Louis. Isopleth lines labeled 2 through 16 illustrate decreasing pollutant density as the plume moves southeast. Measurement points are marked with solid black dots across a grid spanning 120 miles.
 
 :removal-rate-alt-2: Atmospheric concentration map showing complex plume dispersion from St. Louis. Contour lines labeled 5 through 11 represent varied density levels across the sampling grid. The map illustrates non-linear dispersion patterns with several isolated pockets of concentration labeled at the 7 and 8 levels.
@@ -512,53 +564,13 @@
 
 :varied-wind-spectra-alt: A stack of three graphs that show the ratio of an emissions sample of airborne contaminants versus the expected (modeled) contaminants in the air at distances of, top to bottom, (1) 60, (2) 15, and (3) 7.5 meters. The x axis in all three graphs is the distance in meters with increments of (1) 10, (2) 100, and (3) 1000 meters. The y axis in all three graphs is the ratio (Ry/Rz) between 0.5 and 3.0 in increments of 0.5.
 
-// LaTeX - Operators
+:wind-profile-dust-alt-1: Two graphs side by side showing, left to right, (1) Storm No. 917 on March 29, 1968 on (2) Storm No. 905 on December 17, 1961. Neither are tracking dust. The x axis = hourly average wind speed between (1) 0 and 35 miles per hour on the graph on the left and (2) 0 and 55 miles per hour on the right in intervals of 5 miles per hour.  For both graphs, y axis = height in intervals of (1) 1, (2) 3, (3) 7, (4) 10, (5) 50, (6) 100, (7) 200, (8) 300, (9) 400, and (10) 1000 feet. The graph on the left (1), five data sets shows vertical wind velocities of (1) 01, (2) 06, (3) 05, (4) 08, and (5) 10 meters over seconds . The graph on the right (2), seven data sets shown horizontally (1) 10, (2) 02, (3) 03, (4) 13, (5) 07, (6) 05, and (7) 06 meters over seconds. For all data sets, there is a sharp, positive correlation.
 
-:cos: \cos
-:dot: \cdot
-:fraction: \frac
-:greater-equal: \geq
-:infinity: \infty
-:integer: \int
-:lesser-equal: \leq
-:not-equal: \neq
-:over: \overline
-:partial: \partial
-:plus-minus: \pm
-:similar-equal: \simeq
-:sin: \sin
-:tan: \tan
-:vector: \vec
+:wind-profile-dust-alt-2: Two graphs side by side showing, left to right, (1) Storm No. 113 on March 29, 1968 on (2) Storm No. 89 on May 9, 1966. Both are tracking dust. The x axis = hourly average wind speed between (1) 0 and 50 miles per hour in intervals of 5 miles per hour and (2) 0 and 60 miles per hour in intervals of 5 miles per hour. For both graphs, y axis = height in intervals of (1) 1, (2) 3, (3) 7, (4) 10, (5) 50, (6) 100, (7) 200, (8) 300, (9) 400, and (10) 1000 feet. The graph on the left (1), seven data sets shown horizontally (1) 06, (2) 08, (3) 10, (4) 19, (5) 14, (6) 18, and (7) 13 feet. The graph on the right (2), seven data sets shown horizontally (1) 14, (2) 15, (3) 22, (4) 16, (5) 21, (6) 18, (7) 19, and (8) 20 feet. For all data sets, there is a sharp, positive correlation. The graph on the left (1), for y = 400, the (1) 15 and (2) 19 data sets cross over one another and the graph on the right (2), y = 400, the (1) 15 and (2) 22 miles per hour wind speed.On the left, the data set for the storm’s movement for data set (15) storm's movement was visible from 5 miles away, (14), data set (14) was 3 miles away, and (13) was 14 miles away. On the right, the data set for the storm's movement for data set (21) was 10 miles away, (21) was 6 miles away, (19) was 7 miles away, and (20) was 5 miles away.
 
-// LaTeX - Symbols
+// Directions
 
-:square: \Box
-:triangle-down: \bigtriangledown
-:triangle-up: \bigtriangleup
-
-// LaTeX - Variables
-
-:alpha: \alpha
-:beta: \beta
-:chi-l: \chi
-:chi-u: \Chi
-:delta-u: \Delta
-:delta-l: \delta
-:epsilon: \epsilon
-:gamma: \gamma
-:kappa: \kappa
-:lambda-l: \lambda
-:lambda-u: \Lambda
-:mu: \mu
-:nabla: \nabla
-:nu: \nu
-:omega-u: \Omega
-:partial: \part
-:pi: \pi
-:psi: \psi
-:rho: \rho
-:sigma-u: \Sigma
-:tau-l: \tau
-:tau-u: \Tau
-:theta: \theta
-:upsilon-u: \Upsilon
+:NE: northeast
+:NW: northwest
+:SE: southeast
+:SW: southwest

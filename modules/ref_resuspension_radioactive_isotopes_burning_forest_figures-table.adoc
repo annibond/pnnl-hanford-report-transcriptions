@@ -1,0 +1,25 @@
+[id="ref_resuspension_radioactive_isotopes_burning_forest_figures-table_{ref-logging-slash-table-2}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+.Lapse Rates for Dry or Warm Air
+
+[cols="1,1,1"]
+
+|===
+
+^|*Lapse Rate Name* ^|*Equation* ^|*Outcome*
+
+|General Environmental Lapse Rate (ELR)
+|stem:[\Gamma = -\frac{T_2 - T_1}{D_2 - D_1}]
+|The actual, measurable temperature change of stationary air, used to determine the stability of the local atmosphere.
+
+|Adiabatic Lapse Rate (DALR)
+|stem:[\Gamma_d \approx 9.8 \text{°C/km}]
+|The standard rate of cooling for rising dry air (approx. 5.4°F/1000ft). This is the "baseline" for dry climates like the Columbia Basin.
+
+|Superadiabatic Lapse Rate 
+|stem:[-\frac{\Delta T}{D} > \Gamma_d]
+|A condition where the ground is so hot that air cools faster than the standard adiabatic rate. This creates the extreme buoyancy required for Dust Devils to form. 
+
+|===

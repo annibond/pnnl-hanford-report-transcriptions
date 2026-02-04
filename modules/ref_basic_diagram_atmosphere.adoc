@@ -1,4 +1,4 @@
-[id="ref_basic_diagrams_atmosphere_{ref-basic-diagrams-atmosphere}"]
+[id="ref_basic_diagram_atmosphere_{ref-basic-diagram-atmosphere}"]
 include::../attributes.adoc[]
 :stem: latexmath
 

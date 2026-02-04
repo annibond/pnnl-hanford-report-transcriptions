@@ -1,4 +1,4 @@
-[id="ref_basic-diagrams_molecular-equilibrium_{ref-basic-diagrams-molecular-equilibrium}"]
+[id="ref_basic-diagram_molecular-equilibrium_{ref-basic-diagram-molecular-equilibrium}"]
 include::../attributes.adoc[]
 :stem: latexmath
 

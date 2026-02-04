@@ -1,0 +1,18 @@
+[id="ref-resuspension_radioactive_isotopes_burning_forest_figures_{ref-logging-slash-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Forest Logging Slash Burn at about _15 m_ (_24 km_) West-Southwest of {mt-helens}, States of {WA}, September 6, 1975 (Neg 758121-1)
+
+[#logging-slash-resuspension]
+[caption="Forest Logging Slash Burn at Mt. St. Helens", alt="{logging-slash-resuspension-alt}"]
+image::{logging-slash-resuspension-img}[Forest Logging Slash Burn at Mt. St. Helens]
+
+To understand the diagram, it is necessary to understand the type of storm being tracked and the day-to-day temperature change in the Columbia Basin.
+
+* The temperature dropoff for the second half of the graph is typical for a desert which commonly makes rapid diurnal shifts.
+
+* Dust devils are relatively small, weak cyclonic storms that form during sunny, increasingly warm weather, relatively common in the Columbia Basin.
+
+In a system, when a parcel of air undergoes a temperature change, it doesn't necessarily create a heat exchange with the surrounding environment. A lapse rate _(ΔT / D_) measures the rate of temperature change for that parcel as it moves higher in altitude.
+
+include::../modules/ref_resuspension_radioactive_isotopes_burning_forest_figures-table.adoc[leveloffset=+2]

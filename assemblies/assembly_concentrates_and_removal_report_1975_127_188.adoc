@@ -1,0 +1,22 @@
+[id="assembly_concentrates_and_removal_report_1975_127_188_{assembly-deposition-and-resuspension-4}"]
+include::../attributes.adoc[]
+
+== Pollutant Scavenging
+
+The removal of pollutants by clouds and precipitation is a major factor in determining budgets of pollutants distributed on a regional scale. The quantity and patterns of pollutants delivered to sensitive ecosystems as well as the distributions remaining as inhalation hazards in scavenged air can only be defined by a thorough investigation of precipitation scavenging processes.
+
+The scavenging program at the Pacific Northwest Laboratory has progressed according to the direction given in the previous annual report. Specifically, our research has emphasized the three following areas:
+
+* In-cloud scavenging in frontal storms
+
+* In-cloud scavenging in convective storms
+
+* Below-cloud scavenging of submicron particulates
+
+The following reports indicate progress made during the past year in these fields of investigation. Our reports also reflect two aspects of the developing program, which we expect to become more prominent during coming years. The first of these is the greater utilization of diagnostic models for interpretation of experimental data - specifically with regard to in-cloud scavenging processes. The second feature is the evolving close level of cooperation with other research agencies. This year, the input from the Air Resources Laboratory/NOAA and the Wave Propagation Laboratory/NOAA has been particularly important in this regard, and we feel that the continuation of such interactions will be highly beneficial to the resolution of the complex problems associated with the precipitation scavenging process - especially as the program is directly more closely to the MAP3S objectives:
+
+* Theoretical studies in atmospheric sciences
+
+* Precipitation scavenging
+
+* Precipitation scavenging in MAP3S

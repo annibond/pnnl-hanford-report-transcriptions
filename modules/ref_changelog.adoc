@@ -5,7 +5,27 @@ include::../attributes.adoc[]
 
 === 2026
 
-==== 25 January 2026 - 30 January 2026, BNWL-2000, pp. 96-111
+==== 1 February 2026 - 7 February 2026, BNWL-2000, pp. 112-126
+
+* Created assembly for "Pollutant Scavenging"
+
+* Created "Concentrations and Rates of Removal of Contaminants from the Atmosphere In and Downwind of St. Louis"
+
+* Created "Rususpension of Radioactive Isotopes Induced by Burning Forest Logging Slash"
+
+* Created "Frequency of Dust Devils in the Hanford Reservation"
+
+* Created "Wind Profiles in Dust Storms"
+
+* Reference Material
+
+- Updated Basic Diagrams assembly to contain radioactive decay
+
+- Updated "Glossary of Terms", "Important Names & Locations", "About This Project"
+
+* *Happy belated birthday Dad, who worked as a millwright at Hanford until 1992. He would have turned 70, but he https://www.legacy.com/us/obituaries/tricityherald/name/kyle-simpson-obituary?id=18318892[died] on February 3, 2013 at 57 years old (+3 days). I miss you.* For this reason, I added a photo to "About This Project".
+
+==== 25 January 2026 - 31 January 2026, BNWL-2000, pp. 96-111
 
 * Created "Frequency of Airborne Dust in the Continental United States"
 

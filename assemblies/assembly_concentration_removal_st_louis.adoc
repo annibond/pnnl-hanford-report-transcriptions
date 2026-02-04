@@ -1,0 +1,15 @@
+[id="assembly_concentration_removal_st_louis_{assembly-concentration-removal-st-louis}"]
+include::../attributes.adoc[]
+
+== Concentrations and Rates of Removal of Contaminants from the Atmosphere In and Downwind of St. Louis
+[.big]#{JAY}, {TMT}, {CWT}, {NAW} and {MRP}#
+
+_The Metropolitan Meteorological Experiment (METROMEX) is a study by several organizations of inadvertent weather modification, particularly precipitation changes, caused by urban-industrial effects in the St. Louis metropolitan area. Two main experiments are being conducted by the Earth and Planetary Chemistry Section during METROMEX. The study reported here measured trace elements, sulfates, SO~2~, trichloromethane, and CO upwind, in, and up to 130 miles downwind of St. Louis to determine the decreased concentrations downwind of the city that result from atmospheric mixing, dry deposition, and, in the case of SO~2~, chemical conversion processes. Results showed contaminant concentrations by only 35% from 40-120 miles downwind. The Pb concentrations indicated a 40% decrease due to dry deposition at this distance on August 4, 1975. The SO~2~ concentrations reached a maximum 40 miles downwind of the city, presumably because SO~2~ from stacks did not reach ground level immediately. Between 50 and 120 miles downwind the SO~2~ concentration decreased by a factor of 10, probably because of its reaction with vegetation and the earth’s surface._
+
+include::../modules/con_concentration_removal_st_louis.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== Figures
+
+include::../modules/ref_concentration_removal_st_louis_figures.adoc[leveloffset=+2]

@@ -1,0 +1,6 @@
+[id="ref_frequency_dust_devils_hanford_references_{ref-frequency-dust-devils-references}"]
+include::../attributes.adoc[]
+
+1. {MMO} and {LCS}, [.underline]#Nature and Significance of Convective Votives (Dust Devils) in The Hanford Project#, Interim Report, BNWL-B-410, {bat}, {PNL}, {rich}, {WA}, 1975.
+
+2. {KHB}, [.underline]#On the Dynamic Stability of Convective Atmospheric Vortices#, ECOM-6866-1, Department of Atmospheric Science, {UW}, {sea}, {WA}, 1970.

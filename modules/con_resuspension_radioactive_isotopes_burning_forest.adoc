@@ -1,0 +1,48 @@
+[id="con_resuspension_radioactive_isotopes_burning_forest_{con-logging-slash}"]
+:stem: latexmath
+include::../attributes.adoc[]
+
+== Introduction
+
+In the fall of 1974 smoke plumes from cropland fires were sampled by an aircraft for airborne radioactive isotopes. The purpose was to determine whether low-level radioactive surface contamination from prior dry and wet decomposition could be resuspended by firefootnote:1[G. A. Shemel and M. M. Orgill, "Resuspension of Radioactivity Induced by Burning Crop Stubble," PNL Annual Report for 1974, to USAEC - DEBR, Part 3 - Atmospheric Sciences, BNWL-1950, PT 3, Battelle, Pacific Northwest Laboratories, Richland, Washington, February 1975.]. The results suggested that smoke plumes from cropland fires did contain more radioactivity than background air concentrations.
+
+The success of this initial experiment justified extending the effort to sampling smoke plumes from larger fires such as a forest fire. The experiment on a larger fire might provide additional confirmation that fires can resuspend low-level radioactive isotopes into the atmosphere at greater concentrations than ambient.
+
+== Experimental Procedure
+
+In the late summer and early fall active wild fires or prescribed forest logging slash burns are an occasional occurrence in the Pacific Northwest forest reserves. On September 6, 1975, the U. S. Forest Service planned to burn approximately 350 acres of logging slash about _15 miles_ (_24 km_) west-{sw} of {mt-helens}, in the Gifford Pinchot National Forest. Ignition time was 1300, and by 1500 a dense smoke was slowly moving toward but slightly to the north of {mt-helens} (east-{ne}). *Figure 1* shows the extent of the smoke plume during the latter part of the sampling period. The fire front at this time was estimated to be about _1 km_. The altitude of the smoke plume was estimated between 1500 and _3000 m_ (_msl_). 
+
+Prior to sampling the smoke plume by aircraft (Cessna 411), a background air filter sample was obtained approximately _10 miles_ (_16 km_) west of the fire site, between0930 and 1200 at approximately _1400 m_ (_msl_). Sampling of the smoke plume commenced at 1506 and continued until 1736. Traverses were made through the smoke plume between _2000_ and _2200 m_ (_msl_).
+
+Samples were collected on IPC filter paper supported in an aircraft mounted filter holder. Ram air flow produced an average air sampling flow rate of approximately _25 m^3^ / min_. Air filter samples were taken over a 150-min period. The flow rate through the background and smoke filter was measured with an inline, negligible-pressure-drop vane flow-meter.* Flow rates were measured after the sampling period and showed that the sampling period and showed that the smoke filter had decreased the flow rate by about _3 m^3^ / min_ because of the accumulation of particulate matter. The flow rates were 26 m3 / min for the background filter and _23 m^3^ / min^-1^_ for the smoke filter. Since the smoke sample had taken a period of time to accumulate particulate matter it was assumed that the flow rate during the smoke filter sample was the average of the two flow rates or about _25 m^3^ min_.
+
+Filter samples were analyzed by nondestructive gamma ray spectrometry for all 14 different radioactive isotopes. All 14 isotopes were identified on the filters in varying concentrations.
+
+== Results
+
+Concentrations of the radioactive isotopes were found to be greater in the smoke filter sample. Eight of the radioactive isotopes had concentrations 2 or more times higher in the smoke plume than in the background air. *Table 1* shows the concentrations for each radioactive isotope and normalized airborne activity concentration rations. These rations were calculated from *Eq. (1)*.
+
+.Equation 1
+[latexmath]
+++++
+Activity\, Concentration = \bigg[ \frac{S - {BG} \frac{T_o}{T_{BG}}}{BG} \bigg]
+++++
+
+[latexmath]
+++++
+\bigg[\frac{F_{BG}\, (T_{BG})}{F_s\, {T_s}} \bigg]
+++++
+
+where _S_ represents smoke concentration (_dpm_); _BG_ is background concentration (_dpm_); _T~o~_ is time out of smoke plume during sampling; _T~GB~_ is background sampling time; _T~s~_ is smoke plume sampling time; TGB is average flow rate during background sampling; and _F~S~_ is average flow rate during smoke sampling.
+
+In calculating the normalized concentration ratios, consideration was given to the fact that the aircraft was not in the smoke plume during the total sampling period (150 min) because of safety requirements. The aircraft was in the smoke plume about _120 min_ of the _150 min_ sampling period.
+
+Concentrations of ^137^Cs in the smoke plume were approximately 22 times the concentration in ambient background air. Airborne concentrations for ^137^Cs were _1.02 x 10^-15^ μCi / cm^3^_ for background air and _2.29 x 10^-14^ μCi / cm^3^_ for the smoke sample. Comparison of these concentrations with the _168-hr MPC_ values. This was also true for the remaining isotopes.
+
+Measured isotope concentrations in the smoke were probably significantly less than maximum possible concentrations. If the aircraft could have remained in the dense smoke plume for the full _150 min_ sampling period, higher concentrations might have been the result. Thus, the measured isotope concentrations were probably on the conservative side.
+
+== Conclusions
+
+Surface radioactive contamination which was deposited earlier by wet and dry deposition process can be  released by fires over croplands and forested areas at concentrations greater than ambient background. The possibility exists that the downwind transport and potential inhalation hazard could be significantly increased by fires in severely contaminated vegetation. Further field experiments may be advisable in order to confirm and evaluate the potential hazards of fire released radioactive isotopes from vegetation.
+
+NOTE: _*_ PR-2 flow sensor: previously manufactured but no longer available from Sci-Med, Inc., Engineering Dept., Minneapolis, MN.

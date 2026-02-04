@@ -1,4 +1,5 @@
 [id="assembly_variation_of_sample_wind_components_spectra_{assembly-variation-spectra}"]
+include::../attributes.adoc[]
 
 == Variation of Sample Wind Component Spectra and Implications for Diffusion Modeling in the Atmospheric Boundary Layer
 [.big]#{DCP}#

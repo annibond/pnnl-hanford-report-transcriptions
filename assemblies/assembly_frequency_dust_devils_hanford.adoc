@@ -1,0 +1,23 @@
+[id="assembly_frequency_dust_devils_hanford_{assembly-frequency-dust-devils}"]
+include::../attributes.adoc[]
+
+== Frequency of Dust Devils in the Hanford Reservation*
+[.big]#{MMO}, {JMT} and {LCS}#
+
+_Field observations in the Hanford Reservation have shown that about 20 dust devils per hour in a 1-mile area may form under favorable wind, stability and surface conditions. Dust devil activity is more favorable during southwest-through-north wind directions during very unstable periods._
+
+include::../modules/con_frequency_dust_devils_hanford.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_frequency_dust_devils_hanford_references.adoc[leveloffset=+2]
+
+==== Tables
+
+include::../modules/ref_frequency_dust_devils_hanford_table-1.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_frequency_dust_devils_hanford_figures.adoc[leveloffset=+2]

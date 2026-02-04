@@ -1,0 +1,19 @@
+[id="assembly_wind_profiles_dust_storms_{assembly-wind-profiles-dust-storms}"]
+include::../attributes.adoc[]
+
+== Wind Profiles in Dust Storms
+[.big]#{MMO}, {GAS} and {TJB}#
+
+_Vertical wind velocity profiles during dust storms in the Hanford Project were examined for possible multiphase flow effects of saltation and suspended sand and dust. The results to date are inconclusive._
+
+include::../modules/con_wind_profiles_dust_storms.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_wind_profiles_dust_storms_references.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_wind_profiles_dust_storms_figures.adoc[leveloffset=+2]

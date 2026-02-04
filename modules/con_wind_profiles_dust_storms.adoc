@@ -1,0 +1,22 @@
+[id="con_wind_profiles_dust_storms_{con-wind-profiles-dust-storms}"]
+include::../attributes.adoc[]
+
+== Introduction
+
+Vertical hourly-mean velocity profiles during severe dust storms in the Hanford project often exhibit typical non-log-linear slopes. Our investigation was conducted to assess whether saltation and dust particles cause this type of velocity profile and if multiphase flow effects may modify airflow and turbulent characteristics of the atmosphere surface boundary layer during severe dust storms.
+
+The curvature of the wind profile during dust storms was anticipated to be due, in part, to saltation of sand and large dust particles. Saltation by alternative contact with the air and ground removes momentum from the air and represents a shear stress or drag on the wind. Hence, the lowest layers of air near the surface could be retarded as compared to higher levels. On the other hand, particles in true suspension, i.e., particles that very seldom make contact with the ground, must travel with the translocation speed of the wind and offer little resistance to the airfootnote:1[F. A. Bagnold, The Physics of Blown Sand and Desert Dunes, New York, William Morrow and Co., 1943.].
+
+== Procedure
+
+Vertical wind velocity profiles were plotted using the hourly-averaged wind data from the 122 m meteorological tower for high wind episodes (_> 7 m / sec_) with dust and without dust. Since the wind data were hourly averages, transient effects on the time scale of less than 1 hour were smoothed out or masked and only averaged features of the wind can be examined.
+
+Vertical wind profiles for 64 high wind episodes in the Hanford project were plotted on semilog graph so the curvature of the velocity profile could be examined for linearity. These high wind episodes included dust storms from nearly all wind directions and high wind episodes with little apparent saltation or dust suspension (dust may have been observed but was recorded only in the remarks column of the observation). The dust storms had been determined from a previous study of the frequency of dust storms in the Hanford Projectfootnote:2[M. M. Orgill, G. A. Sehmel, and T. J. Bander, "Regional Wind Resuspension of Dust,”" Pacific Northwest Laboratory Annual Report for 1973 to the USAEC Division of Biomedical and Environmental Research, Part 3: Atmospheric Sciences, BNWL-1850 PT 3, Battelle, Pacific Northwest Laboratories, RIchland, WA, pp. 214-219, April 1974.].
+
+== Results and Discussion
+
+The vertical wind velocity profiles showed that log-linear profiles were presented during dust storms and nondust storms. The nonlog-linear velocity profile was frequent during dust storms but not totally characteristic of all such storms. *Figure 1* shows selected vertical wind profiles as a function of time during high wind episodes with little or no dust that exhibited both types of wind profiles. *Figure 2* shows examples of similar velocity profiles during dust storms. In this case, the prevailing visibility has been added as an index to the dustiness.
+
+The vertical velocity profile for the May 9, 1966 dust storm shows a significant change in wind speed and shear near the _15 m_ (_50 ft_) level. This apparent change in velocity may indicate the height of the saltation level in the dust storm. It would be interesting to conduct experiments on dust-particle size distributions at _15 m_ (_50 ft_) and _30 m_ (_100 ft_) level to determine the concentration of significant-sized saltation particles at these heights in dust storms.
+
+To date the results are inconclusive and will require further analysis to show whether saltation is a possible causative factor in the production of non-log-linear vertical velocity profiles observed in dust storms.

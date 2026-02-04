@@ -1,0 +1,18 @@
+[id="ref_wind_profiles_dust_storms_figures_{ref-wind-profiles-dust-storms-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Selected Wind Profiles for Two High Wind Episodes with Little or No Dust (Neg 7510195-2)
+
+[#img-wind-profile-dust-1]
+[caption="Selected Wind Profiles for Two High Wind Episodes with Little or No Dust", alt="{wind-profile-dust-alt-1}"]
+image::{wind-profile-dust-img-1}[Selected Wind Profiles for Two High Wind Episodes with Little or No Dust]
+
+The graph shows a profile for *Storm No. 917* is approximately logarithmic. Wind profile for storm *No. 905* increases with height greater than logarithmic.
+
+== Figure 2: Selected Wind Profiles for Two High Wind Episodes with Dust (Neg 7510195-1)
+
+[#img-wind-profile-dust-2]
+[caption="Selected Wind Profiles for Two High Wind Episodes with Dust", alt="{wind-profile-dust-alt-2}"]
+image::{wind-profile-dust-img-2}[Selected Wind Profiles for Two High Wind Episodes with Dust]
+
+The profile for storm *No. 113* is approximately logarithmic. The wind profile for storm *No. 89* increases with height greater than logarithmic. Numbers are hours of day. Prevailing visibility is an index of the dustiness. 
