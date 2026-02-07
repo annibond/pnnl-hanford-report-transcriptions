@@ -1,0 +1,10 @@
+[id="ref_assembly_comments_diffusive_deposition_fourier_references_{ref-deposition-fourier-references}"]
+include::../attributes.adoc[]
+
+1. {JP}, "Theory of Diffusive Deposition of Particles in a Sphere and in a Cylinder at Small Fourier Numbers," [.underline]#{aev}#, in press, 1975.
+
+2. {HSC} and {JCJ}, [.underline]#Operational Methods in Applied Mathematics#, Dover Publishing, Inc., New York, NY, 1963.
+
+3. {AEr}, ed. [.underline]#Tables of Integral Transforms#, Vol. 1, Bateman Manuscript Project, McGraw Hill, New York, NY, 1954.
+
+4. {MAb} and {IAS}, eds. [.underline]#Handbook of Mathematical Functions, NBS Applied Mathematics#, Series 55, Superintendent of Documents, U.S. Government Printing Office, {WA}, D.C., 20402, 1964.

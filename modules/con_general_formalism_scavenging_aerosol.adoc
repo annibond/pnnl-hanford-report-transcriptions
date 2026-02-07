@@ -1,0 +1,91 @@
+[id="con_general_formalism_scavenging_aerosol_{con-formal-scavenge-aerosol}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+Precipitation scavenging or washout is a term used to describe removal of an air pollutant by various types of precipitation such as rain, snow, etc. Sometimes it is convenient to distinguish in-cloud from below-cloud scavenging if the elevation of the cloud base, respectively. This report demonstrates some general relationships for the scavenging rates which are appropriate both for in- and below-scavenging. A more complete development of the results is given elsewherefootnote:1[W. G. N. Slinn, "Some Approximations for the Wet and Dry Removal of Particles and Gases from the Atmosphere," BNWL-SA-5489, Proceedings International Symposium on Acid Precipitation and the Forst Ecosystem and submitted to the Journal Air, Water and Soil Pollution, 1976.].
+
+== The Continuity Equation
+
+Let _χda_ be the amount of contaminant per unit volume associated with particles of radii _a_ to _a_ + _da_ (viz., "a-particles"). Then the evolution of this contaminant is governed by a continuity equation:
+
+.Equation 1
+[latexmath]
+++++
+\frac{D \chi}{Dt} + \nabla • \bigg( \underline{k} • \nabla \chi \bigg) = \psi{\chi} - G \bigg( \chi \bigg) - L \bigg( \chi \bigg)
+++++
+
+where stem:[D / Dt = ∂/∂t + v • + ∇] is the usual total time derivative; _v_ is the wind field of the air, assumed incompressible stem:[ḵ] is the turbulent diffusivity (or, more generally, stem:[ḵ] • stem:[∇Χ] symbolizes the turbulent flux); stem:[ψ] is the precipitation scavenging (or washout) rate coefficient; and stem:[G] and stem:[L] symbolize gain and loss of contaminant associated with a-particles because of condensation, evaporation, coagulation, etc. Dry deposition could also to (and elsewhere* we do) treat it as a boundary condition.
+
+== Particle-Averaged Removal Rates
+
+One way to temporarily avoid the many complications *Eq. (1)* is to average it over all particle sizes. This leads to 
+
+.Equation 2
+[latexmath]
+++++
+D \chi_{t} = \nabla • \bigg( k \nabla • \chi_{t} \bigg) - \overline{\psi} \bigg( \vec{r}, t \bigg) \chi_{t}
+++++
+
+where the total contaminant density is
+
+.Equation 3
+[latexmath]
+++++
+\chi_{t} \bigg( \vec{r}, t \bigg) = \int_{0}^{\infty} da \; \, \psi \bigg( \vec{r}; \, t; \, a \bigg)
+++++
+
+and the particle-averaged removal rate is
+
+.Equation 4
+[latexmath]
+++++
+\overline{\psi} \bigg(\vec{r} \; t \bigg) = \int_0^{\infty} d \; a\; \chi \; \bigg( \vec{r}; \; t; \; a \bigg) \chi \; / \chi{t}
+++++
+
+To obtain *Eq. (2)* from *Eq. (1)* it has been assumed that turbulence acts on all particles similarly. Use has been made of the observations that in all processes contributing to stem:[G] and stem:[L], the contaminant is not lost from the space volume.
+
+== Space-Averaged Removal Rates
+
+To obtain an equation for the pollutant concentration in terms of a space- and particle-averaged removal rate, *Eq. (2)* is integrated over a large enough space volume so that no contaminant is convected from the volume by the wind. Then use of the divergence theorem and stem:[∇ • v = 0] and ignoring dry deposition leads to
+
+.Equation 5
+[latexmath]
+++++
+\frac{\partial \, Q_t}{\partial \, Q} = - < \; {(\overline {\psi})} \; (t) \; > \; Q_t
+++++
+
+where the total contaminant present is
+
+.Equation 6
+[latexmath]
+++++
+Q_t = \int\; d \; \vec{r} \; \chi_{t} (\vec{r}, \; t)
+++++
+
+and the space- and particle-averaged removal rate is
+
+.Equation 7
+[latexmath]
+++++
+< \overline{ \psi} >  = \int \; dr \; \overline{ \psi} \; \bigg( \vec{r}, \; t \bigg) \chi_{t} \bigg( \vec{r} \; t \bigg) Q_t
+++++
+
+For the case that <  > is time independent then the solution to *Eq. (5)* is
+
+.Equation 8
+[latexmath]
+++++
+Q_t = Q_{to} \; exp \bigg (- < \overline{\psi} > t \bigg)
+++++
+
+
+==Conclusions and Comments
+The above average analysis provides a general foundation for the theoretical description of the irreversible capture of pollutant particles by precipitation. Other considerations are needed for the reversible capture of gasesfootnote:2[J. M. Hales, "Fundamentals of the Theory of Gas Scavenging by Rain," Atmospheric Environment, Vol. 6, pp. 635-659.]. However, it is clear that the formalism presented here only temporarily avoids the complexities of *Eq. (1)*. Thus, when one attempts to evaluate stem:[\psi] or stem:[< \psi >] in *Eq. (4)* and *Eq. (7)* he finds that it is first necessary to know  stem:[\psi (r, a, t)] and stem:[\chi (r, a, t)]. Now  stem:[\psi (r, a, t)] can presumably be specified​† but to obtain stem:[\chi] apparently *Eq. (1)* must be solved. But if it could be solved, there would be no need for the development from *Eq. (2)* to *Eq. (8)*. To extricate oneself from this circuitous development and yet to utilize the coarser descriptions  of scavenging, a number of approximations for stem:[\chi] can be introduced. Examples are given elsewhere in this volume⁂ and in the original publicationfootnote:1[].
+
+NOTE: _*_ See the reports in this volume by author concerned with dry deposition.
+
+NOTE: _​†_ In this volume see the contribution by author entitled "Precipitation Scavenging of Monodisperse Aerosol Particles."
+
+NOTE: _⁂_ In this volume see the contribution by author entitled "Approximations for the Precipitation Scavenging Rates for Polydisperse, Active, Aerosolized Pollutants.""

@@ -1,0 +1,95 @@
+[id="con_precipitation_scavenging_aerosol_{con-precipitation-scavenging-aerosol}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+This note encourages caution against the immediate acceptance of the particle/snow scavenging rates recently published by Graedel and Franeyfootnote:1[T. E. Graedel and J. P. Franey, "Field Measurements of Submicron Aerosol Washout by Snow," Geophysical Research Letters, 2, 325-328, 1975.] and presents alternatives. Their data, similar to unpublished data I have obtained, admit a number of plausible interpretations other than theirs of snow scavenging from an (implicitly assumed) stationary air mass. For example:
+
+1. The data could reflect the relatively rapid passage of comparatively clean air which has been scavenged for an undetermined but presumably long time period;
+
+2. With the onset of snow the wind might have shifted and aerosol particles from different sources were subsequently sampled;
+
+3. The snow cover could cause a reduction in the flux of particles resuspended from various surfaces;
+
+4. With the onset of snow, automobile traffic might have diminished;
+
+5. If the humidity increased with the onset of snow, then condensational growth of particles larger than about _1 μm_ could contribute to their apparent removal.
+
+With respect to the theoretical considerations in Graedel and Franey’s letter, I have presented in detail elsewherefootnote:2[W. G. N. Slinn, "Precipitation Scavenging: Some Problems, Approximate Solutions and Suggestions for Future Research," Precipitation Scavenging (1974), R. W. Beadle R. G. Semonin, coords., ERDA Symposium Series, to be available as CONF-741014, from NTIS, Springfield, WA, 1975.] my opinion that there is little evidence to support the assumption that diffusion and electrical processes are dominant for the below-scavenging of particles larger than _0.1 μm_.
+
+The alternatives I suggest, for both in- and below-cloud scavenging of monodisperse particles, are the following. For the rain scavenging rate
+
+.Equation 1
+[latexmath]
+++++
+\Lambda = \frac{p}{2R_m} E(a, R_m)
+++++
+
+where the collection efficiency is given by the semi-empirical expression
+
+.Equation 2
+[latexmath]
+++++
+E = \frac{4}{Pe_m} \bigg(1 + 0.4 Re_{m}^{1/2} Sc^{1/3} + 4 \kappa \bigg[ {\kappa + } \frac {1 + V \kappa}{1 + V Re_{m}^{1/2}} + \frac{s-s_*}{s+c}^{3/2} \bigg]
+++++
+
+For the corresponding snow-scavenging rate I suggest, with less confidence
+
+.Equation 3
+[latexmath]
+++++
+\Sigma g \frac{\rho_{w}}{\rho_{a}} \frac{p}{<v_{t}>^{2}} E \bigg( \alpha \lambda \bigg)
+++++
+
+where the collection efficiency is
+
+.Equation 4
+[latexmath]
+++++
+E(a, \lambda) = \frac{4}{Pe_{\lambda}} \bigg( 1+ 0.4 Re_{\lambda}^{1/2} \bigg)
+
++ \bigg[1 - exp {- (1 + Re{\lambda}^{1/2}}) \bigg]
+
++ \bigg (\frac{s-s_*}{s+c} \bigg)^{1/2}
+++++
+
+In these formulae the symbols have the following definitions: 
+
+* _Λ_ = the rain scavenging rate
+
+* _p_ = in- or below-cloud precipitation rate in rainwater equivalent
+
+* _R~m~_ = the volume-mean drop radius
+
+* _a_ = particle radius
+
+* _Pe_ = Re, Sc, the Péclét number
+
+* _Re~L~_ = _Lv/ν_, the Reynolds number with the appropriate length scale _L = R~m~_ or _λ_ and appropriate velocity _v_ = _v̅t_ or _<vt>_
+
+* _Sc_ = _ν/D_, the Schmidt number
+
+* _ν_ = kinematic viscosity of air
+
+* _D_ = molecular diffusion coefficient for a particle of radius _a_
+
+* _v̅~t~_, _<v~t~>_ = terminal velocity of volume mean drop size or average snowflake type and size, respectively
+
+* _λ_ = empirical constant characterizing the length scale of the collecting ice filaments; values tentatively suggested are: _λ ≅ 10 μm_ for dendrites; _50 μm_ for powdered snow; _100 μm_ for rimed crystals; _1000 μm_ for sleet and graupel
+
+* _κ_ = _R~m~_, the impaction parameter
+
+* _V_ = _μ~w~/μ~a~_, the ratio of dynamic viscosities for water and air
+
+* _s (>s*)_ = _v~τ~/L_, the Stokes number with the appropriate speed and length scales
+
+* _τ_ = particle stopping time
+
+* _s~*~_ = stem:[\frac{12}{10} + \frac{1}{12} \ln (1 + \text{Re})], the critical Stokes number, with _Re = Re~m~ or Re~λ~_
+
+*  _c_ = _(⅔)-s~*~_
+
+* _g_ = acceleration of gravity
+
+* _ρ~w~_, _ρ~a~_ = densities of water and air, respectively
+
+Comparisons of these semi-empirical formulas with essentially all appropriate pre-1975 data are given elsewherefootnote:2[]. The corresponding formulas for polydisperse aerosols and accounting for changes in particle sizes have been submitted for publicationfootnote:3[W. G. N. Slinn, "Some Approximations for the Wet and Dry Removal of Particles and Gases from the Atmosphere," BNWL-SA-5489, submitted to Journal of Air, Water and Soil Pollution, and to be published in Proceedings of the First International Symposium on Acid Precipitation and the Forest Ecosystem, 1976.]. The equations given here predict snow scavenging rates consistent with most previous data but one to three orders of magnitude less than Graedel and Franey’s inferred values. However, there is the possibility that their data does indeed reflect snow scavenging but of particles much larger than the sampled dry size’ condensation growth of particles appears to explainfootnote:footnote:3[] the otherwise unexpectedly rapid rain removal of plume particles recently reported by Radke et alfootnote:6[L. F. Radke, E. E. Hindman II and P. V. Hobbs, "A Case Study of Plume Scavenging by an Intense Rain Shower," Precipitation Scavenging (1974), R. W. Beadle and R. G. Semonin, coords., ERDA Symposium Series, to be available as CONF-741014 from NTIS, Springfield, VA, 1975.].

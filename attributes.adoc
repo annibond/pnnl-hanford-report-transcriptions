@@ -93,6 +93,8 @@
 :CSFEC: Comparative Studies of Food and Environmental Contamination
 :DP: Dover Publications
 :ERDAS: ERDA Symposium Series
+:FISAPF: First International Symposium on Acid Precipitation and the Forest Ecosystem
+:GRL: Geophysical Research Letters
 :HSLEW: Health and Safety Laboratory Environmental Quarterly
 :IAEA: IAEA Symposium
 :ICESA: International Conference on Environmental Sensing and Assessment
@@ -109,6 +111,7 @@
 :NTIC: National Technical Information Center
 :NTIS: National Technical Information Service
 :OMAM: Operational Methods in Applied Mathematics
+:PISAPFE: Proceedings International Symposium on Acid Precipitation and the Forst Ecosystem
 :PNLAR: Pacific Northwest Laboratory Annual Report
 :PRSA: Proceedings of Royal Society A
 :PRERDA: Proceedings ERDA Conference on Atmosphere-Surface Exchange on Particles and Gaseous Pollutants
@@ -129,6 +132,7 @@
 
 :ACC: A. C. Chamberlain
 :AE: A. Einstein
+:AEr: A. Erdélyi
 :AJA: A. J. Alkezweeny
 :AJM: A. J. McConnel
 :AKP: A. K. Postma
@@ -155,6 +159,7 @@
 :DSR: D. S. Renné
 :DWG: D. W. Glover
 :EAC: E. A. Crecelius
+:EEH-2: E. E. Hindman II
 :EPH: E. P. Hardy
 :ELK: E. L. Kanabrock
 :FAB: F. A. Bagnold
@@ -175,6 +180,7 @@
 :HHL: H. H. Lettau
 :HLV: H. L. Volchok
 :HSC: H. S. Carslaw
+:IAS: I. A. Stegun
 :JAC: J. A. Cooper
 :JAR: J. A. Robbins
 :JAY: J. A. Young
@@ -188,12 +194,15 @@
 :JJL: J. J. Lashock
 :JMH: J. M. Hales
 :JMT: J. M. Thorp
+:JP: J. Pich
+:JPF: J. P. Franey
 :JR: J. Rosinski
 :JRK: J. R. Kline
 :JRV: J. R. Vogt
 :JVR: J. V. Ramsdell
 :JWW: J. W. Winchester
 :KAR: K. A. Rahn
+:LFR: L. F. Radke
 :KGV: K. G. Vogt
 :KH: K. Heiman
 :KHB: K. H. Berman
@@ -207,6 +216,7 @@
 :LKP: L. K. Peters
 :LLW: L. L. Wendell
 :LRA: L. R. Anspaugh
+:MAb: M. Abramowitz
 :ME: M. Eichor
 :MK: M. Kay
 :MLB: M. L. Barad
@@ -224,22 +234,26 @@
 :PGS: P. G. Slater
 :PPR: P. P. Raft
 :PSL: P. S. Liss
+:PVH: P. V. Hobbs
 :PWN: P. W. Nickola
 :RBH: R. B. Husar
 :RD: R. Dams
 :REC: R. E. Connally
 :RFT: R. F. Tuttle
 :RGH: R. G. Harris
+:RGS: R. G. Semonin
 :RLD: R. L. Drake
 :RLM: R. L. McKeever
 :RJE: R. J. Engelmann
 :RKH: R. K. Hadlock
 :RKW: R. K. Woodruff
+:RWB: R. W. Beadle
 :RWP: R. W. Perkins
 :SLS: S. L. Sutter
 :SMB: S. M. Bruntz
 :SSB: S. S. Brar
 :TDF: T. D. Fox
+:TEG: T. E. Graedel
 :TFP: T. F. Parkinson
 :TJB: T. J. Bander
 :TMM: T. M. Moore

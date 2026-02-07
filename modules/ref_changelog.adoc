@@ -7,6 +7,12 @@ include::../attributes.adoc[]
 
 ==== 1 February 2026 - 7 February 2026, BNWL-2000, pp. 112-126
 
+* Created "A General Scavenging Formalism for the Precipitation Scavenging for Aerosol Particles"
+
+* Created "Precipitation Scavenging of Monodisperse Aerosol Particles"
+
+* Created "Comments on Diffusive Deposition at Smaller Fourier Numbers"
+
 * Created assembly for "Pollutant Scavenging"
 
 * Created "Concentrations and Rates of Removal of Contaminants from the Atmosphere In and Downwind of St. Louis"

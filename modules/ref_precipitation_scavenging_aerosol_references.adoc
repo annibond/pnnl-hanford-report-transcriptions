@@ -1,0 +1,10 @@
+[id="ref_precipitation_scavenging_aerosol_references_{ref-precipitation-scavenging-aerosol-referencesl}"]
+include::../attributes.adoc[]
+
+1. {TEG} and {JPF}, "Field Measurements of Submicron Aerosol Washout by Snow," [.underline]#{GRL}#, [.underline]#2#, pp. 325-328, 1975.
+
+2. {WGNS}, "Precipitation Scavenging: Some Problems, Approximate Solutions and Suggestions for Future Research," [.underline]#Precipitation Scavenging# (1974), {RWB} and {RGS}, coords., {ERDAS}, to be available as CONF-741014, from NTIS, Springfield, {VA}, 1975.
+
+3. {WGNS}, "Some Approximations for the Wet and Dry Removal of Particles and Gases from the Atmosphere," BNWL-SA-5489, submitted to [.underline]#{JAWSP}#, and to be published in Proceedings of the [.underline]#{FISAPF}#, 1976.
+
+4. {LFR}, {EEH-2} and {PVH}, "A Case Study of Plume Scavenging by an Intense Rain Shower," [.underline]#Precipitation Scavenging# (1974), {RWB} and {RGS}, coords., {ERDAS}, to be available as CONF-741014 from NTIS, Springfield, {VA}, 1975.
