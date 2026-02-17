@@ -1,0 +1,104 @@
+[id="con_approximations_precipitation_scavenging_polydisperse_{con-approx-scavenging}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+Elsewhere in this volume*, the author developed the expression for the particle-averaged precipitation scavenging rate
+
+.Equation 1
+[latexmath]
+++++
+\overline{\psi} \; (\vec{r}, t) = \int_{o}^{\infty} da \; \psi \; (\vec{r}, \; t; \; a) \; \chi \; (\vec{r}, \; t; \; a) \big{/} \; \chi_{t} \; (\vec{r}, a)
+++++
+
+where stem:[da] is the amount of pollutant associated with particles of radii stem:[a] to stem:[a + da], stem:[\chi_{t} \, = \, da \, \chi], and  is the precipitation scavenging rate for a-particles. To evaluate *Eq. (1)*, clearly stem:[\psi] and stem:[\chi] are needed. Now stem:[\psi] can presumably be specified, even if only approximately†, but to obtain stem:[\chi] accurately, apparently one must solve a continuity equation for the particles. This is a formidable undertaking. However, in view of the present uncertainties about the removal rates, it would seem consistent to proceed with only approximations for the air concentration, stem:[\chi]. This report suggests approximations for stem:[\chi] and thereby, with the help of *Eq. (1)*, develop approximations for the particle-averaged removal rate stem:[\psi].
+
+== Assumptions
+
+The following assumptions are involved:
+
+* For each chemical species of aerosol present, three portions of the size spectrum are identified, qualitatively as shown in *Figure 1* and labeled as stem:[\chi_{f}] (free), stem:[\chi_{g}] (growing), and stem:[\chi_{h}] (hosted). Thus the total air concentration of a-particles is taken to be
+
+.Equation 2
+[latexmath]
+++++
+\chi \, = \chi_{f} \, + \chi_{g} \, + \chi_{h} 
+++++
+
+* The evolution of free particles is approximately governed by 
+
+.Equation 3
+[latexmath]
+++++
+\frac{\partial \chi_{f}}{\partial {t}} = \Delta \cdot \bigg( \underset{\sim}{K} \cdot \Delta \, \chi_{f} \bigg) \; - \alpha \, \chi_{f} \, - \, \psi_{f} \; \chi_{f}
+++++
+
+where stem:[\underset{\sim}{K} \; \cdot \; \Delta \chi_{f}] symbolizes the turbulent flux of the particles, stem:[\alpha], is the rate at which the free particles attach to any hosts, and stem:[\psi \, f] the (below- or in-cloud) precipitation scavenging rate. An adequate approximate solution to *Eq. (3)* is assumed to be
+
+.Equation 4
+[latexmath]
+++++
+\chi_{f} \; \dot{q}_f(a) \; P(\vec{r}, \, t \, \underset{\sim}{K} \, \vec{v}) \; exp \; \left\{ -\int_{0}^{s} (\alpha + \psi_f) \, ds \right\}
+++++
+
+where stem:[\dot{q}_f (a)] is the number of free a-particles released per second, stem:[P] is some plume model and s is either stem:[t] or stem:[x/u].
+
+* Similar approximate equations and solutions (with the same plume model) are assumed for stem:[\chi_{g}] and stem:[\chi_{h}].
+
+* The radius of the growing particles is assumed known and the host particles (e.g., plume or cloud droplets) are assumed to possess the same radius stem:[\lambda].
+
+* The particle size distributions of stem:[\chi_{f}], stem:[\chi_{g}] and stem:[\chi_{h}] are assumed to be log normal and integrals over particle sizes are approximated by evaluating the integrands at their mean values.
+
+.Equation 5
+[latexmath]
+++++
+\chi (a) \; = \; ca^j \; n(a)
+++++
+
+where stem:[c] is an obvious normalization constant, stem:[n(a)] is the particle number distribution function, and for example, stem:[j = 3] if the contaminant is just the mass of the particles.
+
+== Results
+
+If these approximations and assumptions are used in *Eq. (1)*, the particle-averaged rain scavenging rate becomes, approximately
+
+.Equation 6
+[latexmath]
+++++
+\begin{aligned}
+\tilde{\psi}_r \; = \; \frac{p}{2R_m} \; \Bigg[ & F_{fo} \exp \left\{ -\int_{o}^{s} (\overline{\alpha} + \overline{\psi}_f - \overline{\psi}_r) \, ds \right\} E(a_{fj}, R_m) \\
+& + F_{go} \exp \left\{ -\int_{o}^{s} (\overline{\psi}_g - \overline{\psi}_r) \, ds \right\} E(a_{gj}, R_m) \\
+& + \frac{\overline{\alpha}}{(\overline{\alpha} + \overline{\psi}_f - \overline{\psi}_h)} F_{fo} \cdot \Bigg\{ \exp \left\{ -\int_{o}^{s} (\overline{\psi}_h - \overline{\psi}_r) \, ds \right\} \\
+& - \exp \left\{ -\int_{o}^{s} (\overline{\alpha} + \overline{\psi}_f - \overline{\psi}_r) \, ds \right\} \Bigg\} E(\lambda, R_m) \Bigg]
+\end{aligned}
+++++
+
+where stem:[F_{fo}] and stem:[F_{go} = \, 1 \, - \, F_{fo}] are the initial fractions of the contaminant associated with free and growing particles, respectively, and where 
+
+.Equation 7
+[latexmath]
+++++
+a_j \; = \; \overline{a} \; exp \; {(j \; + \frac{1}{2}) \sigma^{2}}
+++++
+
+in which stem:[\overline{a}] (number) radius and stem:[\overline{\sigma} \, = \,  ln \, \sigma] where stem:[\sigma] is the geometric standard deviation, each for the specific aerosol class. Similar expressions are obtained for snow scavengingfootnote:1[W. G. N. Slinn, "Some Approximations for the Wet and Dry Removal of Particles and Gases from the Atmosphere," BNWL-SA-5489, submitted for publication in Journal of Air, Water and Soil Pollution, 1975.].
+
+.Equation 8
+[latexmath]
+++++
+\begin{aligned}
+\overline{\psi}_r = \frac{p}{2R_m} \Bigg[ & F_{fo} \exp \{ -\overline{\alpha}t \} E \left\{ \overline{a}_f \exp \left( \frac{7}{2} \sigma_f^2 \right), R_m \right\} \\
+& + F_{go} E \left\{ \overline{a}_{go} \exp \left( \frac{7}{2} \sigma_g^2 \right) + \left( \frac{t \mu m^2}{100 \text{ sec}} \right)^{1/2}, R_m \right\} \\
+& + F_{fo} \{ 1 - \exp(-\overline{\alpha}t) \} E(\lambda, R_m) \Bigg]
+\end{aligned}
+++++
+
+in which a specific, particle growth rate has been assumed. For snow scavenging, the quantities outside the square brackets, _[ ]_, are changed and the top-particle ice crystal collection efficiency, stem:[E]footnote:1[].
+
+== Conclusions
+
+The results obtained here are demonstrated in *Figure 2* for the specific case of the parameters shown. This figure illustrates the rapid increase in the mass rainout rate *Eq. (8)* both with time and with an increase in the polydispersity of the aerosol (viz. stem:[\overline{\sigma}]). For further details on this latter, point, see the original paperfootnote:1[] and the recent results of Dana and Halesfootnote:2[M. T. Dana and J. M. Hales, "Washout Coefficients for Polydisperse Aerosols," Precipitation Scavenging, 1974, R. W. Beadle and R. G. Semonin, coords., 1975, and to be published in Atmospheric Environment.].
+
+NOTE: _*_ See "A General Formalism for the Precipitation Scavenging Rates for Aerosol Particles," this volume.
+
+NOTE: _†_ See the report by the author entitled, "Precipitation Scavenging of Monodisperse Aerosol Particles," this volume.

@@ -1,0 +1,8 @@
+[id="ref_washout_ratios_particulate_pollution_storms_figures_{ref-washout-storms-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: A Comparison of Predictions of *Eq. (7)* with the Average Washout Ratios for Convective Storms (Neg 754519-11)
+
+[#img-washout-storms-1]
+[caption="A Comparison of Predictions of Eq. (7) with the Average Washout Ratios for Convective Storms", alt="{washout-storms-alt-1}"]
+image::{washout-storms-img-1}[A Comparison of Predictions of Eq. (7) with the Average Washout Ratios for Convective Storms]

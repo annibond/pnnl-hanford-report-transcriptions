@@ -81,6 +81,7 @@
 :70: IAEA Symposium on the Use of Nuclear Techniques in the Measurement and Control of Environmental Pollution, Saltzburg, Austria
 :AC: Analytical Chemistry
 :ACS: Advances in Chemistry Series
+:ACR: Air Chemistry and Radioactivity
 :AD: Atmospheric Diffusion
 :AEV: Atmospheric Environment
 :AG: Advances in Geophysics
@@ -88,6 +89,7 @@
 :AP: Academic Press
 :AR: Annual Report
 :ASEPG: Atmosphere-Surface Exchange of Particles and Gases
+:ASR: Atmospheric Scavenging of Radioisotopes
 :BAMS: Bulletin of the American Meteorological Society
 :BLM: Boundary Layer Meteorology
 :CSFEC: Comparative Studies of Food and Environmental Contamination
@@ -120,6 +122,7 @@
 :USAEC-P3: USAEC Division of Biomedical and Environmental Research, Part 3: Atmospheric Sciences
 :USAEC-V2-P1: USAEC Division of Biology and Medicine, Vol. II: Physical Sciences, Part 1: Atmospheric Sciences
 :USAEC-V2-P3: USAEC Division of Biology and Medicine, Vol. II: Physical Sciences, Part 3: Atmospheric Sciences
+:USAECS: USAEC Symposium Series
 
 // BNWL-2000
 
@@ -130,6 +133,8 @@
 :manager: {CLS}
 :manager-title: Manager of {AS} Program
 
+:transc: transcribed from Russian and available as
+
 :ACC: A. C. Chamberlain
 :AE: A. Einstein
 :AEr: A. Erdélyi
@@ -138,10 +143,12 @@
 :AKP: A. K. Postma
 :AM: A. Miller
 :BC: B. Cantrell
+:BS: B. Styra
 :BYHL: B. Y. H. Liu
 :CCT: C. C. Thomas, Jr.
 :CEE: C. E. Elderkin
 :CEH: C. E. Hane
+:CEJ: C. E. Junge
 :CLS: C. L. Simpson
 :CMH: C. M. Hyche
 :CMM: C. M. Moore
@@ -150,6 +157,7 @@
 :DAG: D. A. Gillette
 :DCP: D. C. Powell
 :DFG: D. F. Gustafson
+:DFGz: D. F. Gatz
 :DG: D. Gray
 :DMH: D. M. Hattor
 :DMM: D. M. McKown
@@ -163,6 +171,7 @@
 :EPH: E. P. Hardy
 :ELK: E. L. Kanabrock
 :FAB: F. A. Bagnold
+:FAH: F. A. Huff
 :FBS: F. B. Smith
 :FDL: F. D. Llyod
 :FG: F. Gifford
@@ -176,6 +185,7 @@
 :GPB: G. de P. Burke
 :HAP: H. A. Panofsky
 :HDB: H. D. Block
+:HEL: H. E. Landsberg
 :HGB: H. G. Booth
 :HHL: H. H. Lettau
 :HLV: H. L. Volchok
@@ -199,10 +209,10 @@
 :JR: J. Rosinski
 :JRK: J. R. Kline
 :JRV: J. R. Vogt
+:JVM: J. Van Mieghen
 :JVR: J. V. Ramsdell
 :JWW: J. W. Winchester
 :KAR: K. A. Rahn
-:LFR: L. F. Radke
 :KGV: K. G. Vogt
 :KH: K. Heiman
 :KHB: K. H. Berman
@@ -213,6 +223,8 @@
 :LA: L. Angelelli
 :LAR: L. A. Rancitelli
 :LCS: L. C. Schwendiman
+:LFR: L. F. Radke
+:LIG: L. I.  Gedeonov
 :LKP: L. K. Peters
 :LLW: L. L. Wendell
 :LRA: L. R. Anspaugh
@@ -230,8 +242,9 @@
 :NSL: N. S. Laulainen
 :OGS: O. G. Sutton
 :PEC: P. E. Coffey
-:PLP: P. L. Phelps
 :PGS: P. G. Slater
+:PLP: P. L. Phelps
+:PM: P. Makhon’ko
 :PPR: P. P. Raft
 :PSL: P. S. Liss
 :PVH: P. V. Hobbs
@@ -322,6 +335,9 @@
 
 :airborne-dust-storms-img-1: {img-dir}/ref_initial_observations_airborne_concentrations_dust_storms_figure-1.png
 :airborne-dust-storms-img-2: {img-dir}/ref_initial_observations_airborne_concentrations_dust_storms_figure-2.png
+
+:approx-scavenging-img-1: {img-dir}/ref_approximations_precipitation_scavenging_polydisperse_figure-1.png
+:approx-scavenging-img-2: {img-dir}/ref_approximations_precipitation_scavenging_polydisperse_figure-2.png
 
 :approx-solution-deposition-resuspension-img-1: {img-dir}/ref_approximations_and_solutions_depospition_resuspension_figure-1.png
 :approx-solution-deposition-resuspension-img-2: {img-dir}/ref_approximations_and_solutions_depospition_resuspension_figure-2.png
@@ -423,6 +439,8 @@
 
 :varied-wind-spectra-img: {img-dir}/ref_variation_of_sample_wind_components_spectra_figure-1.png
 
+:washout-storms-img-1: {img-dir}/ref_washout_ratios_particulate_pollution_storms_figure-1.png
+
 :wind-profile-dust-img-1: {img-dir}/ref_wind_profiles_dust_storms_figure-1.png
 :wind-profile-dust-img-2: {img-dir}/ref_wind_profiles_dust_storms_figure-2.png
 
@@ -431,6 +449,10 @@
 :airborne-dust-storms-alt-1: A graph that shows the volume density of the particles over time. The x-axis = the local time  between 8:00 through 19:00 (7:00 PM) in Pacific standard time in intervals of one hour. The y axis = the volume density (calculated by ΔD over Δ ln D in intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 1, (5) 10, and (6) 10^2 micrometers cubed over centimeters cubed. There are five different data sets shown representing, from top to bottom, a sampling diameter range (1) 1.45 to 1.65, (2) 0.65 to 0.75, (3) 0.37 to 0.45, (4) 0.20 to 0.30, and (5) 0.13 to 0.10 micrometers. All five have an upside down U shape with a long tail at the beginning. From 9:00 AM to 2:00 PM to, the line slowly increases exponentially, increases faster until they all peak at ~ 4:30 PM, then gently decreases less exponentially until the end of the data set. Margins of error are highlighted for all highlighted data points.
 
 :airborne-dust-storms-alt-2: A graph that shows the volume density of the particles over time on September 11, 1975. The x-axis = the local time  between 7:00 through 15:00 (3:00 PM) in Pacific standard time in intervals of one hour. The y axis = the volume density (calculated by ΔD over Δ ln D in intervals of (1) 10^-2, (2) 10^-1, (3) 1, (4) 10, (5) 10^2, and (6) 10^3 micrometers cubed over centimeters cubed. There are seven different data sets shown representing, from top to bottom, a sampling diameter range (1) 1.85 to 2.10, (2) 1.60 to 1.85, (3) 0.95 to 1.05, (4) 0.65 to 0.75, (5) 0.37 to ).45, (6) 0.20 to 0.30, and (7) 0.13 to 2.0 micrometers. All seven have an upside down U shape with a short tail at the beginning. From 7:00 AM to ~ 9:30 AM until they all peak ~ 9:30 AM, then gently decreases less exponentially until the end of the data set. Margins of error are highlighted for all highlighted data points.
+
+:approx-scavenging-alt-1: A graph that shows the concentration of contaminants represented by x · x⌄f + x⌄g + x⌄h. The x axis = particle radius (a) in intervals of (1) 0.001, (2) 0.01, (3) 0.1, (4) 1, (5) 10, and (6) 100 micrometers. The y axis = contaminant concentration chi in m^-3 μm^-1. There are no numbered intervals labeled. The model itself is a solid line (---) while the particle radius for the free, growing, and hosted particle classes are shown with dashed lines (- - -). In all cases, they have inconsistent sine-wave patterns where all peak at x ~ 0.01. At x ~ 1, the three waves split evenly across the horizontal axis and the model itself remains at 0. The three particle classes have a second, smaller peak between 10 and 100, while the model goes up exponentially from their peak. However, the real data trends downward in another wave. 
+
+:approx-scavenging-alt-2: A graph that shows the polydispersity of particles in a washout environment as described in Equation 8. The x axis = dimensionless time τ = α(t) in intervals of (1) 10^-2, (2) 10^-1, (3) 10^0, and (4) 10^1. The y axis = mass rainout rate, which is also dimensionless, as a function of ψ⌄3 (p/2R⌄m) in intervals of (1) 10^-2, (2) 10^-1, and (3) 10^0.
 
 :approx-solution-deposition-resuspension-alt-1: A graph that shows the nondimensional downwind distance compared to the nondimensional concentration in the air and on the ground. This figure represents the case where the removal rate Lambda equals the deposition rate Omega. Three sets of curves are shown for nondimensional times: (1) tau = At, (2) tau = Omega(tau), and (3) Lambda/Omega = 1. The x axis = nondimension downwind distance with intervals of 10^-1, (2) 10^0, and (3) 10^1. The y axis = the nondimensional concentration in the air and ground with intervals of (1) 10^-4, (2) 10^-3, (3) 10^-2, (4) 10^-1, and (5) 1. Both air and ground concentrations decrease by several orders of magnitude and shift further downwind, with ground concentration consistently lagging slightly below air concentration.
 
@@ -577,6 +599,8 @@
 :variation-plume-centerline-alt-2: A set of three graphs stacked on top of each other that show the concentration of tracer emissions in a stable atmosphere. All three graphs show an electrical field strength of 2.7 x 10^-5^ over m^3^. A solid line (--) measures the history of exposure at a given distance, a dashed line (- - -) measures the exposure from a specific fence post for the electron positron, and the bar graph measures end-to-end peak concentrations for the plumes. For all three graphs, the x axis = time in minutes between 0 and 24 minutes in increments of one minute. The y axis = the relative concentration in increments of (1) 0, (2) 0.5, (3) 1.0, (4) 2.0, and (5) 3.0. The top two graphs have an additional y-value of (7) 4.0. The top graph (1) shows test V6 with initial tracer release of 800 meters high. The middle graph (2) shows test V6 with an initial tracer release of 1600 meters high. The bottom graph (3) shows test V5 with an initial tracer release of 800 meters high.
 
 :varied-wind-spectra-alt: A stack of three graphs that show the ratio of an emissions sample of airborne contaminants versus the expected (modeled) contaminants in the air at distances of, top to bottom, (1) 60, (2) 15, and (3) 7.5 meters. The x axis in all three graphs is the distance in meters with increments of (1) 10, (2) 100, and (3) 1000 meters. The y axis in all three graphs is the ratio (Ry/Rz) between 0.5 and 3.0 in increments of 0.5.
+
+:washout-storms-alt-1: A graph that shows the prediction models for how (1) Pb, (2) Zn, (3) Mn, (4) Fe, and (5) Mg according to Gatz’s equation (Equation 7). The x axis = the mass mean diameter of dry particles between 0 and 10 micrometers in intervals of 1 micrometer. The y axis = the washout concentration ratio between 0 and 0.7 in intervals of 0.1.
 
 :wind-profile-dust-alt-1: Two graphs side by side showing, left to right, (1) Storm No. 917 on March 29, 1968 on (2) Storm No. 905 on December 17, 1961. Neither are tracking dust. The x axis = hourly average wind speed between (1) 0 and 35 miles per hour on the graph on the left and (2) 0 and 55 miles per hour on the right in intervals of 5 miles per hour.  For both graphs, y axis = height in intervals of (1) 1, (2) 3, (3) 7, (4) 10, (5) 50, (6) 100, (7) 200, (8) 300, (9) 400, and (10) 1000 feet. The graph on the left (1), five data sets shows vertical wind velocities of (1) 01, (2) 06, (3) 05, (4) 08, and (5) 10 meters over seconds . The graph on the right (2), seven data sets shown horizontally (1) 10, (2) 02, (3) 03, (4) 13, (5) 07, (6) 05, and (7) 06 meters over seconds. For all data sets, there is a sharp, positive correlation.
 

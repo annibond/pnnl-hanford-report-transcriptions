@@ -1,0 +1,6 @@
+[id="ref_approximations_precipitation_scavenging_polydisperse_references_{ref-approx-scavenging-references}"]
+include::../attributes.adoc[]
+
+1. {WGNS}, "Some Approximations for the Wet and Dry Removal of Particles and Gases from the Atmosphere,""" BNWL-SA-5489, submitted for publication in [.underline]#{JAWSP}#, 1975.
+
+2. {MTD} and {JMH}, "Washout Coefficients for Polydisperse Aerosols,” [.underline]#Precipitation Scavenging#, 1974, {RWB} and {RGS}, coords., 1975, and to be published in [.underline]#{AEv}#.

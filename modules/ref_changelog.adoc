@@ -5,6 +5,16 @@ include::../attributes.adoc[]
 
 === 2026
 
+==== 15 February 2026 - 21 February 2026, BNWL-2000, pp. 133-136, 139-145
+
+* Created ""
+
+* Created ""
+
+* Created "Approximations for the Precipitation Scavenging Rates for Polydisperse, Active, Aerosolized Pollutants"
+
+* Updated Glossary of Terms, attributes
+
 ==== 1 February 2026 - 7 February 2026, BNWL-2000, pp. 112-126
 
 * Created "A General Scavenging Formalism for the Precipitation Scavenging for Aerosol Particles"
