@@ -21,64 +21,88 @@
 
 // Work
 
-:ts: Troppus Software
-:es: Echostar Communications
-:ce: CenterEdge Software
-:ibm: IBM
-:rh: Red Hat
 :aap: Ansible Automation Platform
+:ce: CenterEdge Software
+:dish: DISH Network
+:es: Echostar Communications
+:hughes: HughesNet
+:ibm: IBM
 :os: open source software
+:rh: Red Hat
+:rhc: Red Hat Cloud Access program
+:rhn: Red Hat Network
+:rhsm: Red Hat Subscription Management
+:ts: Troppus Software
 
-// Locations, Organizations & Test Sites
+// Directions
 
-:alex: Alexandria
-:AS: Atmospheric Sciences
-:AK: Alaska
+:NE: northeast
+:NW: northwest
+:SE: southeast
+:SW: southwest
+
+// Cold War Meta
+
 :bat: Battelle
 :BN: Battelle-Northwest
+:BNWL2000: BNWL-2000 PT 3
 :CW: Cold War
-:DA: Department Administration
-:DOA: Department of Agriculture
-:DOC: U. S. Department of Commerce
-:DOE: U. S. Department of Energy
-:ERDA: Energy Research and Development Administration
 :GE: General Electric
 :HNR: Hanford Nuclear Reservation
-:JCIS: Journal of Colloid and Interface Science
-:MET: METROMEX
-:NAAQS: National Ambient Air Quality Standard
-:NARL: Naval Arctic Research Laboratory
+:MA: Manhattan Project
+:WW2: World War II
+
+// Cities & States
+
+:alex: Alexandria
+:AK: Alaska
 :NC: North Carolina
 :NJ: New Jersey
 :NY: New York
 :NYC: New York City
-:PMCMC: Pittsburg and Midway Coal Mining Company
 :PB: Point Barrow
-:PNL: Pacific Northwest Laboratories
-:PNNL: Pacific Northwest National Laboratory
 :quil: Quillayute
 :rich: Richland
 :sea: Seattle
 :UK: United Kingdom
 :US: United States
-:USA: United States of America
-:USFS: United States Forest Service
 :UW: University of Washington
 :VA: Virginia
 :WA: Washington
-:WW2: World War II
 
-// Landmarks
+// Government Programs & Test Sites
+
+:AS: Atmospheric Sciences
+:DA: Department Administration
+:DOA: Department of Agriculture
+:DOC: U. S. Department of Commerce
+:DOE: U. S. Department of Energy
+:ERDA: Energy Research and Development Administration
+:MET: METROMEX
+:NAAQS: National Ambient Air Quality Standard
+:NARL: Naval Arctic Research Laboratory
+:PMCMC: Pittsburg and Midway Coal Mining Company
+:PNL: Pacific Northwest Laboratories
+:PNNL: Pacific Northwest National Laboratory
+:USA: United States of America
+:USFS: United States Forest Service
+
+// National Landmarks
 
 :app: Appalachian Mountains
 :CMR: Cascade Mountain Range
 :mt-helens: Mount Saint Helen
 :mt-ranier: Mount Ranier
 
-// Journals & Conferences
+// General Publishing
 
-:66A: 66th Annual Meeting of the Air Pollution Control Association
-:70: IAEA Symposium on the Use of Nuclear Techniques in the Measurement and Control of Environmental Pollution, Saltzburg, Austria
+:AP: Academic Press
+:AR: Annual Report
+:DP: Dover Publications
+:MB: Merrill Books
+
+// Academic Journals
+
 :AC: Analytical Chemistry
 :ACS: Advances in Chemistry Series
 :ACR: Air Chemistry and Radioactivity
@@ -86,54 +110,49 @@
 :AEV: Atmospheric Environment
 :AG: Advances in Geophysics
 :AMS: American Meteorological Society
-:AP: Academic Press
-:AR: Annual Report
 :ASEPG: Atmosphere-Surface Exchange of Particles and Gases
 :ASR: Atmospheric Scavenging of Radioisotopes
 :BAMS: Bulletin of the American Meteorological Society
 :BLM: Boundary Layer Meteorology
 :CSFEC: Comparative Studies of Food and Environmental Contamination
-:DP: Dover Publications
-:ERDAS: ERDA Symposium Series
-:FISAPF: First International Symposium on Acid Precipitation and the Forest Ecosystem
 :GRL: Geophysical Research Letters
 :HSLEW: Health and Safety Laboratory Environmental Quarterly
-:IAEA: IAEA Symposium
-:ICESA: International Conference on Environmental Sensing and Assessment
-:IEEET: IEEE Transactions on Nuclear Science
 :ISA: Instrument Society of America
 :JAM: Journal of Applied Meteorology
 :JAPCA: Journal of the Air Pollution Control Association
+:JCIS: Journal of Colloid and Interface Science
 :JAWSP: Journal of Air, Water and Soil Pollution
 :JGR: Journal of Geophysical Research
 :JM: Journal of Meteorology
-:MA: Manhattan Project
-:MB: Merrill Books
 :NT: Nuclear Technology
 :NTIC: National Technical Information Center
 :NTIS: National Technical Information Service
 :OMAM: Operational Methods in Applied Mathematics
-:PISAPFE: Proceedings International Symposium on Acid Precipitation and the Forst Ecosystem
 :PNLAR: Pacific Northwest Laboratory Annual Report
-:PRSA: Proceedings of Royal Society A
-:PRERDA: Proceedings ERDA Conference on Atmosphere-Surface Exchange on Particles and Gaseous Pollutants
-:PSADAP: Proceedings of the Symposium on the Atmospheric Diffusion and Air Pollution
 :QJRMS: Quarterly Journal of the Royal Meteorological Society
 :USAEC-P3: USAEC Division of Biomedical and Environmental Research, Part 3: Atmospheric Sciences
 :USAEC-V2-P1: USAEC Division of Biology and Medicine, Vol. II: Physical Sciences, Part 1: Atmospheric Sciences
 :USAEC-V2-P3: USAEC Division of Biology and Medicine, Vol. II: Physical Sciences, Part 3: Atmospheric Sciences
+
+// Academic Conferences
+
+:66A: 66th Annual Meeting of the Air Pollution Control Association
+:70: IAEA Symposium on the Use of Nuclear Techniques in the Measurement and Control of Environmental Pollution, Saltzburg, Austria
+:ERDAS: ERDA Symposium Series
+:FISAPF: First International Symposium on Acid Precipitation and the Forest Ecosystem
+:IAEA: IAEA Symposium
+:ICESA: International Conference on Environmental Sensing and Assessment
+:IEEET: IEEE Transactions on Nuclear Science
+:PISAPFE: Proceedings International Symposium on Acid Precipitation and the Forst Ecosystem
+:PRSA: Proceedings of Royal Society A
+:PRERDA: Proceedings ERDA Conference on Atmosphere-Surface Exchange on Particles and Gaseous Pollutants
+:PSADAP: Proceedings of the Symposium on the Atmospheric Diffusion and Air Pollution
 :USAECS: USAEC Symposium Series
 
-// BNWL-2000
-
-:BNWL2000: BNWL-2000 PT 3
-
-// Authors
+// Research Paper Authors
 
 :manager: {CLS}
 :manager-title: Manager of {AS} Program
-
-:transc: transcribed from Russian and available as
 
 :ACC: A. C. Chamberlain
 :AE: A. Einstein
@@ -280,10 +299,11 @@
 :WHH: W. H. Hodgson
 :WNS: W. N. Stasiuk, Jr.
 
+// Report Notes
+
+:transc: transcribed from Russian and available as
 :tribute: This documentation preserves the scientific legacy of {CLS} (1927-2001).
-
 :tribute-cont: whose work at the {PNNL} protected the {tric}, {WA} for decades.
-
 :tribute-cont-2: With love, your granddaughter, {AS-a}.
 
 // Images
@@ -605,10 +625,3 @@
 :wind-profile-dust-alt-1: Two graphs side by side showing, left to right, (1) Storm No. 917 on March 29, 1968 on (2) Storm No. 905 on December 17, 1961. Neither are tracking dust. The x axis = hourly average wind speed between (1) 0 and 35 miles per hour on the graph on the left and (2) 0 and 55 miles per hour on the right in intervals of 5 miles per hour.  For both graphs, y axis = height in intervals of (1) 1, (2) 3, (3) 7, (4) 10, (5) 50, (6) 100, (7) 200, (8) 300, (9) 400, and (10) 1000 feet. The graph on the left (1), five data sets shows vertical wind velocities of (1) 01, (2) 06, (3) 05, (4) 08, and (5) 10 meters over seconds . The graph on the right (2), seven data sets shown horizontally (1) 10, (2) 02, (3) 03, (4) 13, (5) 07, (6) 05, and (7) 06 meters over seconds. For all data sets, there is a sharp, positive correlation.
 
 :wind-profile-dust-alt-2: Two graphs side by side showing, left to right, (1) Storm No. 113 on March 29, 1968 on (2) Storm No. 89 on May 9, 1966. Both are tracking dust. The x axis = hourly average wind speed between (1) 0 and 50 miles per hour in intervals of 5 miles per hour and (2) 0 and 60 miles per hour in intervals of 5 miles per hour. For both graphs, y axis = height in intervals of (1) 1, (2) 3, (3) 7, (4) 10, (5) 50, (6) 100, (7) 200, (8) 300, (9) 400, and (10) 1000 feet. The graph on the left (1), seven data sets shown horizontally (1) 06, (2) 08, (3) 10, (4) 19, (5) 14, (6) 18, and (7) 13 feet. The graph on the right (2), seven data sets shown horizontally (1) 14, (2) 15, (3) 22, (4) 16, (5) 21, (6) 18, (7) 19, and (8) 20 feet. For all data sets, there is a sharp, positive correlation. The graph on the left (1), for y = 400, the (1) 15 and (2) 19 data sets cross over one another and the graph on the right (2), y = 400, the (1) 15 and (2) 22 miles per hour wind speed.On the left, the data set for the storm’s movement for data set (15) storm's movement was visible from 5 miles away, (14), data set (14) was 3 miles away, and (13) was 14 miles away. On the right, the data set for the storm's movement for data set (21) was 10 miles away, (21) was 6 miles away, (19) was 7 miles away, and (20) was 5 miles away.
-
-// Directions
-
-:NE: northeast
-:NW: northwest
-:SE: southeast
-:SW: southwest

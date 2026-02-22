@@ -11,15 +11,15 @@ include::../attributes.adoc[]
 
 |Atomic Energy Commission (AEC)
 |Germantown, MD
-|A former {US} federal agency established after {WW2} in 1946 to manage the development of atomic sciences and techology, later merged with the {US} Energy Research and Development Administration in 1975
+|Former {US} federal agency established after {WW2} in 1946 to manage the development of atomic sciences and techology, later merged with the {US} Energy Research and Development Administration in 1975
 
 |{bat} Memorial Institute
 |Columbus, OH (primary)
-|nonprofit research and development organization that contributed to the Manhattan Project
+|Nonprofit research and development organization that contributed to the Manhattan Project
 
 |Energy Research and Development Administration (ERDA)
 |{WA}, D.C.
-|A former {US} federal agency established from the split of the Atomic Energy Commission (AEC) 1975, later merged with the {US} Department of Energy in 1977
+|Former {US} federal agency established from the split of the Atomic Energy Commission (AEC) 1975, later merged with the {US} Department of Energy in 1977
 
 |Gifford Pinchot National Forest
 |near Amboy, {WA}, in the {sw} part of the state
@@ -33,15 +33,15 @@ https://en.wikipedia.org/wiki/Green_Run[Wikipedia - Green Run]
 
 |{HNR}
 |{rich}, WA
-|site for nuclear testing research and plutonium production during {WW2} and the Cold War, part of the Manhattan Project
+|Site for nuclear testing research and plutonium production during {WW2} and the Cold War, part of the Manhattan Project
 
 |Liquid-Metal Fast-Breeder Reactor (LMFBR)
 |{US}, as well as Canada, China, France, India, Japan, Russia, and {UK}
-|the Experimental Breeder Reactor II (EBR-II) and Fermi 1 in the {US}, a three loop system in which liquid sodium cool with an intermediate loop containing non-radioactive sodium transfer heat to a steam generator
+|The Experimental Breeder Reactor II (EBR-II) and Fermi 1 in the {US}, a three loop system in which liquid sodium cool with an intermediate loop containing non-radioactive sodium transfer heat to a steam generator
 
 |Manhattan Project
 |{US}, {UK}, and Canada
-|research and development program undertaken during {WW2} to produce nuclear weapons on the side of the Allies, directed by {US} Major General Leslie Groves
+|Research and development program undertaken during {WW2} to produce nuclear weapons on the side of the Allies, directed by {US} Major General Leslie Groves
 
 |Montana's Malmstrom Air Force Base
 |Colstrip, Mo
@@ -53,13 +53,13 @@ https://en.wikipedia.org/wiki/Green_Run[Wikipedia - Green Run]
 
 |{NAAQS} (NAAQS)
 |{WA} D.C.
-|regulations set by the {US} Environmental Protection Agency (EPA) to protect public health from carbon monoxide, lead, nitrogen dioxide, ozone, particulate matter, and sulfure dioxide
+|Set of regulations set by the {US} Environmental Protection Agency (EPA) to protect public health from carbon monoxide, lead, nitrogen dioxide, ozone, particulate matter, and sulfure dioxide
 
 https://www.youtube.com/watch?v=Plr7_SAuB6g[EPA, EPA, EPA!]
 
 |{NARL}
 |{PB}, AK
-|site for nuclear testing on nearby Amchitka Island, which hosted Project Long Shot (1965) and Project Milrow (1969)
+|Site for nuclear testing on nearby Amchitka Island, which hosted Project Long Shot (1965) and Project Milrow (1969)
 
 |{NTIS}
 |{alex}, {VA}
@@ -67,11 +67,11 @@ https://www.youtube.com/watch?v=Plr7_SAuB6g[EPA, EPA, EPA!]
 
 |{PNL}
 |{rich}, WA
-|today known as the {PNNL} (PNNL), managed by the {DOE}, distinct from {HNR} as an employer
+|Research organization today known as the {PNNL} (PNNL), managed by the {DOE}, distinct from {HNR} as an employer
 
 |{quil} Air Reference Station
 |{quil}, WA
-|former military air station and current air sampling and monitoring station, named for the federally recognized Native American people, pronounced KWIL-yoot
+|Former military air station and current air sampling and monitoring station, named for the federally recognized Native American people, pronounced KWIL-yoot
 
 |Retec Development Laboratory (Retec)
 |Portland, OR
@@ -83,7 +83,7 @@ https://www.youtube.com/watch?v=Plr7_SAuB6g[EPA, EPA, EPA!]
 
 |{DOE}
 |{WA} D.C.
-|department of the federal government that oversees national energy policy, the development of nuclear power, and the military's weapons program for the {US}
+|Department of the federal government that oversees national energy policy, the development of nuclear power, and the military's weapons program for the {US}
 
 |{USFS} (USFS)
 |{DC}, {port}, {OR}
