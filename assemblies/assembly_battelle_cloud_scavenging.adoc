@@ -1,0 +1,15 @@
+[id="assembly_battelle_cloud_scavenging_{assembly-battelle-cloud-scavenging}"]
+include::../attributes.adoc[]
+
+== The Battelle-Northwest in-Cloud Scavenging Program - An Overview
+[.big]#{JMH}#
+
+_This contribution summarizes the rationale for direction of the in-cloud frontal storm scavenging program during the past year, and is an introduction to specific reports that follow. Expected direction of this program during future years is also discussed._
+
+include::../modules/con_battelle_cloud_scavenging.adoc[leveloffset=+2]
+
+=== Appendices
+
+==== Figures
+
+include::../modules/ref_battelle_cloud_scavenging_figures.adoc[leveloffset=+2]

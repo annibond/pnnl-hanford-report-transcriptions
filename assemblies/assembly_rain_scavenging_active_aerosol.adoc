@@ -1,0 +1,19 @@
+[id="assembly_rain_scavenging_active_aerosol_{assembly-rain-scavening-plume}"]
+include::../attributes.adoc[]
+
+== Rain Scavenging of Active Aerosol Particles from a Plume
+[.big]#{WGNS}#
+
+_Hypotheses are advanced in an attempt to explain the measured rates at which particles are scavenged by rain from a kraft-process paper-mill plume. Weaknesses of the assumptions are noted as well as the value of further research._
+
+include::../modules/con_rain_scavenging_active_aerosol.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_rain_scavenging_active_aerosol_references.adoc[leveloffset=+2]
+
+===== Figures
+
+include::../modules/ref_rain_scavenging_active_aerosol_figures.adoc[leveloffset=+2]

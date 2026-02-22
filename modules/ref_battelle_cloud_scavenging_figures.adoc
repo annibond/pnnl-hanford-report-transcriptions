@@ -1,0 +1,14 @@
+[id="ref_battelle_cloud_scavenging_figures_{ref-battelle-cloud-scavenging-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Experiment Design Flow Chart (Neg 72227-3)
+
+[#img-rain-scavenge-plume-white]
+[caption="Battelle-Northwest In-Cloud Experiment Design Flow Chart", alt="{battelle-cloud-scavenging-overview-alt-white}"]
+image::{battelle-cloud-scavenging-overview-img-white}[Battelle-Northwest In-Cloud Experiment Design Flow Chart]
+
+[#img-rain-scavenge-plume-black]
+[caption="Battelle-Northwest In-Cloud Experiment Design Flow Chart", alt="{battelle-cloud-scavenging-overview-alt-black}"]
+image::{battelle-cloud-scavenging-overview-img-black}[Battelle-Northwest In-Cloud Experiment Design Flow Chart]
+
+NOTE: Both copies of the flow chart contain the same data, but the colors were inverted in the event diverse accessibility needs.

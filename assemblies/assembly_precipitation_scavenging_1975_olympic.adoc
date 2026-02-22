@@ -1,0 +1,19 @@
+[id="assembly_precipitation_scavenging_1975_olympic_{assembly-olympic-peninsula-storm}"]
+include::../attributes.adoc[]
+
+== Precipitation Scavenging Field Experiments in March 1975 on the Olympic Peninsula
+[.big]#{CEH} and {JAY}
+
+_Field operations during March 1975 which were a part of the precipitation scavenging research program are described, giving tentative conclusions regarding scavenging within weaker frontal storms and the use of chaff rockets in such experiments. Preliminary {doppd} velocity calculations from one storm are presented and the possible uses of this data discussed._
+
+include::../modules/con_precipitation_scavenging_1975_olympic.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_precipitation_scavenging_1975_olympic_references.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_precipitation_scavenging_1975_olympic_figures.adoc[leveloffset=+2]

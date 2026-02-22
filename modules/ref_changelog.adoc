@@ -5,11 +5,21 @@ include::../attributes.adoc[]
 
 === 2026
 
-==== 15 February 2026 - 21 February 2026, BNWL-2000, pp. 133-136, 139-145
+==== 22 February 2026 - 28 February 2026, BNWL-2000, pp. 145-150
 
-* Created ""
+* Created "Precipitation Scavenging Field Experiments in March 1975 on the Olympic Peninsula"
 
-* Created ""
+* Created "Rain Scavenging of Active Aerosol Particles from a Plume"
+
+* Created "The Battelle-Northwest in-Cloud Scavenging Program - An Overview"
+
+* Updated Glossary of Terms, Important Places & Locations, attributes
+
+==== 15 February 2026 - 21 February 2026, BNWL-2000, pp. 133-136, 139-144
+
+* Created "Synoptic Scale Wet and Dry Deposition"
+
+* Created "Washout Ratios for Particulate Pollution with an Application to Convective Storms"
 
 * Created "Approximations for the Precipitation Scavenging Rates for Polydisperse, Active, Aerosolized Pollutants"
 

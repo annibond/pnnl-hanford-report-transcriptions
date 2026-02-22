@@ -1,0 +1,41 @@
+[id="ref_rain_scavenging_active_aerosol_figures_{ref-rain-scavening-plume-figures}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Figure 1: The Collection Efficiency as a Function of Particle Size as Measured by Radke et al., and as Predicted by Theory (see text) (Neg 754519-8)
+
+[#img-rain-scavenge-plume-1]
+[caption="Collection Efficiency as a Function of Particle Size as Measured by Radke et al., and as Predicted by Theory", alt="{rain-scavenge-plume-alt-1}"]
+image::{rain-scavenge-plume-img-1}[Collection Efficiency as a Function of Particle Size as Measured by Radke et al., and as Predicted by Theory]
+
+Radke and Hindman’s 1975 model’s model was used to predict the amount of scavenged pollutant in the atmosphere for a tropical storm in the {OP} in Western {WA} in late 1975 (*Equation 1* in the report).
+
+.Equation 1
+[latexmath]
+++++
+\psi_{r} \; (\vec{r}, \; t; \; a) \; = \; \frac{{\rho}(\vec{r}, \, t)}{2R_m} \; E \; [a \, (a), \, R_m]
+++++
+
+Slinn criticized this model as insufficient to make predictions, as well as the study itself, because the equipment used to track rain scavenging wasn’t created for that purpose. It was created for different atmospheric conditions altogether. There are a few reasons why Slinn did not believe this model was sufficient:
+
+* They were explaining a scenario in which they used in-cloud scavenging, and the model did not account for the humidity of a cloud being 100%.
+
+* The model assumed _particle size a_ was representative of all particles in the atmosphere, which wasn’t the case. The model is set up to account for dry scavenging as opposed to wet scavenging. There is moisture in the air in Western Washington before the rain begins to fall.
+
+* As a result, it didn’t take into account particle growth as the storm progressed. The graph includes three dotted lines that continue the path that stem:[t \, = \, 10^1 \, sec], stem:[t \, = \, 10^2 \, sec], and stem:[t \, = \, 10^{-3} \, sec] actually took on site.
+
+All three lines are illustrative of the modeled prediction, and the dotted lines are reflective of Slinn’s sampled data. 
+
+The part of the diagram that illustrates *Inert Fraction* is part of Slinn's criticism. The aerosols in the model do not react to humidity, because it assumed the particles remained still in the air. This part of the graph shows that the inert fraction doesn't grow like it did in the real storm.
+
+The attachment rate variables include:
+
+* stem:[\alpha \, = \, \pi \, DRN]
+
+* stem:[R \, = \, 10 \, \mu m]
+
+* stem:[N \, = \, 10^3 \, cm^{-3}]
+
+The particle size stem:[R_m] being measured was approximately stem:[0.1 \, mm].
+
+The inert growth Slinn argued was not realistic was represented with stem:[a \, = \, a_{\sigma} \, + \, \frac{t {\mu}^2}{100 sec}]

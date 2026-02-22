@@ -1,0 +1,19 @@
+[id="ref_precipitation_scavenging_1975_olympic_figures_{ref-olympic-peninsula-storm-figures}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Figure 1: Dual Doppler Velocities Obtained from a Convective Storm on 16 March 1975 over the Olympic Peninsula (Neg 72112-1)
+
+[#img-olympic-peninsula-storm-1]
+[caption="Dual Doppler Velocities Obtained from a Convective Storm (1975)", alt="{olympic-penn-storm-alt-1}"]
+image::{rain-scavenge-plume-img-1}[Dual Doppler Velocities Obtained from a Convective Storm (1975)]
+
+This map of {NW} {WA} state shows the uncorrected velocity fluctuations that show the force and direction of the wind. There are three critical components to this map: 
+
+* Above the state line on the upper right side, there is an arrow pointing directionally toward the north at stem:[5 m/s], which means that wind in that area has a force of stem:[5 m/s].
+
+* The air patterns center or converge around the center part of the Washington landmass which is indicative of the atmospheric drain of tracer being sucked into a convective storm. 
+
+- There are also some light, scattered patterns heading towards the upper right corner of the state. These atmospheric conditions are impacted by the proximity toward the {PacO}.
+
+* These atmospheric conditions are impacted by the proximity to the coast at {oz-lake} where you can see some wind movement also converge in that area.
