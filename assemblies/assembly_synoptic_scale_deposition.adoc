@@ -1,0 +1,15 @@
+[id="assembly_synoptic_scale_deposition_{assembly-synoptic-scale-deposition}"]
+include::../attributes.adoc[]
+
+== Synoptic Scale Wet and Dry Deposition
+[.big]#{WGNS}#
+
+_It is demonstrated that atmospheric removal length scales for both wet and dry deposition of most industrial pollutants are typically in the range of 10^2^ to 10^4^._
+
+include::../modules/con_synoptic_scale_deposition.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_synoptic_scale_deposition_references.adoc[leveloffset=+2]

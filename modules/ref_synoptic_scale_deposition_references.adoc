@@ -1,0 +1,6 @@
+[id="ref_synoptic_scale_deposition_references_{ref-synoptic-scale-deposition-references}"]
+include::../attributes.adoc[]
+
+1. {WGNS}, "A Postulated Estimate of Wet Versus Dry Deposition Downwind of a Point Source of Pollution," [.underline]#{PNLAR} for 1973 to {USAEC-P3}#, {BN}, 1974.
+
+2. {FAH}, [.underline]#{AG}#, [.underline]#Vol. 15#, {HEL} and {JVM}, {AP}, NY, 1971.

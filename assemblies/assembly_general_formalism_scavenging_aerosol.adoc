@@ -1,0 +1,15 @@
+[id="assembly_general_formalism_scavenging_aerosol_{assembly-formal-scavenge-aerosol}"]
+include::../attributes.adoc[]
+
+== A General Scavenging Formalism for the Precipitation Scavenging for Aerosol Particles
+[.big]#{WGNS}#
+
+_From a continuity equation, general expressions are derived for the particle- and space-averaged precipitation scavenging rates for an aerosol pollutant. This formalism provided a framework for developing approximations for the removal rates._
+
+include::../modules/con_general_formalism_scavenging_aerosol.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_general_formalism_scavenging_aerosol_references.adoc[leveloffset=+2]

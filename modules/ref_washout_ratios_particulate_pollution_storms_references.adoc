@@ -1,0 +1,14 @@
+[id="ref_washout_ratios_particulate_pollution_storms_referebces_{ref-washout-storms-references}"]
+include::../attributes.adoc[]
+
+1. {CEJ}, [.underline]#Air Chemistry and Radioactivity#, Academic Press, NY, 1963.
+
+2. {LIG}, et al., "Coefficient of Radioactive Aerosol Concentration in Atmospheric Precipitation," [.underline]#{ASR}#, {BS} et al., eds., {transc} TT-69-55099 from NTIS.
+
+3. {RJE}, "Savenging Predictions Using Ratios of Concentrations in Air and Precipitation," [.underline]#Precipitation Scavenging - 1970#. {RJE} and {WGNS}, coords., {USAECS}, available as CONF-700601 from NTIS, 1970.
+
+4. {WGNS}, "Precipitation Scavenging - Some Problems, Approximate Solutions and Suggestions for Future Research," [.underline]#Precipitation Scavenging - 1974#, {RWB} and {RGS}, coords., to be published in the {ERDAS}, 1976.
+
+5. {DFG}, "Scavenging Ratio Measurements in METROMEX," [.underline]#ibid# as Slinn, 1975.
+
+6. {PM} et al., "Washout of Radioactive Isotopes and Chemical Compounds from the Atmosphere," [.underline]#{ASR}##, {BS} et al., eds. {transc} TT-69-55099 from NTIS.

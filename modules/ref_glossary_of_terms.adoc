@@ -58,6 +58,9 @@ stem:[Q = 0]
 |assay
 |investigative procedure to measure a specific substance or compound
 
+|asymptotic
+|the behavior of a function, formula, or system working as a variable as it approaches a limit (e.g., infinity)
+
 |atmospheric stability
 |the atmosphere’s ability to push air upwards, increasing the dispersion of radioactive emissions
 
@@ -161,6 +164,9 @@ stem:[F(x) = e^{-x^2} \int_{0}^{x} e^{t^2} dt]
 |deleterious
 |harmful
 
+|dendrite
+|a mass with a branch-like structure
+
 |deposition
 |the process by which particles are removed from the atmosphere and land on the ground
 
@@ -208,6 +214,11 @@ stem:[F(x) = e^{-x^2} \int_{0}^{x} e^{t^2} dt]
 
 |dust devil
 |a cyclonic storm of dust and debris, weaker and smaller than a tornado and formed during sunny, increasingly warm weather
+
+|e-fold
+|the interval between a growing or decaying quantity, which changs by a factor of _e_
+
+_~ 63.2% (1^-1/e^)_
 
 |eddy energy
 |kinetic energy associated with the swirling, turbulent motions a fluid (e.g., ocean, air)
@@ -283,11 +294,19 @@ J = -D dC / dx
 |force
 |the push or pull on an object, Newton's second law of physics, F = ma (Force = mass x acceleration)
 
+|Fourier number
+|dimensionless parameter in heat transfer that characterizes transient conduction
+
+stem:[{F_o} = \frac{\alpha t}{L^{2}}]
+
 |FP
 |f-factor in physics, a conversion between radiation exposure (roengens) to the absorbed dose (rads)
 
 |fractionation
 |the process of separating a mixture of isotopes or radionuclides into individual components
+
+|friction velocity
+|the impact of the wind stress on the surface below it
 
 |fusion
 |the process of combining atomic nuclei to form a heavier nucleus, releasing a massive amount of energy
@@ -307,7 +326,10 @@ J = -D dC / dx
 |geostrophic
 |the balance between the coriolis force and the horizontal pressure force in the atmosphere
 
-|half life (t 1/2)
+|graupel
+|soft hail
+
+|half life (stem:[t \frac{1}{2}])
 |time required for a quantity of a substance to reduce to half of its initial value through a process of exponential decay
 
 |hazards appraisal
@@ -327,6 +349,9 @@ J = -D dC / dx
 
 |heptoxide
 |chemical compound containing seven oxygen atoms in each molecule
+
+|horizontal diffusion
+|the mix or spread of substances horizontally
 
 |immiscible
 |two liquids that do not form a homogenous mixture when combined (e.g., oil and water)
@@ -614,6 +639,9 @@ stem:[\log_{b} {x} = y]
 |right-hand side (rhs)
 |the product of a chemical reaction
 
+|rimed snow
+|snowflakes that are coated in tiny frozen water droplets
+
 |roentgens
 |legacy (inactive) unit of measurement for x-rays and gamma rays
 
@@ -678,6 +706,9 @@ _Stk = τ~p~/τ~f~_
 |surface boundary conditions
 |rules that define what happens to things like neutrons or heat at the edge of a system
 
+|tall stacks
+|elevated vertical structures that discharge air, gases, and fumes from a nuclear facility's controlled area into the general atmosphere
+
 |tensor
 |a mathematical object that can describe the properties of a nucleus, a way to describe physical quantities that are more complex than a single number
 
@@ -711,10 +742,19 @@ _Stk = τ~p~/τ~f~_
 |viscosity
 |the thickness and stickiness in a semi-fluid substance
 
+|volume-mean droplet size
+|the average diameter of droplets in a spray (e.g., aerosol)
+
 |volumetric flow rate
 |the volume of a fluid that passes a certain point per unit of time
 
-|weather vane (vane)
+|washout
+|an instance in which a substance is rinsed out by heavy precipitation over a period of time
+
+|washout ratio
+|the rate at which a substance is washed out from an area over time
+
+|weather vane
 |a device used to show the direction of the wind
 
 |x-ray fluorescence (XRF)

@@ -1,0 +1,86 @@
+[id="con_washout_ratios_particulate_pollution_storms_{con-washout-storms}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+Washout ratios are defined to be the ratio of a pollutant’s concentration measured in (ground level) precipitation, stem:[\rho], to the pollutant’s concentration in (usually ground level) air, stem:[\chi]. Analyses of a considerable quantity of stem:[\rho / \chi] data (e.g., see Jungefootnote:1[C. E. Junge, Air Chemistry and Radioactivity, Academic Press, NY, 1963.], Gedeonov, et al.footnote:2[L. I.  Gedeonov, et. al., "Coefficient of Radioactive Aerosol Concentration in Atmospheric Precipitation," Atmospheric Scavenging of Radioisotopes, B. Styra et al., eds., transcribed from Russian and available as TT-69-55099 from NTIS.], Engelmannfootnote:3[R. J. Engelmann, "Savenging Predictions Using Ratios of Concentrations in Air and Precipitation," Precipitation Scavenging - 1970, R. J. Engelmann and W. G. N. Slinn, coords., USAEC Symposium Series, available as CONF-700601 from NTIS, 1970.]) have revealed the relatively small variations of these washout rates. Elsewhere the authorfootnote:4[W. G. N. Slinn, "Precipitation Scavenging - Some Problems, Approximate Solutions and Suggestions for Future Research," Precipitation Scavenging - 1974, R. W. Beadle and R. G. Semonin, coords., to be published in the ERDA Symposium Series, 1976.] emphasized qualitatively that the reason for this relative invariance is that these ratios represent multiple averages over the pertinent variables (such as precipitation size and type, particle size and type, pollutant distribution in the atmosphere, storm type, etc.). This report will demonstrate this concept quantitatively and compare the theoretical discussion with experimental data recently reported by Gatzfootnote:5[D.  F. Gatz, "Scavenging Ratio Measurements in METROMEX," ibid as Slinn, 1975.] of washout ratios for various particulate pollutants scavenged by convective storms.
+
+== Averages
+
+Here, rather than develop a single expression for the washout ratios which explicitly contains all appropriate averages, to simplify notation, averages will be evaluated at each stage of the analysis. Thus, for example, the rain scavenging rate (for both below- and in-cloud scavenging) is 
+
+.Equation 1
+[latexmath]
+++++
+\psi_{r} \; = \; \int \; dR \; E(a, R) \; N(R){\pi} R^2 \; v_t \; (R)
+++++
+
+where the symbols have their usual meaning. Now *Eq. (1)*, which is an average of the collection efficiency, stem:[E], over all drop sizes is approximated by
+
+.Equation 2
+[latexmath]
+++++
+\psi \; \approx \; \frac{p}{2R_m} \; E \; (a, R_m)
+++++
+
+where stem:[p] is the precipitation rate and stem:[R_m] is tube volume-mean raindrop radius. Similarly, for snow scavenging, one obtainsfootnote:4[]
+
+.Equation 3
+[latexmath]
+++++
+\psi \; \approx \; 10^6 \; \frac{cm}{sec^{2}} \frac{p}{{<v_t>}^2} \; E \; (a, \ell)
+++++
+
+where stem:[p] is the precipitation rate in rainwater equivalent, stem:[<v_t>] is an average fall speed for the ice crystals and stem:[\ell] is a characteristic capture length for the ice crystals, not necessarily related to crystal sizefootnote:4[].
+
+As shown elsewhere in this volume*, an approximation to the average of *Eq. (2)* and similarly for *Eq. (3)* over all particle sizes is 
+
+.Equation 4
+[latexmath]
+++++
+\begin{aligned}
+\overline{\psi}_r = \frac{p}{2R_m} \Bigg[ & F_{fo} \exp \{ -\overline{\alpha}t \} E \\
+& \left\{ \overline{a}_f \exp \left( \frac{7}{2} \sigma_f^2 \right), R_m \right\} + F_{go} E \\
+& \left\{ \overline{a}_{go} \exp \left( \frac{7}{2} \sigma_g^2 \right) + \left( \frac{t \mu m^2}{100 \text{ sec}} \right)^{1/2}, R_m \right\} \\
+& + F_{fo} \{ 1 - \exp(-\overline{\alpha}t) \} E(\lambda, R_m) \Bigg]
+\end{aligned}
+++++
+
+(the symbols are defined elsewhere*). For snow scavenging *Eq. (4)* is modified only by replacing stem:[p/2R_m] by the approximate terms from *Eq. (3)* and stem:[E] is replaced by _stem:[E]_.
+
+The space averaged removal for rain (and the obvious, similar expression for snow) is then
+
+.Equation 5
+[latexmath]
+++++
+< \overline{\psi}_r > \; = \; \frac{1}{Q_t} \int \; d \vec{r} \; \frac{p, \, (\vec{r}, \, t)}{2R_m} \; [E] \; \chi_{t} \; (\vec{r}, \, t)
+++++
+
+where, to save space stem:[[E]] has been written for the term in these brackets in *Eq. (4) *(and similarly for snow). In *Eq. (5)*, stem:[Q_t] is the total amount of pollutant in the volume over which the average is taken and stem:[\chi_{t}] is the total contaminant concentration, i.e.,  summed over all particle size.
+
+== Washout Ratios
+
+Now consider that washout ratio which is the ratio of the contaminant’s concentration in surface level participation, stem:[\kappa_{o}], to its concentration in surface level air stem:[\chi_{to}]. To obtain an expression for this ratio, it is noted that the rate of contaminant removal per unit volume is stem:[\psi \, \chi \, t]. If the contaminant’s distribution is fairly uniform horizontally, the flux of contaminant to the earth’s surface is stem:[\int \, \psi \, \chi_{t} \, dz]. The flux of precipitation to the surface is stem:[p_{o}]. Therefore, this washout ratio is
+
+.Equation 6
+[latexmath]
+++++
+\frac{\kappa_{o}}{\chi_{to}} \; = \; \frac{1}{p \chi_{to}} \; \int_{o}^{H} \; \psi \chi_{t} \; dz
+++++
+
+A special case of some interest is if the contaminant’s concentration is distributed initially, fairly uniformly within the atmosphere mixed layer. If this layer is then scavenged by the updraft and subsequent rain shower from a convective storm, *Eq. (6)* with *Eq. (5)* (and similarly for solid precipitation) leads to
+
+.Equation 7
+[latexmath]
+++++
+\frac{\kappa_{o}}{\chi_{to}} \; = \; \frac{[E]h}{2R_m}
+++++
+
+where stem:[h] is an unknown depth within the cloud from which the pollutant is effectively scavenged. An estimate for stem:[h] can be found from the general behavior of the experimental data.
+
+== Results and Conditions
+
+The analysis presented above demonstrates that washout ratios are averages over a considerable number of variables and, since inherent in any averaging process is a smoothing of variability, it can be expected that washout ratios are relatively variant for different aerosolized pollutants and different storm types. *Equation (7)* predicts that the washout ratios for aerosol particles are independent of precipitation rate, stem:[p], except for the weak dependence of stem:[R_m] (and, similarly, of stem:[<vt>]) on stem:[p]. This is a result well substantiated by field data (e.g., see Makhon’ko et al.footnote:6[P. Makhon’ko, et al., "Washout of Radioactive Isotopes and Chemical Compounds from the Atmosphere," Atmospheric Scavenging of Radioisotopes, B. Styra et al., eds. transcribed from Russian and available as TT-69-55099 from NTIS.], Engelmannfootnote:3[], and Gatzfootnote:5[] are reasonably well described by *Eq. (7)*, recognizing that neither the polydispersity nor the condensational growth rate of the particles is known.
+
+NOTE: _*_ See "Approximations for the PrecipitationScavenging Rates for Polydisperse, Active, Aerosolized Pollutants."

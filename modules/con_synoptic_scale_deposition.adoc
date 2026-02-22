@@ -1,0 +1,91 @@
+[id="con_synoptic_scale_deposition_{con-synoptic-scale-deposition}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+In an earlier reportfootnote:1[W. G. N. Slinn, "A Postulated Estimate of Wet Versus Dry Deposition Downwind of a Point Source of Pollution," PNL Annual Report for 1973 to U.S. AEC DBER, BNWL-1850 PT 3, Battelle-Northwest, 1974.] wet and dry deposition near a specific population source were compared. It was estimated that during rain, the ratio of dry deposition was approximately
+
+.Equation 1
+[latexmath]
+++++
+\frac{W}{D} = c \frac{p}{R_m} \frac{\bar{u} h}{u_*^2} \left( \frac{\sigma_z}{h} \right) \exp \left( \frac{h^2}{2 \sigma_z^2} \right)
+++++
+
+where stem:[p] is the rainfall rate, Rm is the volume-mean drop size, stem:[\overline{u}] is the wind speed, stem:[h] is the height of the release, stem:[u*] is the friction velocity, stem:[\sigma_z^2] is the variance characterizing the vertical diffusion and stem:[c] is a numerical factor. The choice stem:[c = 0.2] provided a fair fit to experimental data. This report extends the analysis to consider wet and dry deposition at larger space scales. For these scales it is assumed that the height of the pollution release is unimportant; for the estimate of dry deposition the pollution concentration is assumed uniform in the atmosphere mixed layer, of height stem:[H].
+
+== Dry Deposition Length Scale
+
+If the average concentration of the pollutant in the mixed layer (of height stem:[H] and with mean wind stem:[\overline{u}]) is stem:[\chi] and if horizontal diffusion is ignorable, the z-averaged steady-state continuity equation becomes
+
+.Equation 2
+[latexmath]
+++++
+\overline{u} \; \frac{\partial}{{\partial}x} \; (H \; \overline{\chi}) \; = \; - \; v_d \, \overline{\chi}
+++++
+
+Therefore, the e-fold dry-deposition length scale is
+
+.Equation 3
+[latexmath]
+++++
+\lambda_d \; = \; \frac{\overline{u}H}{v_d}
+++++
+
+This can predict substantially different numerical values. For example, over a forest in winter, if stem:[\overline{u} \, = \, 5 \, m \, sec^{-1}], stem:[H = 200 \, m] and stem:[v_d = 10 \, cm \, sec^{-1}], then stem:[d ~ 10 \, km]. At the other extreme, say for stem:[0.1 \, m] particles over water during a well-mixed summer day, with stem:[\overline{u} \, = \, 5 \, m \, sec^{-1}], stem:[H \, = \, 2 \, km] and stem:[v_d = 0.1 \, cm \, sec^{-1}], then stem:[d ~ 104 \, km]. Typically, though, stem:[10^2 \; \le \; \lambda_{d} \; \le \; 10^3 \, km] and thus sources stem:[100 - 1000 \, km] upwind of a given area can be expected to make a major contribution to the dry deposition of pollution in that area.
+
+== Wet Deposition Scale Length
+
+To estimate the length scale over which wet deposition significantly contributes to the total deposition, it is not profitable to pursue a washout model which leads to an expression such as
+
+.Equation 4
+[latexmath]
+++++
+\overline{u} \; \frac{{\partial} \overline{x}}{\partial x} \; = \; - \; < \overline{\psi} > \overline{x}
+++++
+
+where stem:[< \overline{\psi} >] is an average participation scavenging rate. This predicts an e-fold length of stem:[10 \, - \, 100 \, km]. Obviously *Eq. (4)* is not relevant to the problem of interest because, at best, *Eq. (4)* is applicable only during precipitation.
+
+The space scale of interest can be deduced from the following considerations:
+
+* For the large scale problem, most wet removal occurs by the incorporation of the pollutant within a storm system, i.e., by in-cloud scavenging;
+
+* In-cloud scavenging typically removes _10 - 90%_ of the pollutant ingested by the storm, depending on the efficiency with which the storm removes; 
+
+* The wet-removal space scale is dictated by the distance over which the material is transported before it encounters a storm which efficiently removes precipitation.
+
+Consequently, from the large scale, precipitation scavenging can be viewed to a first approximation as a Poisson process in time. A scavenging event occurs (and as a first approximation we assume the event completely cleanses the atmosphere) simultaneously with the occurrence of an “efficient” storm system. The deposition pattern is then estimated to be that for a Poisson process; the probability that a deposition event occurs during the time period stem:[(o - t)] is
+
+.Equation 5
+[latexmath]
+++++
+1 \; \{ in \; o \; - \; t \} \; \overline{\nu} \; t \; exp \; \{ - \; \overline{\nu} \; t \}
+++++
+
+where stem:[\overline{\epsilon}] is the average number of events over a long time interval. If statistics for the storm frequency, stem:[\nu], are approximately the same for any area within the length scale stem:[\overline{u} \, / \, \overline{\nu}], then stem:[t] in *Eq. (5)* can be replaced by stem:[x/u]. In this way, the statistics of scavenging events is reduced to a study of the statistics of rain events and the wet deposition e-fold length scale is
+
+.Equation 6
+[latexmath]
+++++
+\lambda_w \, = \, \overline{u} / \overline{\nu} \overline{\epsilon}
+++++
+
+where stem:[\overline{\epsilon}] is the average efficiency with which the pollutant is removed by an average storm.
+
+As an example of these considerations, consider wet deposition in the northeastern U.S. From statistics presented by Hufffootnote:2[F. A. Huff, Advances in Geophysics, Vol. 15, H. E. Landsberg and J. Van Mieghen, eds., Academic Press, NY, 1971.], _67%_ of the storms in east central Illinois, during 1955-1964, lasted less than 1 day. For the 50-year period, 1906-1955, _63%_ of the total precipitation occurred at a rate of stem:[0.1 \, - \, 1 \, in. \, / \, day]. Roughly if these two statistics are incorporated with a typical annual precipitation of 40 in./year, we obtain that on the average, an efficient (stem:[~0.5 \, in.] precipitation) storm occurs once in every 4.5 days. If this result is typical for the region, then in *Eq. (6)* we have stem:[\overline{\nu} = (4.5 d)^{-1}] and, therefore, stem:[10^2 \, \le \, \lambda_w \, \le \, 10^4 \, km], depending on the wind speed and stem:[\overline{\epsilon}].
+
+== Wet Versus Dry Deposition
+
+The above considerations imply the wet and dry e-fold length scales can be obtained by estimating the relative fluxes. The dry flux is approximately stem:[v_d \, \overline{\chi}]. The wet flux by in-cloud scavenging during rain is roughly stem:[10^5 \, - \, 10^6 \, p \, \overline{\chi}] where stem:[p] is the precipitation rate. Then, accounting for the durations over which each flux operates and for a total precipitation of stem:[100 \, cm \, / \, year^{-1}], we obtain
+
+.Equation 7
+[latexmath]
+++++
+\frac{W}{D} \; = \; \frac{(10^5 \, - \, 10^6) \; (100 \, cm \, yr^{-1})}{(0.3 \, - \, 3 \, cm \, sec^{-1}) \; (3 \, x \, 10^7 \, sec \, yr^{-1})} \; \approx 0(1)
+++++
+
+That is, to within an order of magnitude and consistent with the other analysis in this report, it appears that in the northeastern U.S., wet and dry processes contribute comparable amounts to the total deposition.
+
+== Comments
+
+The space scale for removal from the atmosphere of industrial pollutants such as SO~2~ and SO~4~ = estimated to be typically stem:[10^2 \, - \, 10^4 \, km]. From this estimate arises a strong argument against the "tall stack solution" to the pollution problem. Of course, tall stacks can reduce the local air pollution and diffusion will dilute the contribution from a specific source, but as the distribution of sources become more diffuse and ubiquitous, diffusion becomes of no significance to the receptor. Tall-stacks are a "solution" for one nation only if that nation is small or if, for example, the 200 new coal-fired plants to be constructed in the U.S. during the next decade are distributed: 100 near Cape Cod and the other 100 near Cape Hatteras - and the load is shunted between the two centers, depending on which site has westerly winds!

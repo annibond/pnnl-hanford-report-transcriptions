@@ -1,0 +1,19 @@
+[id="assembly_approximations_precipitation_scavenging_polydisperse_{assembly-approx-scavenging}"]
+include::../attributes.adoc[]
+
+== Approximations for the Precipitation Scavenging Rates for Polydisperse, Active, Aerosolized Pollutants
+[.big]#{WGNS}#
+
+_Approximations for the distribution among, and evolution of, different classes (free, growing and hosted) of aerosol pollutant are introduced into a general expression for the (below- or in-cloud) precipitation scavenging rate. The transparent result demonstrates the dependence of the average removal rate on time and the polydispersity of the aerosol._
+
+include::../modules/con_approximations_precipitation_scavenging_polydisperse.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_approximations_precipitation_scavenging_polydisperse_references.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_approximations_precipitation_scavenging_polydisperse_figures.adoc[leveloffset=+2]

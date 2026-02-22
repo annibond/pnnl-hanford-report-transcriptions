@@ -20,3 +20,10 @@ The following reports indicate progress made during the past year in these field
 * Precipitation scavenging
 
 * Precipitation scavenging in MAP3S
+
+include::../assemblies/assembly_comments_diffusive_deposition_fourier.adoc[leveloffset=+1]
+include::../assemblies/assembly_precipitation_scavenging_aerosol.adoc[leveloffset=+1]
+include::../assemblies/assembly_general_formalism_scavenging_aerosol.adoc[leveloffset=+1]
+include::../assemblies/assembly_approximations_precipitation_scavenging_polydisperse.adoc[leveloffset=+1]
+include::../assemblies/assembly_washout_ratios_particulate_pollution_storms.adoc[leveloffset=+1]
+include::../assemblies/assembly_synoptic_scale_deposition.adoc[leveloffset=+1]

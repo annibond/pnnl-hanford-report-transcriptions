@@ -1,0 +1,5 @@
+include::../attributes.adoc[]
+
+1. {WGNS}, "Some Approximations for the Wet and Dry Removal of Particles and Gases from the Atmosphere," BNWL-SA-5489, [.underline]#{PISAPFE}# and submitted to the [.underline]#{JAWSP}#, 1976.
+
+2. {JMH}, "Fundamentals of the Theory of Gas Scavenging by Rain," [.underline]#{AEv}#, Vol. 6, pp. 635-639.

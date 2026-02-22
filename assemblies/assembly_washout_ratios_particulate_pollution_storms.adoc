@@ -1,0 +1,19 @@
+[id="assembly_washout_ratios_particulate_pollution_storms_{assembly-washout-storms}"]
+include::../attributes.adoc[]
+
+== Washout Ratios for Particulate Pollution with an Application to Convective Storms
+[.big]#{WGNS}#
+
+_General expressions for washout ratios are derived which demonstrate that these ratios represent averages over many variables. Comparison of the theory is made with recent field data._
+
+include::../modules/con_washout_ratios_particulate_pollution_storms.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_washout_ratios_particulate_pollution_storms_references.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_washout_ratios_particulate_pollution_storms_figures.adoc[leveloffset=+2]

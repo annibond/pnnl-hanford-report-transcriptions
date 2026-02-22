@@ -1,0 +1,77 @@
+[id="con_comments_diffusive_deposition_fourier_{con-deposition-fourier}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+Further to the stimulating approach used by Pichfootnote:1[J. Pich, "Theory of Diffusive Deposition of Particles in a Sphere and in a Cylinder at Small Fourier Numbers," Atmospheric Environment, in press, 1975.] to calculate the diffusive deposition of particles on various surfaces at small values of _Fo = Dt/a^2^_, it may be of some interest to demonstrate how solutions useful for small Fo can be found directly from the diffusion equation using the methods discussed, for example, in Carslaw and Jaegerfootnote:2[H. S. Carslaw and J. C. Jaeger, Operational Methods in Applied Mathematics, Dover Publishing, Inc., New York, NY, 1963.].
+
+For the case internal to a sphere, a Laplace transform of Pich’s *Eq. (2)* hereafter his equations will be referenced by number, (e.g., P-2) leads
+
+.Equation 1
+[latexmath]
+++++
+\hat{n} (r, s) \approx \frac{n_o}{s} \bigg[l - \frac{a}{r} \frac{sinh}{sinh} \frac{qr}{qa} \bigg]
+++++
+
+where _q = (s / D)^1/2^_, s is the Laplace transform parameter, and where other notation is, and will be, as in Piuch although _r_ will be used instead of _λ_ for the radial coordinate. Inverting *Eq. (1)* (e.g., see Erdélyifootnote:3[A. Erdélyi, ed. Tables of Integral Transforms, Vol. 1, Bateman Manuscript Project, McGraw Hill, New York, NY, 1954.]) yields P-3 which as Pich notes, is not convenient for evaluations at small Fo since the series converges but slowly. To obtain a more convenient small Fo solution, *Eq. (1)* is expanded for large _s_ and then inverted term by term. The result is 
+
+.Equation 2
+[latexmath]
+++++
+\frac{n(r,t)}{n_o} = 1 - \frac{a}{r} \sum_{k=0}^{\infty} \left[ \text{erfc} \left\{ \frac{(2k+1)a - r}{2(Dt)^{1/2}} \right\} - \text{erfc} \left\{ \frac{(2k+1)a + r}{2(Dt)^{1/2}} \right\} \right]
+++++
+
+which converges for all Fo and for small Fo require the retention of only a few terms to obtain and accurate approximation. 
+
+To illustrate the last statement a comparison will be made with numerical values for _[.overline]#n# / n~o~_ given by Pich. From P-4 and P-10 (or, more directly, by averaging P-2 over the sphere) one obtains
+
+.Equation 3
+[latexmath]
+++++
+\frac{d \overline{n}}{dt} = \frac{3}{a} D \frac{\partial n}{\partial r} |_{r = a}
+++++
+
+A Laplace transform of *Eq. (3)* and the use of *Eq. (1)* leads to
+
+.Equation 4
+[latexmath]
+++++
+\frac{\tilde{\hat{n}}(s)}{n_o} = \frac{1}{s} + \frac{3D}{as^2} \left[ \frac{1}{a} - q \frac{\cosh qa}{\sinh qa} \right]
+++++
+
+Expanding *Eq. (4)* for large _s_, inverting and then expanding the complementary error functions for small Fo yield the asymptotic expansion
+
+.Equation 5
+[latexmath]
+++++
+\frac{\bar{n}}{n_o} \sim 1 - \frac{6 \, \text{Fo}^{1/2}}{\sqrt{\pi}} + 3 \, \text{Fo} + \dots
+++++
+
+For _Fo = (10 π^2^)^-1^_, Pich gives the exact solution as 68.98% while P-31 yields 69.65%. For comparison, *Eq. (5)* yields 68.97%.
+
+Similarly, for the case of deposition inside a cylinder one obtains from P-16
+
+.Equation 6
+[latexmath]
+++++
+\hat{n}(r, s) = \frac{n_o}{s} \left[ 1 - \frac{I_0(qr)}{I_0(qa)} \right]
+++++
+
+where _I~o~_ is a modified Bessel functionfootnote:4[M. Abramowitz and I. A. Stegun, eds. Handbook of Mathematical Functions, NBS Applied Mathematics, Series 55, Superintendent of Documents, U.S. Government Printing Office, Washington, D.C., 20402, 1964.]. The solving
+
+.Equation 7
+[latexmath]
+++++
+\frac{d \overline{n}}{dt} = \frac{2}{a} D \frac{\partial m}{\partial r} |_{r = a}
+++++
+
+in a manner similar to the case for a sphere leads to
+
+.Equation 8
+[latexmath]
+++++
+1 - \frac{\bar{n}(t)}{n_o} \sim \frac{4 \, \text{Fo}^{1/2}}{\sqrt{\pi}} - \text{Fo} - \frac{11}{24} \frac{\text{Fo}^{3/2}}{\sqrt{\pi}} + \dots
+++++
+
+For the problem deposition external to a sphere I~o~ in *Eq. (6)* is replaced by the modified Bessel function Ko and one finds that the only change in *Eq. (8)* is the replacement of the term - Fo by + Fo. The utility of this result is demonstrated in *Table 1* (which is Pich’s *Table 1*) with an additional column). However this comparison should not distract attention from the simplicity and presumed applicability of Pich’s method for more complicated geometries.
+
+NOTE: _*_ To be published Atmospheric Environment, 1976.

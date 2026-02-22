@@ -1,0 +1,19 @@
+[id="assembly_comments_diffusive_deposition_fourier_{assembly-deposition-fourier}"]
+include::../attributes.adoc[]
+
+== Comments on Diffusive Deposition at Smaller Fourier Numbers
+[.big]#{WGNS}#
+
+_Expanding the Laplace transformed equations for diffusive deposition yields asymptotic solutions useful for small Fourier numbers._
+
+include::../modules/con_comments_diffusive_deposition_fourier.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_comments_diffusive_deposition_fourier_references.adoc[leveloffset=+2]
+
+==== Tables
+
+include::../modules/ref_comments_diffusive_deposition_fourier_table-1.adoc[leveloffset=+2]

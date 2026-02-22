@@ -1,0 +1,15 @@
+[id="assembly_precipitation_scavenging_aerosol_{assembly-precipitation-scavenging-aerosol}"]
+include::../attributes.adoc[]
+
+== Precipitation Scavenging of Monodisperse Aerosol Particles*
+[.big]#{WGNS}#
+
+_Formulas are suggested for the approximate description of below- and in-cloud, rain and snow scavenging of monodisperse aerosol particles._
+
+include::../modules/con_precipitation_scavenging_aerosol.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_precipitation_scavenging_aerosol_references.adoc[leveloffset=+2]

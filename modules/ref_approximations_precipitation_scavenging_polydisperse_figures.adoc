@@ -1,0 +1,29 @@
+[id="ref_approximations_precipitation_scavenging_polydisperse_figures_{ref-approx-scavenging-figures}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Figure 1: A Schematic Illustration of the Contaminant’s Assumed Distribution (Neg 754519-2)
+
+[#img-approx-scavenging-1]
+[caption="A Schematic Illustration of the Contaminant’s Assumed Distribution", alt="{approx-scavenging-alt-1}"]
+image::{approx-scavenging-img-1}[A Schematic Illustration of the Contaminant’s Assumed Distribution]
+
+The schematic shows the three particle classes in the distribution, represented by stem:[\chi_{f} + \chi_{g} + \chi_{h}] including:
+
+* *Free:* stem:[\chi_{f}]
+
+* *Growing:* stem:[\chi_{g}]
+
+* *Hosted:* stem:[\chi_{h}]
+
+== Figure 2: An Illustrative Example of Equation (8) for the Choice of Parameters Shown (Neg 754519-12)
+
+[#img-approx-scavenging-2]
+[caption="An Illustrative Example of Equation (8)", alt="{approx-scavenging-alt-2}"]
+image::{approx-scavenging-img-2}[An Illustrative Example of Equation (8)]
+
+The graph above demonstrates:
+
+* Strong dependence of the mass-averaged removal rate on the polydispersity of the aerosol (stem:[\sigma]).
+
+* Time for attachment and condensational growth.
