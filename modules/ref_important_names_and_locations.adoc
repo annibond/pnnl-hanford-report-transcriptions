@@ -17,6 +17,10 @@ include::../attributes.adoc[]
 |Columbus, OH (primary)
 |Nonprofit research and development organization that contributed to the Manhattan Project
 
+|{DNA}
+|{DC}
+|Former {US} federal agency established after the {CW} under the {DOE} that handled the testing, safety, and management of nuclear weapons, which later became the {US} {DTRA}
+
 |Energy Research and Development Administration (ERDA)
 |{WA}, D.C.
 |Former {US} federal agency established from the split of the Atomic Energy Commission (AEC) 1975, later merged with the {US} Department of Energy in 1977
@@ -52,7 +56,7 @@ https://en.wikipedia.org/wiki/Green_Run[Wikipedia - Green Run]
 |Active volcano a part of the {CMR}, 98 miles (_~ 157.72 km_) south of {sea} and 52 (_~ 83.69 km_) {ne} of {port}, {OR}, named Lawetlat'la to the local Cowlitz nation (pronounced lah-weight-lot-lah)
 
 |{NAAQS} (NAAQS)
-|{WA} D.C.
+|{DC}
 |Set of regulations set by the {US} Environmental Protection Agency (EPA) to protect public health from carbon monoxide, lead, nitrogen dioxide, ozone, particulate matter, and sulfure dioxide
 
 https://www.youtube.com/watch?v=Plr7_SAuB6g[EPA, EPA, EPA!]
@@ -61,9 +65,21 @@ https://www.youtube.com/watch?v=Plr7_SAuB6g[EPA, EPA, EPA!]
 |{PB}, AK
 |Site for nuclear testing on nearby Amchitka Island, which hosted Project Long Shot (1965) and Project Milrow (1969)
 
+|{NOAA} (NOAA)
+|{boul}, {CO}
+|{US} federal agency that monitors, predicts, and manages the Earth's atmosphere, oceans, and coasts, with multiple agencies underneath it set to shut down between 2028 and 2029 under the second term of the Trump Administration
+
 |{NTIS}
 |{alex}, {VA}
 |Agency within the {DOC} that serves as a central repository for scientific, technical, and business information uncovered by research govered by the {US} government with the aim of making that knowledge accessible to corporations, academic institutions, and potential entrepreneurs and "innovators"
+
+|{NWS} (NWS)
+|Silver Spring, {MD}
+|Federal agency under the {NOAA} that provides weather, water, and climate forecasts, warning, and data for the {US} and its territories, with many of its contracts terminated under the second term of the Trump Administration in March and April 2025
+
+|{oz-lake}
+|Makah Indian Reservation in Clallam County
+|Lake that served as a zero point for incoming air from the {OP}. Its "clean" air makes it as close to a neutral starting point as the most neutral place researchers could use through the {PNL}'s sensors
 
 |{PNL}
 |{rich}, WA
@@ -94,6 +110,11 @@ https://www.youtube.com/watch?v=Plr7_SAuB6g[EPA, EPA, EPA!]
 |a coporation founded in 1914 that produced uranium and developed radioluminescent paint, responsible for the infamous Radium Girls case in which workers in their plant died slowly from radiation poisoning
 
 https://en.wikipedia.org/wiki/Radium_Girls[Radium Girls]
+
+|{WPL} (WPL)
+|{boul}, {CO} (historical)
+{hous}, {TX}
+|Federal agency under the {NOAA} that investigates how energy waves (i.e., acoustic, seismic, optical, or mechanical) travel through different mediums, unknown status of its current government contract or expiration datea
 
 |===
 

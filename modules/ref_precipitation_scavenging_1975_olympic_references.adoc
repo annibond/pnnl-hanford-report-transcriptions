@@ -1,0 +1,8 @@
+[id="ref_precipitation_scavenging_1975_olympic_references_{ref-olympic-peninsula-storm-figures}"]
+include::../attributes.adoc[]
+
+1. {CEH} and {JAY}, "Design for In-Cloud Scavenging Experiments on the Olympic Peninsula," (this report).
+
+2. {JMH}, "Development of a DC-3 for Atmospheric Pollution Research," this volume.
+
+3. {WED} and {JAY}, "Results of In-Cloud Tracer Releases in Frontal Storms," [.underline]#{PNLAR} for 1974 to the {USAEC-P3}#,  BNWL-1950, {bat}, {PNL}, {rich}, WA, pp. 119-134, 1975.

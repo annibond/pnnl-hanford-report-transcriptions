@@ -1,0 +1,12 @@
+[id="ref_rain_scavenging_active_aerosol_references_{ref-rain-scavening-plume-references}"]
+include::../attributes.adoc[]
+
+1. {WGNS}, "Precipitation Scavenging - Some Problems, Approximations and Suggestions for Future Research," [.underline]#{PS} - 1974#, {RWB} and {RGS}, coords., {ERDAS}, CONF-741014, available from NTIS, {spring}, VA, 1975.
+
+2. {LFR}, {EEH} and {PVH}, "A Case Study of Rain Scavenging from a Kraft-Process Paper Mill Plume," [.underline]#{PS} - 1974#, {RWB} and {RGS}, coords., {ERDAS}, CONF-741014, available from NTIS, {spring}, VA, 1975.
+
+3. {WGNS}, "Some Approximations for the Wet and Dry Removal of Particles and Gases from the Atmosphere," BNWL-SA-5489, submitted for publication, [.underline]#{JAWSP}#, 1976.
+
+4. {WGNS}, "Time Constants for Cloud Seeding and Tracer Experiments," [.underline]#{JAS}#, [.underline]#28#, 1509-1511, 1971.
+
+5. {CEJ}, [.underline]#{ACR}#, {AP}, {NY}, 1963.

@@ -103,6 +103,9 @@ stem:[Q = 0]
 |centerline concentration
 |maximum concentration of emissions measured across the center of a plume
 
+|{cess}
+|an airplane which used a propeller and was non-pressurized, used for capturing real-time weather data in the atmosphere
+
 |CIE/Q
 |relevant data points include nucleus, nuclear energy, nuclear fission, nuclear fusion, and nuclear radiation
 
@@ -111,6 +114,12 @@ stem:[Q = 0]
 
 |coagulation
 |the process by which a liquid changes to a solid or semi-solid state
+
+|collection coefficient
+|a measurement that ranges from _-1_ to _1_ that describes the strength and direction of a linear relationship
+
+|confluent flow
+|the flow of the rain during a convective storm towards the area where tracers are sucked into the storm
 
 |convective
 |the movement caused inside a fluid by heat distribution
@@ -152,6 +161,9 @@ stem:[\frac{\delta}{\Phi} = 0]
 
 |cubic feet per minute (cfm)
 |measurement for airflow over time
+
+|{DC3}
+|an airplane which used a propeller that made air travel profitable without needing government subsidies
 
 |Dawson's integral (function)
 |a mathematical equation used in problems related to heat and spectroscopy
@@ -205,6 +217,9 @@ stem:[F(x) = e^{-x^2} \int_{0}^{x} e^{t^2} dt]
 
 |disintegration ratio rate
 |the rate of disintegration and the ratio of the decayed portion to the total
+
+|{doppr}
+|The primary tracking system used for tracking the atmospheric conditions in the {US} including the location, speed, and direction of moving objects (e.g., rain, snow, airplanes), invented in the mid-1940's
 
 |downwind
 |something or somewhere positioned in the direction of the wind
@@ -419,6 +434,9 @@ stem:[{F_o} = \frac{\alpha t}{L^{2}}]
 |KSCM compounds (KSCM)
 |synthesized benzofuran compounds, dpm/kscm = disintegrations per 1000 standard cubic meters (dpm/kscm)
 
+|kraft-process
+|a visible particle emission (i.e., water vapor plume)
+
 |Lagrangian
 |tracks the motion of individual particles, measuring their position, velocity, and acceleration overtime by following them through a fluid
 
@@ -476,6 +494,9 @@ stem:[\log_{b} {x} = y]
 
 |metalloids
 |elements that exhibits some metal and some nonmetal properties
+
+|meteorological radar unit
+|a system that emits radio frequency pulses to detect atmospheric particles
 
 |microdosimetry
 |the study of how energy from ionized radiation is distributed randomly on the subatomic level
@@ -552,6 +573,9 @@ stem:[\log_{b} {x} = y]
 |orthogonal
 |at a right angle
 
+|paper-mill plume
+|a concentration of pollutants released from a pulp and paper mill into the atmosphere
+
 |partition coefficient
 |the ratio of a substance's concentration in one liquid phase to its concentration in a second, immiscible liquid phase
 
@@ -563,6 +587,11 @@ stem:[\log_{b} {x} = y]
 
 |perchclorate (_ClO [.overline]#~4~#_)
 |compounds containing the perchlorate anion
+
+|Péclét number
+|a dimensionless value that represents the ratio of particle diffusion
+
+stem:[Pe \; = \; \frac{Advective \, Transport \, Rate}{Diffusive \, Transport \, Rate}]
 
 |permittivity  (_ε_)
 |the measurement of a substance's ability to permit electric field lines to pass through, _ε~0~_ representing how it functions in a vacuum
@@ -636,6 +665,11 @@ stem:[\log_{b} {x} = y]
 |resuspension
 |the process by which particles that have approached or struck a surface are kicked back into the air through a force of air
 
+|Reynolds number
+|a dimensionless value that represents the ratio of inertial forces to viscous forces as fluid flow
+
+stem:[Re \; = \; \frac{\rho} \, V \, L {\nu}]
+
 |right-hand side (rhs)
 |the product of a chemical reaction
 
@@ -650,6 +684,11 @@ stem:[\log_{b} {x} = y]
 
 |scalar
 |having only a quantity of magnitude (but no direction)
+
+|Schmidt number
+|a dimensionless value that represents the ratio of momentum diffusivity to mass diffusivity (D)
+
+stem:[Sc \; = \; \frac{\nu}{D} \; = \; \frac{\mu}{{\rho} \, D}]
 
 |sedimentation
 |the process by which particles fall through the air by gravityand settle on a surface beneath
@@ -756,6 +795,9 @@ _Stk = τ~p~/τ~f~_
 
 |weather vane
 |a device used to show the direction of the wind
+
+|wind field information
+|detailed overview of the distribution of wind velocity vectors including speed and direction
 
 |x-ray fluorescence (XRF)
 |analytical technique that identifies the elemental composition of a material

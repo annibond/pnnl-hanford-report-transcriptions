@@ -1,0 +1,61 @@
+[id="con_rain_scavenging_active_aerosol_{con-rain-scavening-plume}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+Elsewherefootnote:1[W. G. N. Slinn, "Precipitation Scavenging - Some Problems, Approximations and Suggestions for Future Research," Precipitation Scavenging - 1974 , R. W. Weadle and R. G. Semonin, coords., ERDA Symposium Series, CONF-741014, available from NTIS, Springfield, VA, 1975.], the author has suggested that the in- or below-cloud rain scavenging rate for the removal of monodisperse aerosol particles of radius a could be approximated by
+
+.Equation 1
+[latexmath]
+++++
+\psi_{r} \; (\vec{r}, \; t; \; a) \; = \; \frac{{\rho}(\vec{r}, \, t)}{2R_m} \; E \; [a \, (a), \, R_m]
+++++
+
+where stem:[\rho] is the rainfall rate (which may depend on the position, stem:[\vec{r}], and time, t); stem:[R_m] is the volume-mean raindrop radius and stem:[E] is the collection efficiency. For unit retention efficiency a semiempirical expression
+
+.Equation 2
+[latexmath]
+++++
+\begin{aligned}
+E(a, R_m) = & \frac{4}{Pe} \left[ 1 + 0.4 \, Re^{1/2} Sc^{1/3} \right] \\
+& + 4\kappa \cdot \left[ \kappa + \frac{(1 + 2 \, V\kappa)}{(1 + VRe^{-1/2})} \right] \\
+& + \left[ \frac{s - s_*}{s + c} \right]^{3/2}
+\end{aligned}
+++++
+
+where
+
+* stem:[Pe = Re Sc] is the Péclét number;
+
+* stem:[Re = {R_m} \, {v_t} \, / \, {\nu}] is the Reynold’s number in which vt is the mean-volume drop terminal velocity and  is the kinematic viscosity of air;
+
+* stem:[Sc \; = \; {\nu}/D] is the Schmidt number where D is the molecular diffusivity of the particles;
+
+* stem:[\kappa \; = \; a/R_m] is the interception parameter;
+
+* stem:[V \; = \; {\mu}_w/{\mu}_a] is the ratio of dynamic viscosities of water to air;
+
+* stem:[s(> \, s_*) \; = \; {\tau} v_t \,/ \, R] is the Stokes number where  is the particle relaxation time;
+
+* stem:[c = \frac{2}{3} \; - \; s_*];
+
+* stem:[s_* \; = \; [\frac{12}{10} \; + \; \frac{1}{12} \; ln \; (! \; + \; Re)] \; / \; [1 \; +  1\; ln \; (1 \; + \; Re)]] is an empirical fit to the critical Stokes number.
+
+This report compares these predictions with the experimental results obtained by Radke, Hindman, and Hobbsfootnote:2[L. F. Radke, E. E. Hindman and P. V. Hobbs, "A Case Study of Rain Scavenging from a Kraft-Process Paper Mill Plume," Precipitation Scavenging - 1974, R. W. Beadle and R. G. Semonin, coords., ERDA Symposium Series, CONF-741014, available from NTIS, Springfield, VA, 1975.]. A more complete description of the comparison is given elsewherefootnote:3[W. G. N. Slinn, "Some Approximations for the Wet and Dry Removal of Particles and Gases from the Atmosphere," BNWL-SA-5489, submitted for publication, Journal of Air, Water and Soil Pollution, 1976.].
+
+== Data
+
+The important data set, the first of its kind, presented by Radke et al.footnote:2[] was obtained using airborne aerosol size spectrometers that spanned the particle range from about stem:[0.01 \, m] to stem:[5 \, m] radius. They determined the particle size distribution in a plume about stem:[10^3 sec] downwind from a Kraft-process paper mill, both before and after a rain shower had scavenged the plume. From the difference between these two size distributions and their airborne measurement of the raindrop size distribution they inferred the collection efficiency as a function of the particle size shown in *Figure 1*, where the data points are the horizontal bars.
+
+== Interpretation
+
+One interpretation of the data is as follows. The stem:[t \, = \, o] curve shown on *Figure 1* is a plot of *Equations (1)* and *(2)*. This is the expected collection efficiency for passive aerosol particles. If it is assumed that, instead of being passive, the the particles were active and attached to the plume droplets at a rate stem:[\alpha \, = \, 4\, D\, R \, N] where stem:[R] and stem:[N] are the mean radii and number of the plume dropletsfootnote:4[W. G. N. Slinn, "Time Constants for Cloud Seeding and Tracer Experiments," Journal of Atmospheric Sciences, 28, 1509-1511, 1971.], then the attached fraction of aerosol particles would have a collection efficiency appropriate for the plume droplets (viz., stem:[E \, \approx \, 1] for stem:[\overline{R} \, = \, 10 \,m]). Consequently, especially for particles of radii a < 0.1 m, the removal rate would apparently increase; the calculated results are shown as the solid curves in Figure 1 labeled stem:[t \, = \, 10^1], stem:[10^2], and stem:[10^3 \, sec] for stem:[a \, < \, 0.1 \mu m]. In the limit stem:[t \, \rightarrow \, \infty]  (see *Figure 1*), stem:[E \; = \, 1] for all particle sizes.
+
+A second effect is assumed to become important for some of the particles larger than about stem:[0.08 \, \mu m] radius; namely, condensational growth of the particles. This specific critical size of size of stem:[0.08 \, \mu m] was chosen to fit the data, but it is not inconsistent with theoretical considerations for the expected humidity in the plumefootnote:6[C. E. Jung, Atmospheric Chemistry and Radioactivity, Academic Press, New York, 1963.]. For the specific particle growth rate shown in the figure, the collection efficiency at stem:[10^1], stem:[10^2], and stem:[10^3 \, sec] is shown by the dotted curves. Obtaining the correct growth rate expression and thereby the correct collection efficiency stem:[E \, [a(t), \, R_m]] is a complex problem and the naivety of choosing a single growth rate for all particles is acknowledged.
+
+A third phenomenon is invoked to explain the apparent relative minimum in the collection efficiency at about stem:[0.6 \, \mu m]. It is assumed, based on comments by the authors, that a certain fraction of the sampled particles were inert to condensational growth (at least for stem:[t \, \le \, 10^3 \, sec]). The specific fraction assumed to be inert, chosen to fit the data, is shown in the inset to *Figure 1*. The source of these particles from the Kraft process is presumed to be the coal-fired power plant at the mill. The resulting collection efficiency is shown as the solid curve (only at stem:[t \, = \, 10^3 \, sec]).
+
+== Comments and Conclusions
+
+The analysis presented to interpret the data possesses a number of weaknesses. For example, to explain the data for stem:[a \, \le \, 0.1 \, \mu m] particle, it was implicitly assumed that there was ignorable attachment of particles to plume droplets before the rain shower occurred. There is no data to justify this assumption. Instead, the cause of the more rapid than expected removal rate for these small particles could be that the precursor gases were scavenged by the rain shower and therefore it was not that more particles were scavenged but that fewer particles were created. Another major difficulty is in the explanation presented for the relative minimum at about stem:[0.6 \, m]. It was assumed that this corresponds to a maximum of particles which are inert but Hindman (private communication) found no such maximum experimentally. Consequently we conclude that more theoretical and experimental work is needed before this particular type of plume scavenging is understood. That these studies are important is obvious when one realizes that without such data, the predictions for the rain scavenging of particles (with stem:[0.01 \leqq \, a \, \leqq \, 1 \, m]) would have been about 2 orders of magnitude smaller than the true values.

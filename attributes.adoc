@@ -40,6 +40,8 @@
 :NW: northwest
 :SE: southeast
 :SW: southwest
+:2D: two-dimensional
+:3D: three-dimensional
 
 // Cold War Meta
 
@@ -52,39 +54,62 @@
 :MA: Manhattan Project
 :WW2: World War II
 
-// Cities & States
+// Cities, States, & Water Sources
 
 :alex: Alexandria
 :AK: Alaska
+:AtO: Atlantic Ocean:
+:boul: Boulder
+:CO: Colorado
+:DC: Washington D.C.
+:hous: Houston
+:JuanS: Strait of Jaun de Fuca
+:MD: Maryland
+:NB: Neah Bay
 :NC: North Carolina
 :NJ: New Jersey
 :NY: New York
 :NYC: New York City
+:OP: Olympic Peninsula
+:OR: Oregon
+:oz-lake: Ozette Lake
+:PacO: Pacific Ocean
 :PB: Point Barrow
 :quil: Quillayute
 :rich: Richland
 :sea: Seattle
+:spring: Springfield
+:TX: Texas
 :UK: United Kingdom
 :US: United States
+:USA: United States of America
 :UW: University of Washington
 :VA: Virginia
 :WA: Washington
 
 // Government Programs & Test Sites
 
+:AF: Air Force
 :AS: Atmospheric Sciences
 :DA: Department Administration
+:DNA: Defense Nuclear Agency
 :DOA: Department of Agriculture
-:DOC: U. S. Department of Commerce
-:DOE: U. S. Department of Energy
+:DOC: Department of Commerce
+:DOE: Department of Energy
+:DTRA: Defense Threat Reduction Agency
 :ERDA: Energy Research and Development Administration
+:MAFB: Makah Air Force Base
 :MET: METROMEX
+:MRU: Meteorological Radar Unit
 :NAAQS: National Ambient Air Quality Standard
 :NARL: Naval Arctic Research Laboratory
+:NOAA: National Oceanic and Atmospheric Administration
+:NWS: National Weather Service
 :PMCMC: Pittsburg and Midway Coal Mining Company
 :PNL: Pacific Northwest Laboratories
 :PNNL: Pacific Northwest National Laboratory
-:USA: United States of America
+:QAF: Quillayute Airfield
+:WPL: Wave Propagation Laboratory
 :USFS: United States Forest Service
 
 // National Landmarks
@@ -93,6 +118,15 @@
 :CMR: Cascade Mountain Range
 :mt-helens: Mount Saint Helen
 :mt-ranier: Mount Ranier
+
+// Equipment
+
+:cess: Cessna 411 aircraft
+:dc3: DC-3 aircraft
+:dopp: Doppler
+:dopp-2: dual Dopplers
+:doppd: dual Doppler
+:doppr: Doppler radar system
 
 // General Publishing
 
@@ -120,6 +154,7 @@
 :ISA: Instrument Society of America
 :JAM: Journal of Applied Meteorology
 :JAPCA: Journal of the Air Pollution Control Association
+:JAS: Journal of Atmospheric Sciences
 :JCIS: Journal of Colloid and Interface Science
 :JAWSP: Journal of Air, Water and Soil Pollution
 :JGR: Journal of Geophysical Research
@@ -129,6 +164,7 @@
 :NTIS: National Technical Information Service
 :OMAM: Operational Methods in Applied Mathematics
 :PNLAR: Pacific Northwest Laboratory Annual Report
+:PS: Preticipation Scavenging
 :QJRMS: Quarterly Journal of the Royal Meteorological Society
 :USAEC-P3: USAEC Division of Biomedical and Environmental Research, Part 3: Atmospheric Sciences
 :USAEC-V2-P1: USAEC Division of Biology and Medicine, Vol. II: Physical Sciences, Part 1: Atmospheric Sciences
@@ -161,7 +197,9 @@
 :AJM: A. J. McConnel
 :AKP: A. K. Postma
 :AM: A. Miller
+:ASF: A. S. Frisch
 :BC: B. Cantrell
+:BCS: B. C. Scott
 :BS: B. Styra
 :BYHL: B. Y. H. Liu
 :CCT: C. C. Thomas, Jr.
@@ -182,10 +220,12 @@
 :DMM: D. M. McKown
 :DMN: D. M. Nelson
 :DLE: D. L. Elliott
+:DRE: D. R. Edwards
 :DRD: D. R. Drewes
 :DSR: D. S. Renné
 :DWG: D. W. Glover
 :EAC: E. A. Crecelius
+:EEH: E. E. Hindman
 :EEH-2: E. E. Hindman II
 :EPH: E. P. Hardy
 :ELK: E. L. Kanabrock
@@ -194,6 +234,7 @@
 :FBS: F. B. Smith
 :FDL: F. D. Llyod
 :FG: F. Gifford
+:FOG: F. O. Gladfelder
 :FP: F. Pasquill
 :GAB: G. A. Briggs
 :GAS: G. A. Sehmel
@@ -222,6 +263,7 @@
 :JJF: J. J. Fuquay
 :JJL: J. J. Lashock
 :JMH: J. M. Hales
+:JMTa: J. M. Tanner
 :JMT: J. M. Thorp
 :JP: J. Pich
 :JPF: J. P. Franey
@@ -248,6 +290,7 @@
 :LLW: L. L. Wendell
 :LRA: L. R. Anspaugh
 :MAb: M. Abramowitz
+:MCM: M. C. Miller
 :ME: M. Eichor
 :MK: M. Kay
 :MLB: M. L. Barad
@@ -260,6 +303,7 @@
 :NEB: N. E. Busch
 :NSL: N. S. Laulainen
 :OGS: O. G. Sutton
+:OPG: O. P. Gifford
 :PEC: P. E. Coffey
 :PGS: P. G. Slater
 :PLP: P. L. Phelps
@@ -271,9 +315,11 @@
 :RBH: R. B. Husar
 :RD: R. Dams
 :REC: R. E. Connally
+:RFE: R. F. Edwards
 :RFT: R. F. Tuttle
 :RGH: R. G. Harris
 :RGS: R. G. Semonin
+:RGSt: R. G. Strauch
 :RLD: R. L. Drake
 :RLM: R. L. McKeever
 :RJE: R. J. Engelmann
@@ -292,6 +338,7 @@
 :TMT: T. M. Tanner
 :TSH: T. S. Heines
 :TWH: T. W. Horst
+:WCC: W. C. Campbell
 :WED: W. E. Davis
 :WEW: William E. Wilson
 :WFS: W. F. Sandusky
@@ -363,6 +410,9 @@
 :approx-solution-deposition-resuspension-img-2: {img-dir}/ref_approximations_and_solutions_depospition_resuspension_figure-2.png
 :approx-solution-deposition-resuspension-img-3: {img-dir}/ref_approximations_and_solutions_depospition_resuspension_figure-3.png
 
+:battelle-cloud-scavenging-overview-img-black: {img-dir}/ref_battelle_cloud_scavenging_figure-black.png
+:battelle-cloud-scavenging-overview-img-white: {img-dir}/ref_battelle_cloud_scavenging_figure-white.png
+
 :compare-depo-dimensionless-img-1: {img-dir}/ref_comparison_deposition_velocities_correlations_figure-1.png
 :compare-depo-dimensionless-img-2: {img-dir}/ref_comparison_deposition_velocities_correlations_figure-2.png
 
@@ -388,6 +438,8 @@
 :observe-relative-real-plume-img-2: {img-dir}/ref_some_observations_of_the_relative_contribution_of_real_plume_figure-2.png
 :observe-relative-real-plume-img-3: {img-dir}/ref_some_observations_of_the_relative_contribution_of_real_plume_figure-3.png
 :observe-relative-real-plume-img-4: {img-dir}/ref_some_observations_of_the_relative_contribution_of_real_plume_figure-4.png
+
+:olympic-penn-storm-img-1: {img-dir}/ref_precipitation_scavenging_1975_olympic_figure-1.png
 
 :particle-depo-penetration-img-1: {img-dir}/ref_particle_deposition_penetration_through_canopies_figure-1.png
 :particle-depo-penetration-img-2: {img-dir}/ref_particle_deposition_penetration_through_canopies_figure-2.png
@@ -421,6 +473,8 @@
 :pu-tu-img-1: {img-dir}/ref_concentrations_241_pu_and_99_tc_figure-1.png
 :pu-tu-img-2: {img-dir}/ref_concentrations_241_pu_and_99_tc_figure-2.png
 :pu-tu-img-3: {img-dir}/ref_concentrations_241_pu_and_99_tc_figure-3.png
+
+:rain-scavenge-plume-img-1: {img-dir}/ref_rain_scavenging_active_aerosol_figure-1.png
 
 :rate-limiting-gases-img-1: {img-dir}/ref_rate_limiting_aspects_of_the_dry_deposition_of_gases_figure-1.png
 :rate-limiting-gases-img-2: {img-dir}/ref_rate_limiting_aspects_of_the_dry_deposition_of_gases_figure-2.png
@@ -480,6 +534,10 @@
 
 :approx-solution-deposition-resuspension-alt-3: A graph that shows the nondimensional downwind distance compared to the nondimensional concentration in the air and on the ground. This figure represents the case where the removal rate Lambda equals the deposition rate Omega. Three sets of curves are shown for nondimensional times: (1) tau = At, (2) tau = Omega(tau), and (3) Lambda/Omega = 1. The x axis = the nondimensional downwind distance with intervals of (1) 10^-1, (2) 10^0, and (3) 10^1. The y axis = nondimensional concentration in the air and on the ground with intervals (1) 10^-4, (2) 10^-3, (3) 10^-2, (4) 10^-1, and (5) 1. This demonstrates that when deposition is the dominant process, the surface "holds onto" the material much longer, creating a more persistent ground-level footprint. The plume clings to the earth.
 
+:battelle-cloud-scavenging-overview-alt-black: A flowchart that shows the process of experiments under the Battelle-Northwest in-cloud rain scavenging program. This copy of the flowchart uses a black background with white text, arrows, and shapes.
+
+:battelle-cloud-scavenging-overview-alt-white: A flowchart that shows the process of experiments under the Battelle-Northwest in-cloud rain scavenging program. This copy of the flowchart uses a white background with black text, arrows, and shapes.
+
 :compare-depo-dimensionless-alt-1: A graph showing a stable atmosphere with roughness height in centimeters in 1974. The x axis = particulate diameter in micrometers with intervals of (1) 10^-2, (2) 10^-1, (3) 1, and (4) 10. The y axis = K⌄1-M in centimeters per second with intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 1, and (5) 10. Four different lines for z⌄o, from top to bottom, that represent roughness heights (z⌄o) at (1) 0.001, (2) 0.1, (3) 3, and (4) 10 centimeters. There are also three curves that represent particle densities for p at (1) 1.0, (2) 4.0, and (3) 11.5 grams over centimeters cubed. The curves follow a distinct "U-shape," where deposition velocity is high for very small particles and very large particles but reaches a minimum for particles between 0.1 and 1.0 micrometers. Increasing the surface roughness (z⌄o) shifts all sets of curves upward, increasing the overall deposition rate across all particle sizes.
 
 :compare-depo-dimensionless-alt-2: A graph showing a stable atmosphere with roughness height in centimeters in 1975. The x axis = particulate diameter in micrometers with intervals of (1) 10^-2, (2) 10^-1, (3) 1, and (4) 10. The y axis = K⌄1-M in centimeters per second with intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 1, and (5) 10. Four different lines for z⌄o, from top to bottom, that represent roughness heights (z⌄o) at (1) 0.001, (2) 0.1, (3) 3, and (4) 10 centimeters. There are also three curves that represent particle densities for p at (1) 1.0, (2) 4.0, and (3) 11.5 grams over centimeters cubed. The curves follow a distinct "U-shape," where deposition velocity is high for very small particles and very large particles but reaches a minimum for particles between 0.1 and 1.0 micrometers. Increasing the surface roughness (z⌄o) shifts all sets of curves upward, increasing the overall deposition rate across all particle sizes.
@@ -513,6 +571,8 @@
 :observe-relative-real-plume-alt-3: A graph that shows measured plume dispersion to a theoretical or approximate models, from top to bottom and left to right, tests (1) C1, (2), C3, (3) C5, (4) V2, and (5) V7 at a height of 200 meters. The (--) line is stable and the (- - -) is unstable. The x axis = averaging time (T) to diffusion time (t) in increments (0) 1, (1) 5, (2) 10, (3) 50, and (4) 100 meters. The y axis = ratio of D^2^Y^2^ in increments of (1) 0.05, (2) 0.1, (3) 0.5, and (4) 1.0.
 
 :observe-relative-real-plume-alt-4: A graph that shows measured plume dispersion to a theoretical or approximate models, from top to bottom and left to right, tests (1) C1, (2) V5, (3) V6, (4) V6 at 1,600 meters, (5) C5, and (6) C3 at a height of 800 meters. The (--) line is stable and the (- - -) is unstable. The x axis = averaging time (T) to diffusion time (t) in increments (0) 1, (1) 5, (2) 10, (3) 50, and (4) 100 meters. The y axis = ratio of D^2^Y^2^ in increments of (1) 0.05, (2) 0.1, (3) 0.5, and (4) 1.0.
+
+:olympic-penn-storm-alt-1: A map of northwestern Washington with only one callout for Ozette Lake. The Pacific Ocean on the left side is named, as is the Strait of Juan de Fuca above the upper corner. A small arrow towards the upper right of the state points from the east and upward, looking as though it will miss the Strait of Juan de Fuca. There is a center area on the state map where it looks like there are small, squiggly lines focusing around the center, the reference point for bullet one. There are also small, less squiggly but more pronounced storms heading toward the corner of the state. There is also Ozette Lake highlighted in the middle of the map very near the Pacific Ocean.
 
 :particle-depo-penetration-alt-1: A graph showing the particle diameter compared to the deposition velocity. The x axis = particle diameters in micrometers in increments of (1) 0, (2), 1, and (3) 10 micrometers, with additional data shown after x = 10 micrometers. The y axis = deposition velocity in increments of (1) 10^-2, (2) 10^-1, (3) 1, (4) 10, and (5) 10^2 centimeters over seconds. There are three lines, from top to bottom, shown where (1) ○ represents 13.0 m/sec using a dashed line (- - -), (2) △ represents 2.2 m/sec using a solid line (---), and (3) shows the model data of K=VT. (1) has a slight curve between ~ x = 1.2 - 10 cm/sec, (2) has a backwards-S shape where the lowest dip is x = 1.1 and the highest peak is ~ x = 10 cm/sec, and (3) is a linear pattern where an increase in x correlates to an increase in y.
 
@@ -567,6 +627,8 @@
 :pu-tu-alt-2: A scatter dot graph which shows the amount of the ^99^Tc isotope concentration in Richland, Washington. The graph is split into two parts on top of each other. For both graphs, the x axis = year tested between 1961 - 1976 in increments of 1 year. In the top section of the graph, the y axis = ddisintegration rate ratio in increments of (1) 0, (2) 0.001, (3) 0.01, and (4) 1.0 dpm/kscm. In the bottom section of each graph, the y axis = megatons of the same isotope detected in the atmosphere with increments of (1) 0.02 - 0.1, (2) 0.1 - 1, (3) 1 - 10, and (4) > 10 megatons. The detonations from each nation are denoted as a solid line for the United States, a dotted line for the U.S.S.R., and a dashed line for China.
 
 :pu-tu-alt-3: A scatter dot graph which shows the amount of disintegration ratios of ^137^ to ^99^Tc. The x axis = year tested between 1961 - 1976 in increments of 1 year. The y axis = disintegration rate ratio in increments of (1) 10, (2) 100, and (3) 1,000 for ^137^Cs / ^99^Tc.
+
+:rain-scavenge-plume-alt-1: A graph that compares the equation in Radke and Hindman’s model to the real data from a storm marked by low pressure and heavy rain. The x axis = initial particle radius a⌄σ with intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 10^0, and (5) 10^1 micrometers. The y axis - the normalized rain scavenging rate, which is represented by ψ⌄r/(p/2R⌄m), in intervals of (1) 10^-5, (2) 10^-4, (3) 10^-3, (4) 10^-2, (5) 10^-1, and (6) 100 meters. There are four lies that represent t = 0, t =10^1, t = 10^2, and t=10^3. There are large error margins until approximately x = 10-1. The data is a U-shape with the big “dip” 10^2 < a⌄σ < 10^0. Slinn added in the particle growth after the dip.
 
 :rate-limiting-gases-alt-1: A line graph which demonstrates that the dry deposition velocity for gases is frequently dictated by other than atmospheric phenomena. It shows how different types of gases including but not limited to Iodine (I2) behave when they hit the surface. Multiple curves labeled β represent different gas solubilities. The plot is divided into regions: (1) highly soluble, (2) sparingly soluble, (3) surface-diffusion limited, and (4) reaction-volume limited. The x axis = the dimensionless reaction rate κ = kt with intervals of (1) 10-3, (2) 10-2, (3) 10-1, (4) 100, (5) 101, (6) 102, (7) 103, (8) 104, (9) 105, (10) 106, and (11) 107. The y axis = the dimensionless deposition velocity v⌄d* - v⌄d (Kπt)^½ with intervals of (1) 10-3, (2), 10=2, (3) 10-1, and (4) 100.
 
