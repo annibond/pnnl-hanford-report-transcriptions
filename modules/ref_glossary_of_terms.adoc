@@ -262,6 +262,11 @@ _~ 63.2% (1^-1/e^)_
 |error bar
 |a data point in a graph that indicates variability, uncertainty, or the standard deviation
 
+|Euler equation
+|mathematical model used for determining inviscid flow
+
+stem:[\rho \, \frac{Du}{Dt} \, = \, - \, \lambda p \, + \, f]
+
 |facing away
 |the nuclear force binding the nucleon has enough force over a somewhat larger distance (microscopic), causing the force of the nucleons to overpower the repulsion between protons and bring them closer together
 
@@ -368,6 +373,9 @@ stem:[{F_o} = \frac{\alpha t}{L^{2}}]
 |horizontal diffusion
 |the mix or spread of substances horizontally
 
+|hygroscopicity
+|the physical property of a substance to attract, absorb, and hold water molecules from the surrounding atmosphere
+
 |immiscible
 |two liquids that do not form a homogenous mixture when combined (e.g., oil and water)
 
@@ -403,6 +411,11 @@ stem:[{F_o} = \frac{\alpha t}{L^{2}}]
 
 |inversion layer
 |where a layer of warm air is situated above cooler air in the atmosphere
+
+|inviscid flow
+|the flow of a theoretical fluid with zero viscosity, modeled by the Euler equation
+
+stem:[\rho \, \frac{Du}{Dt} \, = \, - \, \lambda p \, + \, f]
 
 |inviolable
 |unbreakable
@@ -656,8 +669,14 @@ stem:[Pe \; = \; \frac{Advective \, Transport \, Rate}{Diffusive \, Transport \,
 |rate limiting
 |the speed of the single slowest step in a multi-part process
 
+|rawinsonde
+|a balloon-borne instrument used in meteorology to measure upper-air atmospheric conditions
+
 |reactive nonmetals
 |elements that are very eager to gain electrons to form chemical bonds
+
+|recurring rain gauge (gage)
+|an instrument used in cloud scavenging experiments to measure rainfall over time
 
 |reinsertion
 |the upward movement of particles from the canopy layer to the boundary layer as air flows through it, opposite of ingestion

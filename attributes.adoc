@@ -75,7 +75,9 @@
 :oz-lake: Ozette Lake
 :PacO: Pacific Ocean
 :PB: Point Barrow
+:phil: Philadelphia
 :quil: Quillayute
+:rapid: Rapid City
 :rich: Richland
 :sea: Seattle
 :spring: Springfield
@@ -86,6 +88,7 @@
 :UW: University of Washington
 :VA: Virginia
 :WA: Washington
+:zapp: Champaign
 
 // Government Programs & Test Sites
 
@@ -117,7 +120,10 @@
 :app: Appalachian Mountains
 :CMR: Cascade Mountain Range
 :mt-helens: Mount Saint Helen
+:mt-olym: Mount Olympus
 :mt-ranier: Mount Ranier
+:port-ang: Port Angeles
+:strait-juan: Straight of Juan de Tuca
 
 // Equipment
 
@@ -127,13 +133,18 @@
 :dopp-2: dual Dopplers
 :doppd: dual Doppler
 :doppr: Doppler radar system
+:doppr-2: dual Doppler radar system
 
 // General Publishing
 
 :AP: Academic Press
 :AR: Annual Report
 :DP: Dover Publications
+:JWnS: John Wiley & Sons, Inc.
 :MB: Merrill Books
+:pcomm: personal communication
+:pres: (in press)
+:pub: to be published
 
 // Academic Journals
 
@@ -155,8 +166,8 @@
 :JAM: Journal of Applied Meteorology
 :JAPCA: Journal of the Air Pollution Control Association
 :JAS: Journal of Atmospheric Sciences
-:JCIS: Journal of Colloid and Interface Science
 :JAWSP: Journal of Air, Water and Soil Pollution
+:JCIS: Journal of Colloid and Interface Science
 :JGR: Journal of Geophysical Research
 :JM: Journal of Meteorology
 :NT: Nuclear Technology
@@ -172,8 +183,10 @@
 
 // Academic Conferences
 
+:3WM: Third Conference of Weather Modification
 :66A: 66th Annual Meeting of the Air Pollution Control Association
 :70: IAEA Symposium on the Use of Nuclear Techniques in the Measurement and Control of Environmental Pollution, Saltzburg, Austria
+:AECS: AEC Symposium Series
 :ERDAS: ERDA Symposium Series
 :FISAPF: First International Symposium on Acid Precipitation and the Forest Ecosystem
 :IAEA: IAEA Symposium
@@ -183,6 +196,8 @@
 :PRSA: Proceedings of Royal Society A
 :PRERDA: Proceedings ERDA Conference on Atmosphere-Surface Exchange on Particles and Gaseous Pollutants
 :PSADAP: Proceedings of the Symposium on the Atmospheric Diffusion and Air Pollution
+:sesa: Subsynoptic Extratropical Weather Systems: Notes from a Colloquium
+:sesa-74: Subsynoptic Extratropical Weather Systems: Notes from a Colloquium - Summer 1974
 :USAECS: USAEC Symposium Series
 
 // Research Paper Authors
@@ -197,7 +212,10 @@
 :AJM: A. J. McConnel
 :AKP: A. K. Postma
 :AM: A. Miller
+:AND: A. N. Dingle
 :ASF: A. S. Frisch
+:ASu: A Sunderström
+:BBR: B. B. Ross
 :BC: B. Cantrell
 :BCS: B. C. Scott
 :BS: B. Styra
@@ -210,20 +228,27 @@
 :CMH: C. M. Hyche
 :CMM: C. M. Moore
 :CTN: C. T. Nagamoto
+:CWK: C. W. Kreitzberg
 :CWT: C. W. Thomas
 :DAG: D. A. Gillette
+:DAP: D. A. Paine
+:DBa: D. Baumhefner
 :DCP: D. C. Powell
 :DFG: D. F. Gustafson
 :DFGz: D. F. Gatz
 :DG: D. Gray
+:DGA: D. G. Atkinson
+:DJ: D. Jones
+:DJP: D. J. Perkey
+:DLE: D. L. Elliott
 :DMH: D. M. Hattor
 :DMM: D. M. McKown
 :DMN: D. M. Nelson
-:DLE: D. L. Elliott
 :DRE: D. R. Edwards
 :DRD: D. R. Drewes
 :DSR: D. S. Renné
 :DWG: D. W. Glover
+:DWi: D. Williamson
 :EAC: E. A. Crecelius
 :EEH: E. E. Hindman
 :EEH-2: E. E. Hindman II
@@ -234,6 +259,7 @@
 :FBS: F. B. Smith
 :FDL: F. D. Llyod
 :FG: F. Gifford
+:FHB: F. H. Bushby
 :FOG: F. O. Gladfelder
 :FP: F. Pasquill
 :GAB: G. A. Briggs
@@ -251,13 +277,17 @@
 :HLV: H. L. Volchok
 :HSC: H. S. Carslaw
 :IAS: I. A. Stegun
+:IIB: I. I. Burtsey
+:INP: I. N. Ponomarenko
 :JAC: J. A. Cooper
 :JAR: J. A. Robbins
+:JAW: J. A. Warburton
 :JAY: J. A. Young
 :JCJ: J. C. Jaeger
 :JCK: J. C. Kaimal
 :JCL: J. C. Laul
 :JDL: J. D. Ludwick
+:JEP: J. E. Pinkerton
 :JHH: J. H. Harley
 :JGD: J. G. Droppo
 :JJF: J. J. Fuquay
@@ -265,6 +295,7 @@
 :JMH: J. M. Hales
 :JMTa: J. M. Tanner
 :JMT: J. M. Thorp
+:JNW: J. N. Winchester
 :JP: J. Pich
 :JPF: J. P. Franey
 :JR: J. Rosinski
@@ -278,6 +309,7 @@
 :KH: K. Heiman
 :KHB: K. H. Berman
 :KLC: K. L. Caulder
+:KPM: K. P. Makhon'ko
 :KSP: K. S. Pillay
 :KTW: K. T. Whitby
 :KW: K. Willeke
@@ -289,14 +321,18 @@
 :LKP: L. K. Peters
 :LLW: L. L. Wendell
 :LRA: L. R. Anspaugh
+:LVB: L. V. Bertseva
 :MAb: M. Abramowitz
 :MCM: M. C. Miller
 :ME: M. Eichor
 :MK: M. Kay
 :MLB: M. L. Barad
+:MLKa: M. L. Kaplan
+:MLu: M. Lutz
 :MMO: M. M. Orgill
 :MRP: M. R. Petersen
 :MS: M. Smith
+:MST: M. S. Timpson
 :MTD: M. T. Dana
 :NAW: N. A. Wogman
 :NCK: N. C. Kennedy
@@ -312,6 +348,7 @@
 :PSL: P. S. Liss
 :PVH: P. V. Hobbs
 :PWN: P. W. Nickola
+:PWS: P. W. Summers
 :RBH: R. B. Husar
 :RD: R. Dams
 :REC: R. E. Connally
@@ -321,12 +358,15 @@
 :RGS: R. G. Semonin
 :RGSt: R. G. Strauch
 :RLD: R. L. Drake
+:RLL: R. L. Lavoie
 :RLM: R. L. McKeever
 :RJE: R. J. Engelmann
 :RKH: R. K. Hadlock
 :RKW: R. K. Woodruff
 :RWB: R. W. Beadle
 :RWP: R. W. Perkins
+:SBo: S. Bodin
+:SGM: S. G. Malakhov
 :SLS: S. L. Sutter
 :SMB: S. M. Bruntz
 :SSB: S. S. Brar
@@ -336,6 +376,7 @@
 :TJB: T. J. Bander
 :TMM: T. M. Moore
 :TMT: T. M. Tanner
+:TNZ: T. N. Zabolotskaia
 :TSH: T. S. Heines
 :TWH: T. W. Horst
 :WCC: W. C. Campbell
@@ -345,6 +386,8 @@
 :WGNS: W. G. N. Slinn
 :WHH: W. H. Hodgson
 :WNS: W. N. Stasiuk, Jr.
+:YLee: Yean Lee
+:YO: Y. Okamura
 
 // Report Notes
 
@@ -413,6 +456,11 @@
 :battelle-cloud-scavenging-overview-img-black: {img-dir}/ref_battelle_cloud_scavenging_figure-black.png
 :battelle-cloud-scavenging-overview-img-white: {img-dir}/ref_battelle_cloud_scavenging_figure-white.png
 
+:cloud-scavenging-design-op-image-1: {img-dir}\ref_design_in_cloud_scavenging_1975_olympic_figure-1.png
+:cloud-scavenging-design-op-image-2: {img-dir}\ref_design_in_cloud_scavenging_1975_olympic_figure-2.png
+:cloud-scavenging-design-op-image-3: {img-dir}\ref_design_in_cloud_scavenging_1975_olympic_figure-3.png
+:cloud-scavenging-design-op-image-4: {img-dir}\ref_design_in_cloud_scavenging_1975_olympic_figure-4.png
+
 :compare-depo-dimensionless-img-1: {img-dir}/ref_comparison_deposition_velocities_correlations_figure-1.png
 :compare-depo-dimensionless-img-2: {img-dir}/ref_comparison_deposition_velocities_correlations_figure-2.png
 
@@ -428,6 +476,9 @@
 :frequency_airborne_dust-img-1: {img-dir}/ref_frequency_airborne_dust_continental_us_figure-1.png
 :frequency_airborne_dust-img-2: {img-dir}/ref_frequency_airborne_dust_continental_us_figure-2.png
 :frequency_airborne_dust-img-3: {img-dir}/ref_frequency_airborne_dust_continental_us_figure-3.png
+
+:injected-frontal-storms-image-1: {img-dir}\ref_estimate_in_cloud_scavenging_tracer_frontal_storms_figure-1.png
+:injected-frontal-storms-image-2: {img-dir}\ref_estimate_in_cloud_scavenging_tracer_frontal_storms_figure-2.png
 
 :logging-slash-resuspension-img: {img-dir}/ref_resuspension_radioactive_isotopes_burning_forest_figure-1.png
 
@@ -538,6 +589,14 @@
 
 :battelle-cloud-scavenging-overview-alt-white: A flowchart that shows the process of experiments under the Battelle-Northwest in-cloud rain scavenging program. This copy of the flowchart uses a white background with black text, arrows, and shapes.
 
+:cloud-scavenging-design-op-alt-1: A map of the upper corner of the continental United States that highlights the precipitation sampler areas, the recording rain gauge, the locations of Hoquiam, Mt. Olympus, Queets, Forks, Port Angeles, Strait of Juan de Tuca, and both dual doppler radar sites.
+
+:cloud-scavenging-design-op-alt-2: A diagram that compares the 1975 Olympic Peninsula cloud-scavenging experiment. The x-axis = 50 nautical mile distance between Queets to Callum Bay over mountainous terrain. The y axis = height in thousand feet (kft) in integrals of 1 thousand feet. Symbols explained on the diagram page are included in the diagram key.
+
+:cloud-scavenging-design-op-alt-3: A diagram that shows the cross-section of Experiment II across a length of 8- nautical miles. An initial tracer is released (x = 0) offshore and hits the shoreline at 22 miles. The x axis = distance (n) in miles between 0 and 9- with intervals of 10 miles each. The y axis = height in feet between 0 and 10 with intervals of 1 kft each. Individual bands (cells) are located at (0, 5-10), (30, 5-10), and (~45, 5-10).
+
+:cloud-scavenging-design-op-alt-4: A map of the upper corner of the continental United States that highlights the site locations in Experiment III which include (1) a rocket launch underneath the mountain range, (2) another rocket launch at radiosonde release, (3) a rocket right above the north of Ozette Lake, and (4) a rocket launch just above Forks, WA. Aircraft sounding positions include (1) to the east of Ozette Lake with wind blowing northeasterly, (2) an aircraft sounding above the mountain range, and (3) an aircraft sounding right at the Washington-Pacific Ocean coast more than halfway down the shown map. A doppler radar is positioned to the east of the (3) aircraft sounding and south of Ozette Lake. A cross-sectional view of bursts in the bottom-right corner of the map, drawn to show that there is a cross-sectional viewing, which is forced upward towards the mountain range.
+
 :compare-depo-dimensionless-alt-1: A graph showing a stable atmosphere with roughness height in centimeters in 1974. The x axis = particulate diameter in micrometers with intervals of (1) 10^-2, (2) 10^-1, (3) 1, and (4) 10. The y axis = K⌄1-M in centimeters per second with intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 1, and (5) 10. Four different lines for z⌄o, from top to bottom, that represent roughness heights (z⌄o) at (1) 0.001, (2) 0.1, (3) 3, and (4) 10 centimeters. There are also three curves that represent particle densities for p at (1) 1.0, (2) 4.0, and (3) 11.5 grams over centimeters cubed. The curves follow a distinct "U-shape," where deposition velocity is high for very small particles and very large particles but reaches a minimum for particles between 0.1 and 1.0 micrometers. Increasing the surface roughness (z⌄o) shifts all sets of curves upward, increasing the overall deposition rate across all particle sizes.
 
 :compare-depo-dimensionless-alt-2: A graph showing a stable atmosphere with roughness height in centimeters in 1975. The x axis = particulate diameter in micrometers with intervals of (1) 10^-2, (2) 10^-1, (3) 1, and (4) 10. The y axis = K⌄1-M in centimeters per second with intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 1, and (5) 10. Four different lines for z⌄o, from top to bottom, that represent roughness heights (z⌄o) at (1) 0.001, (2) 0.1, (3) 3, and (4) 10 centimeters. There are also three curves that represent particle densities for p at (1) 1.0, (2) 4.0, and (3) 11.5 grams over centimeters cubed. The curves follow a distinct "U-shape," where deposition velocity is high for very small particles and very large particles but reaches a minimum for particles between 0.1 and 1.0 micrometers. Increasing the surface roughness (z⌄o) shifts all sets of curves upward, increasing the overall deposition rate across all particle sizes.
@@ -557,6 +616,10 @@
 :frequency_airborne_dust-alt-2: A graph that shows the monthly regional average dust frequencies for the seven regions named in the article during 1974 - 1975. The x axis = months in January 1974 through January 1975 in intervals of one month. The y axis = percentage with intervals of (1) 0.001, (2) 0.01, (3) 0.1, (4) 1.0, and (5) 10 percent. There are seven regions where (1) + represents “I Pacific Coast Region”, (2) ■ represents “II Rocky Mountain Region”, (3) △ represents “III North Central Region”, (4) ○ “IV South Central Region”, (5) X represents “V Southeast Region”, ▼ represents “VI Great Lakes Region”, ◆ represents “VII Northeast Region”. All seven models start at a relatively low point, hit a peak around April - May 1974, and inconsistently increase and decrease for the remaining time.
 
 :frequency_airborne_dust-alt-3: A map that shows a geographic summary of the frequency of airborne dust particles across the continental United States. 
+
+:injected-frontal-storms-alt-1: A graph that shows the estimated in-cloud scavenging coefficient 10^-3 to 10^-2 sec^-1 for a frontal storm that occurred on March 11, 1971.
+
+:injected-frontal-storms-alt-2: A graph that shows the estimated in-cloud scavenging coefficient 10^-4 to 10^-3 sec^-1 for a frontal storm that occurred on December 5, 1973.
 
 :logging-slash-resuspension-alt: Photo of the smoke plume caused by the forest logging slash burn at Mount Saint Helens on September 6, 1975. The plume blows away at an angle before making a sharp turn and blowing away relatively straight and horizontal.
 

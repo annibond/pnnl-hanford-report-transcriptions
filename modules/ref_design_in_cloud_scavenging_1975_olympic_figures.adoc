@@ -1,0 +1,41 @@
+[id="ref_design_in_cloud_scavenging_1975_olympic_figures_{ref-design-cloud-scavenging-references}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Figure 1: Locations of Instrument Sites on the {OP} (Neg 68421-cn)
+
+[#img-cloud-scavenging-design-op-1]
+[caption="Locations of Instrument Sites on the Olympic Peninsula", alt="{cloud-scavenging-design-op-alt-1}"]
+image::{cloud-scavenging-design-op-image-1}[Locations of Instrument Sites on the Olympic Peninsula]
+
+The large shaded areas indicate the locations where {dopp-2} coverage extends down to stem:[5000 ft MSL] or lower in March 1975.
+
+* The {doppr-2} radar range marks are represented by the dashed (- - -) line that encompasses a curved area towards the upper left hand of the continental {US}. Forks, {WA} is noted within this area. It is outside of both {port-ang} and {mt-olym}.
+
+* There is a recurring rain gage [sic] within this area which extends outside of the {dopp-2} range towards {port-ang}.
+
+*There are two {doppr-2} sites at Makah and Rawinsonde. Both are at the edge of land next to the {PO}.
+
+== Figure 2: Schematic Vertical Cross Section for Experiment I (Neg 72227-6)
+
+[#img-cloud-scavenging-design-op-2]
+[caption="Schematic Vertical Cross Section for Experiment I", alt="{cloud-scavenging-design-op-alt-2}"]
+image::{cloud-scavenging-design-op-image-2}[Schematic Vertical Cross Section for Experiment I]
+
+The diagram shows the field experiment on cloud scavenging.
+
+== Figure 3: Schematic Vertical Cross Section for Experiment II (72227-5)
+
+[#img-cloud-scavenging-design-op-3]
+[caption="Schematic Vertical Cross Section for Experiment I", alt="{cloud-scavenging-design-op-alt-3}"]
+image::{cloud-scavenging-design-op-image-3}[Schematic Vertical Cross Section for Experiment I]
+
+== Figure 4: Schematic Views in Experiment III (Neg 72227-4)
+
+* *Figure 4a:* Schematic Plan View of Site Locations for *Experiment III*
+
+* *Figure 4b:* Shematic Vertical Cross Section Showing Idealized Chaff Packet Trajectories for *Experiment III*
+
+[#img-cloud-scavenging-design-op-4]
+[caption="Schematic Views in Experiment III", alt="{cloud-scavenging-design-op-alt-4}"]
+image::{cloud-scavenging-design-op-image-4}[Schematic Views in Experiment III]

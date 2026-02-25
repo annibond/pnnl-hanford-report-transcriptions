@@ -1,0 +1,39 @@
+[id="ref_estimate_in_cloud_scavenging_tracer_frontal_storms_table-2_{ref-injected-frontal-storms-table-2}"]
+include::../attributes.adoc[]
+
+.December 5, 1973 Storm - Arcs & Plot Positions
+
+[cols="1,1,1,1"]
+
+|===
+
+^|*Arc* ^|*Relative Distance* ^|*Plot Position* ^|*Terrain*
+
+^|1
+>|stem:[\approx \, 5-10 \, km]
+>|101-115
+|flat, field
+
+^|2
+>|stem:[\approx \, 20-30 \, km]
+>|201-225
+|transitionary, foothills
+
+^|3
+>|stem:[\approx \, 50 \, km]
+>|301-340
+|basin
+
+^|4
+>|stem:[\approx \, 80 \, km]
+>|401-450
+|basin floor
+
+^|5
+>|stem:[\approx \, 110+ \, km]
+|"spike" in data
+|orographic, mountainous
+
+|===
+
+NOTE: The data overlaps in many cases because the figure graphs different points and positions within the same storm.

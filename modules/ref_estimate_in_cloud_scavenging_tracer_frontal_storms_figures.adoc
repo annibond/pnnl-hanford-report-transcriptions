@@ -1,0 +1,67 @@
+[id="ref_estimate_in_cloud_scavenging_tracer_frontal_storms_figures_{ref-injected-frontal-storms-figures}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Figure 1: Comparison of Model's Deposition Rates with Calculated Deposition Rates for March 11, 1971 Storm (Neg 721562-3)
+
+[#img-injected-frontal-storms-1]
+[caption="Comparison of Models for March 11, 1971 Storm", alt="{injected-frontal-storms-alt-1}"]
+image::{injected-frontal-storms-image-1}[Comparison of Models for March 11, 1971 Storm]
+
+=== Longform Alt-Text Explanation
+
+A graph that shows the estimated in-cloud scavenging coefficient stem:[10^{-3} \, - \, 10^{-2} \, sec^{-1}] for a frontal storm that occurred on March 11, 1971.
+
+* *x axis:* time (stem:[t]) between stem:[10^{2} \, - \, 10^{4} \, sec] with intervals of 1 order of magnitude
+
+* *y axis*: deposition rate between stem:[10^{3} \, - \, 1 \, g/sec] with intervals of 1 order of magnitude
+
+Several different paths are plotted. From top to bottom:
+
+1. stem:[\psi \, = \, 8 \, \times \, 10^{-4} \, sec^{-1}], where stem:[\lambda \, = \, 10^{-2}]
+
+2. stem:[\psi \, = \, 4 \, \times \, 10^{-4} \, sec^{-1}], where stem:[\lambda \, = \, 10^{-1}]
+
+3. stem:[\psi \, = \, 4 \, \times \, 10^{-4} \, sec^{-1}], where stem:[\lambda \, = \, 10^{-2}]
+
+4. stem:[\psi \, = \, 2 \, \times \, 10^{-4} \, sec^{-1}], where stem:[\lambda \, = \, 1]
+
+5. stem:[\psi \, = \, 8 \, \times \, 10^{-4} \, sec^{-1}], where stem:[\lambda \, = \, 10^{-3}]
+
+6. stem:[\psi \, = \, 4 \, \times \, 10^{-4} \, sec^{-1}], where stem:[\lambda \, = \, 10^{-3}]
+
+7. stem:[\psi \, = \, 4 \, \times \, 10^{-4} \, sec^{-1}], where stem:[\lambda \, = \, 10^{-4}]
+
+All start in different positions, peak early, and then drop exponentially including the model.
+
+== Figure 2: Comparison of Model's Deposition Rates with Calculated Deposition Rates for December 5, 1973 Storm (Neg-757887-1)
+
+[#img-injected-frontal-storms-2]
+[caption="Comparison of Models for December 5, 1973 Storm", alt="{injected-frontal-storms-alt-2}"]
+image::{injected-frontal-storms-image-2}[Comparison of Models for December 5, 1973 Storm]
+
+=== Longform Alt-Text Explanation
+
+A graph that shows the estimated in-cloud scavenging coefficient stem:[10^{-3} \, - \, 10^{-2} \, sec^{-1}] for a frontal storm that occurred on December 5, 1973. 
+
+* *x axis:* time (stem:[t]) between stem:[10^{2} \, - \, 10^{4} \, sec] with intervals of 1 order of magnitude
+
+* *y axis*: deposition rate between stem:[10^{3} \, - \, 1 \, g/sec] with intervals of 1 order of magnitude
+
+Several different paths are plotted. From top to bottom:
+
+1. stem:[\psi \, = \, 10^{-4}], where stem:[\lambda \, = \, 10^{-2}]
+
+2. stem:[\psi \, = \, 10^{-4}], where stem:[\lambda \, = \, 10^{-3}]
+
+3. stem:[\psi \, = \, 10^{-3}], where stem:[\lambda \, = \, 10^{-2}]
+
+4. stem:[\psi \, = \, 10^{-4}], where stem:[\lambda \, = \, 10^{-4}]
+
+5. stem:[\psi \, = \, 10^{-4}], where stem:[\lambda \, = \, 2 \, \times \, 10^{-2}]
+
+include::../modules/ref_estimate_in_cloud_scavenging_tracer_frontal_storms_table-2.adoc[leveloffset=+2]
+
+== Comparison Quick Reference
+
+include::../modules/ref_estimate_in_cloud_scavenging_tracer_frontal_storms_table-1.adoc[leveloffset=+2]

@@ -1,0 +1,20 @@
+[id="assembly_estimate_in_cloud_scavenging_tracer_frontal_storms_{assembly-injected-frontal-storms}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== An Estimate of In-Cloud Scavenging of a Tracer Injected into Two Frontal Storms
+[.big]#{WED}#
+
+_Results are presented from the application of a model developed to compute surface deposition rates. These rates were compared with calculated rates of the deposition from In tracer released in prefrontal clouds on two occasions. The first case, March 11, 1971, resulted in an estimated in-cloud scavenging coefficient of 10^-3^ - 10^-2^ sec^-1^ and the second case, December 5, 1973, resulted in an estimated in-cloud scavenging coefficient of 10^-4^ - 10^-3^ sec^-1^ for the first four of five arcs. The deposition on the fifth arc for December 5, 1973 was greater than computed by the model._
+
+include::../modules/con_estimate_in_cloud_scavenging_tracer_frontal_storms.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_estimate_in_cloud_scavenging_tracer_frontal_storms_references.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_estimate_in_cloud_scavenging_tracer_frontal_storms_figures.adoc[leveloffset=+2]

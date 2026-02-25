@@ -1,0 +1,15 @@
+[id="assembly_design_in_cloud_scavenging_1975_olympic_{assembly-design-cloud-scavenging}"]
+include::../attributes.adoc[]
+
+== Design for In-Cloud Scavenging Experiments on the Olympic Peninsula
+[.big]#{CEH} and {JAY}#
+
+_The design of three separate experiments is described for application in the in-cloud scavenging program field experiments on the {OP}. The experiments deal with the effect of particle nature and size, and of cloud dynamics upon scavenging. The experiments involve tracer releases and cloud physics monitoring by an instrumented aircraft, and the use of dual {doppr} to determine air motions within and in the immediate environment of separate elements of these storms._
+
+include::../modules/con_design_in_cloud_scavenging_1975_olympic.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_design_in_cloud_scavenging_1975_olympic_figures.adoc[leveloffset=+2]
