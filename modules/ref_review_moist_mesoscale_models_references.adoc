@@ -1,0 +1,26 @@
+[id="ref_review_moist_mesoscale_models_references_{ref-moist-models-references}"]
+include::../attributes.adoc[]
+
+1. {CEH}, "Scavenging of Urban Pollutants by Thunderstorm Rainfall: Numerical Experimentation," this volume.
+
+2. {CWK}, {DJP} and {JEP}, "Mesoscale Modeling, Forecasting and Remote Sensing Research," Final Report, Contract No. AFCRL-TR-74-0253, Drexel University, {phil}, PA, pp. 318, 1974.
+
+3. {FHB} and {MST}, "A 10-Level Atmospheric Model and Frontal Rain," [.underline]#{QJRMS}#, [.underline]#93#, 1-17, 1967.
+
+4. {RLL}, "A Mesoscale Numerical Model of Lake-Effect Storms," [.underline]#{JAS}#, [.underline]#29#, 1025-40, 1972.
+
+5. {MLKa} and {DAP}, "A 32-km Moist Primitive Equation Model Providing for Scale Inaction," [.underline]#{JAS}#, [.underline]#30#, 213-222, 1973.
+
+6. {BBR}, "Current Development of a 3-D Mesoscale Model at the Geophysical Fluid Dynamics Laboratory,"  Proceedings of SESAME Opening Meeting, Sept. 4-6, 1974.
+
+7. {DJ}, "The British Meteorological Office Fine Mesh Model," [.underline]#{sesa-74}#, 394-408, 1974.
+
+8. {YO}, "On the Six-Level, Fine-Mesh, Limited Area Forecast Model at the Japan Meteorological Agency," [.underline]#{sesa-74}#, 420-446, 1974.
+
+9. {ASu} and {SBo}, "Fine Mesh Modeling in Sweden," [.underline]#{sesa-74}#, 447-475, 1974.
+
+10. {DWi} and {DBa}, "The NCAR Limited Area Model," [.underline]#{sesa-74}#, 542-574-1974.
+
+11.  {CWK}, {ML} and {DJP}, "Precipitation Cleansing Computation in a Numerical Weather Prediction Model," [.underline]#Fate of Pollutants#, {JWnS}, {pres}.
+
+12. {DJP}, {pcomm}, 1975.

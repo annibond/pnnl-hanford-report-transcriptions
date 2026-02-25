@@ -1,0 +1,32 @@
+[id="ref_estimate_in_cloud_scavenging_tracer_frontal_storms_references_{ref-injected-frontal-storms-references}"]
+include::../attributes.adoc[]
+
+1. {RJE} and {WGNS}, [.underline]#Precipitation Scavenging#, {AECS}, No. 22, 1970.
+
+2. {IIB}, {LVB} and {SGM}, "Washout Characteristics of a ^32^p Aerosol Injected into a Cloud," [.underline]#{ASR}#, 242-250, 1968.
+
+3. {AND}, {DFGz} and {JNW}, "A Pilot Experiment Using Indium as Tracer in a Convective Storm," [.underline]#{JAM}#, 8:236-240, 1968.
+
+4. {PWS}, "The Silver Fallout Patterns in Precipitation from Seeded Convective Storms," [.underline]#in preprints, {3WM}#, {rapid}, SC, {AMS}, 279-286, 1972.
+
+5. {JAW}, "The Distribution of Silver in Precipitation from Two Seeded Alberta Hailstorms," [.underline]#{JAM}#, 12:677-682, 1973.
+
+6. {JAY}, {TMT}, {CWT} and {NAW}, "The Entrainment of Tracers Near the Sides of Convective Clouds," [.underline]#{PNLAR} for 1973 to the {USAEC-P3}#, BNWL-1850 PT 3, {bat}, {PNL}, 146-147, 1974.
+
+7. {KPM}, Simplified Theoretical Notion of Contaminant Removal by Precipitation from the Atmosphere, [.underline]#Tellus#, [.underline]#19#, 467, 1967.
+
+8. {WED}, "An Interpretation of the In-Cloud Scavenging of Particulates," [.underline]#{PNLAR} for 1969 to the {USAEC-V2-P1}#, {BN}, {rich}, WA, pp. 107-110, 1970.
+
+9. {WED}, "A Model for In-Cloud Scavenging of Cosmogenic Radionuclides," [.underline]#{JGR}#, 77, 2159, 1972.
+
+10. {AND} and {YLee}, "An Analysis of In-Cloud Scavenging," [.underline]#{JAM}#, 1295, 1975.
+
+11. {WED} and {JAY}, "Results of In-Cloud Tracer Releases in Frontal Storms," In Proceedings of Symposium, "Precipitation Scavenging - 1974," {zapp}, IL ({pub} - 1975).
+
+12. {WED}, "Computer Results for an In-Cloud Release of In on 11 March 1971," [.underline]#{PNLAR} for 1971 to {USAEC-V2-P1}#, BNWL-1651, {bat}, {PNL}, 16-19, 1972.
+
+13. {WGNS}, "Rate Limiting Aspects of In-Cloud Scavenging," [.underline]#{JAS}#, 31:1172-1173, 1974.
+
+14. {DGA}, {WED}, {LFR}, {BCS}, {WGNS}, {TMT}, {JMT}, {NAW} and {JAY}, "Precipitation Scavenging of Tracers Released Into Frontal Storms," [.underline]#{PNLAR} for 1971 to the {USAEC-V2-P1}#, BNWL-1651 PT 1, {bat}, {PNL}, pp. 16-19, 1972.
+
+15. {INP} and {TNZ}, [.underline]#Experimental Data on the Liquid-Water Content of Frontal Clouds over the Steppe Portion of the Ukraine#, {transc} by the {AMS}, 1965.

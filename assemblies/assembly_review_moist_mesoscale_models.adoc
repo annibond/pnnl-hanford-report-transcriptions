@@ -1,0 +1,19 @@
+[id="assembly_review_moist_mesoscale_models_{assembly-moist-models}"]
+include::../attributes.adoc[]
+
+== A Review of Moist Mesoscale Models with Possible Applicability to Precipitation Scavenging
+[.big]#{CEH}#
+
+_A current review of moist mesoscale models which might be applied to precipitation scavenging research is described. The need for modeling of this kind in precipitation scavenging is discussed. Nine models which are currently operative or under development are compared based on 16 criteria. The review is incomplete, but preliminary recommendations are given regarding the more promising models for the scavenging program._
+
+include::../modules/con_review_moist_mesoscale_models.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_review_moist_mesoscale_models_references.adoc[leveloffset=+2]
+
+==== Tables
+
+include::../modules/ref_review_moist_mesoscale_models_table-1.adoc[leveloffset=+2]

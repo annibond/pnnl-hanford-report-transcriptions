@@ -1,0 +1,46 @@
+[id="ref_review_moist_mesoscale_models_table-2_{ref-moist-models-table-2}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+.† Explanation of Symbols (Variables)
+
+[cols="1,1,1,1,1,1"]
+
+|===
+
+|stem:[u]
+|component of air motion in x-direction
+|stem:[v]
+|component of air motion in y-direction
+|stem:[p]
+|pressure
+
+|stem:[q]
+|mixing ratio of condensed water or vapor
+|stem:[T]
+|temperature
+|stem:[q_v]
+|water vapor mixing ratio
+
+|stem:[w]
+|component of air motion in z-direction
+|stem:[e]
+|potential temperature
+|stem:[w]
+|time rate of change of pressure
+
+|stem:[h]
+|height of constant pressure surface
+|stem:[h']
+|thickness between constant pressure surfaces
+|stem:[w_h]
+|vertical motion at top of mixed layer
+
+|stem:[q_{\ell}]
+|condensed water mixing ratio
+|{nbsp}
+|{nbsp}
+|{nbsp}
+|{nbsp}
+
+|===

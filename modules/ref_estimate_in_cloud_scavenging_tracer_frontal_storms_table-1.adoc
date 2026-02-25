@@ -1,0 +1,28 @@
+[id="ref_estimate_in_cloud_scavenging_tracer_frontal_storms_table-1_{ref-injected-frontal-storms-table-1}"]
+include::../attributes.adoc[]
+
+.Comparison Points Between Figure 1 (Neg 721562-3) and Figure 2 (Neg 757887-1) Data
+
+[cols="1,1,1"]
+
+|===
+
+^|*Condition* ^|*March 11 (Spring 1971)* ^|*December 5 (Autumn 1973)*
+
+|air structure
+|unstable (convective storms, showers)
+|stable (air inversions, fog)
+
+|clouds
+|cumuliform (lumpy, vertical, "towering")
+|stratiform (flat, layered, thin)
+
+|scavenging results
+|faster, "violent"
+|slower, uniform in nature
+
+|wind type
+|gusty, inconsistent, shifting transit winds
+|strong, low-level, accelerating ("gap winds")
+
+|===

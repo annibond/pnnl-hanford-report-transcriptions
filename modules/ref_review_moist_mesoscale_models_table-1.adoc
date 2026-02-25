@@ -1,0 +1,218 @@
+[id="ref_review_moist_mesoscale_models_table-1_{ref-moist-models-table-1}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+.Summary of Mesoscale Models
+
+[cols="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1"]
+
+|===
+
+^|*Authors* ^|*Applications* ^|*Dimensions* ^|*Horizontal Scale* ^|*Grid (x, y, z)* ^|*Vert. Structure* ^|*Var†* ^|*Hydrostatic* ^|*Precip.* ^|*Orography* ^|*Boundary Layer* ^|*Radiation* ^|*Boundary Conditions* ^|*Initialization* ^|*Running* ^|*Compare OBS* ^|*Computation Costs*
+
+|Kreitzberg +
+Perkey (1974)footnote:2[C. W. Kreitzberg, D. J. Perkey and J. E. Pinkerton, "Mesoscale Modeling, Forecasting and Remote Sensing Research," Final Report, Contract No. AFCRL-TR-74-0253, Drexel University, Philadelphia, PA, 318, pp. 1974.] +
+AFCRL report
+|Cold Frontal Rain with Imbedded Convection
+>|3
+>|140 km +
+35 km
+>|stem:[40 \times 25 \times 12]
+|12 Constant Height Layers to 16.55 km
+|stem:[u, \, v, \, p, \, T, \, q_v, \, q_{\ell}, \, w]*
+|YES
+|Stable precipitation autoconversion collection, evaporation, +
+convective precipitation, also included by 1-D submodel
+|NO
+|50 m surface contact layer allows for fluxes of heat, momentum, and moisture
+|NO
+|Boundary conditions (lateral) supplied by synoptic scale forecast
+|35 km (mesoscale) grid is initialized from the 1.25° (140 km) grid forecast
+|YES
+|Yes, reasonable agreement ~24 hours
+|History tapes with the results of hydrodynamic model calculation are available for +
+trajectory calculations. Running model for a new case prohibitive because of computer +
+time. Authors have already included some crude scavenging calculations. 24 hour forecast +
+takes 40 hours on CDC 6600.
+
+|Bushby +
+Timpsonfootnote:3[F. H. Bushby and M. S. Timpson, "A 10-Level Atmospheric Model and Frontal Rain," Quarterly Journal Royal Meteorological Society, 93, 1-17, 1967.] +
+QJRMS
+|Cold Frontal Rain
+>|3
+>|40 km
+>|stem:[95 \times 63 \times 10]
+|10 Constant Pressure Layers to 100 mb
+|stem:[u, v, h, h', q_v, w]*
+|YES
+|Stable precipitation only, excess liquid in layer passed to layer below, evaporation
+|NO
+|Frictionless, inviscid
+|NO
+|Boundary condition on wind extrapolated from interior
+|Interpolation from radiosonde data of geopotential height and moisture
+|YES
+|Yes, frontal positions forecast reasonably after 24 hours
+|Scavenging calculations could be included since air potions and liquid water are included. +
+However, running model stem:[800 \Delta t] = 24 hour forecast moderately expensive
+
+|Lavoie (1972)footnote:4[R. L. Lavoie, "A Mesoscale Numerical Model of Lake-Effect Storms," Journal of Atmospheric Sciences, 29, 1025-40, 1972.] +
+JAS
+|Lake Effect Storms
+>|2+
+>|stem:[6 \, km \, (\Delta X)] +
+stem:[12 \, km \, (\Delta y)]
+>|stem:[50 \times 40 \times 3]
+|Mixed Layer with Boundary Conditions Supplied from Layers Above and Below
+|stem:[u, v, h, e, q, w_h]*
+|YES
+|Precipitation is entirely convective and parameterized in terms of cloud depth and vertical +
+velocity at cloud base
+|YES
+|Boundary layer is 50 m thick and bul aerodynamic method used to compute flux of momentum, +
+height, moisture
+|NO
+|Lateral boundary conditions extrapolated from interior
+|Interpolation from synoptic scale forecast made on 127 km grid
+|YES
+|Yes, agreement predicted and observed areal precipitation pattern is excellent
+|Model relatively economical to run, but assumption of mixed layer may have to be altered. +
+Scavenging could perhaps be included in a detailed 1-D model (or possibly 2-D) using environmental +
+quantities supplied by this model.
+
+|Paine +
+Kaplan (1973)footnote:5[M. L. Kaplan and D. A. Paine, "A 32-km Moist Primitive Equation Model Providing for Scale Inaction," Journal of Atmospheric Sciences, 30, 213-222, 1973.] +
+JAS
+|Water Induced Heat Island, Mesoscale Forecasts Involving Severe Storm Outbreaks
+>|3
+>|25 - 32 km
+>|stem:[36 \times 32 \times 9] +
+stem:[44 \times 56 \times 10] +
+stem:[49 \times 49 \times 10]
+|9 Constant Pressure Surfaces to 100 mb
+>|stem:[u, v, h, T, q_v, q_{\ell}, w]*
+|YES
+|Stable precipitation only, excess water in layer passed to layer below, storage term, evaporation
+|YES
+|Boundary layer from surface to 950 mb OR 875 mb, bulk aerodynamics used to compute fluxes
+|NO
+|Lateral boundary conditions extrapolated from interior
+|Interpolation from synoptic scale forecast made on 127 km grid
+|YES
+|Yes, reasonable agreement (e.g., snowfall pattern and radar pattern)
+|Scavenging calculations could be included as a part of time dependent calculations. Running +
+model, however, would probably be costly. 3-D air motions and liquid water are model output.
+
+|GFDL (1974)footnote:6[B. B. Ross, "Current Development of a 3-D Mesoscale Model at the Geophysical Fluid Dynamics Laboratory," Proceedings of SESAME Opening Meeting, Sept. 4-6, 1974.] +
+Sesame Opening Volume
+|Urban Heat Island and Squall Line Evolution
+>|3
+>|~1-3 km
+>|stem:[100 \times 100 \times 30]
+|30 Constant Height Levels to Tropopause (Variable Spacing)
+|stem:[u, v, w, p, T, q_v, q_{\ell}]
+|NO
+|May parameterize moist convection eventually
+|NOT SPECIFIED
+|Unspecified
+|YES
+|Open boundaries permitting outside changes to be taken into account and for outflow of pertubations
+|Unspecified but presumably obtained from larger scale model or observations
+|NO, in process of development; 2-D is running
+|NO
+|3-D air motions and liquid water will be computed in model. This model will be extremely costly +
+to run with its large core requirements.
+
+|Jones (BMO) (1974)footnote:7[D. Jones, "The British Meteorological Office Fine Mesh Model," Subsynoptic Extratropical Weather Systems: Notes from a Colloquium: Summer 1974, 394-408, 1974.] +
+SEWS
+|Cold Frontal Rain (this is an extension of *(2)* above)
+>|3
+>|100 km
+>|stem:[64 \times 48 \times 10]
+|10 Constant Pressure Levels to 100 mb
+|stem:[u, v, h, h', q_v, w]*
+|YES
+|same as *(2)* above
+|YES
+|Friction heat and moisture transfer from surface included
+|NO
+|Boundary conditions (t-dep) supplied by larger scale forecast
+|Height field analyzed and wind balance equation
+|YES
+|Yes, quite accurate in predicting frontal rainbands
+|Moderately expensive. Scavenging calculations possible. Computer time cut by semi-implicit scheme.
++36 hour forecast takes 50 minutes computer time.
+
+|Okamura (JMA) (1974)footnote:8[Y. Okamura, "On the Six-Level, Fine-Mesh, Limited Area Forecast Model at the Japan Meteorological Agency," Subsynoptic Extratropical Weather Systems: Notes from a Colloquium: Summer 1974, 420-446, 1974.] +
+SEWSC
+|Disturbances of Time Interval ~1 Day and 1000 km Spatial Wavelength
+>|3
+>|152.4 km
+>|stem:[37 \times 33 \times 6] 
+|6 Pressure Levels (Layers) Centered at 950, 850, 750, 650, 500, 300 mb
+|stem:[u, v, h, T, q, w]*
+|YES
+|Precipitation included only crudely
+|YES
+|Bulk aerodynamic momentum, heat, and moisture flux between Earth and lowest layer
+|NO
+|Boundary conditions supplied by larger scale forecast
+|Stream function and velocity potential derived from balance equation and continuity equation
+|YES
+|Yes, location of features correct after 24 hours, lows not deep enough
+|Scavenging inclusion possible with 3-D motion field and water vapor. 24 hour forecast takes +
+27 minutes on the HITAC 8700/8800 (Japanese) computer.
+
+|Sunderström +
+Bodin (1974)footnote:9[A Sunderström and S. Bodin, "Fine Mesh Modeling in Sweden," Subsynoptic Extratropical Weather Systems: Notes from a Colloquium: Summer 1974, 447-475, 1974.] +
+SEWSC
+|Subsynoptic Weather Systems of Larger Scale than Gravity Waves (Quasi-Geostrophic Model)
+>|3
+>|150 km
+>|stem:[\sim \sqrt{2480} \times 10] (irregular shape)
+|10 Constant Pressure Levels to 100 mb
+|stem:[u, v, z, T, q, w]*
+|YES
+|Calculation of precipitable water and an integrated amount of precipitation
+|YES
+|Ekman suction and bulk aerodynamic heat transport, no surface evaporation
+|NO
+|Supplied from coarse mesh at every time step
+|Observed data interpolated to grid
+|YES
+|NOT INDICATED
+|Scavenging incorporation would be extremely crude since integrated precipitation only is available. +
+Quasi-geostrophic model would involve less computer time than PE models.
+
+|NCAR LAAM (1974)footnote:10[D. Williamson and D. Baumhefner, "The NCAR Limited Area Model," Subsynoptic Extratropical Weather Systems: Notes from a Colloquium: Summer 1974, 542-574-1974.] +
+SEWSC
+|Synoptic and Subsynoptic Extratropical Weather Systems
+>|3
+>|69.4 km +
+138.8 km +
+277.5 km
+(can be varied)
+>|stem:[144 \times 88 \times 6] +
+stem:[144 \times 88 \times 12] +
+stem:[144 \times 88 \times 24] (maximum)
+|6, 12, or 24 Constant Height Levels
+|stem:[u, v, p, T, q, w]*
+|YES
+|All condensed water falls immediately, no re-evaporation, convective adjustment scheme or +
+Kuo-Krishnamurti convective parameterization
+|YES
+|Surface boundary layer included, bulk aerodynamics
+|YES
+|Inflow-outflow condition, inflow: GCM supplies boundary conditions; outflow: extrapolated from interior
+|Observed geopotential interpolated to grid points by hand
+|YES
+|Yes, reasonable agreement, detail missing from large stem:[\Delta X] forecasts
+|Scavenging inclusion possible. However, computer costs are very large.
+
+|===
+
+NOTE: _*_ denotes a derived quantity.
+
+NOTE: Shorthand for the above table includes: _QJRMS_ for the  Quarterly Journal of the Royal Meteorological Society, _JAS_ for the Journal of Atmospheric Science, _SEWSC_ for the Subsynoptic Extratropical Weather Systems Colloquium. The first reference of SEWSC doesn't have "Colloquium" in the name, reasons unknown.
+
+include::../modules/ref_review_moist_mesoscale_models_table-2.adoc[leveloffset=+2]

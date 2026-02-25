@@ -5,7 +5,13 @@ include::../attributes.adoc[]
 
 === 2026
 
-==== 22 February 2026 - 28 February 2026, BNWL-2000, pp. 145-150
+==== 22 February 2026 - 28 February 2026, BNWL-2000, pp. 145-165
+
+* Created "An Estimate of In-Cloud Scavenging of a Tracer Injected into Two Frontal Storms"
+
+* Created "A Review of Moist Mesoscale Models with Possible Applicability to Precipitation Scavenging"
+
+* Created "Design for In-Cloud Scavenging Experiments on the Olympic Peninsula"
 
 * Created "Precipitation Scavenging Field Experiments in March 1975 on the Olympic Peninsula"
 
