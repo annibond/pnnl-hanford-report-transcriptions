@@ -1,0 +1,39 @@
+[id="ref_development_dc-3-aircraft_pollution_research_table-2_{ref-development-dc3-table-2}"]
+include::../attributes.adoc[]
+
+.Summary of Pollution Monitoring Equipment Operated in the BNW DC-3 During 1975 St. Louis Program
+
+[cols="1,1"]
+
+|===
+
+^|*Constituent* ^|*Monitor*
+
+|Aerosol
+|High-volume filter
+
+|Aerosol
+|Light scattering
+
+|Aerosol
+|Electrostatic mobility
+
+|Aerosol
+|Aitken nucleus
+
+|SO~2~
+|Flame-photometric
+
+|NO
+|Chemiluminescence
+
+|NO~x~
+|Chemiluminescence
+
+|O3
+|Chemiluminescence
+
+|Hydrocarbons
+|Flame-ionization G. C.
+
+|===

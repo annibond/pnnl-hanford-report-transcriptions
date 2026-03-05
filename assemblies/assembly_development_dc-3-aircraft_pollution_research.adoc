@@ -1,0 +1,21 @@
+[id="assembly_development_dc-3-aircraft_pollution_research_{assembly-development-dc3}"]
+include::../attributes.adoc[]
+
+== Development of a DC-3 Aircraft for Atmospheric Pollution Research
+[.big]#{JMH}#
+
+_This report summarizes progress to date in modifying the {BN} {DC3} for research application in the scavenging and pollutant analysis programs. The aircraft, purchased in December 1974, has operated in two major field programs thus far, and is expected to be an important component of the forthcoming MAP3S project._
+
+include::../modules/con_development_dc-3-aircraft_pollution_research.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== Tables
+
+include::../modules/ref_development_dc-3-aircraft_pollution_research_table-1.adoc[leveloffset=+2]
+
+include::../modules/ref_development_dc-3-aircraft_pollution_research_table-2.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_development_dc-3-aircraft_pollution_research_figures.adoc[leveloffset=+2]

@@ -1,0 +1,69 @@
+[id="ref_scavenging_thunderstorm_figures_{ref-scavenging-thunderstorm-figures}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Figure 1: Model Cloud Outline, Pollutant in Air or Cloud Distribution (Neg 72229-1)
+
+[#img-scavenging-thunderstorm-1]
+[caption="Model Cloud Outline, Pollutant in Air or Cloud Distribution", alt="{scavenging_thunderstorm-alt-1}"]
+image::{scavenging_thunderstorm-image-1}[Model Cloud Outline, Pollutant in Air or Cloud Distribution]
+
+The map tracks the data for uncorrected velocity:
+
+* *Storm Dynamics:* At low altitudes, the storm moves faster than the other air components in its path.
+
+* *Outside Material:* The storm is the strongest force impacting the air, so the outside material (e.g., pollutants) located in the east and northeast of the map is incorporated into the area with rainfall.
+
+* *Flow:* Confluent flow aids in scavenging.
+
+* *Predictive Modeling:* The mass continuity equation in the report allows researchers to collect data on vertical air motions, which in turn allows them to compute the deposition patterns on the ground.
+
+.Predictive Modeling Equation
+[latexmath]
+++++
+(\frac{dq}{{dt}_s}) \; EC{\rho} \; Q/{\lambda}^{3.5}
+++++
+
+== Figure 2: Budget Parameters as a Function of Time for Case C (Neg 72229-3)
+
+[#img-scavenging-thunderstorm-2]
+[caption="Model Cloud Outline, Pollutant in Air or Cloud Distribution", alt="{scavenging_thunderstorm-alt-2}"]
+image::{scavenging_thunderstorm-image-2}[Model Cloud Outline, Pollutant in Air or Cloud Distribution]
+
+*Case C* tracks the limit of the pollutant during _2 hour_ time frame.
+
+* The *inflow-outflow* shows the intake of polluted air being sucked into the storm and then pushed back out after the storm processes it. This data point shows an initial spike which levels off after stem:[x \, \sim{45}].
+
+* The *air-concentration* peaks at stem:[x \, \sim{45}].
+
+* The *deposition* on the ground shows an "S" shaped curve that rises as the air concentration falls, illustrating that the material is transferred from the storm to the ground. It reaches its peak around stem:[x \, \sim{90}] before leveling off.
+
+* The *error* slowly rises and peaks at stem:[75 \, \le x \, \le \, 90] before dropping again. However, the peak is only stem:[\sim{1} \, kg/m], which means the accuracy of the data set is high.
+
+== Figure 3: Pollutant Deposition in Rainfall as a Function of Down Distance for Cases A, B, C, and D (Neg 72229-2)
+
+[#img-scavenging-thunderstorm-3]
+[caption="Pollutant Deposition in Rainfall as a Function of Down Distance", alt="{scavenging_thunderstorm-alt-3}"]
+image::{scavenging_thunderstorm-image-3}[Pollutant Deposition in Rainfall as a Function of Down Distance]
+
+*Cases A*, *B*, *C*, and *D* highlight:
+
+* The study tracks a pollutant plume as it interacts with the thunderstorm circulation (i.e., washout).
+
+* The deposition amounts from the model matched observations from the 1972 storm.
+
+* Peak fallout of the pollutants that are removed from the atmosphere between stem:[20 - 60 \, km].
+
+* Storm conditions impact deposition rates. *Case A* was the most efficient, while *Case D* was the least efficient.
+
+== Figure 4: Comparison of Observed Deposition Amounts with Model (Case D) Calculations (Neg 72229-4)
+
+[#img-scavenging-thunderstorm-4]
+[caption="Comparison fo Observed Deposition Amoun ts with Model (Case D) Calculations", alt="{scavenging_thunderstorm-alt-4}"]
+image::{scavenging_thunderstorm-image-4}[Comparison fo Observed Deposition Amoun ts with Model (Case D) Calculations]
+
+The urban plume position in this diagram contrasts the data from the real-world *Cases A*, *B*, *C*, and *D* in *Figure 3*. 
+
+* Ozette Lake provides a baseline against which to contrast natural storm behavior.
+
+* The data uses a prediction model for what might happen at the St. Louis site for data behind the smog and chemicals that a city emits.

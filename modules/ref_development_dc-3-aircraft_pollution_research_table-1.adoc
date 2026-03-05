@@ -1,0 +1,27 @@
+[id="ref_development_dc-3-aircraft_pollution_research_table-1_{ref-development-dc3-table-1}"]
+include::../attributes.adoc[]
+
+.Basic Aircraft Characteristics - {BN} DC-3
+
+[cols="1,1"]
+
+|===
+
+^|*Feature* ^|*Limit*
+
+|Cruising speed
+|90-150 kn
+
+|Payload (with full fuel load, and two crew members)
+|1500 lbs
+
+|Range (no reserve)
+|7 hrs
+
+|Ceiling altitude
+|20000 ft
+
+|Icing rating
+|Moderate
+
+|===

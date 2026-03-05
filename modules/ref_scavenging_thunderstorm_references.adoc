@@ -1,0 +1,15 @@
+[id="ref_scavenging_thunderstorm_references_{ref-scavenging-thunderstorm-references}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+[id="ref_scavenging_thunderstorm_references_{ref-scavenging-thunderstorm-references}"]
+include::../attributes.adoc[]
+stem: latexmath
+
+1. {CEH}, "Precipitation Scavenging in a Small Line: Numerical Experimentation," [.underline]#{PNLAR} for 1974 to the {USAEC-P3}#, BNWL-1950 PT 3, pp. 143-149, {BN}, {rich}, WA, available from NTIS, {spring}, VA, 1975.
+
+2. {CEH}, "The Squall Line Thunderstorm: Numerical Experimentation," [.underline]#{JAS}#, vol. 30, 1973, pp. 1672-1690.
+
+3. {MTD}, {JMH}, {CEH} and {JMT}, "Precipitation Scavenging of Inorganic Pollutants from {metro} Sources, Contribution EPA-650-3-74-006 in {ERS} of the {ORD}, {US} {EPA}, {DC}, June 1974.
+
+4. [.underline]#Air Quality Data for 1968#, {US} {EPA}, {RTP}, {NC}, APTD-0978, August 1972.

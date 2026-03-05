@@ -1,0 +1,20 @@
+[id="con_algorithm_dc_{con-algorithm-dc-3}"]
+include::../attributes.adoc[]
+
+== Introduction
+
+An efficient data acquisition system must necessarily store a large amount of data as compactly as possible. Data density can be increased by recording fewer parameters, increasing the time between successive recordings of each parameter, decreasing the resolution of each parameter and eliminating gaps or formatting in the process. The first three options involve decisions by the experimenter to ensure that enough types of data, with sufficient resolution in both time and data space, are recorded to validate the experiment. The fourth option is more a matter of taste and convenience. Data recorded in this compact form, however, do not lend themselves readily to analysis. Some process must be applied to convert the recorded data to a useful format, while simultaneously reducing the volume of data, by an appropriate averaging or culling process, and possibly also performing various operations on the data.
+
+The data acquisition system aboard the BNW DC-3 research aircraft records binary data with 12-bit resolution for 17 parameters (see *Table 1*) on {7track}. All parameters except the time and aerosol data are sampled five times per sec and averaged over the _1-sec_ interval, and the average value is recorded. Computer software has been written to recover the recorded data for further calculations, analysis and presentation.
+
+== Data Recovery
+
+A schematic flowchart of the FORTRAN software developed for the analysis of the data tapes is shown in *Figure 1*. The program has been run on the {c73} system, but should be compatible with the FORTRAN system on any large computer.
+
+The program has been written to give the user a great deal of versatility in examining the data. Essentially, the program reads data from the {7track}, converts it to the appropriate units, averages over a time interval specified by the user, stores the averaged values and any unaveraged data required, and finally, writes an output file. Each of these functions is performed by a separate subroutine, allowing modification of the analysis to suit the needs of the user. For instance, a minor change in the subroutine which converts the data to the appropriate units would allow the user to see the temperatures in K° rather than C°. Likewise, one could replace the simple averaging subroutine with one which calculates an integral average.
+
+Flexibility is more welcome, however, in the routines which calculate the data and print results. There are five subroutines in this category called OPT1, OPT2,..., OPT5. OPT4 and OPT5 are reserved primarily for manipulation and output of the time-averaged data, and thus handle, among other things, the graphics. The user can specify any combination of the five subroutines on any section of the tape.
+
+As presently used, OPT1 lists the time-averaged data. OPT2, using the DISSPLA graphics package, plots many of the parameters versus time. OPT3 performs a regression analysis on the averaged O~3~ and NO/NO~2~ data, and prints and/or plots the results. OPT4 extracts and prints the aerosol data, and OPT5 prints the SO~2~ data as read from data cards. By substituting subroutines which perform other functions for those which are not deemed necessary, however, the user can examine the data in the way which is most beneficial.
+
+Essentially, then, the package may be rather easily modified to accommodate the changing needs of the user, and also any future change in the data recording format. The user is given the flexibility of choosing sections of the tape to be examined, the average interval, the number of calculations to be performed, and the output format.

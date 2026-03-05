@@ -1,0 +1,63 @@
+[id="ref_algorithm_dc_table-1_{ref-algorithm-dc-3-table-1}"]
+include::../attributes.adoc[]
+
+.Data Recorded by DC-3 Data Acquisition System
+
+[cols="1,1"]
+
+|===
+
+^|*Channel* ^|*Parameter*
+
+^|1
+|Time (min)
+
+^|2
+|Time (sec)
+
+^|3
+|Altitude
+
+^|4
+|Airspeed
+
+^|5
+|VOR 1
+
+^|6
+|VOR 2
+
+^|7
+|SME
+
+^|8
+|Temperature
+
+^|9
+|Dewpoint
+
+^|10
+|Ozone
+
+^|11
+|NO
+
+^|12
+|NO~2~
+
+^|13
+|Condensation nuclei (data)
+
+^|14
+|Condensation nuclei (range)
+
+^|15
+|Aerosol (data)
+
+^|16
+|Aerosol (range)
+
+^|17
+|Aerosol (event mark)
+
+|===

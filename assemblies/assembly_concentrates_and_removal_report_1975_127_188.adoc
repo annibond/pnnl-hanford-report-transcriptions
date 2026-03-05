@@ -33,3 +33,6 @@ include::../assemblies/assembly_precipitation_scavenging_1975_olympic.adoc[level
 include::../assemblies/assembly_design_in_cloud_scavenging_1975_olympic.adoc[leveloffset=+1]
 include::../assemblies/assembly_review_moist_mesoscale_models.adoc[leveloffset=+1]
 include::../assemblies/assembly_estimate_in_cloud_scavenging_tracer_frontal_storms.adoc[leveloffset=+1]
+include::../assemblies/assembly_development_dc-3-aircraft_pollution_research.adoc[leveloffset=+1]
+include::../assemblies/assembly_algorithm_dc.adoc[leveloffset=+1]
+include::../assemblies/assembly_scavenging_thunderstorm.adoc[leveloffset=+1]

@@ -1,0 +1,25 @@
+[id="assembly_scavenging_thunderstorm_{assembly-scavenging-thunderstorm}"]
+include::../attributes.adoc[]
+
+== Scavenging fo Urban Pollutants by Thunderstorm Rainfall: Numerical Experimentation
+[.big]#{CEH}#
+
+_A {2D} time-dependent convective cloud model is applied to the squall line of August 21, 1972, in the St. Louis, {MO}, area. A pollutant plume with dimensions and concentrations characteristic of the St. Louis plume is allowed to interact with the thunderstorm circulation. The scavenging of the pollutant by precipitation is calculated along with the pollutant surface deposition by rainfall. The deposited amounts are compared with the amounts observed in the precipitation from the same storm, resulting in reasonable agreement between model and observations._
+
+include::../modules/con_scavenging_thunderstorm.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_scavenging_thunderstorm_references.adoc[leveloffset=+2]
+
+==== Tables
+
+include::../modules/ref_scavenging_thunderstorm_table-1.adoc[leveloffset=+2]
+
+include::../modules/ref_scavenging_thunderstorm_table-2.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_scavenging_thunderstorm_figures.adoc[leveloffset=+2]

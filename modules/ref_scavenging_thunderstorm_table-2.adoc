@@ -1,0 +1,43 @@
+[id="ref_scavenging_thunderstorm_table-2_{ref-scavenging-thunderstorm-table-2}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+.Deposition from August 21, 1972, Storm
+
+[cols="1,1,1,1,1,1,1,1"]
+
+|===
+
+^|*Site* 
+^|*Distance from Lambert Field (km)* 
+3+^.^h|*Flux for Storm ( stem:[gm/m^2] )*
+3+^.^h|*Adjusted Due to Observed Air Concentration ( stem:[gm/m^2] )*
+
+^|{nbsp}
+^|{nbsp}
+^|stem:[SO_\overline{\overline{4}}]
+^|stem:[NO_\overline{3}]
+^|stem:[NH_{4} {}^+]
+^|stem:[SO_\overline{\overline{4}}]
+^|stem:[NO_\overline{3}]
+^|stem:[NH_{4} {}^+]
+
+^|1
+>|27
+>|.43
+>|.16
+>|.023
+>|.068
+>|.20
+>|.37
+
+^|2
+>|45
+>|.044
+>|.040
+>|.0064
+>|.0070
+>|.050
+>|.10
+
+|===

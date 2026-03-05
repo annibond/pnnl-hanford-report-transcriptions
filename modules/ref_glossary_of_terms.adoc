@@ -11,6 +11,12 @@ include::../attributes.adoc[]
 |abscissa
 |in a graph when the x-coordinate is the distance from a point to the y-axis is measured parallel to the x-axis
 
+|accretion
+|growing or increasing through accumulation
+
+|acetone burner
+|a modified burner or stove that uses acetone as fuel
+
 |acid
 |a substance that can donate a proton (H^+^), has a Ph < 7 on the pH scale
 
@@ -30,6 +36,9 @@ stem:[Q = 0]
 
 |aerovane
 |meteorological instrument that combines a wind vane with a propeller anemometer to simultaneously measure both wind speed and direction
+
+|aft
+|near or toward the sterm of an airplane or ship
 
 |agglomeration
 |the process of combining particles into clusters
@@ -109,8 +118,14 @@ stem:[Q = 0]
 |CIE/Q
 |relevant data points include nucleus, nuclear energy, nuclear fission, nuclear fusion, and nuclear radiation
 
+|chemiluminescence
+|the emission of light (i.e., visible, UR, or IR) resulting from a chemical reaction without producing notable heat
+
 |chromatography
 |a method of measurement that tracks the properties of a substance by analyzing how it interacts with radiation, using properties like light or the propertoes of ions
+
+|cloud seeding
+|method of weather modification used to increase rainfall and snow, reduce hail damage, or disperse fog through existing clouds
 
 |coagulation
 |the process by which a liquid changes to a solid or semi-solid state
@@ -191,6 +206,9 @@ stem:[F(x) = e^{-x^2} \int_{0}^{x} e^{t^2} dt]
 |deposition velocity
 |a measurement of the speed airborne radioactive materials settle from the atmosphere to the Earth's surface, a proportional constant used in models to remove the contaminants from the air
 
+|dew-point hygrometer
+|instrument used to measure the amount of moisture (humidity) in the air
+
 |dibenzothiophene
 |a tricyclic organic sulfur compound with the formula  C~12~H~8~S
 
@@ -267,6 +285,9 @@ _~ 63.2% (1^-1/e^)_
 
 stem:[\rho \, \frac{Du}{Dt} \, = \, - \, \lambda p \, + \, f]
 
+|exit lines
+|condensation trails left behind an airplane when it abruptly starts or stops in the air
+
 |facing away
 |the nuclear force binding the nucleon has enough force over a somewhat larger distance (microscopic), causing the force of the nucleons to overpower the repulsion between protons and bring them closer together
 
@@ -327,6 +348,9 @@ stem:[{F_o} = \frac{\alpha t}{L^{2}}]
 
 |friction velocity
 |the impact of the wind stress on the surface below it
+
+|fuselage
+|main body of an airplane
 
 |fusion
 |the process of combining atomic nuclei to form a heavier nucleus, releasing a massive amount of energy
@@ -391,14 +415,16 @@ stem:[{F_o} = \frac{\alpha t}{L^{2}}]
 |inertia
 |the resistance of a nucleus to change its movement
 
-|ingrowth emitter
-|a radioactive isotope that produces additional radioactive materials as it decays
-
+|inflow
+|the warm, moist air into a storm system
 |inertial capture
 |the process where a particle's own weight and momentum prevent it from following a curved path in the air
 
 |ingestion
 |the downward movement of particles from the boundary layer to the canopy layer as air flows through it, opposite of reinsertion
+
+|ingrowth emitter
+|a radioactive isotope that produces additional radioactive materials as it decays
 
 |insoluble
 |incapable of being dissolved by a substance
@@ -480,6 +506,11 @@ stem:[\log_{b} {x} = y]
 
 |low background
 |experiments or detectors designed to have an extremely low level of background radiation to detect rare nuclear events
+
+|manifold
+|a space that looks like a flat space (i.e., a line, a plane, or 3D space) when you zoom in close enough
+
+https://ned.ipac.caltech.edu/level5/Abbott/paper.pdf[Flatland: A Romance of Many Dimensions by Edwin Abbott]
 
 |mass number
 |the mass number _A_ of an atom is the total number of protons and neutrons in a nucleus (_^A^element_)
@@ -585,6 +616,9 @@ stem:[\log_{b} {x} = y]
 
 |orthogonal
 |at a right angle
+
+|outflow
+|the cool, dense air that flows out from a storm system
 
 |paper-mill plume
 |a concentration of pollutants released from a pulp and paper mill into the atmosphere
@@ -726,6 +760,9 @@ stem:[Sc \; = \; \frac{\nu}{D} \; = \; \frac{\mu}{{\rho} \, D}]
 
 |size-fractionate
 |the physical separation of particles, colloids, or radionuclides within a sample onto portions based on their physical diameter or weight
+
+|solenoid valve
+|a device used to control the flow of liquids or gases as a remote-controlled, automatic valve
 
 |solvent
 |a substance used to dissolve other substances
