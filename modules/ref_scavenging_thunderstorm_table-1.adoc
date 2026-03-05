@@ -1,0 +1,28 @@
+[id="ref_scavenging_thunderstorm_table-1_{ref-scavenging-thunderstorm-table-1}"]
+include::../attributes.adoc[]
+
+.Summary of Cases Run Noting Varied Parameters
+
+[cols="1,1,1"]
+
+|===
+
+^|*Case* ^|*Collection Efficiency* ^|*Type of Pollutant Profile*
+
+^|A
+>|1.0
+|Low level maximum (surface)
+
+^|B
+>|0.1
+|Low level maximum
+
+^|C
+>|1.0
+|High level maximum (stem:[20 km])
+
+^|D
+>|1.0
+|Constant with height
+
+|===

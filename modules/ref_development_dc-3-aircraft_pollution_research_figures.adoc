@@ -1,0 +1,14 @@
+[id="ref_development_dc-3-aircraft_pollution_research_figures_{ref-development-dc3-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Aircraft Interior Showing Configurations (Neg 70356-6)
+
+[#img-dc-3-aircraft-1]
+[caption="Aircraft Interior Showing Configurations", alt="{dc-3-aircraft-alt-1}"]
+image::{dc-3-aircraft-image-1}[Aircraft Interior Showing Configurations]
+
+== Figure 2: Aircraft Interior Showing Configurations (Neg 70356-11)
+
+[#img-dc-3-aircraft-2]
+[caption="Aircraft Interior Showing Configurations", alt="{dc-3-aircraft-alt-2}"]
+image::{dc-3-aircraft-image-2}[Aircraft Interior Showing Configurations]

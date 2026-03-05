@@ -1,0 +1,44 @@
+[id="ref_algorithm_dc_figures_{ref-algorithm-dc-3-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Schematic Flowchart of the FORTRAN Software (Neg 73110-2)
+
+[#img-algorithm-dc-3-white]
+[caption="Schematic Flowchart of the FORTRAN Software", alt="{algorithm-dc-3-alt-white}"]
+image::{algorithm-dc-3-image-white}[Schematic Flowchart of the FORTRAN Software]
+
+[#img-algorithm-dc-3-black]
+[caption="Schematic Flowchart of the FORTRAN Software", alt="{algorithm-dc-3-alt-black}"]
+image::{algorithm-dc-3-image-black}[Schematic Flowchart of the FORTRAN Software]
+
+mapped the workflow for using the FORTRAN software on the computers used to collect data during scavenging experiments:
+
+* A period of initialization and setup: defining the parameters. If there isn't a time period specified, *STOP*.
+
+* If a period *IS* specified, the system reads the data in 15-second increments. 
+
+- If *YES*, the tape file is finished.
+
+- If *NO*, the data was recorded after the specified start time, it loops back to read the next 15 seconds of data.
+
+* Validate the data.
+
+- Convert the data to appropriate data.
+
+- Unaveraged data becomes available to the software subroutine.
+
+- The data is summed by the software.
+
+* Averaging the data.
+
+- If there's not enough data, return to the *READ TAPE* step to gather more data.
+
+- If there is enough data, the software averages the data.
+
+* The process ends.
+
+- Is the tape finished?
+
+- Was the data recorded after the time interval?
+
+NOTE: Both copies of the flow chart contain the same data, but the colors were inverted in the event diverse accessibility needs.

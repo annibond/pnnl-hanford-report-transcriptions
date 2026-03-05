@@ -1,0 +1,20 @@
+[id="assembly_algorithm_dc_{assembly-algorithm-dc-3}"]
+include::../attributes.adoc[]
+
+== A Computer Algorithm for Reduction and Presentation of Information from the BNW DC-3 Data Acquisition System
+[.big]#{DRD}#
+
+_The data acquisition system aboard the BNW DC-3 research aircraft records data, as voltage signals, in a compact format on {7track}. Computer software has been written which converts these data to inappropriate units and makes them available for analysis, and the modular nature of the code allows great flexibility in the types of analysis to be performed. In addition to printed output, graphic output may be generated using the highly versatile DISSPLA graphics package._
+
+include::../modules/con_algorithm_dc.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== Tables
+
+include::../modules/ref_algorithm_dc_table-1.adoc[leveloffset=+2]
+
+
+==== Figures
+
+include::../modules/ref_algorithm_dc_figures.adoc[leveloffset=+2]

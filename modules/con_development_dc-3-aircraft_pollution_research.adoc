@@ -1,0 +1,39 @@
+[id="con_development_dc-3-aircraft_pollution_research_{con-development-dc3}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+During recent years a strong need for a heavier research aircraft has arisen within the {BN} {AS} program. Although felt generally throughout the total program, this need is especially pronounced in the in-cloud scavenging group, who require higher load-carrying capability, longer range, and greater reliability under icing conditions for tracer release and cloud physics measurements. The need is also felt strongly in the aerosol and trace-gas component, where it is necessary to carry a large quantity of pollutant monitoring equipment simultaneously for extended periods of time. These needs have been filled by the purchase and conversion of a {dc3}, which arrived on-site in December 1974. Acquisition and development of the aircraft up to now are summarized in this report.
+
+== Choice of Aircraft
+
+The {DC3} was chosen over other contenders after systematic evaluation according to a number of criteria. These included capital cost, availability, operating schedule and costs, load-carrying ability, performance under icing conditions, range, cruising speed, ceiling altitude, and capability of the airframe to accept modifications. The initial capital investment for the aircraft was $37,000. Basic properties of the aircraft are shown in *Table 1*.
+
+== Cloud Physics and Tracer Instrumentation
+
+Immediately upon its arrival in December 1974 the aircraft was substantially modified from an executive style to have a scientific application. Since its first scheduled mission was to fly in the in-cloud scavenging program at {quil}, cloud-physics and tracer release were installed first.
+
+The tracer system used consists of flare racks and acetone generators, both activated remotely from a firing panel in the interior of the aircraft. Flare racks are the standard type used for cloud-seeding, while the acetone generators are the Brad-Patton units from the {bat} {cess}. The container system for the acetone tracer solutions was fabricated specially for the DC-3, and consists of six polyethylene-lined, cylindrical, aluminum containers. These are oriented vertically and mounted adjacent to one wall of the aircraft inside a ventilated Plexiglas cabinet. The volume of each container is approximately stem:[20 \, \ell]. The containers are connected by manifolds to exit lines running to the acetone burners; the flows from individual tanks are controlled by remotely activated solenoid valves which permit sequential or simultaneous discharge from the individual vessels. Pressure for the system is provided by a regulated nitrogen cylinder in the rear of the aircraft.
+
+Air monitored by the Aitken and ice nucleus-measuring equipment was sampled using a special isokinetic probe, located on top of the aircraft and protruding through the fuselage to monitoring units. This probe was fabricated for _2-in._ stainless tubing, the leading end being gradually tapered to a _0.5-in_. Diameter to facilitate isokinetic operation of the probe.
+
+== Pollution and Solar Radiation Measurement Facilities
+
+After the {quil} scavenging program, conducted during March 1975, the research aircraft was further modified. This was in preparation for the St. Louis aerosol and trace-gas transformation study, and in-cloud provision for extensive monitoring of pollution levels as well as solar radiation. Equipment installed for pollution monitoring is summarized in *Table 2*, and the aircraft instrumentation configurations used during the St. Louis experiment are shown in *Figure 1*.
+
+Solar observations were facilitated by installing an observation dome in the aircraft roof just aft of the cockpit. Measurements obtained to date using the DC-3 have consisted of observations from the multiwavelength hand-held instrumentation. More sophisticated tracking devices are contemplated for future application.
+
+== Data Acquisition and Additional Features
+
+During this second period of development additional features have been incorporated which involve state measurement and data acquisition. A data acquisition system has been installed consisting of a {nova1220} linked to a 7-track magnetic tape unit. Analog data signals from this entire array of monitors are fed to this system, where they are multiplexed, digitized, and written onto tape for subsequent batch processing. Temperature, airspeed, pressure, and position signals are conditioned before reaching the computer by a standard {m8} system. Aircraft position data for this purpose are furnished by VOR/DME radio equipment located in the aft of the aircraft for the scientists’ convenience.
+
+== Future Developments
+
+Because of rack mounting and modular configuration of the research equipment, additional units can be mounted on the aircraft as required. At present it is anticipated that additional monitoring equipment for CO, sulfate, and halocarbons will be incorporated within the near future. Also a low frequency navigation system is scheduled to be installed within the coming year. In addition to providing more reliable position data, this unit will be capable of computing wind speeds and thus will add substantially to the existing capability for pollutant material balance measurements.
+
+The primary intended function of the {DC3} at present is its future operation in conjunction with the forthcoming {m3}. It is expected also to contribute to less extensive field programs prior to implementation of this major undertaking, which is anticipated to begin sometime during FY-1977.
+
+== Acknowledgements
+
+A great many individuals contributed significantly to the development of this facility during the past year. These include (but are not confined to) {AJA}, {KGB}, {CEE}, {OND}, {RFE}, {FOG}, {NSL}, {RNL}, {PMP}, {RGR}, and {CWT}.
