@@ -1,0 +1,103 @@
+[id="ref_entrainment_convective_clouds_figures_{ref-entrainment-tracers-figures}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Figure 1. Precipitation in Millimeters on July 19, 1975 (Neg 760035-7)
+
+[#img-entrainment-tracers-1]
+[caption="Precipitation in Millimeters on July 19, 1975", alt="{entrain-cloud-alt-1}"]
+image::{entrain-cloud-image-1}[Precipitation in Millimeters on July 19, 1975]
+
+Scientists used five different tracers to track during the storm east of St. Louis:
+
+* Tantalum (Ta)
+
+* Iridium (Ir)
+
+* Rhenium (Re)
+
+* Gold (Au)
+
+* Europium (Eu)
+
+It is rare to come across any of these elements "in the wild" while observing a natural phenomenon. It reduces the chance of background noise and unnecessary particulates the storm scavenged. The setup for this experiment includes:
+
+* Black dots in this diagram representing the *219 rain collectors* spread out over the stem:[35 x 50-mile] grid.
+
+* Wavy lines surrounding areas in the area that represent the amount of rain that area received during the storm.
+
+* The name of the inert tracers injected into the air during the storm and the amount of rain in millimeters.
+
+If an area was shaded, it received a statistically significant amount of rain water. On this map there are three shaded areas, but only two of them are significant.
+
+* An area towards the {ne}rn part of the map which received stem:[8-10 \, millimeters] of rainwater.
+
+* A second area halfway down the map towards the east side of the map which received stem:[10-12 \, millimeters] of rainwater. This area has two distinct "peaks" of rainwater.
+
+The third shaded area toward the bottom of the map is stem:[\sin{20} \, miles] east of the beginning of the tracked area. The shading peaks around this area and seems to move to the west part of the map. 
+
+The reason this is *not statistically significant* is because during the storm, researchers found the cloud would absorb the tracers from their injection points and then dump them back into the rain zones. The efficiency of the transfer of the tracers was anywhere between _5 - 95%_, so it varied widely and was a reinjection of the same tracers as before anyway.
+
+== Figure 2. Tantalum Deposition in Picograms Per cm^2^ on July 19, 1975 (Neg 760035-4)
+
+[#img-entrainment-tracers-2]
+[caption="Tantalum Deposition in Picograms Per cm^2 on July 19, 1975", alt="{entrain-cloud-alt-2}"]
+image::{entrain-cloud-image-2}[Tantalum Deposition in Picograms Per cm^2 on July 19, 1975]
+
+Scientists also isolated each of the tracers from the experiment and produced their own individual maps to show the tracer deposition in the area during the storm. During the storm, tantalum (Ta) was injected from a plane east of the area (stem:[x < 0]) from an elevation of _10,500 feet_, which was the base of the developing cloud. This area is between the two horizontal forks of the {MS-R}. 
+
+There are two major peaks of Ta deposition:
+
+* stem:[\sin{8} \, pg/cm^2]
+
+* stem:[\sin{12} \, pg/cm^2]
+
+There are also areas with stem:[0 \, pg/cm^2] of Ta, confirming the storm only scrubbed metal into specific parts of the storm.
+
+== Figure 3. Rhenium Deposition in Picograms Per cm^2^ on July 19, 1975 (760035-5)
+
+[#img-entrainment-tracers-3]
+[caption="Rhenium Deposition in Picograms Per cm^2 on July 19, 1975", alt="{entrain-cloud-alt-3}"]
+image::{entrain-cloud-image-3}[Rhenium Deposition in Picograms Per cm^2 on July 19, 1975]
+
+Re was injected from a plane east of the area (stem:[x < 0]) from an elevation of _10,500 feet_, which was the base of the developing cloud. This area is to the right of the {MS-R} and the Ta injection point.
+
+There are three major peaks of Re:
+
+* stem:[\sin{20} \, pg/cm^2]
+
+* stem:[\sin{15} \, pg/cm^2] (two peaks at this amount)
+
+This means Re was scavenged more efficiently than Ta in those parts of the cell after being injected during a part of the storm that was arguably more active.
+
+== Figure 4. Gold Deposition in Picograms Per cm^2^ on July 19, 1975 (760035-3)
+
+[#img-entrainment-tracers-4]
+[caption="Gold Deposition in Picograms Per cm^2 on July 19, 1975", alt="{entrain-cloud-alt-4}"]
+image::{entrain-cloud-image-4}[Rhenium Deposition in Picograms Per cm^2 on July 19, 1975]
+
+Au was injected from at the edge of the map where stem:[\sin{0}] from an elevation of _10,500 feet_, which was the base of the developing cloud. This area is slightly {se} of the Re injection point.
+
+There is only one peak of Au at stem:[\sin{6} \, pg/cm^2], which is further {ne} from the previous peaks. That may mean gold was released during a part of the storm where there was less energy, so less was scavenged as a result. The spread of Au deposition was also smaller and more isolated than that of Ta and Re.
+
+== Figure 5. Europium Deposition in Picograms Per cm^2^ on July 19, 1975 (760035-2)
+
+[#img-entrainment-tracers-5]
+[caption="Europium Deposition in Picograms Per cm^2 on July 19, 1975", alt="{entrain-cloud-alt-5}"]
+image::{entrain-cloud-image-5}[Europium Deposition in Picograms Per cm^2 on July 19, 1975]
+
+Eu was injected from at the edge of the map where stem:[\sin{0 \, < \, x \, < 5}] from an elevation of _10,500 feet_, which was the base of the developing cloud. This area is east of the Au injection point.
+
+There are two smaller peaks of Eu at stem:[\sin{6} \, pg/cm^2], which is eastward somewhere towards the middle of the map and stem:[\sin{4} \, pg/cm^2], which is north of the other, slightly larger peak. Unlike the maps for Ta, Re, and Ag, the peaks are more scattered across the grid rather than unified and concentrated, as well as much more towards the {se} than the previous tracers. This deposition supports the idea that the storm is weakening.
+
+== Figure 6. Arsenic Deposition in 10^-11^ g per cm^2^ on July 19, 1975 (Neg 760035-6)
+
+[#img-entrainment-tracers-6]
+[caption="Arsenic Deposition in 10^-11 g per cm^2^ on July 19, 1975", alt="{entrain-cloud-alt-6}"]
+image::{entrain-cloud-image-6}[Arsenic Deposition in 10^-11 g per cm^2 on July 19, 1975]
+
+In addition to the four injections of rare metal into the atmosphere during the July 19 storm, researchers also tracked the introduction of As into the storm as a "natural" urban tracer. Arsenic is a common byproduct from coal combustion and industrial activity in St. Louis and similar cities. The purpose was to compare the tracer deposition with arsenic compared to the intentional releases of Ta, Re, Au, and Eu, which are all rare metals.
+
+The concentration of arsenic was significantly higher than those of the other tracers at stem:[10^{-11} \, g \, per \, cm^{2}]. Picograms are only stem:[10 \times -12 \, g].
+
+There is a very strong peak at stem:[20 \times 10^{-11} g/cm^2] in the middle of the map, which is also the highest-intensity part of the map for precipitation and Re deposition. The storm washed out the urban particulate in the same area and as strongly as the artificially introduced particulates. Unlike any of the other tracer maps, As is present across the entire area. That is because arsenic is already present over the area before the storm hit.

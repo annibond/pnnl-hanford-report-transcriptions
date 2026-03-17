@@ -1,0 +1,12 @@
+[id="con_development_no_deposition_precipitation_{con-development-no-deposition-precipitation}"]
+include::../attributes.adoc[]
+
+A new type of no-deposition precipitation sampler is currently under development at {BN}, and preliminary field testing is expected to take place in December 1975 or January 1976. The testing of components thus far has been satisfactory and no major problems are anticipated with the automated opening portion of the sampler. *Figure 1* shows the design of the sampler.
+
+When completed the sampler will utilize a thermoelectric cooling device to freeze the rain sample within a short time after collection. This freezing portion of the sampler, however, has not yet been assembled for testing; some problems in that section are possible.
+
+The principle of automatic lid operation of the sampler has been utilized previously, and several automatic opening samplers are currently being used and tested. However, some problems exist with almost every type that has been used. In addition to incorporating sample freezing with such a device, we are hoping to use some of the information on the shortcomings of the others to build one as efficient and dependable as possible for implementation in the MAP3S field program.
+
+The principle of operation is use of a moisture-sensing electronic device to activate a sample gear motor which in turn opens the sampler lid. The sensing grid is slightly heated so a quicker closing response time can be achieved. The sensitivity of the unit will be adjustable to respond to only continued precipitation, not a brief light shower of only a few drops. A test system is now in operation in the laboratory but a more refined circuit is being built to replace the one now in use. 
+
+All components which can come in contact with the sample are being made from or coated with Teflon or polyethylene so as to make the collected sample usage as versatile and free of all contamination as possible.

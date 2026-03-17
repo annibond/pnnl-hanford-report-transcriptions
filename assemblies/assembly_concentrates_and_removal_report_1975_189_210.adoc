@@ -1,0 +1,9 @@
+[id="assembly_concentrates_and_removal_report_1975_189-210_{assembly-pollutant-transform-interact}"]
+
+== Pollutant Transformations and Interactions
+
+It is especially important to understand the changing physical and chemical character of pollutants in the atmosphere. The biological and ecological significance can be strongly dependent on the form they assume as they are delivered to receptors. The efficiency of pollutant removal can also be strongly influenced by the pollutants physical and chemical state and the transformations that occur during transport.
+
+The Pacific Northwest Laboratory's investigations of atmospheric pollutant transformations have centered primarily around aircraft observations of pollutant concentrations and conversion rates, which are being interpreted with the use of numerical models of the transformation processes. The primary field experiment during the past year was conducted using the {dc3} in the St. Louis region during the final term of the {MET} series. In this experiment, experiment, extensive trace gas and aerosol data, and solar radiation measurements were recorded in a Lagrangian reference frame downwind of the {metro} complex. This expewriment was designed as a precursor to the more extensive {m3} studies and is presently being evaluated using analytical and numerical modeling procedures. The contributions immediately following summarize the progress made during the past year in these areas.
+
+* Aerosol and trace gas transformations

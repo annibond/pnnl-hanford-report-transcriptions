@@ -36,3 +36,6 @@ include::../assemblies/assembly_estimate_in_cloud_scavenging_tracer_frontal_stor
 include::../assemblies/assembly_development_dc-3-aircraft_pollution_research.adoc[leveloffset=+1]
 include::../assemblies/assembly_algorithm_dc.adoc[leveloffset=+1]
 include::../assemblies/assembly_scavenging_thunderstorm.adoc[leveloffset=+1]
+include::../assemblies/assembly_entrainment_convective_clouds.adoc[leveloffset=+1]
+include::../assemblies/assembly_design_chemistry_measurement_analysis.adoc[leveloffset=+1]
+include::../assemblies/assembly_development_no_deposition_precipitation.adoc[leveloffset=+1]

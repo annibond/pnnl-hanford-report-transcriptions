@@ -31,3 +31,4 @@ Price: Printed Copy $4.00; Microfiche $2.25
 include::../assemblies/assembly_concentrates_and_removal_report_1975_0_43.adoc[leveloffset=+1]
 include::../assemblies/assembly_concentrates_and_removal_report_1975_44_63.adoc[leveloffset=+1]
 include::../assemblies/assembly_concentrates_and_removal_report_1975_64_126.adoc[leveloffset=+1]
+include::../assemblies/assembly_concentrates_and_removal_report_1975_189_210.adoc[leveloffset=+1]

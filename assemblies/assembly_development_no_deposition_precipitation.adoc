@@ -1,0 +1,15 @@
+[id="assembly_development_no_deposition_precipitation_{assembly-development-no-deposition-precipitation}"]
+include::../attributes.adoc[]
+
+== Development of a No-Deposition Precipitation Sampler
+[.big]#{DWG}#
+
+_A new type of field sampler is being developed at {BN} for precipitation chemistry studies under the {m3} program. This sampler incorporates sample freezing and automatic lid opening, and will be in operation for test purposes in the near future._
+
+include::../modules/con_development_no_deposition_precipitation.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== Figures
+
+include::../modules/ref_development_no_deposition_precipitation_figures.adoc[leveloffset=+2]
