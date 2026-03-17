@@ -1,0 +1,38 @@
+[id="con_entrainment_convective_clouds_{con-entrainment-tracers}"]
+include::../attributes.adoc[]
+
+== Procedure
+
+Inert tracers were released sequentially by means of acetone generators at _8,500 - 16,000 ft_ near the sides of convective storms in the St. Louis area on July 18, 19, 23, and 30 in 1975. The times and locations of the tracer releases are reported in *Table 1*. The release of each individual tracer required _2.5 min_. Following the tracer releases samples of rain were collected using a _35 x 50-mile_ network of 219 rain collectors. These samples were frozen using dry ice and returned to the {rich} laboratory where they are being analyzed for the tracers and other elements by instrumental neutron activation.
+
+Many of the rain samples from the July 19 storm have been partially analyzed but analysis has not yet begun on the rain samples collected on July 18, 23, or 30. On July 19 a convective cloud crossed the north-western boundary of the precipitation network and moved {se}ward through the network. Ta was released first at _10,500 ft_ on the north-eastern side of the cell; the {bat} {cess} then moved to the western side of the cell where it released Ir, Re, Au, and Eu in that order. Atmospherics Inc. released Li into the updraft of this cell at cloud base for the {IL} State Water Survey. The precipitation pattern from this cell, as calculated from the volumes of water in the rain samples that have been boiled down for analysis, is shown in *Figure 1*. The locations of the samples are indicated by points in the figure. The locations of the tracer releases are also indicated by the chemical symbols of the travers in the figure. Less than _1 cm_ of rain fell at most locations. At least some of the water in the samplers near the southern end of the network may have come from a different convective cell.
+
+== Results of the July 19 Tracer Release
+
+=== Tantalum
+
+Only a few of the rain samples contained measurable quantities of Ta. The Ta deposition pattern is shown in *Figure 2*. Ta concentration was relatively high in one rain sample collected _10 miles_ downwind of the Ta release and in other samples collected _30 miles_ downwind of the release. A few other samples contained lesser amounts of Ta. The total Ta deposition in the area from which samples have been analyzed (calculated by dividing the total amount of Ta in the samples analyzed by the fraction of the total surface area covered by these samplers) was only about 5% of the Ta released. Ta was released on the {ne}ern side of the {se}ward-moving cell, while the other tracers were released on the back (western) side of the cell. This may explain why the Ta deposition was less than that of the other tracers.
+
+=== Iridium
+
+None of the rain samples have yet been analyzed for Ir. 
+
+=== Rhenium
+
+The Re deposition pattern is shown in *Figure 3*. The highest Re deposition occurred _10 miles_ east of the Re release, and _5 miles_ east of the location of the sample containing high Ta. The highest Re deposition occurred in a region of very light rainfall. A region of low deposition and light rainfall extended several miles farther downwind; the rainfall rate and the Re deposition increased considerably _30 - 35 miles_ {se} of the Re release. The two rain samples containing the most Ta also contained fairly large amounts of Re. The calculated Re deposition in the region of sample analysis was 95% of the amount of rhenium released.
+
+=== Gold
+
+Au was released immediately after the Rh. CaCL~2~ had been added to the Au solution for the purpose of producing mixed hygroscopic particles, so that the scavenging of the hygroscopic particles could be compared with that of the hydrophilic particles of the other tracers. The Au deposition pattern is shown in *Figure 4*. The highest Au deposition occurred _10 miles_ to the {ne} of the highest Re deposition, also in a region of light rainfall. The Au deposition was rather light in the region of heaviest Re deposition. As in the case of the other tracers, the Au deposition increased somewhat _25 miles_ downwind of the Au release when the precipitation increased. The calculated amount of Au deposited was 15% of Au released. No obvious difference between the Au deposition and the deposition of the other tracers could be attributed to the CaCL~2~ added to the Au solution.
+
+=== Europium
+
+The Eu deposition pattern is shown in *Figure 5*. High Eu deposition occurred _19 miles_ east of the Eu release and _5 miles_ {se} of the maximum Au deposition, in a region of relatively heavy precipitation. The heaviest Eu deposition occurred _25 miles_ {se} of the Eu release in the same region that the other tracers showed relatively high deposition. The calculated Eu deposition was 30% of the amount released.
+
+=== Arsenic
+
+As was not released as a tracer, but was present in measurable quantities in the precipitation. The As in the precipitation probably had been released to the atmosphere primarily by the St. Louis urban-industrial complex. The As deposition pattern is shown in *Figure 6*. Regions of high As deposition generally coincided with regions of heavier precipitation. The calculated As deposition in the region of sample analysis was _1000 g_. An estimate will be made of the fraction of As scavenged by the precipitation when air samples collected in and downwind of the St. Louis in August 1975 are analyzed for an estimate of the rate of injection of As into the atmosphere by St. Louis.
+
+== Summary
+
+Each tracer showed a region of relatively high deposition _10 - 20 miles_ east of the tracer release. Since the convective cell was moving {se}ward, each successive tracer release occurred farther {se}ward, and this region of high tracer deposition was displaced a corresponding distance eastward for each successive tracer. High depositions generally were not located in regions of high rainfall. A second region of high tracer deposition occurred several miles further to the {se} for each tracer in roughly the same region as a region of relatively high rainfall.

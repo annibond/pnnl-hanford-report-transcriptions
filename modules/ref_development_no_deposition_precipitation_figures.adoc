@@ -1,0 +1,32 @@
+[id="ref_development_no_deposition_precipitation_figures_{ref-development-precipitation}"]
+include::../attributes.adoc[]
+
+== Figure 1: Locations of Existing Precipitation Chemistry Measurements (Neg-71941-1)
+
+[#img-design-chemistry-measurement-1]
+[caption="Locations of Existing Precipitation Chemistry Measurements", alt="{design-chemistry-measurement-alt-1}"]
+image::{design-chemistry-measurement-image-1}[Locations of Existing Precipitation Chemistry Measurements]
+
+This map of the United States shows locations critical to understanding the {MAP3S} project. The sites are a part of the {PCN} in the {MET} era and includes one site proposed by the {ERDA} and {BN}. 
+
+* ⬤ {WMO} (WMO) (wet)
+
+* ▲ Canada Inland Waters (wet)
+
+* ▼ {USGS} (USGS) (bulk)
+
+* ■ {corn} (wet/dry)
+
+* □ ERDA-BNW proposed (wet)
+
+The totality of these sites included:
+
+* *Background sites* that created a baseline for "clean" air for the {MET} experiments.
+
+* *Pollution sites* that tracked pollution in dry deposition and wet scavenging experiments.
+
+* *ERDA and USGS sites* concentrated in specific regions to track how industrial plumes traveled across the country.
+
+* *USFS sites* managed by the {USFS} in {WV} to specifically track acid rain in the mountains.
+
+include::../modules/ref_development_no_deposition_precipitation_figures_table-1.adoc[leveloffset=+1]

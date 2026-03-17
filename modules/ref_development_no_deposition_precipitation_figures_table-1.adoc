@@ -1,0 +1,21 @@
+[id="ref_development_no_deposition_precipitation_figures_table_{ref-development-precipitation-table-1}"]
+include::../attributes.adoc[]
+
+.Sites for Wet and Dry Scavenging in the Eastern {US}
+
+[cols="1,1"]
+
+|===
+
+^|*Term* ^|*Definition*
+
+|*Wet*
+|Precipitation scavenging, particulate that are washed out of the air by a form of water (e.g., rain or snow).
+
+|*Dry*
+|Deposition from dry material (e.g., dust) that fall or stick to the surfaces when there is no precipitation.
+
+|*Bulk*
+|Samplers that stay open to catch both types of material.
+
+|===

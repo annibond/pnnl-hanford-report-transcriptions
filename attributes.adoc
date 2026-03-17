@@ -57,30 +57,22 @@
 :MA: Manhattan Project
 :WW2: World War II
 
-// Cities, States, & Water Sources
+// Countries
+
+:UN: United Nations
+:UK: United Kingdom
+:US: United States
+:USA: United States of America
+
+// Cities & States
 
 :alex: Alexandria
-:AK: Alaska
-:AtO: Atlantic Ocean:
 :boul: Boulder
-:CO: Colorado
+:chaph: Chapel Hill
+:charl: Charlottesville
 :DC: Washington D.C.
 :hous: Houston
-:IL: Illinois
-:JuanS: Strait of Jaun de Fuca
-:MD: Maryland
-:MO: Missouri
-:MS: Mississippi
-:MS-R: Mississippi River
-:NB: Neah Bay
-:NC: North Carolina
-:NJ: New Jersey
-:NY: New York
-:NYC: New York City
-:OP: Olympic Peninsula
-:OR: Oregon
-:oz-lake: Ozette Lake
-:PacO: Pacific Ocean
+:ith: Ithaca
 :PB: Point Barrow
 :phil: Philadelphia
 :quil: Quillayute
@@ -88,52 +80,107 @@
 :rich: Richland
 :sea: Seattle
 :spring: Springfield
-:TX: Texas
-:UK: United Kingdom
-:US: United States
-:USA: United States of America
-:UW: University of Washington
-:VA: Virginia
-:WA: Washington
+:wf: Whiteface
 :zapp: Champaign
 
-// Government Programs & Test Sites
+:metro: metropolitan
+
+:switz: Switzerland
+
+:AK: Alaska
+:CO: Colorado
+:IL: Illinois
+:MD: Maryland
+:MO: Missouri
+:MS: Mississippi
+:NC: North Carolina
+:NJ: New Jersey
+:NY: New York
+:NYC: New York City
+:OR: Oregon
+:PA: Pennsylvania
+:TX: Texas
+:VA: Virginia
+:WA: Washington
+:WV: West Virginia
+
+// Meteorological & Weather Specific Organizations (incl. United States government organizations)
+
+:EPA: Environmental Protection Agency
+:ilwater: Illinois State Water Survey
+:IMO: International Meteorological Organization
+:MRU: Meteorological Radar Unit
+:multistate: Multistate Atmospheric Power Production Pollution Study
+:NAAQS: National Ambient Air Quality Standard
+:NOAA: National Oceanic and Atmospheric Administration
+:NWS: National Weather Service
+:WMO: World Meteorological Organization
+:WPL: Wave Propagation Laboratory
+:USFS: United States Forest Service
+:USGS: United States Geographical Survey
+
+// Schools
+
+:corn: Cornell University
+:su: State University
+:UW: University of Washington
+
+// Meteorological & Weather Specific Organizations (incl. United States government organizations)
+
+:EPA: Environmental Protection Agency
+:ilwater: Illinois State Water Survey
+:IMO: International Meteorological Organization
+:MRU: Meteorological Radar Unit
+:multistate: Multistate Atmospheric Power Production Pollution Study
+:NAAQS: National Ambient Air Quality Standard
+:NOAA: National Oceanic and Atmospheric Administration
+:NWS: National Weather Service
+:WMO: World Meteorological Organization
+:WPL: Wave Propagation Laboratory
+:USFS: United States Forest Service
+:USGS: United States Geographical Survey
+
+// United States Government Departments (other) & Test Sites
 
 :AF: Air Force
+:ARL: Air Resources Laboratory
 :AS: Atmospheric Sciences
 :DA: Department Administration
 :DNA: Defense Nuclear Agency
 :DOA: Department of Agriculture
 :DOC: Department of Commerce
 :DOE: Department of Energy
+:DOI: Department of the Interior
 :DTRA: Defense Threat Reduction Agency
-:EPA: Environmental Protection Agency
 :ERDA: Energy Research and Development Administration
 :ERS: Ecological Research Series
 :MAFB: Makah Air Force Base
 :MET: METROMEX
-:MRU: Meteorological Radar Unit
-:NAAQS: National Ambient Air Quality Standard
 :NARL: Naval Arctic Research Laboratory
-:NOAA: National Oceanic and Atmospheric Administration
-:NWS: National Weather Service
 :ORD: Office of Research and Development
 :PMCMC: Pittsburg and Midway Coal Mining Company
 :PNL: Pacific Northwest Laboratories
-:PNNL: Pacific Northwest National Laboratory
+:PNNL: Pacific Northwest National Laboratories
 :QAF: Quillayute Airfield
-:WPL: Wave Propagation Laboratory
-:USFS: United States Forest Service
 
 // National Landmarks
+
+:AtO: Atlantic Ocean
+:PacO: Pacific Ocean
+
+:MS-R: Mississippi River
+:NB: Neah Bay
+:JuanS: Strait of Jaun de Fuca
+:OP: Olympic Peninsula
+:oz-lake: Ozette Lake
+:port-ang: Port Angeles
+:strait-juan: Straight of Juan de Tuca
 
 :app: Appalachian Mountains
 :CMR: Cascade Mountain Range
 :mt-helens: Mount Saint Helen
 :mt-olym: Mount Olympus
 :mt-ranier: Mount Ranier
-:port-ang: Port Angeles
-:strait-juan: Straight of Juan de Tuca
 
 // Equipment & Experiment Programs
 
@@ -480,6 +527,8 @@
 :battelle-cloud-scavenging-overview-img-black: {img-dir}/ref_battelle_cloud_scavenging_figure-black.png
 :battelle-cloud-scavenging-overview-img-white: {img-dir}/ref_battelle_cloud_scavenging_figure-white.png
 
+:cess-image-1: {img-dir}/ref_basic_diagrams_models_cess_411.png
+
 :cloud-scavenging-design-op-image-1: {img-dir}\ref_design_in_cloud_scavenging_1975_olympic_figure-1.png
 :cloud-scavenging-design-op-image-2: {img-dir}\ref_design_in_cloud_scavenging_1975_olympic_figure-2.png
 :cloud-scavenging-design-op-image-3: {img-dir}\ref_design_in_cloud_scavenging_1975_olympic_figure-3.png
@@ -491,7 +540,18 @@
 :dc-3-aircraft-image-1: {img-dir}/ref_development_dc-3-aircraft_pollution_research_figure-1.png
 :dc-3-aircraft-image-2: {img-dir}/ref_development_dc-3-aircraft_pollution_research_figure-2.png
 
+:design-chemistry-measurement-image-1: {img-dir}/ref_design_chemistry_measurement_analysis_figure-1.png
+
+:development-sampler-image-1: {img-dir}/development_no_deposition_precipitation_sampler_figure-1.png
+
 :dust-devil-img: {img-dir}/ref_frequency_dust_devils_hanford_figure-1.png
+
+:entrain-cloud-image-1: {img-dir}/ref_entrainment_convective_clouds_figure-1.png
+:entrain-cloud-image-2: {img-dir}/ref_entrainment_convective_clouds_figure-2.png
+:entrain-cloud-image-3: {img-dir}/ref_entrainment_convective_clouds_figure-3.png
+:entrain-cloud-image-4: {img-dir}/ref_entrainment_convective_clouds_figure-4.png
+:entrain-cloud-image-5: {img-dir}/ref_entrainment_convective_clouds_figure-5.png
+:entrain-cloud-image-6: {img-dir}/ref_entrainment_convective_clouds_figure-6.png
 
 :experiment-particle-annual-img-1: {img-dir}/ref_experiment_particle_resuspension_annular_figure_1.png
 
@@ -625,6 +685,8 @@
 
 :battelle-cloud-scavenging-overview-alt-white: A flowchart that shows the process of experiments under the Battelle-Northwest in-cloud rain scavenging program. This copy of the flowchart uses a white background with black text, arrows, and shapes.
 
+:cess-alt-1: An image of a Cessna-41 aircraft positioned on a runway facing right. Image from the Cessna 411 Wikipedia article.
+
 :cloud-scavenging-design-op-alt-1: A map of the upper corner of the continental United States that highlights the precipitation sampler areas, the recording rain gauge, the locations of Hoquiam, Mt. Olympus, Queets, Forks, Port Angeles, Strait of Juan de Tuca, and both dual doppler radar sites.
 
 :cloud-scavenging-design-op-alt-2: A diagram that compares the 1975 Olympic Peninsula cloud-scavenging experiment. The x-axis = 50 nautical mile distance between Queets to Callum Bay over mountainous terrain. The y axis = height in thousand feet (kft) in integrals of 1 thousand feet. Symbols explained on the diagram page are included in the diagram key.
@@ -641,7 +703,23 @@
 
 :dc-3-aircraft-alt-2: Interior of the modified DC-3 aircraft for in-cloud scavenging experiments for the MAP3S program, showing the instruments used for measuring data and seating.
 
+:design-chemistry-measurement-alt-1: A map of the Eastern side of the United States. West Virginia is called out as "USFS (9 sites in W. VA.)". Other markers on the map include WMO (Wet), Canada Inland Waters (Wet), USGS (Bulk), Cornell (Wet/Dry), and ERDA-BNW Proposed (Wet).
+
+:development-sampler-alt-1: A diagram of the precipitation sampler.
+
 :dust-devil-alt: Two graphs stacked on top of each other showing the environmental impact of the weather during dust devil conditions.
+
+:entrain-cloud-alt-1: A map that shows the intensity of a rain storm on July 19, 1975 east of St. Louis and the Mississippi River. There is an array of black dots representing 219 rain collectors. Contours show precipitation in millimeters. Most areas receive 2-4 mm. There are three areas with statistically significant data: 1) the northeast corner of the map which received 10 mm rainwater, 2) two peaks in the middle of the map on the east side of the map which received 10 mm and 12 mm rainwater. There is a third shaded area in the last third of the map in the middle which received around 8 mm rainwater, but that data was not included in the data set.
+
+:entrain-cloud-alt-2: A map that shows the intensity of a rain storm on July 19, 1975 east of St. Louis and the Mississippi River. This map focuses on the injection of the tracer tantalum in the atmosphere in a northeastern part of the map.
+
+:entrain-cloud-alt-3: A map that shows the intensity of a rain storm on July 19, 1975 east of St. Louis and the Mississippi River. This map focuses on the injection of the tracer rhenium in the atmosphere in a northeastern part of the map.
+
+:entrain-cloud-alt-4: A map that shows the intensity of a rain storm on July 19, 1975 east of St. Louis and the Mississippi River. This map focuses on the injection of the tracer gold in the atmosphere in a northeastern part of the map.
+
+:entrain-cloud-alt-5: A map that shows the intensity of a rain storm on July 19, 1975 east of St. Louis and the Mississippi River. This map focuses on the injection of the tracer Europium in the atmosphere in a northeastern part of the map.
+
+:entrain-cloud-alt-6: A map that shows the intensity of a rain storm on July 19, 1975 east of St. Louis and the Mississippi River. This map focuses on the introduction of arsenic into the storm as a natural urban tracer.
 
 :experiment-particle-annual-alt-1: A diagram that shows the plan for the field experiment on particle resuspension from a contaminated area. It focuses on the "tracer area". The diagram contains a map of the tracer area. In the center of this circle, he placed a sampling tower equipped with those impactor-cowl systems at various heights where (1) ▼ represents 0.5 to 2.5, (2) ○ represents 3 to 5, (3) □ represents 5 to 7, (4) △ represents 7 to 11, (5) ⬤ 11 to 15, and (6) ▲ represents 15 to 18 meters over seconds. The plane view shows a range 27.5 meters horizontally. It shows this data of tower sampler elevations of 0 through 9 meters.
 
@@ -655,7 +733,7 @@
 
 :frequency_airborne_dust-alt-2: A graph that shows the monthly regional average dust frequencies for the seven regions named in the article during 1974 - 1975. The x axis = months in January 1974 through January 1975 in intervals of one month. The y axis = percentage with intervals of (1) 0.001, (2) 0.01, (3) 0.1, (4) 1.0, and (5) 10 percent. There are seven regions where (1) + represents “I Pacific Coast Region”, (2) ■ represents “II Rocky Mountain Region”, (3) △ represents “III North Central Region”, (4) ○ “IV South Central Region”, (5) X represents “V Southeast Region”, ▼ represents “VI Great Lakes Region”, ◆ represents “VII Northeast Region”. All seven models start at a relatively low point, hit a peak around April - May 1974, and inconsistently increase and decrease for the remaining time.
 
-:frequency_airborne_dust-alt-3: A map that shows a geographic summary of the frequency of airborne dust particles across the continental United States. 
+:frequency_airborne_dust-alt-3: A map that shows a geographic summary of the frequency of airborne dust particles across the continental United States.
 
 :injected-frontal-storms-alt-1: A graph that shows the estimated in-cloud scavenging coefficient 10^-3 to 10^-2 sec^-1 for a frontal storm that occurred on March 11, 1971.
 

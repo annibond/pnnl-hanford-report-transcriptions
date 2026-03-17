@@ -1,0 +1,19 @@
+[id="assembly_entrainment_convective_clouds_{assembly-entrainment-tracers}"]
+include::../attributes.adoc[]
+
+== The Entrainment of Tracers Near the Sides of Convective Clouds
+[.big]#{JAY}, {TMT}, {CWT} and {NAW}#
+
+_During the Metropolitan Meteorological Experiment (METROMEX) inert tracers were released sequentially near the sides of convective clouds at 8,500 - 16,000-ft altitudes to determine 1) whether air is being entrained into the sides of convective clouds, 2) whether the particulate material in the entrained air is being scavenged, and 3) to provide information on the trajectories near the sides of convective clouds pm July 18, 19, 23 and 30. On July 19 Ta, Ir, Re, AU, and Eu were released sequentially into a convective cloud moving {se}ward across the precipitation network. The scavenging efficiency for the five tracers varied from 5-95%. A region of heavy tracer deposition was measured 10-20 miles east of each tracer release. The deposition for each successive tracer moved eastward as the location of the tracer release was moved eastward. A second region of high tracer releases in a region of increasing precipitation._
+
+include::../modules/con_entrainment_convective_clouds.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== Tables
+
+include::../modules/ref_entrainment_convective_clouds_table-1.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_entrainment_convective_clouds_figures.adoc[leveloffset=+2]

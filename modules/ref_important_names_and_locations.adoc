@@ -105,11 +105,19 @@ https://www.youtube.com/watch?v=Plr7_SAuB6g[EPA, EPA, EPA!]
 |{DC}, {port}, {OR}
 |Agency founded in 1905 that operates under the {US} {DOA} and manages the nation's 154 national forests and 20 national grasslands. The R6 range exclusively covers {OR} and {WA}.
 
+|{USGS} (USGS)
+|Reston, {VA}
+|Federal agency founded in 1849 that operates under the {US} {DOI} that manages fact-finding scientific research including natural resources, natural disasters and hazards, and the mapping of planets and moons based on the data gathered from space probes
+
 |{US} Radium Corporation
 |Orange, NJ
 |a coporation founded in 1914 that produced uranium and developed radioluminescent paint, responsible for the infamous Radium Girls case in which workers in their plant died slowly from radiation poisoning
 
 https://en.wikipedia.org/wiki/Radium_Girls[Radium Girls]
+
+|{WMO} (WMO)
+|Geneva, {switz}
+|Agency founded in 1947 under the {UN} that tracks research for atmospheric science, climate change, environmental protection. The WMO meets every four years to realign policies and priorities
 
 |{WPL} (WPL)
 |{boul}, {CO} (historical)

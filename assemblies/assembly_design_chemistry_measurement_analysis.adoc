@@ -1,0 +1,9 @@
+[id="assembly_design_chemistry_measurement_analysis_{assembly-design-chemistry-analysis}"]
+include::../attributes.adoc[]
+
+== A Design for Regional Precipitation Chemistry Measurement and Analysis
+[.big]#{MTD} and {JMH}#
+
+_A precipitation chemistry network, utilizing a newly designed collector, is being set up in the northeastern United States. Siting of three or four initial sites is being coordinated by NOAA, {ARL} personnel. Chemical analyses of samples will be done for all relevant fossil-fuel pollutant species, with careful quality control and rapid dissemination of results a major goal._
+
+include::../modules/con_design_chemistry_measurement_analysis.adoc[leveloffset=+1]
