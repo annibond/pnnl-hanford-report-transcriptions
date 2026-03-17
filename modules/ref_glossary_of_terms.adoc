@@ -236,6 +236,9 @@ stem:[F(x) = e^{-x^2} \int_{0}^{x} e^{t^2} dt]
 |disintegration ratio rate
 |the rate of disintegration and the ratio of the decayed portion to the total
 
+|dissiminate
+|to spread information
+
 |{doppr}
 |The primary tracking system used for tracking the atmospheric conditions in the {US} including the location, speed, and direction of moving objects (e.g., rain, snow, airplanes), invented in the mid-1940's
 
@@ -396,6 +399,9 @@ stem:[{F_o} = \frac{\alpha t}{L^{2}}]
 
 |horizontal diffusion
 |the mix or spread of substances horizontally
+
+|hydrophilic
+|a tendency to mix with or dissolve in water
 
 |hygroscopicity
 |the physical property of a substance to attract, absorb, and hold water molecules from the surrounding atmosphere
