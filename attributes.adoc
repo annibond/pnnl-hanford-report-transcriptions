@@ -73,6 +73,12 @@
 :DC: Washington D.C.
 :hous: Houston
 :ith: Ithaca
+:la: Los Angeles
+:leni: Leningrad
+:lond: London
+:minn: Minneapolis
+:NYC: New York City
+:pasa: Pasadena
 :PB: Point Barrow
 :phil: Philadelphia
 :quil: Quillayute
@@ -88,15 +94,16 @@
 :switz: Switzerland
 
 :AK: Alaska
+:CA: California
 :CO: Colorado
 :IL: Illinois
 :MD: Maryland
 :MO: Missouri
 :MS: Mississippi
+:MN: Minnesota
 :NC: North Carolina
 :NJ: New Jersey
 :NY: New York
-:NYC: New York City
 :OR: Oregon
 :PA: Pennsylvania
 :TX: Texas
@@ -106,7 +113,9 @@
 
 // Meteorological & Weather Specific Organizations (incl. United States government organizations)
 
+:ATGP: Aerosol and Trace Gases Program
 :EPA: Environmental Protection Agency
+:ESAT: Environmental Science and Technology
 :ilwater: Illinois State Water Survey
 :IMO: International Meteorological Organization
 :MRU: Meteorological Radar Unit
@@ -122,7 +131,9 @@
 // Schools
 
 :corn: Cornell University
+:MEDept: Mechanical Engineering Department
 :su: State University
+:UMN: University of Minnesota   
 :UW: University of Washington
 
 // Meteorological & Weather Specific Organizations (incl. United States government organizations)
@@ -145,6 +156,7 @@
 :AF: Air Force
 :ARL: Air Resources Laboratory
 :AS: Atmospheric Sciences
+:cair: Civic Memorial Airport
 :DA: Department Administration
 :DNA: Defense Nuclear Agency
 :DOA: Department of Agriculture
@@ -162,6 +174,7 @@
 :PNL: Pacific Northwest Laboratories
 :PNNL: Pacific Northwest National Laboratories
 :QAF: Quillayute Airfield
+:wair: Weiss Airport
 
 // National Landmarks
 
@@ -184,19 +197,27 @@
 
 // Equipment & Experiment Programs
 
+:15-chan: 15-channel pulse height analyzer and printer
 :7track: 7-track tape
 :7track-m: 7-track magnetic tape
+:7track-r: 7-track magnetic recorder
+:bendix: Bendix Ozone Monitor   
 :c73: Cyber 73 system
 :cess: Cessna 411 aircraft
 :dc3: DC-3 aircraft
 :dopp: Doppler
-:dopp-2: dual Dopplers
+:dopp-2: dual Dopplers  
 :doppd: dual Doppler
 :doppr: Doppler radar system
 :doppr-2: dual Doppler radar system
+:gen-ait: G. E. Aitken Nuclei Counter
+:gen-count: General Electric Particle Counter
 :m3: MAP3S program
 :m8: Metrodata M-8 interface
 :nova1220: NOVA 1220 minicomputer
+:nox: NO~x~ Analyzer
+:royco-mon: Royco Optical Sensor Model 220
+:teco: TECO Model 14D
 
 // General Publishing
 
@@ -211,6 +232,7 @@
 
 // Academic Journals
 
+:AAC: Aerosols and Atmospheric Chemistry
 :AC: Analytical Chemistry
 :ACS: Advances in Chemistry Series
 :ACR: Air Chemistry and Radioactivity
@@ -218,11 +240,16 @@
 :AEV: Atmospheric Environment
 :AG: Advances in Geophysics
 :AMS: American Meteorological Society
+:APCA: APCA Journal
 :ASEPG: Atmosphere-Surface Exchange of Particles and Gases
 :ASR: Atmospheric Scavenging of Radioisotopes
 :BAMS: Bulletin of the American Meteorological Society
 :BLM: Boundary Layer Meteorology
+:ChemS: Chemical Society
+:CMB: Canadian Mathematics Bulletin
 :CSFEC: Comparative Studies of Food and Environmental Contamination
+:FDiv: The Faraday Division
+:FnS: Fogs and Smokes
 :GRL: Geophysical Research Letters
 :HSLEW: Health and Safety Laboratory Environmental Quarterly
 :ISA: Instrument Society of America
@@ -233,28 +260,35 @@
 :JCIS: Journal of Colloid and Interface Science
 :JGR: Journal of Geophysical Research
 :JM: Journal of Meteorology
+:JMSJa: Journal of the Meteorological Society of Japan
 :NT: Nuclear Technology
 :NTIC: National Technical Information Center
 :NTIS: National Technical Information Service
 :OMAM: Operational Methods in Applied Mathematics
+:PAG: Pure Applied Geophysics
 :PNLAR: Pacific Northwest Laboratory Annual Report
 :PS: Preticipation Scavenging
 :QJRMS: Quarterly Journal of the Royal Meteorological Society
 :USAEC-P3: USAEC Division of Biomedical and Environmental Research, Part 3: Atmospheric Sciences
 :USAEC-V2-P1: USAEC Division of Biology and Medicine, Vol. II: Physical Sciences, Part 1: Atmospheric Sciences
 :USAEC-V2-P3: USAEC Division of Biology and Medicine, Vol. II: Physical Sciences, Part 3: Atmospheric Sciences
+:WRRes: Water Resources Research
 
 // Academic Conferences
 
 :3WM: Third Conference of Weather Modification
 :66A: 66th Annual Meeting of the Air Pollution Control Association
 :70: IAEA Symposium on the Use of Nuclear Techniques in the Measurement and Control of Environmental Pollution, Saltzburg, Austria
+:8ICNL: VIII International Conference on Nucleation
 :AECS: AEC Symposium Series
 :ERDAS: ERDA Symposium Series
 :FISAPF: First International Symposium on Acid Precipitation and the Forest Ecosystem
+:FSCS7: Faraday Symposia of the Chemistry Society No. 7
 :IAEA: IAEA Symposium
 :ICESA: International Conference on Environmental Sensing and Assessment
 :IEEET: IEEE Transactions on Nuclear Science
+:ISAP-12: 12th International Symposium on Atmospheric Pollution
+:PICDB: Procceedings of the International Colloquium on Drops and Bubbles
 :PISAPFE: Proceedings International Symposium on Acid Precipitation and the Forst Ecosystem
 :PRSA: Proceedings of Royal Society A
 :PRERDA: Proceedings ERDA Conference on Atmosphere-Surface Exchange on Particles and Gaseous Pollutants
@@ -271,6 +305,7 @@
 :ACC: A. C. Chamberlain
 :AE: A. Einstein
 :AEr: A. Erdélyi
+:AHM: A. H. Marcus
 :AJA: A. J. Alkezweeny
 :AJM: A. J. McConnel
 :AKP: A. K. Postma
@@ -297,6 +332,7 @@
 :DAP: D. A. Paine
 :DBa: D. Baumhefner
 :DCP: D. C. Powell
+:DEBr: D. E. Brown
 :DFG: D. F. Gustafson
 :DFGz: D. F. Gatz
 :DG: D. Gray
@@ -307,16 +343,21 @@
 :DMH: D. M. Hattor
 :DMM: D. M. McKown
 :DMN: D. M. Nelson
-:DRE: D. R. Edwards
+:DPAn: D. P. Anderson
 :DRD: D. R. Drewes
+:DRE: D. R. Edwards
 :DSR: D. S. Renné
+:DTG: D. T. Gillespie
 :DWG: D. W. Glover
 :DWi: D. Williamson
+:DYHP: D. Y. H. Pui
 :EAC: E. A. Crecelius
 :EEH: E. E. Hindman
 :EEH-2: E. E. Hindman II
 :EPH: E. P. Hardy
 :ELK: E. L. Kanabrock
+:EMAg: E. M. Agee
+:ESJo: E. S. Johnson
 :FAB: F. A. Bagnold
 :FAH: F. A. Huff
 :FBS: F. B. Smith
@@ -355,24 +396,30 @@
 :JGD: J. G. Droppo
 :JJF: J. J. Fuquay
 :JJL: J. J. Lashock
+:JJOB: J. J. O’Brien
 :JMH: J. M. Hales
 :JMTa: J. M. Tanner
-:JMT: J. M. Thorp
+:JMT: J. W. Thorp
 :JNW: J. N. Winchester
 :JP: J. Pich
 :JPF: J. P. Franey
 :JR: J. Rosinski
+:JRB: J. R. Brock
 :JRK: J. R. Kline
 :JRV: J. R. Vogt
+:JSSm: J. S. Smagorinsky
 :JVM: J. Van Mieghen
 :JVR: J. V. Ramsdell
+:JWT: J. W. Thorp
 :JWW: J. W. Winchester
 :KAR: K. A. Rahn
+:KED: K. E. Dowell
 :KGB: K. G. Busness
 :KGV: K. G. Vogt
 :KH: K. Heiman
 :KHB: K. H. Berman
-:KLC: K. L. Caulder
+:KLC: K. L. Calder
+:KMBu: K. M. Busness
 :KPM: K. P. Makhon'ko
 :KSP: K. S. Pillay
 :KTW: K. T. Whitby
@@ -384,6 +431,7 @@
 :LIG: L. I.  Gedeonov
 :LKP: L. K. Peters
 :LLW: L. L. Wendell
+:LML: L. M. Levin
 :LRA: L. R. Anspaugh
 :LVB: L. V. Bertseva
 :MAb: M. Abramowitz
@@ -405,6 +453,7 @@
 :OGS: O. G. Sutton
 :OND: O. N. Dodson
 :OPG: O. P. Gifford
+:PDCo: P. D. Coyle
 :PEC: P. E. Coffey
 :PGS: P. G. Slater
 :PLP: P. L. Phelps
@@ -414,6 +463,7 @@
 :PSL: P. S. Liss
 :PVH: P. V. Hobbs
 :PWN: P. W. Nickola
+:PWMJr: P. W. Mielke, Jr.
 :PWS: P. W. Summers
 :RBH: R. B. Husar
 :RD: R. Dams
@@ -435,7 +485,9 @@
 :RWP: R. W. Perkins
 :SBo: S. Bodin
 :SGM: S. G. Malakhov
+:SLH: S. L. Heisler
 :SLS: S. L. Sutter
+:SKF: S. K. Friedlander
 :SMB: S. M. Bruntz
 :SSB: S. S. Brar
 :TDF: T. D. Fox
@@ -446,6 +498,7 @@
 :TMT: T. M. Tanner
 :TNZ: T. N. Zabolotskaia
 :TSH: T. S. Heines
+:TSCh: T. S. Chen
 :TWH: T. W. Horst
 :WCC: W. C. Campbell
 :WED: W. E. Davis
@@ -454,8 +507,14 @@
 :WGNS: W. G. N. Slinn
 :WHH: W. H. Hodgson
 :WNS: W. N. Stasiuk, Jr.
+:WHH: W. H. Hoecker
+:WRG: W. R. Griffith
+:WTr: W. Brutsaert
+:WTS: W. T. Scott
 :YLee: Yean Lee
 :YO: Y. Okamura
+:YSS: Y. S. Sedunov
+:ZAM: Z. A. Melzak
 
 // Report Notes
 
@@ -510,6 +569,14 @@
 :dad-wedding-alt: Dad and his family standing next to one another in a formal wedding photo at my parents' wedding in 1985. From left to right is Grandma Simpson, Kyle Simpson (Dad), and Grandpa Simpson (C. L. Simpson).
 
 // Images (Figures)
+
+:aerosol-urban-plume-image-1: {img-dir}/ref_growth_aerosol_urban_plume_figure-1.png
+:aerosol-urban-plume-image-2: {img-dir}/ref_growth_aerosol_urban_plume_figure-2.png
+:aerosol-urban-plume-image-3: {img-dir}/ref_growth_aerosol_urban_plume_figure-3.png
+:aerosol-urban-plume-image-4: {img-dir}/ref_growth_aerosol_urban_plume_figure-4.png
+:aerosol-urban-plume-image-5: {img-dir}/ref_growth_aerosol_urban_plume_figure-5.png
+:aerosol-urban-plume-image-6: {img-dir}/ref_growth_aerosol_urban_plume_figure-6.png
+:aerosol-urban-plume-image-7: {img-dir}/ref_growth_aerosol_urban_plume_figure-7.png
 
 :airborne-dust-storms-img-1: {img-dir}/ref_initial_observations_airborne_concentrations_dust_storms_figure-1.png
 :airborne-dust-storms-img-2: {img-dir}/ref_initial_observations_airborne_concentrations_dust_storms_figure-2.png
@@ -662,6 +729,20 @@
 :wind-profile-dust-img-2: {img-dir}/ref_wind_profiles_dust_storms_figure-2.png
 
 // Images Alt Text (Figures)
+
+:aerosol-urban-plume-alt-1: A map that displays the Tetroon Launch Sites and the source of large SO emissions. Weiss Airport is located toward center-left side of the map, and Civic Memorial Airport is on the upper-right corner of the map, bordering the waterfront.
+
+:aerosol-urban-plume-alt-2: A graph that shows the variation of aerosol volume concentration and sulfur content of the aerosol on August 6, 1975. The x axis = time between 0 and 200 minutes in increments of 20 minutes. The y axis = the aerosol concentration density for particles q that are 0.1 to 0.25 µm in diameter. The density ranges between 0 to 30 µm^3/cm^3.
+
+:aerosol-urban-plume-alt-3: A graph that shows the concentration of particles > 0.01 µm in diameter on August 6, 1975. The x axis = time between 0 and 200 minutes (after 16:42) in increments of 20 minutes. The y axis = the particle concentration in omega/cm^3 in increments of 0 to 4x10^4 in increments of 0.5 magnitude. It has a U-shape with the highest value at > 4x10^4 and the lowest value of 4x10^1 < y < 4x10^2 at 120 minutes.
+
+:aerosol-urban-plume-alt-4: A series of graphs that shows the parameters measured at the St. Louis site: (1) altitude in feet, (2) temperature in Celsius, (3) ozone in ppb, (4) concentration of NO/NOv2, and (5) concentration per CC x 10^4. All parameters were measured over a period of 180 minutes after 16:43.
+
+:aerosol-urban-plume-alt-5: A graph that shows the distribution of particles on the field experiment on August 6, 1975. The x axis = particle diameter between 0.01 - 10 micrometers in intervals of one order of magnitude. The y axis = the concentration of the mean of N over the mean of log(D) in in µm/cm^3. The concentration ranges between 10^1 to 10^6 in intervals of one order of magnitude. There are five lines for each recorded time of 17:22, 17:42, 18:02, 18:22, and 18:42.
+
+:aerosol-urban-plume-alt-6: A graph that shows the distribution of particles on the field experiment on August 6, 1975. The x axis = particle diameter between 0.01 - 10 micrometers in intervals of one order of magnitude. The y axis = the concentration of the mean of N over the mean of log(D) in µm/cm^3. The concentration ranges between 10^1 to 10^6 in intervals of one order of magnitude. There are five lines for each recorded time of 17:22, 17:42, 18:02, 18:22, and 18:42. Unlike figure five, the data is plotted as a value distribution.
+
+:aerosol-urban-plume-alt-7: A graph that shows the distribution of particles on the field experiment on August 21, 1974. The x axis = particle diameter between 0.01 - 10 micrometers in intervals of one order of magnitude. The y axis = the concentration of the mean of N over the mean of log(D) in µm/cm^3. The concentration ranges between 10^1 to 10^6 in intervals of one order of magnitude. There are four lines for each recorded time of 12:00, 12:30, 13:00, and 13:30. The data is plotted as a value distribution.
 
 :airborne-dust-storms-alt-1: A graph that shows the volume density of the particles over time. The x-axis = the local time  between 8:00 through 19:00 (7:00 PM) in Pacific standard time in intervals of one hour. The y axis = the volume density (calculated by ΔD over Δ ln D in intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 1, (5) 10, and (6) 10^2 micrometers cubed over centimeters cubed. There are five different data sets shown representing, from top to bottom, a sampling diameter range (1) 1.45 to 1.65, (2) 0.65 to 0.75, (3) 0.37 to 0.45, (4) 0.20 to 0.30, and (5) 0.13 to 0.10 micrometers. All five have an upside down U shape with a long tail at the beginning. From 9:00 AM to 2:00 PM to, the line slowly increases exponentially, increases faster until they all peak at ~ 4:30 PM, then gently decreases less exponentially until the end of the data set. Margins of error are highlighted for all highlighted data points.
 

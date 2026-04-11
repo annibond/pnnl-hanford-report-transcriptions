@@ -1,0 +1,97 @@
+[id="con_aerosol_balance__numerical_equations_{con-aerosol-balance-numerical-equations}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+Halesfootnote:1[J. M. Hales, "A User-Oriented Computer Code for Solution of the General Equations of Continuity for Trace Substances in the Atmosphere," Pacific Northwest Laboratory Annual Report for 1974 to the USAEC Division of Biomedical and Environmental Research, Part 3, Atmospheric Sciences, BNWL-1950, PT 3, Battelle, Pacific Northwest Laboratories, Richland, WA, February 1975.] described a user-oriented computer code for solving the general equations of continuity for trace substances in the atmosphere. This code will eventually include components for the transport and fate of all gaseous and particulate pollutants important to the {ATGP}. Formulation of these components will include terms to account for the interaction of gases, different species of particles, and gas-to-particle conversions. 
+
+This report concerns the aerosol component of the general code. We describe the general equation for an aerosol interacting with gases and other species of aerosols; outline the current status of the submodel development; predict the future work required to complete this submodel and incorporate it into the general user-oriented computer codefootnote:1[].
+
+The governing equation for the number density of the stem:[i^{th}] aerosol species stem:[n_i]; is given by
+
+.Equation 1
+[latexmath]
+++++
+\frac{\partial{n_i}}{\partial t} \; + \; \sum_{m=1}^{3} \; \frac{\partial{V_m}{n_i}}{\partial{x_m}} \; - \; \frac{\partial}{V_{si}n_i}{\partial{x_3}} \; + \frac{\partial{I_i}n_i} \; = \; C(n_i) \; + \; B(n_i) + s_o(n_i) \; - \; s_1(n_i)
+++++
+
+[latexmath]
+++++
+  + \; \sum_{j=1\\i≠j}^I \; R_{ij} (n_i, \, n_j) \; + \; \sum_{m=1}^{3} \, \sum_{j=1}^{3} \bigg[ \frac{\partial}{\partial{x_m}} \; + \; A_{im} \; \frac{\partial}{\partial{v}} \bigg] \; K_{jm} \; \bigg[ \frac{\partial}{\partial{x_j}} \; + \; A_{ij} \; \frac{\partial}{\partial{v}} \bigg] \; n_i
+++++
+
+[latexmath]
+++++
++ \; <C(n_{i}')> \; + \; <B(n_{i}')> \; + \; <s_{o}(n_{i}')> \; - \; <S_{1}(n_{i}')> \; + \; \sum_{j=1\\i≠j}^I \; <R_{ij}(n_{i}',n_{j}')>
+++++
+
+The independent variables in *Eq. (1)* are the usual cartesian space coordinates stem:[x_m (m=1, 2, 3)] where stem:[x_3] is the vertical coordinate positive upward), the particle volume or mass stem:[v], and time stem:[t].The dependent variable is the average density of the stem:[i^{th}] aerosol species stem:[n_{i}=n_{i} (x_{m},v,t]. In *Eq. (1)*, we assume that there are several interacting aerosol species, namely, stem:[n_1, n_2, ... n_I]. The prime quantities of stem:[n_{i}'] are the fluctuating components of the number densities due to fluid turbulence. In addition, the bracket stem:[<.>] represents some type of statistical average.
+
+The individual terms and the system parameters in *Eq. (1)* are defined as:
+
+1. The second term on the left-hand side of *Eq. (1)* is the advection term and stem:[v_m] is the mean velocity field in the fluid;
+
+2. stem:[v_{si}] is the gravitational settling velocity of the stem:[i^{th}] aerosol;
+
+3. stem:[I_i] is the mean condensational growth mechanism;
+
+4. stem:[C(n_{i}] represents the mean particle coagulation mechanism;
+
+5. stem:[B(n_i)] is the mean breakup mechanism;
+
+6. stem:[{S_o}{(n_i)} is the mean primary source of particles and stem:[{S_1}{(n_i)} is the mean volumetric sink for particles;
+
+7. stem:[R_{ij}(n_i,n_j)] is the mean transfer of particles from the stem:[i^{th}] species to the stem:[j^{th}] species, or vice-versa;
+
+8. stem:[K_{jm}] are the components of the eddy diffusivity tensor describing the mean effects of turbulent diffusion on the particles in the fluid; in general, the stem:[K_{jm}] depend upon the volume of the particles;
+
+9. The term stem:[A_{im}] represents the partial derivatives stem:[\frac{\partial{v}}{\partial{x_m}}] for the stem:[i^{th} aerosol distributed throughout space for a fixed time stem:[t]. In cloud physics, stem:[A_{im}] is a function of several parameters, such as the densities of air and water, the specific heats of air and water, the heat of condensation, and the temperature and moisture gradients;
+
+10. The last five terms on the right-hand side of *Eq. (1)* represent the nonlinear, fluctuating terms in the system.
+
+We now briefly outline the current status and future direction of our research to simplify and implement the system given in *Eq. (1)*.
+
+The formulations of the mean breakup term stem:[B(n_i)], the mean coagulation term stem:[C(n_i)], and the mean aerosol transfer or interaction terms from stem:[R_{ij}] will be patterned after the results given in Melzakfootnote:2[Z. A. Melzak, "Multiple Scalar Transport," Canadian Mathematics Bulletin, 16, 257-268, 1973.]. The corresponding formulas for the fluctuating quantities, stem:[B(n_{i}'], stem:[C(n_{i}'] and stem:[R_{ij} (n_{i}'), n_{j}'], are considered by Scottfootnote:3[W. T. Scott, "Poisson Statistics in Distributions of Coalescing Droplets," Journal of Atmospheric Sciences, 24, 221-225, 1967.], Marcusfootnote:4[A. H. Marcus, "Stochastic Coalescence," Technometrics, 10, 133-143, 1968.], Gillespiefootnote:5[D. T. Gillespie, "The Stochastic Coalescence Model for Cloud Droplet Growth," Journal for Atmospheric Sciences, 29, 1496-151, 1972.]. It appears that the fluctuating terms can be neglected if the spectrum of stem:[n_i] versus stem:[v] evolves as a Poisson distribution. However, if the distribution is non-Poissonian, the stem:[<C(n_{i}')>] appears to be a positive contribution to the right-hand side of *Eq. (1)*; similar statements can be made about the breakup and transformation terms. Hence, if stem:[n_i] evolves in a non-Poissonian manner (which is usually the case), then the coagulation rate is faster when stem:[<C(n_{i}')>≠0] than when stem:[<C(n_{i}')>=0]. However, because of the many uncertainties in the parameters in the terms stem:[C(n_i)], stem:[B(n_i)], stem:[R_{ij}], we will neglect the contributions from fluctuating quantities for now.
+
+The condensational growth term stem:[I_i] represents the growth of particles in the stem:[i^{th}] aerosol due to condensing vapors and gases on the particles. stem:[I_i] an also be formulated so that it represents a secondary source of particles due to gas-to-particle conversions. The formulation of this term will be based on the studies of Brockfootnote:6[J. R. Brock, "Models for Asymptotic Size Distributions for Atmospheric Aerosols," Journal of Colloid and Interface Science, 37, 907-911, 1971a.], footnote:7[J. R. Brock, "On Size Distributions of Atmospheric Aerosols," Atmospheric Environment, 5, 833-841, 1971b.], footnote:8[J. R. Brock, "Condensational Growth of Atmospheric Aerosols," Aerosols and Atmospheric Chemistry, G. M. Hidy, Ed., Academic Press, New York, NY, 149-153, 1972.], footnote:9[J. R. Brock, "Processes, Sources and Particle Size Distributions," Faraday Symposia of the Chemistry Society No. 7, Fogs and Smokes, The Faraday Division, Chemical Society, London, 1973.] and Heisler and Friedlanderfootnote:10[S. L. Heisler and S. K. Friedlander, "Growth Mechanisms for Urban Aerosol Particles," Proceedings of the International Colloquium on Drops and Bubbles, held in Pasadena, CA, Aug. 28-30, 1974.]. The fluctuating terms involving the condensational growth are accounted for by the stem:[K_{jm}] and stem:[A_{im}]. In the field of cloud physics, Levin and Sedunovfootnote:11[L. M. Levin and Y. S. Sedunov, "The Theoretical Model of Drop Spectrum Formation Process in Clouds," Pure Applied Geophysics, 69, 320-335, 1968.] have discussed the formulation of stem:[A_{im}]. For the general field of aerosol physics, we will have to obtain a similar expression for stem:[A_{im}], which will probably vary with each species.
+
+The ambient velocity field stem:[V_m] will be postulated or obtained from field data. If the overall computer code is eventually linked to a dynamic flow model, then stem:[V_m] could be obtained from the flow calculations. The gravitational settling velocity stem:[V_{gi}] aerosol particles depends upon particle shape, size and density, as well as the properties of the fluid. The values for stem:[V_{si}] will be obtained from the theoretical and empirical data that occur in many current reference books and papers in the field of aerosol physics.
+
+The forms of the volumetric sources and sinks will depend upon the scientific problems and areas being studied. We will also gain some information and insight from the formulation of heterogenous and homogeneous nucleation processes by Brockfootnote:9[] and Slinn'sfootnote:12[W. G. N. Slinn, "In-Cloud Scavenging of Aerosol Particles," Pacific Northwest Laboratory Annual Report for 1974 to the USAEC Division of Biomedical and Environmental Research, Part 3, Atmospheric Sciences, BNWL-1950, PT 3, Battelle, Pacific Northwest Laboratories, Richland, WA, February 1975a.], footnote:13[W. G. N. Slinn, "Some New Models for Dry Deposition of Aerosol Particles from the Atmosphere," Pacific Northwest Laboratory Annual Report for 1974 to the USAEC Division of Biomedical and Environmental Research, Part 3, Atmospheric Sciences, BNWL-1950, PT 3, Battelle, Pacific Northwest Laboratories, Richland, WA, February 1975b.]discussions concerning the sinks mechanisms in the atmosphere. In general, we are rather ignorant of the details of stem:[s_o(n_{i}] and stem:[s_1(n_i)]; thus, at this time, the fluctuating components of the sources and sinks will be neglected.
+
+The determination of the components stem:[K_{jm}] of the eddy diffusivity tensor will be based on the following theoretical and empirical results. Calderfootnote:14[K. L. Calder, "On the Equation of Atmospheric Diffusion," Quarterly Royal Meteorological Society, 91, 514-517, 1965.] and Brutsaertfootnote:15[W. Brutsaert, "On the Anisotropy of the Eddy Diffusivity," Journal of the Meteorological Society of Japan, 48, 411-416, 1970.] discuss the diffusivity tensor and the relationships between the various components stem:[K_{jm}]. Brutsaert finds that the non-zero components are K~11~, K~13=31~, K~22~ and K~33~ when the mean wind is along the stem:[x_1]-asix. In addition, Brutsaert relates K~11~, ~K13~ and K~22~ to K~33~, and then relates to K~33~ to the vertical diffusivity for momentum K~z~ through a Reynold’s analogy arguments. Other relationships between K~33~ (for heat transfer) and K~z~ are given in Smagorinskyfootnotote:16[J. S. Smagorinsky, "A Closed Theory for the Diabatic Turbulent Boundary Layer," pre-publ., Manuscript, Geophysics Lab., ESSA, Washington, DC, 22 pp, 1967.] and Drakefootnote:17[R. L. Drake, P. D. Coyle, D. P. Anderson, "The Effects of Nonlinear Eddy Coefficients on Rising Line Thermals," Journal of Atmospheric Science, 31, 2046-2057, 1974.] et al., O’Brienfootnote:18[J. J. O’Brien, "A Note on the Vertical Structure of the Eddy Exchange Coefficient in the Planetary Boundary Layer," Journal of Atmospheric Science, 27, 1213-1215, 1970.] and Ageefootnote:19[E. M. Agee, D. E. Brown, T. S. Chen, and K. E. Dowell, "A Height-Dependent Model of Eddy Viscosity in the Planetary Boundary Layer," Journal of Applied Meteorology, 12, 409-412, 1973.] et al. give models for Kz in the planetary boundary layer under various temperature and wind regimes.
+
+*Eq. (1)* describes a system that depends on five independent variables, stem:[x_1, x_2, x_3, v, t]. To solve this system numerically requires a very large memory and a great investment in computation time for any reasonable real-world problem. In order to reduce these memory and time requirements and still retain realistic physics and chemistry, we propose to eliminate the stem:[v]- and stem:[x_1]-dependency in *Eq (1)*. In eliminating the stem:[x_1]-dependency, we assume that the mean wind stem:[V_m] is given by
+
+.Equation 2
+[latexmath]
+++++
+V_2 \; = ; V_3 \; = \; 0, \; V_1 \; = \; U
+++++
+
+The rationale for eliminating the stem:[v]-dependency  is based upon the "three mode" aerosol distribution proposed by Whitbyfootnote:20[K. T. Whitby, "Modeling of Atmospheric Aerosol Particle Size Distributions," a progress report on EPA Res. Grant No. R800971, Sampling and Analysis of Atmospheric Aerosols, Mechanical Engineering Department, University of Minnesota, Minneapolis, MN, April 1975.] and supported by the data collected by PNL in St. Louisfootnote:21[A. J. Alkezweeny, "The Growth of Aerosol in an Urban Plume," Pacific Northwest Laboratory Annual Report for 1975 for USERDA Division of Biomedical and Environmental Research, Battelle-Northwest, Richland, WA, 1976.]. hitby considers three distinct aerosol ranges in the normal atmospheric aerosol; they are the transient nuclei or Aitken nuclei ranged stem:[d < 0.1 \nu{m}], the accumulation range stem:[0.1 <d <1 \nu{m}], and the mechanically-generated aerosol range stem:[1 < d < 100 \nu{m}], where stem:[d] is the diameter of a particle. Each range has its own main sources of mass, its own principal processes, and principal removal mechanisms. In addition, there are mechanisms, such as the coagulation, that transfer some particles from lower to higher ranges. Breakup mechanisms may transfer particles from higher ranges to lower ones. In our type of work we will write an equation of type *(1)* for each of the ranges. Each equation will reflect the processes, sources and sinks representative of its particular range. The transfer terms stem:[R_{ij}] will represent the mechanisms for transferring the particles from one range to another range. However, these three equations are still dependent upon stem:[v].
+
+To eliminate stem:[v] in the equations, we will postulate the variation of stem:[n] with respect to stem:[v], namely
+
+.Equation 3
+[latexmath]
+++++
+n(X_m, \, v \, t) \; = \; \phi(v\; \alpha, \, \beta, \, \gamma)
+++++
+
+where stem:[\phi] is a known function of stem:[v] and the parameters stem:[\alpha, \beta, \gamma]. The parameters stem:[\alpha, \beta, \gamma] are unknown functions of stem:[x_m] and stem:[t]; but they can be related to the integral power of moments stem:[n],
+
+.Equation 4
+[latexmath]
+++++
+M_{\ell} \, (x_m, \, t) \; = \; \int_{o}^{\infty} \; v^{\ell} \, n \, (x_m, \, v \, t) \; dv
+++++
+
+where stem:[\ell = 0, 1, 2]
+
+If we replaces the stem:[n]'s in our three equations for the various Whitby ranges (each stem:[n] will have a different set of parameters) and then apply the integral in *(4)* for stem:[\ell = 0, 1, 2], we will obtain the defining equations for the integral power moments in the three size ranges. The results of these operations will be the elimination of the independent variable v and the simplification of the coagulation, break and transfer terms.
+
+Knowing the integral power moments, stem:[M_{\ell}(x_m, t)], stem:[\ell = 0, 1, 2], we can compute stem:[\alpha, \beta, \gamma] and thus define the number density for each of the size ranges from *Eq. (3)*.
+
+There are three candidates for the function  that are mathematically and physically appealing (see Mielke and Johnsonfootnote:22[P. W. Mielke, Jr. and E. S. Johnson, "Some Generalized Beta Distributions of the Second Kind Having Desirable Application Features in Hydrology and Meteorology," Water Resources Research, 10, 223-226, 1974.] There are: the gamma distribution which has a "light tail," the lognormal distribution which has an "intermediate tail," and the "heavy-tailed" beta-kappa distribution.
+
+The stem:[x_1]-dependency will be eliminated by replacing the stem:[(x_1, x_2, x_3, t)] fixed foordinate system by a moving coordinate system stem:[(x_2, x_3, t)]. The moving system will travel along the stem:[x_1]-axis at a rate equal to stem:[U]. Strictly speaking, stem:[U] should be a constant in time, but we will allow it to be a slowly varying function of it to be a slowly varying function of time. We will also allow the stem:[x_1]-path o slowly vary direction as the vertical slab (x2,x3,t) moves along. However, the orientation of the vertical slab stem:[(x_1, x_2, x_3, t)] must always be normal to the stem:[x_1]-direction. Hence, the aerosol submodel, as well as the complete trance substance, will be a {2D} time-varying system that is advected along in the direction of the mean stem:[U].

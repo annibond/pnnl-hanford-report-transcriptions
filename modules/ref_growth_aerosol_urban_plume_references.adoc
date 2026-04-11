@@ -1,0 +1,14 @@
+[id="ref_growth_aerosol_urban_plume_references_{ref-growth-aerosol-urban-plume-references}"]
+include::../attributes.adoc[]
+
+1. {BYHL}, {KTW} and {DYHP}, “A Portable Electric Analyzer for Size Distribution Measurement of Submicron Aerosols,” [.underline]#APCA Journal#, Vol. 24, 1067-1072, 1974.
+
+2. {WHH}, "A Universal Procedure for Developing Constant-Volume Balloon and for Deriving Vertical Air Speed from Them," [.underline]#{JAM}#, Vol. 14, 1118-1124, 1975.
+
+3. {RBH} and {KTW}, "Growth Mechanisms and Size Spectra of Photochemical Aerosol," [.underline]#{ESAT}#, Vol. 7, 241-247, 1973.
+
+4. {KTW}, "On the Multimodel Nature of Atmospheric Aerosol Size Distributions," presented at the {8ICNL}, {leni}, USSR, September 28, 1973. 
+
+5. {JMH}, "Proteus: A User Oriented Computer Code for Solutions of the Continuity Equation for Trace Substances in the Atmosphere," [.underline]#{PNLAR} for 1974 {ESAEC-P3}#, BNWL-1950, PT 3, {bat}, {PNL}, {rich}, WA, April, 1975.
+
+6. {RLD}, "Aerosol Balance Equation: Numerical Modeling," this volume.

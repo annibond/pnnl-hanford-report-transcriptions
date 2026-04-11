@@ -1,0 +1,15 @@
+[id="assembly_aerosol_balance_numerical_equations_{assembly-aerosol-balance-numerical-equations}"]
+include::../attributes.adoc[]
+
+== Aerosol Balance Equations: Numerical Modeling
+[.big]#{RLD}#
+
+_This report describes the work being done on the aerosol component of a user-oriented computer code being formulated to solve the general equations of continuity for trace substances in the atmosphere. This submodel will be used extensively in the Aerosol and Trace Gases Program._
+
+include::../modules/con_aerosol_balance_numerical_equations.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_aerosol_balance_equations_numerical_references.adoc[leveloffset=+2]

@@ -1,0 +1,10 @@
+[id="ref_aerosol_balance_theoretical_equations_references_{ref-aerosol-balance-theoretical-equations-references}"]
+include::../attributes.adoc[]
+
+1. {RLD}, "Similarity Solutions of an Aerosol Balance Equation for a Homogeneous Medium," [.underline]#{PNLAR} for 1974 to the {USAEC-P3}#, BNWL-1950, PT 3, {bat}, {PNL}, February 1975.
+
+2. {RLD}, [.underline]#The Similarity Transformation of an Aerosol Balance Equation: I. Qualitative Theory for Homogeneous Systems#, {bat}, {PNL}, BNWL-SA-5590, submitted to {JCIS}, October 1975.
+
+3. {RLD}, [.underline]#The Similarity Transformation of an Aerosol Balance Equation: II: Solutions for Homogeneous Systems#, {bat}, {PNL}, BNWL-SA-5590, submitted to {JCIS}, October 1975.
+
+4. {RLD}, [.underline]#The Similarity Transformation of an Aerosol Balance Equation: III: A Nonhomogenous System#, {bat}, {PNL}, BNWL-SA-5590, submitted to {JCIS}, October 1975.

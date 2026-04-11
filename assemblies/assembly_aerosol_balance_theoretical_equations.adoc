@@ -1,0 +1,15 @@
+[id="assembly_aerosol_balance_theoretical_equations_{assembly-aerosol-balance-theoretical-equations}"]
+include::../attributes.adoc[]
+
+== Aerosol Balance Equations: Theoretical Studies
+[.big]#{RLD}#
+
+_Similarity solutions have been obtained for homogeneous and nonhomogeneous aerosol systems. The processes governing these time-evolving systems are coagulation, the condensation of vapors and gases on the particles, volumetric sources and sinks, gravitational setting, vertical velocity fields, and vertical diffusion._
+
+include::../modules/con_aerosol_balance_theoretical_equations.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_aerosol_balance_theoretical_equations_references.adoc[leveloffset=+2]

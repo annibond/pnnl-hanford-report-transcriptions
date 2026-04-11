@@ -1,0 +1,20 @@
+[id="assembly_growth_aerosol_urban_plume_{assembly-growth-aerosol-urban-plume}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== The Growth of Aerosol in an Urban Plume
+[.big]#{AJA}#
+
+_Time changes of aerosol particle size distribution in the range of 0.01 - 5.0 μm diameter, concentration of O~3~, NO, NO~2~, SO~2~, several hydrocarbons, and sulfate were measured in an urban plume. The investigation was conducted in a Lagrangian frame reference using instrumented aircraft. The air parcel trajectory was identified by the movement of a tetroon launched from the ground to an altitude within the plume. This study was carried out in the {metro} St. Louis, {MO}, U.S.A., during the {MET} program._
+
+_A pronounced change in the aerosol particle size distribution and an increase in the total volume of the aerosol were observed. Gas-to-particle transformations involving existing nuclei cause the aerosol growth. In this paper the results of the measurement of trace gases and the aerosol particles and their chemical analyses will be presented and discussed*._
+
+include::../modules/con_growth_aerosol_urban_plume.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_growth_aerosol_urban_plume_references.adoc[leveloffset=+2]
+
+include::../modules/ref_growth_aerosol_urban_plume_figures.adoc[leveloffset=+2]

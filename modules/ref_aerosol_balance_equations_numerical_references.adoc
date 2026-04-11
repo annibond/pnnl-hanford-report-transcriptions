@@ -1,0 +1,46 @@
+[id="ref_aerosol_balance_equations_numerical_references_{ref-aerosol-balance-equationsnumerical-references}"]
+include::../attributes.adoc[]
+
+1. {JMH}, "A User-Oriented Computer Code for Solution of the General Equations of Continuity for Trace Substances in the Atmosphere," [.underline]#{PNLAR} for 1974 to the {USAEC-P3}#, BNWL-1950, PT 3, Battelle, Pacific Northwest Laboratories, {rich}, {WA}, February 1975.
+
+2. {ZAM}, "Multiple Scalar Transport," [.underline]#{CMB}#, [.underline]#16#, 257-268, 1973.
+
+3. {WTS}, "Poisson Statistics in Distributions of Coalescing Droplets," [.underline]#{JAS}#, [.underline]#24#, 221-225, 1967.
+
+4. {AHM}, "Stochastic Colalescence", [.underline]#Technometrics#, [.underline]#10#, 133-143, 1968.
+
+5. {DTG}, "The Stochastic Coalescence Model for Cloud Droplet Growth," [.underline]#{JAS}#, [.underline]#29#, 1496-1510, 1972.
+
+6. {JRB}, "Models for Asymptotic Size Distributions for Atmospheric Aerosols," [.underline]#{JCIS}#, [.underline]#37#, 907-911, 1971a.
+
+7. {JRB}, "On Size Distributions of Atmospheric Aerosols," [.underline]#{AEv}#, [.underline]#5#, 833-841, 1971b.
+
+8. {JRB}, "Condensational Growth of Atmospheric Aerosols," [.underline]#{AAC}#, G. M. Hidy,  Ed., {AP}, {NY}, NY, 149-153, 1972.
+
+9. {JRB}, "Processes, Sources and Particle Size Distributions," [.underline]#{FSCS7}#, [.underline]#{FnS}#, {FDiv}, {ChemS}, {lond}, 1973.
+
+10. {SLH} and {SKF}, "Growth Mechanisms for Urban Aerosol Particles," [.underline]#{PICDB}#, held in {pasa}, CA, Aug. 28-30, 1974.
+
+11. {LML} and {YSS}, "The Theoretical Model of Drop Spectrum Formation Process in Clouds," [.underline]#{PAG}#, [.underline]#69#, 320-335, 1968.
+
+12. {WGNS}, "In-Cloud Scavenging of Aerosol Particles," [.underline]#{PNLAR} for 1974 {USAEC-P3}#, BNWL-1950, PT 3, {bat}, {PNL}, {rich}, {WA}, February 1975a.
+
+13. {WGNS}, "Some New Models for Dry Deposition of Aerosol Particles from the Atmosphere," [.underline]#{PNLAR} for 1974 {USAEC-P3}#, BNWL-1950, PT 3, {bat}, {PNL}, {rich}, {WA}, February 1975b.
+
+14. {KLC}, "On the Equation of Atmospheric Diffusion," [.underline]#{QJRMS}#, [.underline]#91#, 514-517, 1965.
+
+15. {WTr} "On the Anisotropy of the Eddy Diffusivity," [.underline]#{JMSJa}#, [.underline]#48#, 411-416, 1970.
+
+16. {JSSm}, "A Closed Theory for the Diabatic Turbulent Boundary Layer," [.underline]#pre-publ., Manuscript, Geophysics Lab., ESSA#, {WA}, DC, 22 pp, 1967.
+
+17. {RLD}, {PDCo}, and {DPAn}, "The Effects of Nonlinear Eddy Coefficients on Rising Line Thermals," [.underline]#{JAS}#, [.underline]#31#, 2046-2057, 1974.
+
+18. {JJOB}, "A Note on the Vertical Structure of the Eddy Exchange Coefficient in the Planetary Boundary Layer," [.underline]#{JAS}#, [.underline]#27#, 1213-1215, 1970.
+
+19. {EMAg}, {DEBr}, {TSCh}, and {KED}, "A Height-Dependent Model of Eddy Viscosity in the Planetary Boundary Layer," [.underline]#{JAM}#, [.underline]#12#, 409-412, 1973.
+
+20. {KTW}, "Modeling of Atmospheric Aerosol Particle Size Distributions," a progress report on EPA Res. Grant No. R800971, Sampling and Analysis of Atmospheric Aerosols, {MEDept}, {UMN}, {minn}, MN, April 1975.
+
+21. {AJA}, "The Growth of Aerosol in an Urban Plume," [.underline]#{PNLAR} for 1975 {USAEC-P3}#, {BN}, {rich}, WA, 1976.
+
+22. {PWMJr} and {ESJo}, "Some Generalized Beta Distributions of the Second Kind Having Desirable Application Features in Hydrology and Meteorology," [.underline]#{WRRes}#, [.underline]#10#, 223-226, 1974.
