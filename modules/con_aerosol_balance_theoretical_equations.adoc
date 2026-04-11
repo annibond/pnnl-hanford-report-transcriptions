@@ -1,0 +1,54 @@
+[id="con_aerosol_balance_theoretical_equations_{con-aerosol-balance-theoretical-equations}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+Drakefootnote:1[R. L. Drake, "Similarity Solutions of an Aerosol Balance Equation for a Homogeneous Medium," Pacific Northwest Laboratory Annual Report for 1974 to the USAEC Division of Biomedical and Environmental Research, Part 3: Atmospheric Sciences, BNWL-1950, PT 3, Battelle, Pacific Northwest Laboratories, Richland, WA, February 1975.] described a similarity solution for an aerosol system evolving in a homogeneous medium. He also listed some applications and advantages of the transformed similarity systems and their resulting solutions. Here we consider both homogeneous and nonhomogeneous media.
+
+The defining equation for the evolution of an aerosol in a nonhomogeneous medium is
+
+.Equation 1
+[latexmath]
+++++
+\frac{\partial{n}}{\partial{t}} \; + \; \frac{\partial{In}}{\partial{z}} \; + \; \frac{\partial{W_s{N}}}{\partial{z}} \; = \; \frac{\partial \, [D \frac{\partial n}{\partial z}]}{\partial z} + \; \frac{1}{2} \, N \; + \; S
+++++
+
+where
+
+.Equation 2
+[latexmath]
+++++
+N \, (z, \, v, \, t) \; = \; \int_{o}^{v} \, F \; \, (z, \, u, \, v - u, \, t) \; du \; - \; 2 \, \int_o^{\infty} \; F \, (z, \, u, \, v, \, t) \, du
+++++
+
+and
+
+.Equation 3
+[latexmath]
+[.text-left]
+++++
+F \, (z, \, u, \, v, \, t) \\
+
+= \, \beta \, (z \, u \, v \, t) \; n \, (z, \, u, \, t) \; n \, (z \, v \, t) \\
+
+= \, \beta \, (z \, u \, v \, t) \; n \, (z, \, v, \, t) \; n \, (z \, u \, t) \\
+
+= \, F \, (z\, v, \, u \, t) \; \leq \; 0
+++++
+
+The independent variables in *Eq. (1)* to *(3)* are the particle volume stem:[u] or stem:[v], the time stem:[t], and the vertical coordinate stem:[z]. The only dependent variable in the system is the number density stem:[n = n (z, v, t)] defined as stem:[ndv] is the total number of particles in the interval stem:[v \pm \frac{1}{2} dv] at time stem:[t] location stem:[z] per unit volume of the medium in which the particles are embedded.
+
+The parameters that govern the system are the coagulation parameter stem:[\beta = \beta (z, u, v, t)], the condensational growth rate stem:[I \approx I (z, v, t)], the volumetric source or sink distribution stem:[S = S (z, v, t)], the vertical velocity field in the medium stem:[W = W (z, t)], the particle settling velocity stem[W_s = W_s (z, v, t)], and the eddy diffusivity of the medium stem:[D = D (z, t)]. The physical units of these quantities are: stem:[\{n\} = L^{-6}], stem:[\{I\} = \{\beta\} = L^{3}T^{-1}], stem:[\{S\} = L^{6}T^{-1}], stem:[\{W\} = \{W_s\} = L^{T-1}], and stem:[\{D\} = L^{2}T^{-1}], where stem:[\{A\}] is the dimension of stem:[A], stem:[L] the characteristic length and stem:[T] the characteristic time.
+
+In a series of papers we have studied the system in *Eq. (1)* to *(3)*. Abstracts of these papers are given in the following paragraphs. The homogeneous system that we have studied can be obtained from *Eq. (1)* to *(3)* if the stem:[z]-dependency is eliminated and if stem:[W], stem:[W_s], and stem:[D] are set equal to zero.
+
+== (1) Qualitative Theory for Homogeneous Systemsfootnote:2[R. L. Drake, The Similarity Transformation of an Aerosol Balance Equation: I. Qualitative Theory for Homogeneous Systems, Battelle, Pacific Northwest Laboratories, BNWL-SA-5590, submitted to Journal of Colloid and Interface Science, October 1975.]
+
+[.underline]#Abstract:# This paper is concerned with the similarity transformation of an aerosol balance equation. The system describes the time evolution of an aerosol population in an homogeneous medium under the influences of sources and sinks, coagulation of particles, and condensational growth. Without specifically solving for the similarity spectrum, several properties of the spectrum are derived; and several integral power moments are obtained in terms of the similarity spectrum. The relationships between the system parameters and the total volume and total number concentrations of the aerosol population are indicated.
+
+== (2) Similarity Solutions for Homogeneous Systemsfootnote:3[R. L. Drake, The Similarity Transformation of an Aerosol Balance Equation: II: Solutions for Homogeneous Systems, Battelle, Pacific Northwest Laboratories, BNWL-SA-5590, submitted to Journal of Colloid and Interface Science, October 1975.]
+
+[.underline]#Abstract:# This paper uses direct and indirect methods to obtain several sets of similarity solutions for aerosol systems evolving in a homogeneous medium. The forms of the solutions vary with the variations in the coagulation parameter, the condensational growth mechanism, and the source-sink distribution. For several different combinations of the system parameters, the exponential “ramp” function and the Junge power law were obtained for the similarity spectra. From the results in this paper, several relationships between the system parameters and the similarity spectra were also obtained. For example, the heavier-tailed spectra correspond to the unbound coagulation parameters and the lighter-tailed spectra correspond to the bounded kernels.
+
+== (3) Similarity Solutions for Nonhomogeneous Systemsfootnote:4[R. L. Drake, The Similarity Transformation of an Aerosol Balance Equation: III: Similarity Solutions for Nonhomogeneous Systems, Battelle, Pacific Northwest Laboratories, BNWL-SA-5590, submitted to Journal of Colloid and Interface Science, October 1975.]
+
+[.underline]#Abstract:# This paper is concerned with an aerosol population evolving in a nonhomogeneous medium under the influences of a condensational growth mechanism, coagulation, a source and sink distribution, a vertical wind field, gravitational settling, and vertical diffusion. Transformation equations are derived that map the physical space (z, v, t) into a one-dimensional similarity space, defined by the -coordinate. The governing equation for the similarity spectrum () is a second order, nonlinear, ordinary, integrodifferential equation. Indirect methods are derived for the solution of this system. Using one of the indirect methods, a detailed example is worked out resulting in the similarity solution of a system representing an evolving aerosol under realistic type conditions.

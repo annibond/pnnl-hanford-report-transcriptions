@@ -35,17 +35,3 @@ include::../modules/ref_basic_diagram_gas_chromatography.adoc[leveloffset=+1]
 === Layers of the Atmosphere
 
 include::../modules/ref_basic_diagram_atmosphere.adoc[leveloffset=+1]
-
-=== Parts of a Volcano
-
-PLACEHOLDER FOR LINK
-
-== Diagrams
-
-=== DC-3 Equipment
-
-PLACEHOLDER FOR LINK - Cessna, NOVA, DC-3, DISSPLA, Cyber 73, 7-track magnetic tape, VOR 1 and 2
-
-=== Map of an Airplane
-
-PLACEHOLDER FOR LINK

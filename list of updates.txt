@@ -1,0 +1,3 @@
+* Added Aeroson Balance Equations: Theoretical Modeling (pp. 189-190)
+
+* Added Aerosol Balance Equations: Numerical Modeling (pp. 191-195)

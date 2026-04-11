@@ -34,6 +34,9 @@ include::../attributes.adoc[]
 
 stem:[Q = 0]
 
+|advection
+|the transport of a substance (e.g., heat, radioactive particulate) due to the bilk movement of a fluid (i.e., liquid or gas)
+
 |aerovane
 |meteorological instrument that combines a wind vane with a propeller anemometer to simultaneously measure both wind speed and direction
 
@@ -54,6 +57,9 @@ stem:[Q = 0]
 
 |anion
 |negatively charged ion
+
+|anisotropy
+|a material or structure that hasvarying physical properties depending on the direction of measurement
 
 |anthropogenic
 |caused or produced by humans
@@ -84,6 +90,9 @@ stem:[Q = 0]
 
 |beta-emitter
 |less intense, lighter particles with longer range, more capable of harming surrounding environment
+
+|bound kernel
+|a stable or quasi-stable system in which the nucleons are held together by a strong nuclear force
 
 |boundary layer
 |region of the atmosphere directly influenced by the Earth's surface
@@ -397,6 +406,12 @@ stem:[{F_o} = \frac{\alpha t}{L^{2}}]
 |heptoxide
 |chemical compound containing seven oxygen atoms in each molecule
 
+|heterogeneous
+|a mixture or a substance composed of diverse or inconsistent parts, _not_ a synonym for nonhomogeneous
+
+|homogeneous
+|a susbstance or mixture that is similar or consistent
+
 |horizontal diffusion
 |the mix or spread of substances horizontally
 
@@ -437,6 +452,9 @@ stem:[{F_o} = \frac{\alpha t}{L^{2}}]
 
 |instrumental neutron activation analysis (INAA)
 |a non-destructive nuclear analytical technique used to determine the elemental composition of various materials at very low (trace) levels
+
+|integrodifferential equation
+|a type of mathematical equation that involves the integral and the derivative of an unknown function
 
 |interception
 |the process by which a particle is captured as it follows the air streamline but is too large to pass the surface without touching it
@@ -595,6 +613,9 @@ https://ned.ipac.caltech.edu/level5/Abbott/paper.pdf[Flatland: A Romance of Many
 
 |noble gases
 |stable gases which have a full outer shell of electrons
+
+|nonhomogeneous
+|a substance or mixture that is inconsistent or lacks uniform composition, _not_ a synonym for heterogeneous
 
 |nonrespirable
 |radioactive airborne particles that are too large to penetrate in the gas-exchange space
@@ -776,6 +797,9 @@ stem:[Sc \; = \; \frac{\nu}{D} \; = \; \frac{\mu}{{\rho} \, D}]
 |sounding
 |the measurement of radioactive dispersion on atmospheric conditions 
 
+|source sink
+|the creation and removal of neutrons within a system
+
 |spallation reaction
 |nuclear reaction where a heavy nucleus, struck by a high-energy particle, breaks apart and ejects many fragments, including neutrons, protons, and lighter nuclei
 
@@ -807,6 +831,9 @@ _Stk = τ~p~/τ~f~_
 |surface boundary conditions
 |rules that define what happens to things like neutrons or heat at the edge of a system
 
+|tailed (light or heavy), mathematics
+|a description for how frequently the data set sees the most extreme ends of a variable on the x-axis
+
 |tall stacks
 |elevated vertical structures that discharge air, gases, and fumes from a nuclear facility's controlled area into the general atmosphere
 
@@ -819,6 +846,9 @@ _Stk = τ~p~/τ~f~_
 |tetraphenyl arsonium chloride
 |organoarsenic compound used as a reagent in organic synthesis and analytical chemistry
 
+|tetroon
+|a plastic, 4-corner weather balloon designed to float so that scientists can track the movement of a specific parcel of air
+
 |tracer
 |substances added into a system which can be used to track movement and behavior of physical, chemical, or biological processes
 
@@ -830,6 +860,9 @@ _Stk = τ~p~/τ~f~_
 
 |tropopause
 |the boundary layer between the troposphere and the stratosphere, located at an altitude of roughly 8 km at the poles and 18 km at the equator
+
+|unbound kernel
+|an unstable system in which the nucleons have a weak or insufficient nuclear force to hold them together
 
 |upwind
 |somethingor somewhere positioned against the direction of the wind

@@ -7,3 +7,9 @@ It is especially important to understand the changing physical and chemical char
 The Pacific Northwest Laboratory's investigations of atmospheric pollutant transformations have centered primarily around aircraft observations of pollutant concentrations and conversion rates, which are being interpreted with the use of numerical models of the transformation processes. The primary field experiment during the past year was conducted using the {dc3} in the St. Louis region during the final term of the {MET} series. In this experiment, experiment, extensive trace gas and aerosol data, and solar radiation measurements were recorded in a Lagrangian reference frame downwind of the {metro} complex. This expewriment was designed as a precursor to the more extensive {m3} studies and is presently being evaluated using analytical and numerical modeling procedures. The contributions immediately following summarize the progress made during the past year in these areas.
 
 * Aerosol and trace gas transformations
+
+include::../assemblies/assembly_aerosol_balance_theoretical_equations.adoc[leveloffset=+1]
+
+include::../assemblies/assembly_aerosol_balance_numerical_equations.adoc[leveloffset=+1]
+
+include::../assemblies/assembly_growth_aerosol_urban_plume.adoc[leveloffset=+1]

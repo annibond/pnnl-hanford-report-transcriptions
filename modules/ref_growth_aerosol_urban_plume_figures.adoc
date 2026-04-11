@@ -1,0 +1,44 @@
+[id="ref_growth_aerosol_urban_plume_references_figures_{ref-growth-aerosol-urban-plume-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: The Location of the Tetroon Launch Sites and the Major SO~x~ Point Sources Emissions in the Area  (Neg 757208-3)
+
+[#img-aerosol-urban-plume-1]
+[caption="The Location of the Tetroon Launch Sites and the Major SO~x~ Point Sources Emissions in the Area", alt="{aerosol-urban-plume-alt-1}"]
+image::{aerosol-urban-plume-image-1}[The Location of the Tetroon Launch Sites and the Major SO~x~ Point Sources Emissions in the Area]
+
+== Figure 2: The Variation in the Aerosol Volume Concentration and the Sulfur Content of Aerosol Measured on August 6, 1975 (Neg 72228-4)
+
+[#img-aerosol-urban-plume-2]
+[caption="Variation in the Aerosol Volume Concentration and the Sulfur Content of Aerosol", alt="{aerosol-urban-plume-alt-2}"]
+image::{aerosol-urban-plume-image-2}[Variation in the Aerosol Volume Concentration and the Sulfur Content of Aerosol]
+
+== Figure 3: Concentration of Particles Larger than 0.01 µm in Diameter as a Function of Time Measured on August 6, 1975 (Neg 72228-3)
+
+[#img-aerosol-urban-plume-3]
+[caption="Variation in the Aerosol Volume Concentration and the Sulfur Content of Aerosol", alt="{aerosol-urban-plume-alt-3}"]
+image::{aerosol-urban-plume-image-3}[Concentration of Particles Larger than 0.01 µm in Diameter]
+
+== Figure 4: Some of the Parameters Measured During the August 6, 1975, Flight and the O3, NO/NO2 Concentration
+
+[#img-aerosol-urban-plume-4]
+[caption="Some of the Parameters Measured During the August 6, 1975", alt="{aerosol-urban-plume-alt-4}"]
+image::{aerosol-urban-plume-image-4}[Some of the Parameters Measured During the August 6, 1975]
+
+== Figure 5: Number Distribution of Particles Measured on August 6, 1975 (Neg 757208-4)
+
+[#img-aerosol-urban-plume-5]
+[caption="Number Distribution of Particles Measured on August 6, 1975", alt="{aerosol-urban-plume-alt-5}"]
+image::{aerosol-urban-plume-image-5}[Number Distribution of Particles Measured on August 6, 1975]
+
+== Figure 6: The Same as Figure 5, Except the Data Plotted as a Value Distribution (Neg 757208-8)
+
+[#img-aerosol-urban-plume-6]
+[caption="The Same as Figure 5, Except the Data Plotted as a Value Distribution", alt="{aerosol-urban-plume-alt-6}"]
+image::{aerosol-urban-plume-image-6}[The Same as Figure 5, Except the Data Plotted as a Value Distribution]
+
+== Figure 7: Volume Distributions of Particles Measured on August 21, 1974 (Neg 757208-6)
+
+[#img-aerosol-urban-plume-7]
+[caption="Volume Distributions of Particles Measured on August 21, 1974", alt="{aerosol-urban-plume-alt-7}"]
+image::{aerosol-urban-plume-image-7}[Volume Distributions of Particles Measured on August 21, 1974]

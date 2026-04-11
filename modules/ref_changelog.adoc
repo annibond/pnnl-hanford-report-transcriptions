@@ -5,7 +5,17 @@ include::../attributes.adoc[]
 
 === 2026
 
-==== 15 March 2026 - 21 March 2026, BNWL-2000, pp. 179-
+==== 5 April 2026 - 11 April 2026, BNWL-2000, pp. 189-202
+
+* Added "Aerosol Balance Equations: Theoretical Studies" (pp. 189-190)
+
+* Added "Aerosol Balance Equations: Numerical Modeling" (pp. 191-195)
+
+* Added "The Growth of Aerosol in an Urban Plume" (pp. 196-202)
+
+* Updated Glossary of Terms, attributes
+
+==== 15 March 2026 - 21 March 2026, BNWL-2000, pp. 179-188
 
 * Created "Development of a No-Deposition Precipitation Sampler" (187-188)
 
