@@ -1,0 +1,17 @@
+[id="assembly_concentrates_and_removal_report_1975_211_252_{assembly-integration-models-atmospheric-processes}"]
+
+== Integration of Models for Atmospheric Processes
+
+As the pressind demand for energy compels man to consider alternative forms of power production, a careful assessment of the environmental impact of these alternatives becoms critical.
+
+For near-term considerations the two main candidates for steam-electric power production are nuclear energy or fossil fuel combustion. One consideration is assessing the impact of either method is the behavior of potentially harmful contaminants released to the atmosphere. Because the atmospheric processes which affect, directly or indirectly, the face of a pollutant are extremely complex, practical methods of simulating these processes must be developed to assess the environmental impact of increased or different forms of power prodcution pollution.
+
+Recent evaluations of energy technology development have indicated that increased utilization of high sulfur coal will be required to meet the energy demands until enough nuclear power is available to carry a significant share of the load. For this reason a strong emphasis is presently placed on assessing the health and ecological effects of sulfur dioxide and sulfates. Reported in this section are modeling efforts on this problem, which involve not only transport and dispersion calculations over a multisite area, but chemical transformation and removal by dry deposition and precipitation scavenging. The opbjective has been to produce a model, containing all these components which would serve as a vehicle for improvement through sensitivity anlyses and experimental verification.
+
+* Safety analysis and environmental effects studies
+
+* MAP3S modeling studies
+
+* Pacific Northwest Energy related regional assessment program
+
+* Investigation and modeling of the meteorology of the Hanford region

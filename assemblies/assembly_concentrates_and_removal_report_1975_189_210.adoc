@@ -13,3 +13,9 @@ include::../assemblies/assembly_aerosol_balance_theoretical_equations.adoc[level
 include::../assemblies/assembly_aerosol_balance_numerical_equations.adoc[leveloffset=+1]
 
 include::../assemblies/assembly_growth_aerosol_urban_plume.adoc[leveloffset=+1]
+
+include::../assemblies/assembly_simultaneous_aerosol_metro.adoc[leveloffset=+1]
+
+include::../assemblies/assembly_turbidity_variations_alton.adoc[leveloffset=+1]
+
+include::../assemblies/assembly_aerosols_so2_da_vinci.adoc[leveloffset=+1]

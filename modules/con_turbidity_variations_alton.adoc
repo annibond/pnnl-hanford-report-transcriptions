@@ -1,0 +1,14 @@
+[id="con_turbidity_variations_alton_{con-turbidity-variations-alton}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+In support of aircraft sunphotometer measurements, frequent ground observations were made at {air} from July 30, 1975 to August 11, 1975. Aerosol optical depths (Turbidities) were derived from the measurements according to procedures described elsewherefootnote:1[N. S. Laulainen, "Turbidity over Hanford During 1975," this report.].
+
+Multiwavelength turbidities for 9 of the 10 observation days are shown in *Figure 1*. Least squares fits of the wavelength-dependent aerosol optical depth to a power law of the form
+
+[latexmath]
+++++
+\tau \; = \; B \lambda^{-{\alpha}}
+++++
+
+were also carried out. The coefficients stem:[B] and stem:[\alpha] are listed in *Table 1* where stem:[B] is related to the aerosol loading and stem:[\alpha] to the aerosol size distribution. Inspection of *Figure 1* and *Table 1* shows that large variations in aerosol loading occurred during this time interval. The highest values were associated with fog/haze conditions. The wavelength exponent stem:[\alpha] varied between stem:[1.4] and stem:[2.4]. The apparent discontinuity of the stem:[598.4] and stem:[618.9 nm] turbidities for July 31, August 4, 5 and 11 may be an artifact of the sunphotometer, as environmental temperature control was not always practical during several of the observation intervals.

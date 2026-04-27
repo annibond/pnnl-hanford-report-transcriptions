@@ -1,0 +1,39 @@
+[id="con_simultaneous_aerosol_metro_{con-simultaneous-turbidity-metro}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Procedure
+
+A {dc3-i} was used to simultaneously measure aerosol particle size distributions and turbidities at different altitudes over {metro} St. Louis, {MO}. An {electric-ana}footnote:1[B. Y. H. Liu and D. Y. H. Pui, "On the Performance of the Electric Aerosol Analyzer," Journal of Aerosol Science, 6, pp. 249-264, 1975.] and a {royco-mon} were used to determine the particle size distribution in the range of stem:[0.01 \, \mu m \, - \, 5.0 \, \mu m]. The sensor interfaced with a {15-chan}. A multiwavelength sunphotometer measured solar intensities in 4 narrow wavelength bands (stem:[\approx 10 \, nm], centered at stem:[448.2], stem:[500.7], stem:[557.8] and stem:[618.9 \, nm] respectively), and in 2 broad wavelength bands (stem:[\approx 60 \, nm], centered at stem:[500] and stem:[598.4 \, nm] respectively). Using calibrated instrument response of the photometer, turbidities were determined for each of the wavelength bands.
+
+The flight was made on August 8, 1975, under clear and hazy sky. Wind was from the {se} at less than stem:[10 \, knots]. The measurements were made stem:[12 \, miles] {nw} of {cair} in Alton, {IL}. The vertical temperature profile shows an inversion between stem:[4000-5000 \, ft \, MSL] (*Figure 1*). The particle size distributions measured during this flight are shown in *Figure 2*.
+
+== Results
+
+Clearly the distributions are bimodal. The total volume decreases dramatically above the temperature inversion. The peak in the volume distribution is shifted to larger particle sizes with increasing altitude. The figure also shows that the volume concentration just below the inversion is higher than at stem:[2000 \, ft \, MSL], indicating that the material is accumulating beneath the inversion. This is also reflected in SO~2~ measurements, which show similar behavior. The material above the inversion probably represents a well-aged pollutant trapped above the inversion. The SO~2~ level was stem:[7 \, ppb] which is an order of magnitude lower than below the inversion.
+
+Aerosol extinction coefficients derived from the sunphotometer turbidity measurements are given in *Table 1, Column A* for each wavelength band. The coefficients were determined using the equation
+
+.Equation 1
+[latexmath]
+++++
+b \; = \; \Delta \tau / \Delta h
+++++
+
+where stem:[b] is the average extinction coefficient for the layer between stem:[h] and stem:[h \, + \, \Delta h, \, \Delta \tau] is the difference between the turbidities (aerosol optical depths) measured at stem:[h] and stem:[h \, + \, \Delta h], and stem:[h] is the altitude. Since stem:\tau] is unitless, stem:[b] has units of stem:[(length)^{-1}].
+
+For comparison, aerosol extinction coefficients were calculated with Mie theory from the measured size distributions at each altitude with two different particle refractive indices using the form 
+
+.Equation 2
+[latexmath]
+++++
+b\; = \Sigma_{i} \, Q(\alpha_{i}, \, n) \; \Delta S \, (D_{pi}) \cdot \frac{10^{-6}}{4}
+++++
+
+where stem:[Q \, (\alpha_{i}, \, n)] is the unitless Mie extinction efficiency for size parameter stem:[\alpha_{i} \, \pi D_{pi} / \lambda] and refractive index stem:[n], and stem:[\Delta S \, (D_{pi}] is the measured particle surface area ([stem:\mu m^{2} / cm^3]) in the geometric mean particle diameter size class stem:[D_{pi}]. The summation is over all size intervals from about stem:[0.04 \, \mu m] to stem:[5 \, \mu m]. Calculated extinction coefficients for stem:[n = 1.5] are given in *Table 1, Column B*, while coefficients for stem:[n = 1.5 - 0.3i] are listed in *Table 1, Column C*.
+
+For stem:[n = 1.5], the measured values are consistently larger, by factors from stem:[2-4], then the calculated values. Including a large imaginary term to the refractive index, stem:[n = 1.5 - 0.3i], improves the agreement's appreciable discrepancies still exist however. The comparison does suggest the aerosol in the St. Louis city plume may have significant absorptive characteristics, a result found by othersfootnote:2[A. P. Waggoner and R. J. Charlson, "Measurements of Aerosol Optical Parameters," paper presented at Symposium on Fine Particles, University of Minnesota, May 28-30, 1975.]. Spatial inhomogeneities in the city plume may be repsonsible for some of the observed discrepancies between measured and calculated extinction coefficients.
+
+The inversion layer also has a dramatic effect on the transmission of solar radiation transmission losses due to aerosol through a turbid atmosphere as one descends from above the inversion (stem:[6000 \, ft \, MSL] reference level) down to well below the inversion. As expected the predominance of submicron particles has the greatest effect for the shorter wavelengths.
+
+NOTE: Abstract of an expanded version of this paper has been accepted for presentation in the {12ISAP}, 5-7 May 1976, Paris, France.

@@ -37,6 +37,9 @@ stem:[Q = 0]
 |advection
 |the transport of a substance (e.g., heat, radioactive particulate) due to the bilk movement of a fluid (i.e., liquid or gas)
 
+|aerosol loading
+|the total mass concentration of tiny solid or liquid particles suspended in the atmosphere above a defined area
+
 |aerovane
 |meteorological instrument that combines a wind vane with a propeller anemometer to simultaneously measure both wind speed and direction
 
@@ -54,6 +57,9 @@ stem:[Q = 0]
 
 |alpha-emitter
 |higher energy, heavier particles with shorter range, more capable of killing or destroying a target
+
+|Angstrom exponent (Ångström exponent)
+|a measurement of how aerosol optical depth changes relative to the various wavelength of light
 
 |anion
 |negatively charged ion
@@ -300,6 +306,9 @@ stem:[\rho \, \frac{Du}{Dt} \, = \, - \, \lambda p \, + \, f]
 |exit lines
 |condensation trails left behind an airplane when it abruptly starts or stops in the air
 
+|extinction coefficient
+|a measurement for how strongly a substance absorbs or scatters light at a wavelength
+
 |facing away
 |the nuclear force binding the nucleon has enough force over a somewhat larger distance (microscopic), causing the force of the nucleons to overpower the repulsion between protons and bring them closer together
 
@@ -420,6 +429,11 @@ stem:[{F_o} = \frac{\alpha t}{L^{2}}]
 
 |hygroscopicity
 |the physical property of a substance to attract, absorb, and hold water molecules from the surrounding atmosphere
+
+|imaginary number
+|the square root of a negative number, which serves the purpose oof providing mathematical models for physical phenomena
+
+stem:[i \, = \, \sqrt{-1}]
 
 |immiscible
 |two liquids that do not form a homogenous mixture when combined (e.g., oil and water)
@@ -572,6 +586,9 @@ https://ned.ipac.caltech.edu/level5/Abbott/paper.pdf[Flatland: A Romance of Many
 |micrometer (μm)
 |1 millionth of a meter, a micron
 
+|Mie theory (Lorenz-Mie solution)
+|mathematical theory that explains how electromagnetic radiation scatters off of homogeneous spherical particles, regardless of their size relative to the wavelength.
+
 |mineral residue
 |a geological deposit left behind after weathering or an accumulation of minerals in water
 
@@ -592,6 +609,10 @@ https://ned.ipac.caltech.edu/level5/Abbott/paper.pdf[Flatland: A Romance of Many
 
 |nanogram (ng)
 |1 billionth of a gram
+
+
+|nanometer (nm)
+|1 billionth of a meter
 
 |naphtha
 |volatile, often flammable liquid hydrocarbon mixtures used chiefly as solvents and diluents
@@ -739,6 +760,11 @@ stem:[Pe \; = \; \frac{Advective \, Transport \, Rate}{Diffusive \, Transport \,
 |recurring rain gauge (gage)
 |an instrument used in cloud scavenging experiments to measure rainfall over time
 
+|refractive index
+|a dimensionless numer (stem:[n]) that measures how much of a medium (e.g., water) slows the transfer of light
+
+stem:[n =, \frac{c}{v}
+
 |reinsertion
 |the upward movement of particles from the canopy layer to the boundary layer as air flows through it, opposite of ingestion
 
@@ -787,6 +813,9 @@ stem:[Sc \; = \; \frac{\nu}{D} \; = \; \frac{\mu}{{\rho} \, D}]
 
 |size-fractionate
 |the physical separation of particles, colloids, or radionuclides within a sample onto portions based on their physical diameter or weight
+
+|solar photometer (sun photometer)
+|an instrument that measures solar radiation (UV rays)
 
 |solenoid valve
 |a device used to control the flow of liquids or gases as a remote-controlled, automatic valve
@@ -860,6 +889,9 @@ _Stk = τ~p~/τ~f~_
 
 |tropopause
 |the boundary layer between the troposphere and the stratosphere, located at an altitude of roughly 8 km at the poles and 18 km at the equator
+
+|turbidity
+|measurement for the appearance of liquid that describes how cloudy or murky the liquid is due to suspended solids (e.g., sediment, pollutant)
 
 |unbound kernel
 |an unstable system in which the nucleons have a weak or insufficient nuclear force to hold them together

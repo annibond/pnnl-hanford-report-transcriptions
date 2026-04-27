@@ -1,0 +1,18 @@
+[id="ref_aerosols_so2_da_vinci_figures_{ref-aerosols-da-vinci-balloon-flight-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Concentrations of Aitken Nuclei Measured During da Vinci Balloon Flight (Neg 70582-1)
+
+[#img-da-vinci-balloon-1]
+[caption="Concentrations of Aitken Nuclei Measured During da Vinci Balloon Flight", alt="{aerosols-da-vinci-balloon-flight-figure-alt-1}"]
+image::{aerosols-da-vinci-balloon-flight-figure-image-1}[Concentrations of Aitken Nuclei Measured During da Vinci Balloon Flight]
+
+NOTE: The full title of the figure in the original report is "Concentrations of Aitken Nuclei Measured During da Vinci Balloon Flight Superimposed on Balloon Trajectory".
+
+== Figure 2: Concentration of Particle > 1 μm as a Function of Gondola Altitude (Neg 757208-1)
+
+[#img-da-vinci-balloon-2]
+[caption="Concentration of Particle > 1 μm as a Function of Gondola Altitude", alt="{aerosols-da-vinci-balloon-flight-figure-alt-2}"]
+image::{aerosols-da-vinci-balloon-flight-figure-image-2}[Concentration of Particle > 1 μm as a Function of Gondola Altitude]
+
+NOTE: The full title of the figure in the original report is "Concentration of Particle > 1 μm as a Function of Gondola Altitude During Descend, Time 2242-0122 MST".

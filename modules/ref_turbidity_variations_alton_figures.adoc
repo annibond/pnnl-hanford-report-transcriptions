@@ -1,0 +1,8 @@
+[id="ref_turbidity_variations_alton_figures_{ref-turbidity-variations-alton-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Multiwavelength Turbidities for 8 of the 10 Observation Days
+
+[#img-turbidity-variations-alton-1]
+[caption="Multiwavelength Turbidities for 8 of the 10 Observation Days", alt="{turbidity-variations-alton-alt-1}"]
+image::{turbidity-variations-alton-image-1}[Multiwavelength Turbidities for 8 of the 10 Observation Days]

@@ -1,0 +1,8 @@
+[id="ref_aerosols_so2_da_vinci_references_{ref-aerosols-da-vinci-balloon-flight-references}"]
+include::../attributes.adoc[]
+
+1. {HWei}, "Recent Measurements of the Vertical Distribution of Aitken Nuclei," ed. [.underline]#{asrain}#, ed. {HWei} and {WSmi}, {ppress}, {lond}, pp. 81-88, 1957.
+
+2. {JFSt}, "An Aircraft, Aerosol Sampling Program: Some Preliminary Results," [.underline]#{AEV}#, [.underline]#6#, pp. 743-757, 1972.
+
+3. {AJA}, "Airborne Measurement of Aerosol Particle Size Distributions," [.underline]#{PNLAR} for 1972 to the {USAEC-V2-P1}#, BNWL-1750, PT 1, {bat}, {PNL}, {rich}, WA, April 1973.

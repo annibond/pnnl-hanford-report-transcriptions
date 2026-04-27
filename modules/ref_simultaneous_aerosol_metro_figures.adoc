@@ -1,0 +1,14 @@
+[id="ref_simultaneous_aerosol_metro_{ref-simultaneous-turbidity-metro-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: RAPS Alton No. 144, August 8, 1975, 1464 CDT (Neg 72228-1)
+
+[#img-simultaneous-turbidity-1]
+[caption="RAPS Alton No. 144, August 8, 1975, 1464 CDT", alt="{simultaneous-turbidity-metro-alt-1}"]
+image::{simultaneous-turbidity-metro-image-1}[RAPS Alton No. 144, August 8, 1975, 1464 CDT]
+
+== Figure 2: Particle Size Distributions Measured During Flight (Neg 757208-7)
+
+[#img-simultaneous-turbidity-2]
+[caption="RAPS Alton No. 144, August 8, 1975, 1464 CDT", alt="{simultaneous-turbidity-metro-alt-2}"]
+image::{simultaneous-turbidity-metro-image-1}[RAPS Alton No. 144, August 8, 1975, 1464 CDT]

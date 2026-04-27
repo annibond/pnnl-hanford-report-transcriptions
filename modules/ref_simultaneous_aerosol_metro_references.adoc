@@ -1,0 +1,6 @@
+[id="ref_simultaneous_aerosol_metro_references_{ref-simultaneous-turbidity-metro-references}"]
+include::../attributes.adoc[]
+
+1. {BYHL} and {DYHP}, "On the Performance of the Electric Aerosol Analyzer," [.underline]#{JASci}#, [.underline]#6#, pp. 249-264, 1975.
+
+2. {APWa} and {RJCh}, "Measurements of Aerosol Optical Parameters," paper presented at [.underline]#{SympFine}#, {UMN}, May 28-30, 1975.

@@ -1,0 +1,23 @@
+[id="assembly_aerosols_so2_da_vinci_{assembly-aerosols-da-vinci-balloon-flight}"]
+include::../attributes.adoc[]
+
+== Aerosols and SO~2~ Measurements during the Da Vinci Balloon Flight
+[.big]#{AJA}#
+
+_Balloonborne measurements of Aitken nuclei, particles larger than μ in diameter, and SO~2~ concentrations were made during the da Vinci Flight, launched on November 1, 1974. The concentrations of the nuclei and the large particles vary between 200-1900 nuclei/cm^3^, and 00.069-1.12 particles/cm^3^ respectively. Generally low concentrations are associated with the higher altitudes. The SO~2~ level during the period 00:00 to 03:00 MST is 80 ppb, and no detectable trace of this gas was observed at any other time._
+
+include::../modules/con_aerosols_so2_da_vinci.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_aerosols_so2_da_vinci_references.adoc[leveloffset=+2]
+
+==== Tables
+
+include::../modules/ref_aerosols_so2_da_vinci_table-1.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_aerosols_so2_da_vinci_figures.adoc[leveloffset=+2]

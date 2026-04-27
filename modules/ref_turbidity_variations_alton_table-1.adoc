@@ -1,0 +1,55 @@
+[id="ref_turbidity_variations_alton_table-1_{ref-turbidity-variations-alton-table-1}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+.Power Law Fit to the Wavelength Dependent Aerosol Optical Depths Measured Over Alton Civic Memorial Airport
+
+[cols="1,1,1"]
+
+|===
+
+^|*Date* ^|*stem:[\alpha]* ^|*B*
+
+>|7-30-75
+>|1.4
+>|0.39
+
+>|7.31-75 (a)
+>|1.8
+>|0.076
+
+>|8-4-75 (a)
+>|1.9
+>|0.051
+
+>|8-5-75 (a)
+>|1.9
+>|0.70
+
+>|8-6-75
+>|2.1
+>|0.053
+
+>|8-7-75 (a)
+>|1.9
+>|0.041
+
+>|8-8-75
+>|2.4
+>|0.057
+
+>|8-9-75
+>|1.4
+>|0.53
+
+>|8-10-75
+>|1.7
+>|0.25
+
+>|8-11-75 (a)
+>|1.7
+>|0.15
+
+|===
+
+NOTE: _a_ denotes data sets where the stem:[598.4] and stem:[618.9 \, nm] data are not included in fit.

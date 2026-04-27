@@ -205,17 +205,18 @@
 :c73: Cyber 73 system
 :cess: Cessna 411 aircraft
 :dc3: DC-3 aircraft
+:dc3-i: DC-3 instrumented aircraft
 :dopp: Doppler
 :dopp-2: dual Dopplers  
 :doppd: dual Doppler
 :doppr: Doppler radar system
 :doppr-2: dual Doppler radar system
+:electric-ana: Electrical Aerosol Analyzer
 :gen-ait: G. E. Aitken Nuclei Counter
 :gen-count: General Electric Particle Counter
 :m3: MAP3S program
 :m8: Metrodata M-8 interface
 :nova1220: NOVA 1220 minicomputer
-:nox: NO~x~ Analyzer
 :royco-mon: Royco Optical Sensor Model 220
 :teco: TECO Model 14D
 
@@ -227,10 +228,12 @@
 :JWnS: John Wiley & Sons, Inc.
 :MB: Merrill Books
 :pcomm: personal communication
+:ppress: Pergamon Press
 :pres: (in press)
 :pub: to be published
 
 // Academic Journals
+
 
 :AAC: Aerosols and Atmospheric Chemistry
 :AC: Analytical Chemistry
@@ -243,6 +246,7 @@
 :APCA: APCA Journal
 :ASEPG: Atmosphere-Surface Exchange of Particles and Gases
 :ASR: Atmospheric Scavenging of Radioisotopes
+:ASRain: Artificial Stimulation of Rain
 :BAMS: Bulletin of the American Meteorological Society
 :BLM: Boundary Layer Meteorology
 :ChemS: Chemical Society
@@ -256,6 +260,7 @@
 :JAM: Journal of Applied Meteorology
 :JAPCA: Journal of the Air Pollution Control Association
 :JAS: Journal of Atmospheric Sciences
+:JASci: Journal of Aerosol Science
 :JAWSP: Journal of Air, Water and Soil Pollution
 :JCIS: Journal of Colloid and Interface Science
 :JGR: Journal of Geophysical Research
@@ -276,6 +281,7 @@
 
 // Academic Conferences
 
+:12ISAP: 12th International Symposium on Atmospheric Pollution
 :3WM: Third Conference of Weather Modification
 :66A: 66th Annual Meeting of the Air Pollution Control Association
 :70: IAEA Symposium on the Use of Nuclear Techniques in the Measurement and Control of Environmental Pollution, Saltzburg, Austria
@@ -295,6 +301,7 @@
 :PSADAP: Proceedings of the Symposium on the Atmospheric Diffusion and Air Pollution
 :sesa: Subsynoptic Extratropical Weather Systems: Notes from a Colloquium
 :sesa-74: Subsynoptic Extratropical Weather Systems: Notes from a Colloquium - Summer 1974
+:sympfine: Symposium on Fine Particles
 :USAECS: USAEC Symposium Series
 
 // Research Paper Authors
@@ -311,6 +318,7 @@
 :AKP: A. K. Postma
 :AM: A. Miller
 :AND: A. N. Dingle
+:APWa: A. P. Waggoner
 :ASF: A. S. Frisch
 :ASu: A Sunderström
 :BBR: B. B. Ross
@@ -380,6 +388,7 @@
 :HHL: H. H. Lettau
 :HLV: H. L. Volchok
 :HSC: H. S. Carslaw
+:HWei: H. Weickmann
 :IAS: I. A. Stegun
 :IIB: I. I. Burtsey
 :INP: I. N. Ponomarenko
@@ -392,6 +401,7 @@
 :JCL: J. C. Laul
 :JDL: J. D. Ludwick
 :JEP: J. E. Pinkerton
+:JFSt: J. F. Stampfer, Jr.
 :JHH: J. H. Harley
 :JGD: J. G. Droppo
 :JJF: J. J. Fuquay
@@ -477,6 +487,7 @@
 :RLD: R. L. Drake
 :RLL: R. L. Lavoie
 :RLM: R. L. McKeever
+:RJCh: R. J. Charlson
 :RJE: R. J. Engelmann
 :RKH: R. K. Hadlock
 :RKW: R. K. Woodruff
@@ -509,6 +520,7 @@
 :WNS: W. N. Stasiuk, Jr.
 :WHH: W. H. Hoecker
 :WRG: W. R. Griffith
+:WSmi: W. Smith
 :WTr: W. Brutsaert
 :WTS: W. T. Scott
 :YLee: Yean Lee
@@ -569,6 +581,9 @@
 :dad-wedding-alt: Dad and his family standing next to one another in a formal wedding photo at my parents' wedding in 1985. From left to right is Grandma Simpson, Kyle Simpson (Dad), and Grandpa Simpson (C. L. Simpson).
 
 // Images (Figures)
+
+:aerosols-da-vinci-balloon-flight-figure-image-1: {img-dir}/ref_aerosols_so2_da_vinci_figure-1.png
+:aerosols-da-vinci-balloon-flight-figure-image-2: {img-dir}/ref_aerosols_so2_da_vinci_figure-2.png
 
 :aerosol-urban-plume-image-1: {img-dir}/ref_growth_aerosol_urban_plume_figure-1.png
 :aerosol-urban-plume-image-2: {img-dir}/ref_growth_aerosol_urban_plume_figure-2.png
@@ -704,6 +719,9 @@
 :scavenging_thunderstorm-image-3: {img-dir}/ref_scavenging_thunderstorm_figure-3.png
 :scavenging_thunderstorm-image-4: {img-dir}/ref_scavenging_thunderstorm_figure-4.png
 
+:simultaneous-turbidity-metro-image-1: {img-dir}/ref_simultaneous_aerosol_metro_figure-1.png
+:simultaneous-turbidity-metro-image-2: {img-dir}/ref_simultaneous_aerosol_metro_figure-2.png
+
 :short-diff-range-img-1: {img-dir}/ref_diffusion_with_deposition_at_short_range_figure-1.png
 :short-diff-range-img-2: {img-dir}/ref_diffusion_with_deposition_at_short_range_figure-2.png
 
@@ -718,6 +736,8 @@
 :transuranium-img-5: {img-dir}/ref_transuranium_elements_in_the_atmosphere_figure-5.png
 :transuranium-img-6: {img-dir}/ref_transuranium_elements_in_the_atmosphere_figure-6.png
 
+:turbidity-variations-alton-image-1: {img-dir}/ref_turbidity-variations-alton-figure-1.png
+
 :variation-plume-centerline-img-1: {img-dir}/ref_variation_of_plume_centerline_concentration_with_time_figure-1.png
 :variation-plume-centerline-img-2: {img-dir}/ref_variation_of_plume_centerline_concentration_with_time_figure-2.png
 
@@ -729,6 +749,10 @@
 :wind-profile-dust-img-2: {img-dir}/ref_wind_profiles_dust_storms_figure-2.png
 
 // Images Alt Text (Figures)
+
+:aerosols-da-vinci-balloon-flight-figures-alt-1: A graph that shows the concentrations of Aitken nuclei for sulfur dioxide measured during the da Vinci balloon flight. The x axis = time between 20:00 through the night to 09:00 with intervals of one hour. The time was taken in MST. There are two y axes. 1) The first y axis = altitude in 4.4 to 13.0 ft MSL with 1.0 ft MSL, with an exception for the first interval (4.4 - 5.0). That line represents inconsistently oscillating exponential increases, then exponential descreases with peaks at (23:00 MST, 13.0 ft MSL) and (~06:30 MST, ~12.5 ft MSL). Its lowest dip is at (~01:00 MST, 7.0 ft MSL). 2) The second y axis = diameter of Aitken nuclei between 200 and 1800 ϕ/cm^3 with 400 ϕ/cm^3 intervals. That data set also oscillates between exponential growth and decay with peaks at (~2:30 MST, > 1800 ϕ/cm^3), (04:30 < x < 05:00 MST, 1400 < y < 1800 ϕ/cm^3), and (~07:30, ~1400 ϕ/cm^3). Its lowest dip is at (05:00 < x < 06:00, 200 < y < 600 ϕ/cm^3.
+
+:aerosols-da-vinci-balloon-flight-figures-alt-2: A small graph that shows the concentration of particles in nanometers as gondola altitude increases. The x axis = gondola altitude between 7 and 13 1,000 ft MSL with intervals of 1,000 ft MSL. The y axis = particle concentration between 0.1 and 1.0 ϕ/cm^3 in intervals of 0.1 ϕ/cm^3. The data only captures particles that have a diameter of over 1 nanometer.
 
 :aerosol-urban-plume-alt-1: A map that displays the Tetroon Launch Sites and the source of large SO emissions. Weiss Airport is located toward center-left side of the map, and Civic Memorial Airport is on the upper-right corner of the map, bordering the waterfront.
 
@@ -930,6 +954,10 @@
 
 :short-diff-range-alt-2: A dot graph which shows • tracking Krypton (Kr) at a transversal of 200 meters, ◦ tracking Krypton (Kr) at a transversal of 842 meters, □ tracking Florine (FP) at a transversal of 200 meters, and ■ tracking Florine (FP) at a transversal of 842 meters. The x axis = percent of tracer in meters from 0 m - 7 m in increments of 1. The y axis = height in meters from 0 m - 60 m in increments of 5 m. A dashed line (- - -) highlights the release height, which is just above 25 m. A dotted line highlights the top sampler at a transversal of 200 m. Another dotted line highlights the top sampler at a traversal of 842 m. All areas under curves normalized to 100 percent.
 
+:simultaneous-turbidity-metro-alt-1: A graph that shows the attributes in the air during the August 8, 1975 flight at 16:46 PST. There are three x axis. (1) on the left, the x axis = relative humidity in percent), which fluctuates at or around 50%. (2) In the middle, the x axis = temperature in the air between -40 and 40 degrees Celsius. (3) On the right, the x-axis = altitude between 0 and 4000 ft MSL. The y axis shows both the pressure in ppb between 1000 and 500 ppb, as well as height between 1000 and 6000 ft MSL. The relative temperature fluctuates significantly at lower altitudes. A positive linear relationship shows the air temperature decreasing with altitude, while the dew point temperature increases with altitude has an erratic, negative linear relationship.
+
+:simultaneous-turbidity-metro-alt-2: A graph that shows the particle size distributions in the air during the August 8, 1975 flight at (1) 16:00, (2) 16:26, (3) 16:50, (4) 17:15, and (5) 17:38 PST. The x axis = particle diameter between 0 and 10 micrometers in intervals of one order of magnitude. The y axis = the concentration between 0 and 40 um^3/cm^3 in intervals of 10 um^3/cm^3. All have steep bell curbe patters until x = 1/0, at which point they all steeply rise again.
+
 :soil-insertion-particles-alt-1: A graph that shows the log volume distribution of individual models for air sampling of the impactor cowl. The x axis = particle diameter (D) in micrometers with intervals of (1) 10^-1, (2) 1, (3) 10, (4) 10^2, and (5) 10^3 micrometers. The y axis = log volume distribution ΔV over Δ ln D in micrometers cubed to centimeters cubed in intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 1, (5)  10, (6) 10^2, and (7) 10^3. There are six heights of air sampling impactor cowl represented: (1) 0.3, (2) 1, (3) 2, (4) 3, (5) 10, and (6) 32 meters. All of them show a mountain-like positive correlation. The grand average of Los Angeles in 1969 is represented by a dotted line (. . .). The optical counter range is shaded in between (0.01, 0.001) through (10, ~ 0.01). Lower limits from impactor cowl are (1) 3.46 D^0.12 and (2) 1160 D^-1.48.  
 
 :solvent-refined-coal-alt: A graph that displays the signal intensity of each of the chemical compounds separated by the SP-1000 at 10% from the process naphtha sample. The sample uses N~2~ as the carrier gas at a rate of 60 mL/min.  The x axis = the temperature in degrees Celsius in increments of (1) 100°, (2) 100°, (3) 150°, and (4) 200°C. The data continues after 200°C but evens out after that point. The first two increments on the x axis marked 100° represent the initial temperature of 100°, after which the temperature is held there as a constant for a specific period of time.  The y axis = the relative response. There are 22 data points which represent (1) 2-methylindan, (2) 5-methylindan, (3) 1, 3-dimethylindan, (4) 1, 2, 3 4-tetrahydronaphthalene, (5) 5-methyl-1, 2, 3, 4-tetrahydronaphthalene, (6) naphthalene, (7) 2-methylnaphthalene, (8) 1-methylnaphthalene, (9) 2, 6-dimethylnaphthalene, (10) phenol, o-cresol, (11) m-cresol, p-cresol, (12) 3, 5-xylenol, (13) acenaphthene, (14) dibenzofuran, (15) fluorene, (16) 9, 10-dihydrophenanthrene, (17) dibenzothiophene, (18) phenanthrene, anthracene, (19) 2-methylphenanthrene, (20) 1-methylphenanthrene, (21) fluoranthene, and (22) pyrene.
@@ -945,6 +973,8 @@
 :transuranium-alt-5: A line graph drawn on physical graphing paper with no x or y axis labeled. Someone wrote data points they labeled, "Estimated 241^Pu".
 
 :transuranium-alt-6: A line graph drawn on physical graphing paper with no x or y axis labeled. Someone wrote data points which they labeled,  "measured 241^Am" from the top and "estimated 241^Am from the bottom". They are closely correlated.
+
+:turbidity-variations-alton-alt-1: A graph that shows the multiwavelength turpidities on 8 of the 10 observation days. The x axis = the wavelength between 400 and 800 nanometers in intervals of 50 nanometers. The y axis = aerosol optical depth between 0 and 2. The dates include ⬤ 08-09-1975, ○ 07-30-1975, ▲ 08-10-1975, △ 08-11-1975, ■ 08-08-1975, □ 07-31-1975, ▽ 08-04-1975, and ▽ 08-07-1975.
 
 :variation-plume-centerline-alt-1: A pair of two graphs stacked on top of each other that show the concentration of tracer emissions in an unstable atmosphere. Both graphs show an electrical field strength of 2.7 x 10^-5^ over m^3^ and an initial tracer release of 200 meters high. A solid line (--) measures the history of exposure at a given distance, a dashed line (- - -) measures the exposure from a specific fence post for the electron positron, and the bar graph measures end-to-end peak concentrations for the plumes. The top graph (1) shows test V7. The x axis = time in seconds in increments of (1) 0.1 and (2) 0.10, although more time after 0.10 seconds is shown and unlabeled. The y axis = the relative concentration with increments of (1) 0.1, (2) 0.5, (3) 1.0, (4), 5.0, (5) 10.0, and (6) 20.0. The bottom graph (2) shows test V2. The x axis = time in minutes between 0 and 18 minutes in two minute increments. The y axis = the relative concentration with increments of (1) 0.2, (2) 0.5, (3) 1.0, (4) 5.0, (5) 10.0, (6) 20.0, and (7) 30.0.
 
