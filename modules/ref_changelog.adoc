@@ -5,6 +5,18 @@ include::../attributes.adoc[]
 
 === 2026
 
+==== 26 April 2026 - 2 May 2026, BNWL-2000, pp. 202-211
+
+* Added "Simultaneous Aerosol Size Distributions and Turbidity Measurements over a Metropolitan Area"
+
+* Added "Turbidity Variations over the Alton, {IL}, Airport During August 1975"
+
+* Added "Aerosols and SO~2~ Measurements during the Da Vinci Balloon Flight"
+
+* Added "Integration of Models for Atmospheric Processes" assembly
+
+* Updated Glossary of Terms, attributes
+
 ==== 5 April 2026 - 11 April 2026, BNWL-2000, pp. 189-202
 
 * Added "Aerosol Balance Equations: Theoretical Studies" (pp. 189-190)

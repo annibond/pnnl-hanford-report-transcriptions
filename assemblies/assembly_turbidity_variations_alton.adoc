@@ -1,0 +1,24 @@
+[id="assembly_turbidity_variations_alton_{assembly-turbidity-variations-alton}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Turbidity Variations over the Alton, {IL}, Airport During August 1975
+[.big]#{NSL}#
+
+_Multiwavelength turidities were derived from sunphotometer at {cair} from July 30, 1975 to August 11, 1975. Aerosol loading varied by an order of magnitude during this time with the highest turbidities associated during fog/haze conditions. The turbidity was found to have a wavelength dependence with Ångström exponent stem:[\alpha] between stem:[1.4] and stem:[2.4]_
+
+include::../modules/con_turbidity_variations_alton.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_turbidity_variations_alton_references.adoc[leveloffset=+2]
+
+==== Tables
+
+include::../modules/ref_turbidity_variations_alton_table-1.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_turbidity_variations_alton_figures.adoc[leveloffset=+2]

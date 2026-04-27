@@ -1,0 +1,50 @@
+[id="ref_simultaneous_aerosol_metro_table-2_{ref-simultaneous-turbidity-metro-table-2}"]
+include::../attributes.adoc[]
+
+.Solar Radiation Transmission Losses Due to Aerosol Through a Turbid Atmosphere
+
+[cols="1,1,1,1,1,1"]
+
+|===
+
+|{nbsp}
+5+^|*Transmission Loss Due to Aerosol*
+
+^|*Altitude*
+^|*448.2 nm*
+^|*500.0 nm*
+^|*557.8 nm*
+^|*598.4 nm*
+^|*618.9 nm*
+
+>|5000
+>|6%
+>|4%
+>|4%
+>|0.3%
+>|2%
+
+>|4000
+>|15%
+>|7%
+>|8%
+>|7%
+>|8%
+
+>|3000
+>|27%
+>|23%
+>|20%
+>|15%
+>|16%
+
+>|2000
+>|31%
+>|25%
+>|21%
+>|17%
+>|22%
+
+|===
+
+NOTE: The full title of *Table 2* in the original report is "Solar Radiation Transmission Losses Due to Aerosol Through a Turbid Atmosphere Referenced to 6000 ft and Descending to 2000 ft".

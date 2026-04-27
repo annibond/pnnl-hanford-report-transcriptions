@@ -1,0 +1,4 @@
+[id="ref_turbidity_variations_alton_references_{ref-turbidity-variations-alton-references}"]
+include::../attributes.adoc[]
+
+1. N. S. Laulainen, "Turbidity over Hanford During 1975," this report.

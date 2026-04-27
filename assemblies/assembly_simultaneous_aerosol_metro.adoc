@@ -1,0 +1,26 @@
+[id="assembly_simultaneous_aerosol_metro_{assembly-simultaneous-turbidity-metro}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Simultaneous Aerosol Size Distributions and Turbidity Measurements over a Metropolitan Area*
+[.big]#{AJA} and {NSL}#
+
+_The particle size distribution measured in the St. Louis city plume is shown to be bimodal. Total particle volume decreases dramatically above the inversion. The peak in the volume distribution is shifted toward larger particles at higher altitudes. Aerosol extinction coefficients derived from sunphotometer optical depth measurements at 5 wavelengths are compared to those calculated from the measured size distributions, using Mie theory with two different particle refractive indices. For an entirely real refractive index of 1.5, the measured values are consistently larger by factors of 2 to 4 than the calculated values. Including a large imaginary part to the refractive index, stem:[n \, = \, 1.5 \, - \ 0.3i], improves the agreement, suggesting that the aerosol in the city plume may have significant absorbent characteristics._
+
+include::../modules/con_simultaneous_aerosol_metro.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_simultaneous_aerosol_metro_references.adoc[leveloffset=+2]
+
+==== Tables
+
+include::../modules/ref_simultaneous_aerosol_metro_table-1.adoc[leveloffset=+2]
+
+include::../modules/ref_simultaneous_aerosol_metro_table-2.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_simultaneous_aerosol_metro_figures.adoc[leveloffset=+2]
