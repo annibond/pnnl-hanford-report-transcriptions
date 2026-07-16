@@ -1,0 +1,29 @@
+[id="assembly_tritium_atmosphere_ctr_{assembly-tritium-atmosphere-ctr}"]
+include::../attributes.adoc[]
+
+== An Analysis of Tritium in the Atmosphere Released by a CTR*
+[.big]#{DSR} and {MTD}#
+
+_Removal by atmospheric processes of routinely released tritium from a controlled thermonuclear reactor (CTR) has been investigated._
+
+_Results of this analysis show that within 50 km of the plant atmospheric concentrations of tritium will be the limiting factor for routine releases. On the regional and global scale, surface water concentrations tend to become the limiting factor. However, both air and surface water tritium concentrations are estimated to be below existing standards during normal commercial CTR operations._
+
+include::../modules/con_tritium_atmosphere_ctr.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_tritium_atmosphere_ctr_figures_references.adoc[leveloffset=+2]
+
+==== Tables
+
+include::../modules/ref_tritium_atmosphere_ctr_table-1.adoc[leveloffset=+2]
+
+include::../modules/ref_tritium_atmosphere_ctr_table-2.adoc[leveloffset=+2]
+
+include::../modules/ref_tritium_atmosphere_ctr_table-3.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_tritium_atmosphere_ctr_figures.adoc[leveloffset=+2]

@@ -1,0 +1,29 @@
+[id="ref_tritium_atmosphere_ctr_table-3_{ref-tritium-atmosphere-table-3}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+.Power Law Fit to the Wavelength Dependent Aerosol Optical Depths Measured Over Alton Civic Memorial Airport
+
+[cols="1,1,1"]
+
+|===
+
+^| ^|*stem:[\chi_a]* ^|*stem:[\chi_g]*
+
+^| ^|*stem:[(Ci-yr^{-1})]* ^|*stem:[(Ci-yr^{-1})]*
+
+|Local (near Morris, Ill.)
+>|6.2 x 10^9^
+>|9.2 x 10^9^
+
+|Regional (eastern U.S.)
+>|5.0 x 10^1^
+>|2.8 x 10^10^
+
+|Global
+>|1.6 x 10^12^
+>|3.7 x 10^11^
+
+|===
+
+NOTE: The full title of the table in the report is "Summary of Maximum Allowable Emissions (MAE) of Tritium to the Atmosphere by a Normal CTR Operation Based on Atmospheric (a) and Surface Water (g) Concentrations".

@@ -48,10 +48,12 @@
 
 // Cold War Meta
 
+:AEC: Atomic Energy Commission
 :bat: Battelle
 :BN: Battelle-Northwest
 :BNWL2000: BNWL-2000 PT 3
 :CW: Cold War
+:DTechInfo: Division of Technical Information
 :GE: General Electric
 :HNR: Hanford Nuclear Reservation
 :MA: Manhattan Project
@@ -70,6 +72,7 @@
 :boul: Boulder
 :chaph: Chapel Hill
 :charl: Charlottesville
+:chic: Chicago
 :DC: Washington D.C.
 :hous: Houston
 :ith: Ithaca
@@ -84,8 +87,10 @@
 :quil: Quillayute
 :rapid: Rapid City
 :rich: Richland
+:sbarb: Santa Barbara
 :sea: Seattle
 :spring: Springfield
+:sspring: Silver Spring
 :wf: Whiteface
 :zapp: Champaign
 
@@ -102,6 +107,7 @@
 :MS: Mississippi
 :MN: Minnesota
 :NC: North Carolina
+:NE: New England
 :NJ: New Jersey
 :NY: New York
 :OR: Oregon
@@ -123,6 +129,7 @@
 :NAAQS: National Ambient Air Quality Standard
 :NOAA: National Oceanic and Atmospheric Administration
 :NWS: National Weather Service
+:SRLab: Savannah River Laboratory
 :WMO: World Meteorological Organization
 :WPL: Wave Propagation Laboratory
 :USFS: United States Forest Service
@@ -133,23 +140,9 @@
 :corn: Cornell University
 :MEDept: Mechanical Engineering Department
 :su: State University
+:uchic: University of Chicago
 :UMN: University of Minnesota   
 :UW: University of Washington
-
-// Meteorological & Weather Specific Organizations (incl. United States government organizations)
-
-:EPA: Environmental Protection Agency
-:ilwater: Illinois State Water Survey
-:IMO: International Meteorological Organization
-:MRU: Meteorological Radar Unit
-:multistate: Multistate Atmospheric Power Production Pollution Study
-:NAAQS: National Ambient Air Quality Standard
-:NOAA: National Oceanic and Atmospheric Administration
-:NWS: National Weather Service
-:WMO: World Meteorological Organization
-:WPL: Wave Propagation Laboratory
-:USFS: United States Forest Service
-:USGS: United States Geographical Survey
 
 // United States Government Departments (other) & Test Sites
 
@@ -231,9 +224,10 @@
 :ppress: Pergamon Press
 :pres: (in press)
 :pub: to be published
+:uchicagop: University of Chicago Press
+:usprint: US. Government Printing Office
 
 // Academic Journals
-
 
 :AAC: Aerosols and Atmospheric Chemistry
 :AC: Analytical Chemistry
@@ -310,6 +304,7 @@
 :manager-title: Manager of {AS} Program
 
 :ACC: A. C. Chamberlain
+:ADT: A. D. Taylor
 :AE: A. Einstein
 :AEr: A. Erdélyi
 :AHM: A. H. Marcus
@@ -327,6 +322,7 @@
 :BS: B. Styra
 :BYHL: B. Y. H. Liu
 :CCT: C. C. Thomas, Jr.
+:CDK: C. D. Kern
 :CEE: C. E. Elderkin
 :CEH: C. E. Hane
 :CEJ: C. E. Junge
@@ -345,6 +341,7 @@
 :DFGz: D. F. Gatz
 :DG: D. Gray
 :DGA: D. G. Atkinson
+:DGJ: D. G. Jacobs
 :DJ: D. Jones
 :DJP: D. J. Perkey
 :DLE: D. L. Elliott
@@ -379,6 +376,7 @@
 :GHC: G. H. Clark
 :GHR: G. R. Hilst
 :GIT: G. I. Taylor
+:GJF: G. J. Ferber
 :GL: G. Langer
 :GPB: G. de P. Burke
 :HAP: H. A. Panofsky
@@ -390,6 +388,7 @@
 :HSC: H. S. Carslaw
 :HWei: H. Weickmann
 :IAS: I. A. Stegun
+:IASi: I. A. Singer
 :IIB: I. I. Burtsey
 :INP: I. N. Ponomarenko
 :JAC: J. A. Cooper
@@ -407,6 +406,7 @@
 :JJF: J. J. Fuquay
 :JJL: J. J. Lashock
 :JJOB: J. J. O’Brien
+:JLH: J. L. Heffter
 :JMH: J. M. Hales
 :JMTa: J. M. Tanner
 :JMT: J. W. Thorp
@@ -417,6 +417,7 @@
 :JRB: J. R. Brock
 :JRK: J. R. Kline
 :JRV: J. R. Vogt
+:JRY: J. R. Young
 :JSSm: J. S. Smagorinsky
 :JVM: J. Van Mieghen
 :JVR: J. V. Ramsdell
@@ -447,6 +448,7 @@
 :MAb: M. Abramowitz
 :MCM: M. C. Miller
 :ME: M. Eichor
+:MES: M. E. Smith
 :MK: M. Kay
 :MLB: M. L. Barad
 :MLKa: M. L. Kaplan
@@ -512,8 +514,10 @@
 :TSCh: T. S. Chen
 :TWH: T. W. Horst
 :WCC: W. C. Campbell
+:WDS: W. D. Sellers
 :WED: W. E. Davis
 :WEW: William E. Wilson
+:WFL: W. F. Libby
 :WFS: W. F. Sandusky
 :WGNS: W. G. N. Slinn
 :WHH: W. H. Hodgson
@@ -735,6 +739,10 @@
 :transuranium-img-4: {img-dir}/ref_transuranium_elements_in_the_atmosphere_figure-4.png
 :transuranium-img-5: {img-dir}/ref_transuranium_elements_in_the_atmosphere_figure-5.png
 :transuranium-img-6: {img-dir}/ref_transuranium_elements_in_the_atmosphere_figure-6.png
+
+:tritium-ctr-img-1: {img-dir}/ref_analysis_tritum_ctr_figure-1.png
+:tritium-ctr-img-2: {img-dir}/ref_analysis_tritum_ctr_figure-2.png
+:tritium-ctr-img-3: {img-dir}/ref_analysis_tritum_ctr_figure-3.png
 
 :turbidity-variations-alton-image-1: {img-dir}/ref_turbidity-variations-alton-figure-1.png
 
@@ -973,6 +981,14 @@
 :transuranium-alt-5: A line graph drawn on physical graphing paper with no x or y axis labeled. Someone wrote data points they labeled, "Estimated 241^Pu".
 
 :transuranium-alt-6: A line graph drawn on physical graphing paper with no x or y axis labeled. Someone wrote data points which they labeled,  "measured 241^Am" from the top and "estimated 241^Am from the bottom". They are closely correlated.
+
+:tritium-ctr-alt-1: A map that shows the concentration of tritium in the northeastern quadrant of Illinois in the United States, part of Lake Michigan, the Illinois-Indiana border, and the Wisconsin-Illinois border, centered at the Morris, Illinois site. Within the 50 concentration radius is just east of Morris, Illinois. Within the 30 concentration radius is Morris and the land outside of Joliet, Illinois, which is northeast of Morris. Within the 30 concentration radius is Joliet and the land outside of Kankakee, Illinois, which is southeast of Joliet. A scale is provided that shows how much one “space” represents 10 miles.  The model for the concentration is written at the bottom of the map: (value x 10^(-5)) = (pCi-m^(-3)) / (Ci-yr^_-1)). Note that this analysis zooms in more strongly on the original Morris, IL than Figure 2 does, as well as the difference in scale in the concentration value model.
+
+
+:tritium-ctr-alt-2: A map of the United States that shows the concentration of tritium in the eastern half of the United States. Within the 1000 concentration radius is Indiana and Illinois, centered at the Morris, Illinois site.  Within the 500 concentration radius is the rest of Illinois, the rest of Indiana, western and central Ohio, southern Michigan (“the mitten”), northern Kentucky, southeastern Wisconsin, the eastern edge of Iowa, and a corner of northeastern Missouri. After that, the tritium spread covers a significant portion of the United States and portions of Canada (unmarked). The model for the concentration is written at the bottom of the map: (value x 10^(-8)) = (pCi-m^(-3)) / (Ci-yr^_-1)). Note that this analysis is more zoomed out so that it can show the larger impact of tritium in the United States than Figure 1, as well as the difference in scale in the concentration value model.
+
+:tritium-ctr-alt-3: A graph that shows the rate of decay for tritium in water. The x axis = distance from the exposure site in Morris, Illinois between 0.1 and 1000 miles in intervals of one order of magnitude. The y axis = the surface-water concentration between 10^(-5) and 10^2 in intervals of one order of magnitude. The data shows a steep drop between 0.1 and 5 kilometers. The intersection of (13 < x < 14, 10^(-1) < y 10^0) is when the plume stops expanding and becomes trapped in the atmosphere. The dispersion parameter is represented by σ⌄(z) = 0.63x^(0.86). The dispersion coefficient is represented by σ⌄(z) = 859 meters. 
+
 
 :turbidity-variations-alton-alt-1: A graph that shows the multiwavelength turpidities on 8 of the 10 observation days. The x axis = the wavelength between 400 and 800 nanometers in intervals of 50 nanometers. The y axis = aerosol optical depth between 0 and 2. The dates include ⬤ 08-09-1975, ○ 07-30-1975, ▲ 08-10-1975, △ 08-11-1975, ■ 08-08-1975, □ 07-31-1975, ▽ 08-04-1975, and ▽ 08-07-1975.
 

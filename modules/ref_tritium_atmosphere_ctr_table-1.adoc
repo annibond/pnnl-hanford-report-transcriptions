@@ -1,0 +1,53 @@
+[id="ref_tritium_atmosphere_ctr_table-1_{ref-tritium-atmosphere-table-1}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+.Surface Water Tritium Concentrations (stem:[\chi_g]) for Various Distances from the Source
+
+[cols="1,1,1,1"]
+
+|===
+
+^|*Radial Distance (stem:[km])* ^|*stem:[\Delta f^{*}]* ^|*Area (stem:[m^2])* ^|*stem:[\chi_g / Q \; PCi^{-1} \, ci-yr^{-1}]*
+
+>|0-50
+>|.0317
+>|.785 x 10^10^
+>|10.9 x 10^-3^
+
+>|50-100
+>|.0307
+>|2.36 x 10^10^
+>|3.52
+
+>|100-150
+>|.0298
+>|3.93 x 10^10^
+>|2.05
+
+>|150-200
+>|.0287
+>|5.50 x 10^10^
+>|1.41
+
+>|200-250
+>|.0279
+>|7.06 x 10^10^
+>|1.07
+
+>|250-300
+>|.0270
+>|8.64 x 10^10^
+>|.844
+
+>|300-500
+>|0.997
+>|5.02 x 10^11^
+>|.537
+
+>|500-1000
+>|.1995
+>|2.36 x 10^12^
+>|.228
+
+|===
