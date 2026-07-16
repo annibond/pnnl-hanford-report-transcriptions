@@ -15,3 +15,5 @@ Recent evaluations of energy technology development have indicated that increase
 * Pacific Northwest Energy related regional assessment program
 
 * Investigation and modeling of the meteorology of the Hanford region
+
+include::../assemblies/assembly_tritium_atmosphere_ctr.adoc[leveloffset=+1]

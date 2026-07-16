@@ -1,0 +1,20 @@
+[id="ref_tritium_atmosphere_ctr_references_{ref-tritium-atmosphere-references}"]
+include::../attributes.adoc[]
+
+1. {JRY}, et al., [.underline]#Information Requirements for Controlled Thermonuclear Reactor Environmental Impact Statements#, BNWL-1883, {bat}, {PNL}, {rich}, {WA}, 1975.
+
+2. {DGJ}, [.underline]#Sources of Tritium and Its Behavior Upon Release to the Environment#, {AEC}, {DTechInfo}, 90 pp., 1968.
+
+3. {JLH}, {ADT} and {GJF}, [.underline]#A Regional-Contintental Scale Transport, Diffusion, and Deposition Model#, NOAA Technical Memorandum ERL ARL-50, {ARL}, {sspring}, {MD} 1975.
+
+4. {DSR}, {WFS} and {MTD}, [.underline]#An Analysis of Tritium Releases to the Atmosphere by a CTR#, BNWL-1938, {bat}, {PNL}, {rich}, {WA}, 1975.
+
+5. {MES} and {IASi}, "An Improved Method of Estimating Concentrations and Related Phenomena from a Point Source Emission", [.underline]#{JAM}#, [.underline]#5#: 631-639, 1966.
+
+6. {WDS}, [.underline]#Physical Climatology#, {uchicagop}, {chic}, {IL}, 1966.
+
+7. U.S. {AEC}, [.underline]#Proposed Final Environmental Statement: Liquid Metal Fast Breeder Reactor, Volume II#, {usprint}, {dc}, 1974.
+
+8. {WFL}, "Moratorium Tritium Geophysics", [.underline]#{JGR}#, 68 (15): 4485-4494, 1963.
+
+9. {CDK}, "A Simple Model to Determine Mesoscale Transport of Airborne Pollutants", {psadap}, {sbarb}, {CA}, September 9-13, 1974.

@@ -1,0 +1,139 @@
+[id="con_tritium_atmosphere_ctr_{con-tritium-atmosphere-ctr}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+The properties of tritiated water vapor, created when tritium is released into the environment, are essentially the same as those of atmospheric water vapor. Thus tritium becomes a component of the hydrologic cycle, behaving the same as water vapor. The majority of tritium released in the troposphere is limited to the general latitude of release, although some lateral mixing is to be expectedfootnote:1[J. R. Young, et al., Information Requirements for Controlled Thermonuclear Reactor Environmental Impact Statements, BNWL-1883, Battelle, Pacific Northwest Laboratories, Richland, Washington, 1975.].
+
+The removal of tritium from the atmosphere occurs primarily through precipitation, although near the point of release some tritiated water vapor can be diffused to the ground and taken up directly by vegetation. Once deposited the tritium can infiltrate the ground water, remain as part of the surface runoff and storage, be assimilated into plants, or be transpired and evaporated back into the atmosphere.
+
+== Estimations of Normalized Tritium Concentrations in the Atmosphere and Surface Water
+
+=== Estimated Average Ground-Level Atmospheric Concentrations
+
+The technique used here to compute average annual ground-level normalized concentrations of tritium involves evaluating the relation:
+
+.Equation 1
+[latexmath]
+++++
+\chi_a/Q = \left\{ \frac{1}{\pi \sigma_y \sigma_z \bar{u}} \exp(-y^2 / 2\sigma_y^2) \right\} \exp [-k_{eq}(x/\bar{u})]
+++++
+
+where:
+
+* stem:[\chi_a] = atmospheric tritium concentration stem:[(Ci \, - \, m^{-3})]
+
+* stem:[Q] = source term to the atmosphere stem:[(Ci \, - \, year^{-1)}]
+
+* stem:[\sigma_{y} \, = \, 0.5t]  = horizontal standard deviation of the plume (stem:[m])
+
+* stem:[\sigma_{z} \, = 2K_{z} \, (x/{\bar{u}^{1/2})}] = vertical plume deviation of the plume (stem:[m])
+
+* stem:[t] = plume travel time (stem:[sec])
+
+* stem:[\bar{u}] = mean wind speed through the layer stem:[300 \, m \, - \, 2000 \, m] above ground
+
+* stem:[k_{z}] = vertical diffusion coefficient = stem:[5m^2 \, - \, sec^{-1}]
+
+* stem:[k_{eq}] = equilibrium scavenging coefficient
+
+* stem:[x] = downwind distance from the source
+
+* stem:[y] = plume crosswind distance (stem:[m])
+
+The term in the curly brackets in *Eq. (1)* was evaluated from a climatology of wind trajectories near Morris, {IL} footnote:2[J. L. Heffter, A. D. Taylor and G. J. Ferber, A Regional-Contintental Scale Transport, Diffusion, and Deposition Model, NOAA Technical Memorandum ERL ARL-50, Air Resources Laboratory, Silver Spring, Maryland, 1975.], the assumed location of a CTR for this analysis.
+
+The second exponential term in *Eq. (1)* represents the depletion of the plume due to the scavenging of the tritium by precipitation. Under equilibrium conditions, where the in-cloud and below-cloud tritium concentrations are equal, and where the height of the release is at ground-level, the equilibrium scavenging coefficient keq can be obtained fromfootnote:3[D. S. Renné, W. F. Sandusky and M. T. Dana, An Analysis of Tritium Releases to the Atmosphere by a CTR, BNWL-1938, Battelle, Pacific Northwest Laboratories, Richland, Washington, 1975.]:
+
+.Equation 2
+[latexmath]
+++++
+k_{eq} = \frac{J}{H^*} \left( \frac{2}{\pi} \right)^{1/2} \frac{1}{\sigma_z'}
+++++
+
+where, for Morris, {IL}:
+
+* stem:[\sigma_{z}^{'}] = Smith-Singerfootnote:4[M. E. Smith and I. A. Singer, "An Improved Method of Estimating Concentrations and Related Phenomena from a Point Source Emission," Journal of Applied Meteorology, 5: 631-639, 1966.] dispersion coefficient
+
+* stem:[= 0.63x^{0.86}, \, x \, \ge \, 4.4 \, km]
+
+* stem:[= \, 589 \, m, \, x \, > \, 4.4 \, km]
+
+The results of the ground-level atmospheric tritium concentration estimates near Morris, {IL} are shown in *Figure 1*. These concentrations have been normalized to a stem:[1 \, Ci \, - \, year^{-1}] release. Regional normalized concentrations using the same conditions for *Eq. (1)* and *(2)* are shown in *Figure 2*.
+
+=== Estimated Average Surface Water Concentrations
+
+The average annual surface water tritium concentrations, stem:[chi_g], are determined from:
+
+.Equation 3
+[latexmath]
+++++
+\chi_{g} \; = \; Q \; \frac{1 \, -exp\, [- k_{eq} \, (x/u)]}{AW}
+++++
+
+where:
+
+* stem:[W] = average annual depth of the surface or groundwater mixing layer (stem:[m \, - \, year^{-1}])
+
+* stem:[A] = area of precipitation (stem:[m^2])
+
+Since this analysis is intended to provide conservative estimates of tritium concentrations that would show the maximum expected impacts for normal operations, the value of W was assumed to be determined from the mean annual net rainfall:
+
+.Equation 4
+[latexmath]
+++++
+\frac{AW}{year} \; = \; P \; - \; E
+++++
+
+where:
+
+* stem:[P] = amount of precipitation (stem:[m^3 \, - \, year^{-1}])
+
+* stem:[W] = amount of evaporation (stem:[m^3 \, - \, year^{-1}])
+
+*Equation (4)* shows that estimates of surface water concentrations of tritium are made by determining the amount of the source term that is depleted by washout. Thus, estimates of surface water concentrations were made for each concentric areal ring around a CTR located in Morris, {IL} from the relation:
+
+.Equation 5
+[latexmath]
+++++
+\chi_{g} |_{x=j-i} \; = \; Q \left[ (1-f_{x=j}) \; - \; (1 \; - \; f_{x=i}) \right]
+++++
+
+where:
+
+* stem:[f \, = \, exp\, [-k_{eq} ( \frac{x}{\bar u} )]
+
+* stem:[i] = radial distance to inner circumference of a concentric areal ring
+
+* stem:[j] = radial distance to outer circumference of a concentric areal ring
+
+This technique has the disadvantage of assuming that all precipitation systems are distributed equally around a CTR, along with the distribution of ^3^H~2~O.
+
+The result of the surface water tritium concentrations using an iteration of *Eq. (5)* and *(3)* are shown in *Table 1*. Again, normalized concentrations are provided, based on a normal release of stem:[1 \, Ci \, - \, year^{-1}]. *Figure 3* shows the variation of surface water from the source using the hydrologic conditions at Morris. The value of stem:[\sigma_{z}] during precipitation episodes were obtained from the LMFBR analysisfootnote:4[]. For Morris, the value of stem:[\sigma_{z}]stem:[ ^{'}] increases to distance of stem:[4.4 \, km], and is constant beyond that point.
+
+=== Estimated Latitudinal and Global Average Atmospheric and Surface Water Concentrations
+
+A technique was developed to analyze the estimated concentrations of tritium in the atmosphere and surface water supplies in the northern hemisphere based on a continuous normal operation of CTR plants distributed throughout the stem:[30° \, - \, 50°] latitude belt. The analytics is based on *Reference 8* with modifications to account for sources near ground level and for the transport of hydrologic components across latitude beltsfootnote:3[].
+
+*Table 2* summarizes model results of estimated atmospheric and surface water conditions.
+
+== Summary
+
+The information in *Figures 1* and *2* in *Tables 1* and *2* allow computations of the maximum allowable emissions (MAE) of a CTR based on the analysis procedure used here and the maximum permissible concentrations (MPC) that have been developed for ^3^H~2~O. For atmospheric tritium, the MPC is stem:[4 \, \times \, 10^{-6} \, Ci \, - \, m], and for tritium in the drinking water supply the MPC is stem:[1 \, \times \, 10^{-4} \, Ci \, -\, \ell^{-1}]. Thus a value for the maximum allowable emission for a CTR is the ratio of the MPC to the normalized atmospheric or surface water concentration estimate:
+
+.Equation 6
+[latexmath]
+++++
+MAE \; = \; \frac{MPC}{\chi_{a}/Q \; or \; \chi_{g}/Q}
+++++
+
+A summary of maximum allowable emissions based on atmospheric and surface water estimates is given in *Table 3*. It is evident from this table that atmospheric concentrations represent the limiting factors for a CTRE operation near the plant, while surface water concentrations represent the limiting factors at great distances from the plant. However, it is also evident tritium releases could be tolerated according to this analysis – quantities that far exceed the emission currently expected by a CTR technology.
+
+== Conclusions
+
+This analysis has shown that the normal operation of a commercial CTR in the vicinity of Morris, {IL} should have a small impact on the environment in terms of increased tritium concentrations in the air and surface water. This, of course,assumes that CTR operations do not emit quantities of tritium exceeding stem:[10^3 \, kg/year].
+
+Several topics requiring additional research have been identified during the completion of this analysis. More sophisticated modeling techniques for transport over several hundred km are required, particularly if complex terrain and land-sea contrasts are to be included. For example, some success has been obtained using numerical boundary layer models to estimate tritium concentrations in the vicinity of the {SRLab} footnote:5[C. D. Kern, "A Simple Model to Determine Mesoscale Transport of Airborne Pollutants," Proceedings on the Symposium on Atmospheric Diffusion and Air Pollution, Santa Barbara, California, September 9-13, 1974.]. The manner in which ^3^H2 enters the hydrologic cycle, and the similarities between ^3^H~2~O and H~2~O need further quantification. This becomes particularly important when examining the scavenging of ^3^H~2~O by precipitation and the subsequent return to the atmosphere via evapotranspiration. Research into the probabilities of large accidental releases during unfavorable meteorological episodes needs to be undertaken.
+
+NOTE: _*_ This paper summarizes studies conducted for the Division of Controlled Thermonuclear Research of ERDA under Contract No. E(45-1)-1830.

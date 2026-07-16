@@ -1,0 +1,20 @@
+[id="ref_tritium_atmosphere_ctr_figures_{ref-tritium-atmosphere-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Ground Level Air Concentration Values of Tritium for an Area Near Morris, {IL}
+
+[#img-tritium-ctr-1]
+[caption="Ground Level Air Concentration Values of Tritium for an Area Near Morris, {IL}", alt="{tritium-ctr-alt-1}"]
+image::{tritium-ctr-img-1}[Ground Level Air Concentration Values of Tritium for an Area Near Morris, {IL}]
+
+== Figure 2: Ground-Level Air Concentration Values of Tritium for the Eastern {US}
+
+[#img-tritium-ctr-2]
+[caption="Ground-Level Air Concentration Values of Tritium for the Eastern {US}", alt="{tritium-ctr-alt-2}"]
+image::{tritium-ctr-img-2}[Ground-Level Air Concentration Values of Tritium for the Eastern {US}]
+
+== Figure 3: Normalized Surface Water Concentration (g/Q) as a function of Distance (x)
+
+[#img-tritium-ctr-3]
+[caption="Normalized Surface Water Concentration (g/Q) as a function of Distance (x)", alt="{tritium-ctr-alt-3}"]
+image::{tritium-ctr-img-3}[Normalized Surface Water Concentration (g/Q) as a function of Distance (x)]
