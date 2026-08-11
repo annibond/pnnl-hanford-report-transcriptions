@@ -1,0 +1,20 @@
+[id="assembly_preparation_hourly_maps_precipitation_{assembly-prep-hourly-maps}"]
+include::../attributes.adoc[]
+
+== Preparation of Hourly Maps of Gridded Precipitation Data for Use in Precipitation Scavenging Calculations
+
+[.big]#{LLW} and {CEH}#
+
+_A method for producing hourly fields of gridded precipitation data from randomly spaced reporting stations is developed. The method is tested on 20 days of data from a network of 777 stations in the MAP3S study area in the northeastern {US}._
+
+include::../modules/con_preparation_hourly_maps_precipitation.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_preparation_hourly_maps_precipitation_references.adoc[leveloffset=+1]
+
+==== Figures
+
+include::../modules/ref_preparation_hourly_maps_precipitation_figures.adoc[leveloffset=+1]
