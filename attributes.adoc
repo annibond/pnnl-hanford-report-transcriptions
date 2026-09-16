@@ -124,6 +124,7 @@
 
 :ATGP: Aerosol and Trace Gases Program
 :AtmoEC: Atmospheric Environment Service
+:brookhaven: Brookhaven National Laboratories
 :EPA: Environmental Protection Agency
 :ESAT: Environmental Science and Technology
 :ilwater: Illinois State Water Survey
@@ -135,6 +136,7 @@
 :NCC: National Climatic Center
 :NOAA: National Oceanic and Atmospheric Administration
 :NWS: National Weather Service
+:reg-energy: Regional Energy Studies Program
 :SRLab: Savannah River Laboratory
 :WMO: World Meteorological Organization
 :WPL: Wave Propagation Laboratory
@@ -297,6 +299,7 @@
 :ICESA: International Conference on Environmental Sensing and Assessment
 :IEEET: IEEE Transactions on Nuclear Science
 :ISAP-12: 12th International Symposium on Atmospheric Pollution
+:noaa-memo-50: NOAA Technical Memorandum ERL ARL-50
 :PICDB: Procceedings of the International Colloquium on Drops and Bubbles
 :PISAPFE: Proceedings International Symposium on Acid Precipitation and the Forst Ecosystem
 :PRSA: Proceedings of Royal Society A
@@ -325,6 +328,7 @@
 :APWa: A. P. Waggoner
 :ASF: A. S. Frisch
 :ASu: A Sunderström
+:BBol: B. Bolin
 :BBR: B. B. Ross
 :BC: B. Cantrell
 :BCS: B. C. Scott
@@ -338,6 +342,7 @@
 :CLS: C. L. Simpson
 :CMH: C. M. Hyche
 :CMM: C. M. Moore
+:CPer: C. Persson
 :CTN: C. T. Nagamoto
 :CWK: C. W. Kreitzberg
 :CWT: C. W. Thomas
@@ -368,6 +373,7 @@
 :EAC: E. A. Crecelius
 :EEH: E. E. Hindman
 :EEH-2: E. E. Hindman II
+:EFD: Edwin F. Danielsen
 :EPH: E. P. Hardy
 :ELK: E. L. Kanabrock
 :ELP: E. L. Peck
@@ -478,6 +484,7 @@
 :OPG: O. P. Gifford
 :PDCo: P. D. Coyle
 :PEC: P. E. Coffey
+:PFP: Philip F. Palmedo
 :PGS: P. G. Slater
 :PLP: P. L. Phelps
 :PM: P. Makhon’ko
@@ -770,6 +777,10 @@
 :wind-profile-dust-img-1: {img-dir}/ref_wind_profiles_dust_storms_figure-1.png
 :wind-profile-dust-img-2: {img-dir}/ref_wind_profiles_dust_storms_figure-2.png
 
+:wind-shear-exam-image-1: {img-dir}/ref_exam_wind_shear_figure-1.png
+:wind-shear-exam-image-2: {img-dir}/ref_exam_wind_shear_figure-2.png
+:wind-shear-exam-image-3: {img-dir}/ref_exam_wind_shear_figure-3.png
+
 // Images Alt Text (Figures)
 
 :aerosols-da-vinci-balloon-flight-figures-alt-1: A graph that shows the concentrations of Aitken nuclei for sulfur dioxide measured during the da Vinci balloon flight. The x axis = time between 20:00 through the night to 09:00 with intervals of one hour. The time was taken in MST. There are two y axes. 1) The first y axis = altitude in 4.4 to 13.0 ft MSL with 1.0 ft MSL, with an exception for the first interval (4.4 - 5.0). That line represents inconsistently oscillating exponential increases, then exponential descreases with peaks at (23:00 MST, 13.0 ft MSL) and (~06:30 MST, ~12.5 ft MSL). Its lowest dip is at (~01:00 MST, 7.0 ft MSL). 2) The second y axis = diameter of Aitken nuclei between 200 and 1800 ϕ/cm^3 with 400 ϕ/cm^3 intervals. That data set also oscillates between exponential growth and decay with peaks at (~2:30 MST, > 1800 ϕ/cm^3), (04:30 < x < 05:00 MST, 1400 < y < 1800 ϕ/cm^3), and (~07:30, ~1400 ϕ/cm^3). Its lowest dip is at (05:00 < x < 06:00, 200 < y < 600 ϕ/cm^3.
@@ -1021,3 +1032,9 @@
 :wind-profile-dust-alt-1: Two graphs side by side showing, left to right, (1) Storm No. 917 on March 29, 1968 on (2) Storm No. 905 on December 17, 1961. Neither are tracking dust. The x axis = hourly average wind speed between (1) 0 and 35 miles per hour on the graph on the left and (2) 0 and 55 miles per hour on the right in intervals of 5 miles per hour.  For both graphs, y axis = height in intervals of (1) 1, (2) 3, (3) 7, (4) 10, (5) 50, (6) 100, (7) 200, (8) 300, (9) 400, and (10) 1000 feet. The graph on the left (1), five data sets shows vertical wind velocities of (1) 01, (2) 06, (3) 05, (4) 08, and (5) 10 meters over seconds . The graph on the right (2), seven data sets shown horizontally (1) 10, (2) 02, (3) 03, (4) 13, (5) 07, (6) 05, and (7) 06 meters over seconds. For all data sets, there is a sharp, positive correlation.
 
 :wind-profile-dust-alt-2: Two graphs side by side showing, left to right, (1) Storm No. 113 on March 29, 1968 on (2) Storm No. 89 on May 9, 1966. Both are tracking dust. The x axis = hourly average wind speed between (1) 0 and 50 miles per hour in intervals of 5 miles per hour and (2) 0 and 60 miles per hour in intervals of 5 miles per hour. For both graphs, y axis = height in intervals of (1) 1, (2) 3, (3) 7, (4) 10, (5) 50, (6) 100, (7) 200, (8) 300, (9) 400, and (10) 1000 feet. The graph on the left (1), seven data sets shown horizontally (1) 06, (2) 08, (3) 10, (4) 19, (5) 14, (6) 18, and (7) 13 feet. The graph on the right (2), seven data sets shown horizontally (1) 14, (2) 15, (3) 22, (4) 16, (5) 21, (6) 18, (7) 19, and (8) 20 feet. For all data sets, there is a sharp, positive correlation. The graph on the left (1), for y = 400, the (1) 15 and (2) 19 data sets cross over one another and the graph on the right (2), y = 400, the (1) 15 and (2) 22 miles per hour wind speed.On the left, the data set for the storm’s movement for data set (15) storm's movement was visible from 5 miles away, (14), data set (14) was 3 miles away, and (13) was 14 miles away. On the right, the data set for the storm's movement for data set (21) was 10 miles away, (21) was 6 miles away, (19) was 7 miles away, and (20) was 5 miles away.
+
+:wind-shear-exam-alt-1: Comparative trajectory maps showing plume transport under single-layer wind assumptions versus multi-layer models with vertical wind shear.
+
+:wind-shear-exam-alt-2: Layered wind vector maps comparing transport wind speed and direction in the 100-500m layer against the 500-1000m atmospheric layer.
+
+:wind-shear-exam-alt-3: Trajectory map demonstrating plume divergence where upper-layer and lower-layer puff components travel in vastly different directions.

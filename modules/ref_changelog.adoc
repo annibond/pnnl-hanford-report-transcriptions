@@ -5,6 +5,12 @@ include::../attributes.adoc[]
 
 === 2026
 
+==== 13 September 2026 - 19 September 2026, pp. 232-237
+
+* Added "Examination of the Wind Shear in Regional Scale Flow Layers Derived from Radiosonde Data"
+
+I realize I did not keep up with the changelog. I will slowly work on this. I got busy with a new job at Fastly, Inc.
+
 ==== 26 April 2026 - 2 May 2026, BNWL-2000, pp. 202-211
 
 * Added "Simultaneous Aerosol Size Distributions and Turbidity Measurements over a Metropolitan Area"

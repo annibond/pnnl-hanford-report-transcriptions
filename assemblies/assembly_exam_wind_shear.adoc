@@ -1,0 +1,21 @@
+[id="assembly_exam_wind_shear_{assembly-exam-wind-shear}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Examination of the Wind Shear in Regional Scale Flow Layers Derived from Radiosonde Data
+
+[.big]#{LLW} and {TDF}#
+
+_Recent regional scale atmospheric transport models have used average winds derived for layers near the earth's surface or standard pressure levels. Significant shear effects are evident when transport is calculated with stem:[100 \, m \, - \, 1000 \, m] layer averaged winds or with winds at the stem:[850 \, mb] level. Shear effects are also investigated within the stem:[100 \, m \, 1000 \, m] layer._
+
+include::../modules/con_exam_wind_shear.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_exam_wind_shear_references.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_exam_wind_shear_figures.adoc[leveloffset=+2]

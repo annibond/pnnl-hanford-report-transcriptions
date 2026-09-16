@@ -1,0 +1,10 @@
+[id="ref_exam_wind_shear_references_{ref-exam-wind-shear-references}"]
+include::../attributes.adoc[]
+
+1. {BBol} and {CPer}, "Regional Dispersion and Deposition of Atmospheric Pollutants with Particular Application to Sulfur Pollution over Western Europe," [.underline]#Tellus#, CVII, 3, pp. 281-310, 1975.
+
+2. {JLH} and {GJF}, "A Regional-Continental Scale Transport, Diffusion and Deposition Model, Part II: Diffusion-Deposition Models," {noaa-memo-50}, 1975.
+
+3. {brookhaven}, {reg-energy}, Annual Report, FY 1975, {PFP}, Editor.
+
+4. {EFD}, "Review of Trajectory Methods," [.underline]#{AG}#, vol. 18B, pp. 73-94, 1974.

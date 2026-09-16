@@ -1,0 +1,22 @@
+[id="ref_exam_wind_shear_figures_{ref-exam-wind-shear-figures}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Figure 1: Plume Positions Shown at 12-Hourly Intervals for a Release Starting at 00 GMT April 19, 1974 Computed with a) Layer Averaged Winds Between stem:[100 \, m] and stem:[1000 \, m] and b) Winds at the stem:[850 \, mb] Surface (Neg 7229603)
+
+[#img-wind-shear-exam-1]
+[caption="Plume Positions Shown at 12-Hourly Intervals for a Release", alt="{wind-shear-exam-alt-1}"]
+image::{wind-shear-exam-image-1}[Plume Positions Shown at 12-Hourly Intervals for a Release]
+
+== Figure 2: Wind Field Plots for Layer Averaged Winds in a) the stem:[100 \, m] - stem:[500 \, m] Layer and b) stem:[500 \, m] - stem:[1000 \, m] Layer
+
+[#img-wind-shear-exam-2]
+[caption="Wind Field Plots for Layer Averaged Winds", alt="{wind-shear-exam-alt-2}"]
+image::{wind-shear-exam-image-2}[Wind Field Plots for Layer Averaged Winds]
+
+== Figure 3: Plume Positions Shown at 12-hr Intervals for a Release Starting at 0000 MT April 10, 1974*
+[#img-wind-shear-exam-3]
+[caption="Plume Positions Shown at 12-hr Intervals", alt="{wind-shear-exam-alt-3}"]
+image::{wind-shear-exam-image-3}[Plume Positions Shown at 12-hr Intervals]
+
+NOTE: _*_ The full title of the figure is Plume Positions Shown at 12-hr Intervals for a Release Starting at 0000 GMT April 10, 1974. The solid plumes were generated with the stem:[100 \, - \, 500 \, m] layer winds. The dashed plumes were generated with the stem:[500 \, - \, 1000 \, m] winds.
