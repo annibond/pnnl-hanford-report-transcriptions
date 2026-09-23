@@ -10,7 +10,7 @@ image::{frequency_airborne_dust-img-1}[The Percent of Observation Stations That 
 == Figure 2: Monthly Regional Average Dust Frequencies from Seven Defined Dust Regions in the Contiguous United States (Neg 756686-15)
 
 [#img-frequency-airborne-dust-2]
-[caption="Monthly Regional Average Dust Frequencies", alt="{:frequency_airborne_dust-alt-2}"]
+[caption="Monthly Regional Average Dust Frequencies", alt="{frequency_airborne_dust-alt-2}"]
 image::{frequency_airborne_dust-img-2}[Monthly Regional Average Dust Frequencies]
 
 == Figure 3: Monthly Percentage Frequency of Dusty Hours from March Based on Hourly Observations from 343 Observation Weather Stations (Neg 756686-12)

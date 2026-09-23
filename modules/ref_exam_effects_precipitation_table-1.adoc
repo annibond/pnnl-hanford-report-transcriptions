@@ -1,0 +1,49 @@
+[id="ref_entrainment_convective_clouds_table-1_{ref-entrainment-tracers-table-1}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+.Rate of SO~2~ Released for 18 Days from a stem:[400 \, m] Effective Height (%)
+
+[cols="1,1,1,1,1,1,1,1"]
+
+|===
+
+^|*Precipitation Condition* ^|*Left in Air Over Grid SO~2~* ^|*Left in Air Over Grid SO~4~* ^|*Deposited on Surface of Grid SO~2~* ^|*Deposited on Surface of Grid SO~4~* ^|*Transported Beyond Grid SO~2~* ^|*Transported Beyond Grid SO~4* ^|*Total*
+
+|Dry
+>|2.7
+>|7.7
+>|33.6
+>|4.6
+>|10.7
+>|41.3
+>|100.0
+
+|18-Day Average
+>|1.4
+>|3.7
+>|62.3
+>|7.8
+>|4.1
+>|20.7
+>|100.0
+
+|Real Time
+>|2.0
+>|6.1
+>|50.0
+>|8.8
+>|5.1
+>|28.0
+>|100.00
+
+|Real Time - Average
+>|(+) 0.6
+>|(+) 2.4
+>|(-) 12.3
+>|(+) 1.0
+>|(+) 1.0
+>|(+) 7.3
+>|0.0
+
+|===

@@ -271,6 +271,7 @@
 :JGR: Journal of Geophysical Research
 :JM: Journal of Meteorology
 :JMSJa: Journal of the Meteorological Society of Japan
+:MetAt: Meteorology and Atomic Energy
 :NT: Nuclear Technology
 :NTIC: National Technical Information Center
 :NTIS: National Technical Information Service
@@ -332,6 +333,7 @@
 :BBR: B. B. Ross
 :BC: B. Cantrell
 :BCS: B. C. Scott
+:Bert: Bert Bolin
 :BS: B. Styra
 :BYHL: B. Y. H. Liu
 :CCT: C. C. Thomas, Jr.
@@ -356,6 +358,7 @@
 :DG: D. Gray
 :DGA: D. G. Atkinson
 :DGJ: D. G. Jacobs
+:DHSL: D. H. Slade
 :DJ: D. Jones
 :DJP: D. J. Perkey
 :DLE: D. L. Elliott
@@ -390,6 +393,7 @@
 :GAB: G. A. Briggs
 :GAS: G. A. Sehmel
 :GHC: G. H. Clark
+:GHJ: G. H. Jeffrey
 :GHR: G. R. Hilst
 :GIT: G. I. Taylor
 :GJF: G. J. Ferber
@@ -463,6 +467,7 @@
 :LVB: L. V. Bertseva
 :LWL: L. W. Larson
 :MAb: M. Abramowitz
+:MAW: M. A. Wolf
 :MCM: M. C. Miller
 :ME: M. Eichor
 :MES: M. E. Smith
@@ -521,6 +526,7 @@
 :SKF: S. K. Friedlander
 :SMB: S. M. Bruntz
 :SSB: S. S. Brar
+:TD: Terry Dana
 :TDF: T. D. Fox
 :TEG: T. E. Graedel
 :TFP: T. F. Parkinson
@@ -657,6 +663,8 @@
 :entrain-cloud-image-5: {img-dir}/ref_entrainment_convective_clouds_figure-5.png
 :entrain-cloud-image-6: {img-dir}/ref_entrainment_convective_clouds_figure-6.png
 
+:exam-effects-precipitation-img-1: {img-dir}/ref_examination_effects_so2_so4_removal_figure-1.png
+
 :experiment-particle-annual-img-1: {img-dir}/ref_experiment_particle_resuspension_annular_figure_1.png
 
 :field-sagebrush-img-1: {img-dir}/ref_field_deposition_velocity_sagebrush_figure-1.png
@@ -723,6 +731,10 @@
 
 :rate-limiting-gases-img-1: {img-dir}/ref_rate_limiting_aspects_of_the_dry_deposition_of_gases_figure-1.png
 :rate-limiting-gases-img-2: {img-dir}/ref_rate_limiting_aspects_of_the_dry_deposition_of_gases_figure-2.png
+
+:regional-scale-model-img-1: {img-dir}/ref_regional_so2_so4_deposition_figure-1.png
+:regional-scale-model-img-2: {img-dir}/ref_regional_so2_so4_deposition_figure-2.png
+:regional-scale-model-img-3: {img-dir}/ref_regional_so2_so4_deposition_figure-3.png
 
 :removal-downwind-st-louis-img-1: {img-dir}/ref_concentrations_rates_of_removal_downwind_st_louis_figure-1.png
 :removal-downwind-st-louis-img-2: {img-dir}/ref_concentrations_rates_of_removal_downwind_st_louis_figure-2.png
@@ -859,6 +871,8 @@
 
 :entrain-cloud-alt-6: A map that shows the intensity of a rain storm on July 19, 1975 east of St. Louis and the Mississippi River. This map focuses on the introduction of arsenic into the storm as a natural urban tracer.
 
+:exam-effects-precipitation-alt-1: Three maps that show the deposition of SO_4 in the northeastern United States. The top graph shows dry removal only, the middle graph shows wet and dry removal using average precipitation, and the bottom graph shows wet and dry removal using real-time precipitation. In all three cases, there is heavy SO_4 removal in the left side of the graph. In the bottom two graphs, there is also some removal towards the upper northeast corner of the United States, as well.
+
 :experiment-particle-annual-alt-1: A diagram that shows the plan for the field experiment on particle resuspension from a contaminated area. It focuses on the "tracer area". The diagram contains a map of the tracer area. In the center of this circle, he placed a sampling tower equipped with those impactor-cowl systems at various heights where (1) ▼ represents 0.5 to 2.5, (2) ○ represents 3 to 5, (3) □ represents 5 to 7, (4) △ represents 7 to 11, (5) ⬤ 11 to 15, and (6) ▲ represents 15 to 18 meters over seconds. The plane view shows a range 27.5 meters horizontally. It shows this data of tower sampler elevations of 0 through 9 meters.
 
 :field-sagebrush-alt-1: A diagram that shows how sensors and filters track a particle plume as it moves through a canopy. There are three distinct markers including: (1) the particle generation array with a wind force in both directions, (2) the upwind array with distances of 6.1 and 3.05 meters on each side of the mean with a wind force moving forward, and (3) the downwind array with filter distances of 9.14, 6.1, and 3.05 meters on both sides of the mean. The filter heights at each end of the downwind array are 0.3, 0.61, 0.91, 1.52, 3.05, and 6.1 meters. The filter height at the mean also includes 9.14, 15.2, and 21.3 meters. "Detail A nebulizer locations" is zoomed in to show the distances and markers more specifically.
@@ -956,6 +970,12 @@
 :rate-limiting-gases-alt-1: A line graph which demonstrates that the dry deposition velocity for gases is frequently dictated by other than atmospheric phenomena. It shows how different types of gases including but not limited to Iodine (I2) behave when they hit the surface. Multiple curves labeled β represent different gas solubilities. The plot is divided into regions: (1) highly soluble, (2) sparingly soluble, (3) surface-diffusion limited, and (4) reaction-volume limited. The x axis = the dimensionless reaction rate κ = kt with intervals of (1) 10-3, (2) 10-2, (3) 10-1, (4) 100, (5) 101, (6) 102, (7) 103, (8) 104, (9) 105, (10) 106, and (11) 107. The y axis = the dimensionless deposition velocity v⌄d* - v⌄d (Kπt)^½ with intervals of (1) 10-3, (2), 10=2, (3) 10-1, and (4) 100.
 
 :rate-limiting-gases-alt-2: A graph that shows the plot of Equation (5) with β^-½ on the low abscissa and the reaction rate as a parameter. It shows the practical application of the paper's theoretical models to see how they actually behave in the environment. The x axis = solubility/diffusivity parameter β^½ = H⌄o (square root of D/K) with intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 10^0, (5) 10^1, and (6) 10^2. A second x axis at the top = Henry’s law constant at 20 degrees Celsius (cm^3 GAS cm ^-3 for H2O) with intervals of (1) 10^-2, (2) 10^-1, (3) 10^0, (4) 10^1, (5) 10^2, and (6) 10^3. The y axis = dimensionless deposition velocity where v⌄d/3.77 cm sec^-1 with intervals of (1) 10^-3), (2) 10^-2, (3) 10^-1, (4) 10^0.
+
+:regional-scale-model-alt-1: Two graphs on top of each other that show the Langarian modeling of the northeastern United States on April 3, 1974 at 00:00 (midnight) and 12:00 (noon). At midnight, the movement of the air from emission sources is blowing in a northeasterly direction. At noon, the movement is stronger and covers a significantly larger part of the northeastern United States, still blowing in a northeasterly direction, but each gust covers a larger area. It also blows into the ocean off the coasts of Virginia, New Jersey, and Delaware.
+
+:regional-scale-model-alt-2: Two sets of three graphs each that show the Langarian modeling of the northeastern United States at 00:00 (midnight) and 12:00 (noon) on April 3, 1974 and 00:00 (midnight) on April 4, 1974. Each column represents a group of graphs. In column a) the model uses a dry deposition where the precipitation in the area is not considered. From top to bottom: 1a) At midnight on April 3, 1974, there was intermittent movement of air from emission sources blowing in the northeastern United States in a northeasterly direction including into the Atlantic Ocean off the coast of New Jersey. 2a) At noon on April 3, 1974, there was more concentrated movement towards the most northeastern part of the United States, at or above Pennsylvania, Indiana, and Illinois, with some movement into Canada and more than before blowing into the Atlantic Ocean from the same area around New Jersey. 3a) At midnight on April 4, 1974, the air is moving significantly further north, with extreme gusts up towards Canada and into the Atlantic Ocean, from the same positions in Pennsylvania, Indiana, Illinois, and New Jersey but with far less movement staying in those areas. In column b) the model uses wet deposition and removes the data that was gathered as a result of precipitation in order to eliminate scavenging particulates that was obtained from an uncontrolled, unintended part of the experiment. However, the data obtained from the wet deposition reflects similar patterns from the dry deposition data.
+
+:regional-scale-model-alt-3: Three graphs on top of each other that show the life cycle of sulfur in the atmosphere. In all graphs, the x axis = time between 0 and 120 hours with intervals of 10 hours. In all graphs, the y axis = the normalized mass between 0 and 1.0 cm sec^(-1) in intervals of 0.2 cm sec^(-1). From top to bottom: a) The “No Removal” graph shows the “no removal” graph, which is the control group scenario. Only two data sets are shown. The SO⌄2 already in the air is represented by a solid, bold line (---) and  begins at 1.0 cm sec^(-1) and decreases exponentially. At the ~70 hour mark, there is less than 0.2 cm sec^(-1) of SO⌄2 in the air. The SO⌄2 deposition is represented by a solid, unformatted line (---) and begins at 0.0 cm sec^(-1) and increases exponentially. At the ~70 hour mark, there is more than 0.8 cm sec^(-1) of SO⌄4 in the air. These two models mirror each other exactly. b) The “Dry Removal Only” graph shows when dry particulates are removed from the air. Four data sets are shown. The SO⌄2 already in the air is represented by a solid, bold line (---) and begins at 1.0 cm sec^(-1) and decreases exponentially and more quickly than the theoretical model. At the ~30 hour mark, there is less than 0.2 cm sec^(-1) of SO⌄2 in the air. The SO⌄4 already in the air is represented by a solid, unformatted line (---) and begins at 0 cm sec^(-1). It increases exponentially but significantly less than the theoretical model and then caps out at 0.4 < y < 0.6 cm sec^(-1) at ~20 hours. At that point, y does not change significantly. The SO⌄2 deposition is represented by a bold, dashed line (- - -) and begins at 0 cm sec^(-1). Like the SO⌄2 already in the air, it raises exponentially but then caps out at 0.2 < y < 0.4 cm sec^(-1) at the same ~20 hour mark. At that point, y does not change significantly. The SO⌄4 deposition is represented by a dashed, unformatted line (- - -) and begins at 0 cm sec^(-1). It increases in a linear pattern and hits 0 < y < 0.2 cm sec^(-1) at ~120 hours. c) The “Wet and Dry Removal” graph shows when both dry particulates and particulates from precipitation are removed from the air. Four data sets are shown. The SO⌄2 already in the air is represented by a solid, bold line (---) and begins at 1.0 cm sec^(-1) and decreases exponentially and more quickly than the theoretical model. At the ~10 hour mark, y ≅ 10 and slows down the reduction in SO⌄2. At 30 hours, there is no more SO⌄2 in the air. The SO⌄4 already in the air is represented by a solid, unformatted line (---) and begins at 1 cm sec^(-1). It increases exponentially but significantly less than the theoretical model and then caps out at ~20 cm sec^(-1) at ~10 hours. At that point, y does not change significantly. The SO⌄2 deposition is represented by a bold, dashed line (- - -) and begins at 0 cm sec^(-1). It raises exponentially like it did in b) and caps out at ~0.6 cm sec^(-1) at 10 < x < 20 hours. That that point, y does not change significantly. The SO⌄4 deposition is represented by a dashed, unformatted line (- - -) and begins at 0 cm sec^(-1). It increases in a linear pattern and hits ~0.2 cm sec^(-1) at 120 hours.
 
 :removal-downwind-st-louis-alt-1: An isoplething diagram that shows the atmospheric dispersion of trichlorofluoromethane (CCl⌄3F) in St. Louis. The concentration is centered at the source of the dispersion with a secondary plume at approximatly 60 miles away. The dispersion of CCl⌄3F is impacted mostly by the wind patterns in St. Louis that day.
 

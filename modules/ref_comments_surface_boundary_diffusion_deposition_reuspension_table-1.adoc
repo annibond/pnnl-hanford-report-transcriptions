@@ -38,3 +38,8 @@ include::../attributes.adoc[]
   stem:[\Omega \cong v_d / H] = deposition rate
 
 |===
+
+.Equation 37
+++++
+G_{i+1/2} \; = \; E_{i+1/2} \; - \; F_{i+1/2} \left[ \exp{ - \int_{o}^{s_{i+1/2}} \; F(\alpha)d /alpha}\; \int_{o}^{s_{i+1/2}}  H(\eta)d \eta \right]
+++++

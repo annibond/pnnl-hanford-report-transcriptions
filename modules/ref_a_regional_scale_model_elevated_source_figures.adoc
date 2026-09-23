@@ -1,0 +1,45 @@
+[id="ref_a_regional_scale_model_elevated_source_figures_{ref-regional-scale-elevated-source-figures}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Figure 1: Twelve-Hourly Plume Plots from Nine Sites with Continuous Releases Beginning at 1200 GMT April 2, 1974
+
+[#img-regional-scale-model-elevated-1]
+[caption="Twelve-Hourly Plume Plots from Nine Sites with Continuous Releases Beginning at 1200 GMT April 2, 1974", alt="{regional-scale-model-alt-1}"]
+image::{regional-scale-model-img-1}[Twelve-Hourly Plume Plots from Nine Sites with Continuous Releases Beginning at 1200 GMT April 2, 1974]
+
+The lines perpendicular to the centerlines indicate plume segments generated during 1 hr of release time.
+
+== Figure 2: Plume Positions Shown at 12 hr Intervals for a Release Starting at 1200 Z April 2, 1974
+
+[#img-regional-scale-model-elevated-2]
+[caption="Plume Positions Shown at 12 hr Intervals for a Release Starting at 1200 Z April 2, 1974", alt="{regional-scale-model-alt-2}"]
+image::{regional-scale-model-img-2}[Plume Positions Shown at 12 hr Intervals for a Release Starting at 1200 Z April 2, 1974]
+
+In the plots on the right (b) Wet - hourly precipitation is allowed to eliminate those portions of the plumes encountered. The numbers on the plots in b) are coded as follows:
+
+1. stem:[0.01 \, - \, 0.10 \, in.]
+2. stem:[0.11 \, - \, 0.20 \, in.]
+3. stem:[0.21 \, - \, 0.30 \, in.], etc.
+
+== Figure 3: The Fate of the Normalized Mass of SO2 in an Air Parcel (Neg 72203-3)
+
+[#img-regional-scale-model-elevated-3]
+[caption="The Fate of the Normalized Mass of SO2 in an Air Parcel", alt="{regional-scale-model-alt-3}"]
+image::{regional-scale-model-img-3}[The Fate of the Normalized Mass of SO2 in an Air Parcel]
+
+The Fate of the Normalized Mass of SO~2~ in an Air Parcel is depicted as a function of time for:
+
+a) No removal
+
+b) Dry removal only
+
+c) Wet and dry removal simultaneously
+
+The coefficients applied are as follows:
+
+* *SO~2~ → SO~4~ Transformation:* stem:[0.05 \, hr^{-1}]
+
+* *Dry Deposition Velocities:* stem:[1 \, cm \, sec^{-1}] for SO~2~ and stem:[0.1 \, cm \, sec^{-1}] for SO~4~
+
+* *Wet Removal Coefficients:* stem:[0.065 \, hr^{-1}] for SO~2~ and stem:[0.0065] for SO~4~

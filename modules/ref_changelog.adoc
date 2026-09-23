@@ -5,6 +5,12 @@ include::../attributes.adoc[]
 
 === 2026
 
+==== 20 September 2026 - 26 September 2026, pp. 218-229
+
+* Added "A Regional Scale Model for Computing Deposition and Ground Level Air Concentration of SO~2~ and SO~4~ from an Elevated Source"
+
+* Added "An Examination of the Effects of Real Time Versus Time-Averaged Precipitation Data on SO~2~ and SO~4~ Removal in the Regional Assessment Model"
+
 ==== 13 September 2026 - 19 September 2026, pp. 232-237
 
 * Added "Examination of the Wind Shear in Regional Scale Flow Layers Derived from Radiosonde Data"

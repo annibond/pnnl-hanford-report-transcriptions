@@ -1,0 +1,19 @@
+[id="assembly_a_regional_scale_model_elevated_source_{assembly-regional-scale-elevated-source}"]
+include::../attributes.adoc[]
+
+== A Regional Scale Model for Computing Deposition and Ground Level Air Concentration of SO2 and SO4 from an Elevated Source
+[.big]#{LLW}, {DCP} and {RLD}#
+
+_A computer model has been developed which utilizes time-changing gridded wind field data and gridded hourly precipitation data to compute average air concentrations and amounts of SO~2~ and sulfate deposited from a continuous elevated release of SO~2~. The model simulates atmospheric transport, chemical transformation, and removal by dry deposition and precipitation scavenging._
+
+include::../modules/con_a_regional_scale_model_elevated_source.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_a_regional_scale_model_elevated_source_references.adoc[leveloffset=+1]
+
+==== Figures
+
+include::../modules/ref_a_regional_scale_model_elevated_source_figures.adoc[leveloffset=+1]
