@@ -1,0 +1,39 @@
+[id="con_exam_wind_shear_{con-exam-wind-shear}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+One of the fundamental considerations in an assessment model is atmospheric transport. For regional-to large-scale considerations trajectory computations have been kinematic in nature based on measured wind datafootnote:1[B. Bolin and C. Persson, "Regional Dispersion and Deposition of Atmospheric Pollutants with Particular Application to Sulfur Pollution over Western Europe," Tellus XVII, 3, pp. 281-310, 1975.], footnote:2[J. L. Heffter and G. J. Ferber, "A Regional-Continental Scale Transport, Diffusion and Deposition Model, Part II: Diffusion-Deposition Models," NOAA Technical Memorandum ERL ARL-50, 1975.], footnote:3[Brookhaven National Laboratories, Regional Energy Studies Program, Annual Report, FY 1975, Philip F. Palmedo, Editor.]. The two main sources of wind data are the analyzed data at the standard pressure levels produced by NOAA's Numerical Meteorological Center (NMC) and the basic radiosonde data which are used to produce the analyzed fields. The NMC analyses have been used in areas where much of the computational area is over the ocean and observations are very sparsefootnote:1[]. The resolution of the data in these analyses is stem:[381 \, km] at stem:[60° \, N], and the first level of analyzed winds is stem:[850 \, mb] (about stem:[1500 \, m]). The radiosonde data have been used to compute layer average winds from about stem:[100 \, m - \, 1000 \, m] at the measurement of locationsfootnote:2[]. The layered average winds are used directly to compute the trajectoriesfootnote:2[],footnote:3[] or to produce gridded winds for trajectory calculations
+
+The wind shear which can occur in the lower layers of the atmosphere raises questions about transport accuracy as well as the diffusion simulation. The discrepancies which can arise when different trajectory methods are applied have been comprehensively reviewed by Danielsenfootnote:4[Edwin F. Danielsen, "Review of Trajectory Methods," Advances in Geophysics, vol. 18B, pp. 73-94, 1974.]. The trajectory methods used for long term assessments for practical reasons must compromise between sophistication and economy. This is the reason for the simple kinematic approach of most investigators. This report presents the results of a preliminary comparison of plume transport in different layers of the lower atmosphere.
+
+== Data
+
+The data used for this comparison were the gridded stem:[850 \, mb] winds of the NMC analyses and the layer average winds computed from radiosonde data. The layer averaged winds were interpolated to a grid with one half the NMC mesh size for the transport calculations.**
+
+=== Single Level Winds Versus Layer Averaged Winds
+
+The stem:[850 \, mb] winds represent the flow at about the stem:[1500 \, m] level and in general would be expected to exhibit different characteristics than winds close to the surface. In order to examine these differences in a way which is pertinent to atmospheric pollutant transport, a set of 12-hourly plume plots were generated from NMC stem:[850 \, mb] winds for comparison with a set of plots generated from stem:[100-1000 \, m] layer averaged winds for a release beginning 0000 GMT April 19, 1975. Both sets of plots are shown in *Figure 1*. As would be expected, the higher speeds at the stem:[850 \, mb] level are indicated by the longer plumes. The more regular character of the plumes carried by the stem:[850 \, mb] winds is probably a reflection of smoothing and filtering of the NMC analyses.
+
+The most striking feature of this comparison is the indication of strong directional shear at several of the release locations, particularly Chicago and St. Louis during the first 12 hr of the release. It may be seen in *Figure 1* that these two locations affect almost completely different geographical areas than the plumes carried by the layer averaged winds.
+
+=== Shear in Layer Averaged Winds
+
+To investigate the significance of the shear in the flow in the lowest stem:[1000 \, m] layer, averaged winds were determined for the layer stem:[100-500 \, m] and the layer stem:[500 \,m - \, 1000 \, m] at each sounding location. These winds were then gridded as shown in *Figure 2*. The main difference between wind fields for the two layers is that winds in the upper layer are stronger. There is some direction shear evident in {IL} at 1200 April 10, 1974. The grid spacing shown is about stem:[170 \, km] and is the same as that used in the plume transport calculations.
+
+The 12-hourly plume plots for the 48 hr release are shown in *Figure 3*. The advection of the points defining the plume centerlines was carried out in the two layers as if the plumes were originating in the separate layers above each release point. No interaction between layers was allowed.
+
+The effects of the speed and direction shear over a period of time are much easier to discern from the plume plots than from the wind field plots. During the first 12 hr of the release, beginning at 0000 GMT April 10, 1974, the resulting plumes in the two layers indicate direction shear in the western portion of the area, speed shear in the central portion and very little shear in the eastern portion. As time progresses the direction shear seems to propagate eastward. The synoptic weather maps for the period of consideration showed the computation area initially in the high pressure pattern between two frontal storms. Toward the end of the period the flow in the eastern portion of the area is reflecting the approach of the frontal storm from the west.
+
+The shear, for the case indicated in these two layers, appears to be enough for the St. Louis and Cincinnati sources to cause significant differences in the areas exposed at least for short term considerations. The deposition by precipitation scavenging could be quite different if real time precipitation data were used in the computations.
+
+== Discussion and Recommendations
+
+The main implications from these few comparisons are that shear in the lowest stem:[1500 \, m] of the atmosphere is a factor which can strongly influence the results of transport calculations. Selection of the transporting winds to be used should be carefully considered in terms of the application intended.
+
+Other topics that must be addressed when considering the shear problem are vertical transfer of the contaminant by bulk vertical motion or by a diffusive process; the effect of these processes on the horizontal spread of the contaminant for the two layers considered may be deduced by visualizing a plume which is some combination of the pairs shown in *Figure 3*. This points up the need for careful consideration of stability conditions and the energetics of the flow. To determine whether all this sophistication is necessary  for long term assessments will require sensitivity testing in the models under development as well as some statistical considerations.
+
+NOTE: *See "An Examination of the Effects of Real Time Versus Time Averaged Precipitation Data on SO~2~ and SO~4~ Removal in the Regional Assessment Model," by {LLW} and {DCP}, this volume.
+
+NOTE: **See "A Regional Scale Model for Computing Deposition and Ground Level Air Concentration of SO~2~ and SO~4~ from an Elevated Source," by {LLD}, {DCP} and {RLD}, this volume.

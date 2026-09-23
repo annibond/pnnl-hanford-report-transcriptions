@@ -1,0 +1,10 @@
+[id="ref_preparation_hourly_maps_precipitation_references_{ref-prep-hourly-maps-references}"]
+include::../attributes.adoc[]
+
+1. Commission on Natural Resources, "Air Quality and Stationary Source Emission Control," Prepared for the {commit}, U.S. Senate, {senres} 135, {super}, {usprint}, Series 94-4, 1975.
+
+2. {WGNS}, "Some Approximations for the Wet and Dry Removal of Particles and Gases from the Atmosphere,"" BNWL-SA-5489, submitted for publication in the [.underline]#{jawsp}#.
+
+3. {LLW}, "Mesoscale Wind Fields and Transport Estimates Determined from a Network of Wind Towers," [.underline]#{MWR}#, Vol. 100, No. 7, July 1972, pp. 565-578.
+
+4. {LWL} and {ELP}, “Accuracy of Precipitation Measurements for Hydrologic Modeling,” Water Resources Research, Vol. 10, No. 4, pp. 857-863, August 1974.

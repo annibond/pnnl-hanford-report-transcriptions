@@ -1,0 +1,16 @@
+[id="ref_a_regional_scale_model_elevated_source_references_{ref-regional-scale-elevated-source-references}"]
+include::../attributes.adoc[]
+
+1. Commission on Natural Resources, “Air Quality and Stationary Source Emission Control,” prepared for the {commit}, U.S. Senate, {senres} 135, Supt. of Documents, {usprint}, Series 94-4, 1975.
+
+2. {LLW} and {DCP}, "Regional Transport Dispersion and Removal of Atmospheric Pollutants," [.underline]#{PNLAR} for 1974 to the {USAEC-P3}#, BNWL-1950, PT 3, {bat}, {PNL}, {rich}, WA, February 1975.
+
+3. {LLW}, "Mesoscale Wind Fields and Transport Estimates Determined from a Network of Wind Towers," [.underline]#{MWR}#, Vol. 100, No. 7, July 1972, pp. 565-578.
+
+4. {DHSL}, Ed., [.underline]#{MetAt}#, U. S. {AEC}, {DTechInfo}, available as TID-24190 from the {NTIS}, U.S. Department of Commerce, {spring}, VA, 22151, p. 404, 1968.
+
+5. {Bert} and {CPer}, "Regional Dispersion and Deposition of Atmospheric Pollutants with Particular Applications to Sulfur Pollution Over Western Europe," [.underline]#Tellus# CVII, 3, pp. 281-310, 1975.
+
+6. {TWH}, "A Surface Depletion Model for Deposition from a Gaussian Plume,"" BNWL-SA-5096, presented at the [.underline]#{ASEPG} Symposium - 1974#, {rich}, WA, {AECS}, CONF-740921, September 4-6, 1974.
+
+7. {WGNS}, "Some Approximations for the Wet and Dry Removal of Particles and Gases from the Atmosphere," BNWL-SA-5489, submitted for publication in the [.underline]#{JAWSP}#.

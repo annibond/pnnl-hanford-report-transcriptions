@@ -1,0 +1,14 @@
+[id="ref_preparation_hourly_maps_precipitation_figures_{ref-prep-hourly-maps-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Distribution of Hourly Rainfall Measurement Stations over the Computational Period
+
+[#img-ref-prep-hourly-maps-1]
+[caption="Distribution of Hourly Rainfall Measurement Stations over the Computational Period", alt="{prep-hourly-maps-alt-1}"]
+image::{prep-hourly-maps-img-1}[Distribution of Hourly Rainfall Measurement Stations over the Computational Period]
+
+== Figure 2: Grid Network Used to Digitize Rainfall Data from the Randomly Spaced Stations
+
+[#img-ref-prep-hourly-maps-2]
+[caption="Grid Network Used to Digitize Rainfall Data from the Randomly Spaced Stations", alt="{prep-hourly-maps-alt-2}"]
+image::{prep-hourly-maps-img-2}[Grid Network Used to Digitize Rainfall Data from the Randomly Spaced Stations]

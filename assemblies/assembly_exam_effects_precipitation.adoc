@@ -1,0 +1,23 @@
+[id="assembly_exam_effects_precipitation_{assembly-exam-effects-precipitation}"]
+include::../attributes.adoc[]
+
+== An Examination of the Effects of Real Time Versus Time-Averaged Precipitation Data on SO~2~ and SO~4~ Removal in the Regional Assessment Model
+[.big]#{LLW} and {DCP}#
+
+_The regional scale diffusion model was exercised to produce deposition patterns of SO~2~ and sulfate for an 18-day period, using for one run the hourly precipitation as it occurred during the period, and for another run the average precipitation pattern for the same period. A comparison of the results indicated more total removal by the average precipitation pattern but significantly greater deposition in localized areas by the hourly precipitation._
+
+include::../modules/con_exam_effects_precipitation.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_exam_effects_precipitation_references.adoc[leveloffset=+2]
+
+==== Tables
+
+include::../modules/ref_exam_effects_precipitation_table-1.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_exam_effects_precipitation_figures.adoc[leveloffset=+2]

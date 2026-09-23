@@ -1,0 +1,31 @@
+[id="con_preparation_hourly_maps_precipitation_{con-prep-hourly-maps}"]
+:stem: latexmath
+include::../attributes.adoc[]
+
+It is generally accepted that precipitation is the principal route by which sulfates are returned to the earthfootnote:1[Commission on Natural Resources, "Air Quality and Stationary Source Emission Control," Prepared for the Committee on Public Works, U.S. Senate, Senate Resolution 135, Superintendent of Documents, U.S. Printing Office, Series 94-4, 1975.]
+
+Any analysis of the sulfur cycle, therefore, should contain information about the precipitation over the area of concern. A question has been raised about the importance of reconstructing the time changing fields of precipitation as opposed to using average climatological data i n assessment models which include precipitation scavenging as a removal process.*
+
+Precipitation scavenging of atmospheric contaminants involves many complex processesfootnote:2[W. G. N. Slinn, “Some Approximations for the Wet and Dry Removal of Particles and Gases from the Atmosphere,” BNWL-SA-5489, submitted for publication in the Journal of Air, Water and Soil Pollution.]. Precipitation rate measured at the ground at a specific location may not completely represent these processes, but it should provide a better first estimate of the wet removal, at any particular time, than the climatological average rate for that location.
+
+Hourly precipitation for stations throughout the {US} is available from the {NCC} at {ashe}, {NC}. The density of hourly precipitation-reporting stations is somewhat greater than for stations reporting standard meteorological information. The station density for the computational grid in the {NE}ern U.S. is shown in *Figure 1*. The few stations shown for the segment of Canada which is on the grid were obtained from the {AEC} in {downs}, {ont}.
+
+The hourly data at Ashville may be obtained by state in printed documents or on magnetic tape. The tapes contain long time series (20-25 years) data for each station. Sorting and merging to get simultaneous data for over 800 stations would be a major project in itself. To avoid this difficulty for a preliminary test, the data for April 1 through April 20, 1975 were extracted from the printed documents, punched on cards, edited, sorted by day and written to tape for future analysis.
+
+== Random-to-Grid Data Analysis
+
+The hourly data from the randomly spaced collection of stations shown in *Figure 1* were utilized to provide hourly precipitation rates in the grid squares shown in *Figure 2*. This will allow material to be removed from plumes and deposited in each grid square according to the amount of contaminant as well as the precipitation rate in the grid square.
+
+The basis for the interpolation technique was simply to compute the weighted average of the 3-5 stations closest to the center of each grid square. The weighting factor selected was the inverse square of the distance of the stations from the center of the grid squarefootnote:3[L. L. Wendell, "Mesoscale Wind Fields and Transport Estimates Determined from a Network of Wind Towers," Monthly Weather Review, Vol. 100, No. 7, July 1972, pp. 565-578.] The second power of inverted distance was considered appropriate because, for many of the grid squares, most of the stations in the interpolation for a given square lie outside the boundaries of the square. For this reason, some preference for the data at the closer stations was deemed appropriate, but higher powers of the inverted distance seemed to allow more preference than necessary to the closer stations especially in areas of high station density.
+
+A 60 x 40 matrix of gridded precipitation rates was produced for each hour of the 20-day test period and written to tape for use in assessment models.**
+
+== Discussions and Recommendations
+
+Hourly precipitation analyses were examined at 6-hr intervals throughout the 20-day sample. Highly localized patterns, which moved across the grid with the frontal storms, were observed. These patterns bore little resemblance to the broad relatively smooth pattern of the average rainfall over the grid during the period. The contrast is striking enough to overshadow differences which might be introduced through different interpolation weights or the catch deficiencies of raingaugesfootnote:4[L. W. Larson and E. L. Peck, "Accuracy of Precipitation Measurements for Hydrologic Modeling," Water Resources Research, Vol. 10, No. 4, pp. 857-863, August 1974.].
+
+No distinction was made between types of precipitation in this data set. The distinction between rain and snow would have to be made from available temperature data. The difference between rain from stratiform or convective clouds might be deduced from digitized radar data. Whether the scavenging is taking place in or below the clouds is also important to the amount of removal. These are refinements, however, which may be incorporated when validation experiments indicate that they are needed.
+
+NOTE: See * "An Examination of the Effects of Real Time Versus Time Averaged Precipitation Data on SO~2~ and SO~4~ Removal in the Regional Assessment Model," by {LLW} and {DCP}, this volume.
+
+NOTE: See ** "A Regional Scale Model for Computing Deposition and Ground Level Air Concentration of SO~2~ and SO~4~ from an Elevated Source," by {LLW}, {DCP}, and {RLD}, this volume.

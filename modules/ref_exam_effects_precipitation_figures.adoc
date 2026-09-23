@@ -1,0 +1,19 @@
+[id="ref_exam_effects_precipitation_figures_{con-exam-effects-precipitation-figures}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Figure 1: SO~4~ in Deposition in stem:[\mu g \, m^{-2}] (Neg 72203-4)
+
+[#img-so-4-removal-regional-us-1]
+[caption="SO4 in Deposition in μg m^(-2)", alt="{exam-effects-precipitation-alt-1}"]
+image::{exam-effects-precipitation-img-1}[SO4 in Deposition in μg m^(-2)]
+
+In order, the maps show:
+
+* Dry Removal Only
+
+* Wet and Dry Removal Using Average Precipitation
+
+* Wet and Dry Removal Using Real Time Precipitation
+
+NOTE: The full title of the diagram in the report is, “SO4 in Deposition in μg m-2 a) Dry removal only, b) Wet and dry removal using average precipitation, c) Wet and dry removal using real time precipitation.”

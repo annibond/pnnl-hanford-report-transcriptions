@@ -1,0 +1,65 @@
+[id="con_exam_effects_precipitation_{con-exam-effects-precipitation}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+Including the precipitation scavenging process for SO~2~ and SO~4~ into an assessment model has taken several forms. The simplest approach is to apply a wet removal rate that is constant both in time and over the area of interestfootnote:1[Bert Bolin and Christer Persson, "Regional Dispersion and Deposition of Atmospheric Pollutants with Particular Application to Sulfur Pollution Over Western Europe," Tellus XVII, 3, pp. 281-310, 1975.]. A more sophisticated approach has been to apply a washout coefficient which is proportional to the climatological rainfall ratefootnote:2[J. L. Heffter and G. J. Ferber, "A Regional-Continental Scale Transport, Diffusion and Deposition Model, Part II: Diffusion-Deposition Models," NOAA Technical Memorandum, ERL ARL-50, 1975]. In both of these approaches the removal by precipitation scavenging is a continuous process as if rain were falling, however lightly, over the entire area of concern for the whole period of the assessment. This assumption is obviously not realistic and would tend to remove more material than stronger, but intermittent rains, and do so in a more uniform manner.
+
+One could argue that from a statistical point of view that over a long enough period of time the differences in wet deposition due to the intermittency of real time precipitation would average out. This argument, however, assumes little or no correlation between the air flow and precipitation patterns. The cyclical nature of the frontal storms through latitudes indicates such a correlation is possible makes the problem worthy of closer examination.
+
+A sensitivity analysis was proposed utilizing the Regional Model for transport transformation and removal developed for SO~2~-sulfate assessment.* The simple transformation and removal parameterizations of the current model were not modified for this analysis. Complexities such as a relative humidityfootnote:3[F. B. Smith and G. H. Jeffrey, "Airborne Transport of Sulfur Dioxide from the U.K.," Atmospheric Environment, Vol. 9, pp. 643-659, Pergamon Press, 1975.] or SO~2~ coming out of solution in falling rain drops and reentering the airfootnote:4[M. Terry Dana, Jeremy M. Hales, and M. A. Wolf, "Rain Scavenging of SO2 and Sulfate from Power Plant Fumes," Journal of Geophysical Research, Vol. 80, No. 30, pp. 4119-4129, 1975.] are left for future analyses.
+
+== Definitions of Removal Modes Under Consideration
+
+The meteorological data used for this test included a set of 12 hourly gridded wind fields from 1200 GMT April 2, 1974 through 1200 GMT April 20, 1974. The gridded winds were obtained through a random to grid interpolation of radiosonde winds averaged through a layer from stem:[100 \, m] to stem:[1000 \, m]. Hourly precipitations data from 777 reporting stations were gridded from this same period for the precipitation scavenging calculations.
+
+Since our main concern for this test was the effect of real time versus average precipitation, the parameters were kept as simple as possible. A natural stability class was maintained for the diffusion calculations throughout the period. The growth of stem:[\sigma_{z}] was not limited by a varying mixing depth.
+
+The continuous release was prescribed to be from a single location just east of St. Louis, {MO} at a rate of stem:[100,000 \, tons/year^{-1}]. The effect release height was held at 400 m above the surface for the entire period.
+
+The rate constant for the transformation of SO~2~ to sulfate was set at stem:[0.05 hr^{-1}]. The dry removal deposition velocity was set at stem:[1 \, cm \, sec^{-1}] for SO~2~ and stem:[0.1 \, cm \, sec^{-1}] for SO~4~. The parameters for wet removal were specified as
+
+.Equation for SO~2~
+[latexmath]
+++++
+\Lambda_{2} \; = \; \frac{P}{2} \; hr^{-1}
+++++
+
+.Equation for SO~4~
+[latexmath]
+++++
+\Lambda_{4} \; = \; \frac{P}{20 \, hr^{-1}}
+++++
+
+where stem:[P] is the rainfall rate in stem:[mm \, hr^{-1}]. For the relatively light rainfall rate of stem:[0.1 \, mm \, hr^{-1}], stem:[\Lambda_{2} \, = \, 0.05 \, hr^{-1}], and stem:[\Lambda_{4} \, = \, 0.005 \, hr^{-1}]. For a moderate rain of stem:[5 \, mmm \, hr^{-1}].
+
+During the 18-day period of the test, six frontal storms passed through the area covered by computational grid with precipitation amounts varying from light (stem:[~2.5 \, mm \, hr^{-1}]) to heavy (stem:[~25 \, mm \, hr^{-1}]) and a high degree of variability. However, when the rainfall was averaged in each grid square for the entire period the resulting pattern was relatively uniform.
+
+== Test Results
+
+=== Total Budget
+
+To show the effects of real time versus average precipitation on the model results, the total SO~2~-sulfate budgets at the end of the 18-day test are presented for the modes of removal in *Table 1*. The fractions of the total SO2 released which remain in the air as SO~2~ and SO~4~ at the end of the period are presented only to show the complete budget. These fractions will decrease as the duration of the release increases.
+
+The quantities of interest are the amounts removed and the amounts escaping the computational grid. Note that amounts removed in the form of SO~2~ and SO~4~ reflect the larger removal parameters for SO2 released which remain in the air as SO~2~ and SO~4~ at the end of the period are presented only to show the complete budget. These fractions will decrease as the duration of the release increases.
+
+The quantities of interest are the amounts removed and the amounts escaping the computational grid. Note that amounts removed in the form of SO~2~ and SO~4~ reflect the larger removal parameters for SO2 than for SO~4~. The differences in removal rates also appear in the amounts which escape the grid; 4-5 times more of the original SO~2~ more SO~4~ than in the original form.
+
+In comparing the results for the three modes of removal we find some distinct differences. The case with no precipitation was included to serve as a reference when comparing the two modes of wet removal. However, this is only a guide because the results from dry removal cannot be directly extracted from the combined wet and dry removal, especially in the case of real time precipitation. It is apparent that using the 18-day average precipitation rate continuously in each grid square produces a significantly higher removal of SO~2~ than applying the precipitation rates as actually measured during the period. When both modes of wet removal period. When both modes of wet removal for SO~2~ are compared to the dry removal the increase affected by the real time precipitation is about 50% while that effected by the 18-day average precipitation is reflected in the fact that 35% more SO4 escaped the grid when real time precipitation was used. That more SO~2~ is available for transformation in the real time precipitation case is also evident from the higher removal of SO~4~ than for the average precipitation case.
+
+=== Spatial Distribution
+
+Maps were produced for the three modes of removal which displayed the spatial distribution of the average air concentrations for SO~2~ and SO~4~ as well as the deposited amounts of each. The major points from those maps (not shown here) are:
+
+* The highest 18-day average air concentrations for SO~2~ were on the order of the stem:[\mu g \, m^{-3}] within stem:[50 \, - \, 100 \, km] of the source, dropping off rapidly with distance. There was no significant difference in the spatial variability between the removal modes.
+
+* The highest 18-day average air concentrations for SO~4~ were on the order of stem:[0.3 \, \mu g \, m^{-3}] within stem:[50 \, - \, 200 \, km] of the source depending on the removal mode. The SO~4~ patterns contrasted sharply with the SO~2~ patterns in that the concentrations dropped off much more slowly with distance from the source and showed a greater variation in distribution with removal mode.
+
+* The patterns for the SO~2~ deposited over the 18-day period were similar to the patterns for the SO~2~ average air concentrations, with major amounts deposited within stem:[100 \, - \, 200 \, km] of the source. Deposited amounts near the source were on the order of stem:[10,000 \, \mu g \, m^{-2}] for the dry removal mode and stem:[30,000 \, \mu g \, m^{-2}] for the two modes including wet removal. Again the patterns for all three modes amounts dropping to less than stem:[100 \, \mu g \, m^{-2}] beyond a stem:[1000 \, km] radius from the source.
+
+The major conclusion with regard to the use of real time or average precipitation is that the most significant discrepancy appears in the spatial distribution of SO~4~ deposition. This discrepancy cannot be corrected by a simple change in magnitude of the washout coefficient. It is a discrepancy with which would be especially important in the area of control strategy for fuel combustion. Whether the spatial discrepancy in pattern would cancel out over a long term assessment run is still subject to determining a distinct correlation between flow and precipitation patterns. The case we have selected is typical of meteorological conditions in the spring. More cases should be examined during other seasons of the year and for longer periods of time.
+
+As we pointed out, the results obtained in this test depend on the parameterizations of the transformation and removal processes. Because of the wide range of the uncertainty of the results obtained by different investigators, it would be worthwhile to conduct further sensitivity analyzes with various combinations of parameters as well as perform validations with experimental data.
+
+NOTE: * See accompanying article, "A Regional Scale Model for Computing Deposition and Ground Level Air Concentration of SO~2~ and SO~4~ from an Elevated Source."

@@ -1,0 +1,10 @@
+[id="assembly_exam_effects_precipitation_{assembly-exam-effects-precipitation}"]
+include::../attributes.adoc[]
+
+1. {Bert} and {CPer}, "Regional Dispersion and Deposition of Atmospheric Pollutants with Particular Application to Sulfur Pollution Over Western Europe," [.underline]#Tellus# XVII, 3, pp. 281-310, 1975.
+
+2. {JLH} and {GJF}, "A Regional-Continental Scale Transport, Diffusion and Deposition Model, Part II: Diffusion-Deposition Models,"" NOAA Technical Memorandum, ERL ARL-50, 1975.
+
+3. {FBS} and {GHJ}, "Airborne Transport of Sulfur Dioxide from the U.K.," [.underline]#{AEV}#, Vol. 9, pp. 643-659, Pergamon Press, 1975.
+
+4. {TD}, {JMH}, and {MAW}, "Rain Scavenging of SO2 and Sulfate from Power Plant Fumes,"[.underline]#{JGR}#, Vol. 80, No. 30, pp. 4119-4129, 1975.
