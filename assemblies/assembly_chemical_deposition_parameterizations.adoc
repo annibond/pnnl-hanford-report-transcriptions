@@ -1,0 +1,13 @@
+[id="assembly_chemical_deposition_parameterizations_{assembly-chemical-deposition-parameterizations}"]
+include::../attributes.adoc[]
+
+== Chemical Deposition and Transformation Parameterizations for Regional Models
+[.big]#{RLD}#
+
+_This report discusses the deposition and transformation components of the regional scale model being developed by PNL for the MAP3S program. The processes of chemical transformation and removal by dry deposition and precipitation scavenging are based on the total mass of an advecting, pseudo-Gaussian puff and not on the vertical concentration profile of the pollutant. The results from this formulation are compared with the source, surface and base depletion models of Horstfootnote:1[T. W. Horst, "A  Surface Depletion Model for Deposition from a Gaussian Plume," Procedures of Atmospheric-Surface Exchange of Particulate and Gaseous Pollutants - 1974 Symposium, Richland, WA, Sept. 4-6, 1974, Conference 740921, AEC Symposium Series, 1974.]._
+
+include::../modules/con_chemical_deposition_parameterizations.adoc[leveloffset=+1]
+
+=== Appendices
+
+include::../modules/ref_chemical_deposition_parameterizations_references.adoc[leveloffset=+1]

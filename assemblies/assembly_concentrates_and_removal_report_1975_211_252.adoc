@@ -1,4 +1,4 @@
-[id="assembly_concentrates_and_removal_report_1975_211_252_{assembly-integration-models-atmospheric-processes}"]
+[id="assembly_concentrates_and_removal_report_1975_211-252_{assembly-integration-models-atmospheric-processes}"]
 
 == Integration of Models for Atmospheric Processes
 
@@ -20,3 +20,5 @@ include::../assemblies/assembly_tritium_atmosphere_ctr.adoc[leveloffset=+1]
 include::../assemblies/assembly_a_regional_scale_model_elevated_source.adoc[leveloffset=+1]
 include::../assemblies/assembly_exam_effects_precipitation.adoc[leveloffset=+1]
 include::../assemblies/assembly_preparation_hourly_maps_precipitation.adoc[leveloffset=+1]
+include::../assemblies/assembly_exam_wind_shear.adoc[leveloffset=+1]
+include::../assemblies/assembly_chemical_deposition_parameterizations.adoc[leveloffset=+1]

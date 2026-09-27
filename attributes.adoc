@@ -305,6 +305,7 @@
 :PISAPFE: Proceedings International Symposium on Acid Precipitation and the Forst Ecosystem
 :PRSA: Proceedings of Royal Society A
 :PRERDA: Proceedings ERDA Conference on Atmosphere-Surface Exchange on Particles and Gaseous Pollutants
+:Proc-Atmo-Exchange-74: Procedures of Atmospheric-Surface Exchange of Particulate and Gaseous Pollutants - 1974 Symposium
 :PSADAP: Proceedings of the Symposium on the Atmospheric Diffusion and Air Pollution
 :sesa: Subsynoptic Extratropical Weather Systems: Notes from a Colloquium
 :sesa-74: Subsynoptic Extratropical Weather Systems: Notes from a Colloquium - Summer 1974
@@ -319,6 +320,7 @@
 :ACC: A. C. Chamberlain
 :ADT: A. D. Taylor
 :AE: A. Einstein
+:AEli: A. Eliassen
 :AEr: A. Erdélyi
 :AHM: A. H. Marcus
 :AJA: A. J. Alkezweeny
@@ -438,6 +440,7 @@
 :JRK: J. R. Kline
 :JRV: J. R. Vogt
 :JRY: J. R. Young
+:JSalt: J. Saltbones
 :JSSm: J. S. Smagorinsky
 :JVM: J. Van Mieghen
 :JVR: J. V. Ramsdell
