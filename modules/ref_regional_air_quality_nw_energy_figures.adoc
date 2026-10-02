@@ -1,0 +1,19 @@
+[id="ref_regional_air_quality_nw_energy_references_{ref-regional-air-quality-nw-energy-figures}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Figure 1: {PNW} Meteorological Stations Utilized in the Interpolated Wind Fields
+
+[#img-regional-air-quality-nw-energy-1]
+[caption="Pacific Northwest Meteorological Stations Utilized in the Interpolated Wind Fields", alt="{pnw-regional-air-quality-alt-1}"]
+image::{pnw-regional-air-quality-img-1}[Pacific Northwest Meteorological Stations Utilized in the Interpolated Wind Fields]
+
+Additional stations off the grid used for interpolating winds near the grid boundaries.
+
+== Figure 2: Plume Trajectories for Six Existing and Proposed Coal-Fired Power Plants
+
+[#img-regional-air-quality-nw-energy-2]
+[caption="Plume Trajectories for Six Existing and Proposed Coal-Fired Power Plants", alt="{pnw-regional-air-quality-alt-2}"]
+image::{pnw-regional-air-quality-img-2}[Plume Trajectories for Six Existing and Proposed Coal-Fired Power Plants]
+
+Trajectory calculations begin at 0000 GMT on April 2, 1974.

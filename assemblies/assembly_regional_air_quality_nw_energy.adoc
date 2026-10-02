@@ -1,0 +1,24 @@
+[id="assembly_regional_air_quality_nw_energy_{assembly-regional-air-quality-nw-energy}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Regional Air Quality Assessment for Norwest Energy Development Scenarios
+[.big]#{DSR} and {DLE}#
+
+_Using a regional scale transport and dispersion model, work has begun on an assessment of the impacts on air quality in the Northwest from alternative energy development scenarios. Dry deposition, precipitation scavenging, and chemical transformation are incorporated into the model. A preliminary investigation of regional transport, based on winds averaged through the stem:[100 \, m \, - \, 1000 \, m] layer, has been made for several coal-fired power plants._
+
+include::../modules/con_regional_air_quality_nw_energy.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_regional_air_quality_nw_energy_references.adoc[leveloffset=+2]
+
+==== Tables
+
+include::../modules/ref_regional_air_quality_nw_energy_table-1.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_regional_air_quality_nw_energy_figures.adoc[leveloffset=+2]

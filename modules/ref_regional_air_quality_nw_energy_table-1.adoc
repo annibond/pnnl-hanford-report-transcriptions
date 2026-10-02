@@ -1,0 +1,36 @@
+[id="ref_regional_air_quality_nw_energy__table-1_{ref-regional-air-quality-nw-energy-table-1}"]
+include::../attributes.adoc[]
+
+.Coal-Fired Power Plants for which Plume Trajectories Were Computed
+
+[cols="1,1,1"]
+
+|===
+
+^|*Name* ^|*Location* ^|*Megawatts*
+
+^|Centralia
+^|SW {WA}
+>|1400 Existing
+
+^|Boardman
+^|NE {OR}
+>|500+ Proposed
+
+^|Pioneer
+^|SW {ID}
+>|1000 Proposed
+
+^|Jim Bridger
+^|SW {WY}
+>|2000 Existing
+
+^|Wheatland
+^|SE {WY}
+>|1500 Proposed
+
+^|Colstrip
+^|SE {MT}
+>|2060 Proposed
+
+|===

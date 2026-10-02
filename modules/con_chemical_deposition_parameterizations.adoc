@@ -1,0 +1,369 @@
+[id="con_chemical_deposition_parameterizations_{con-chemical-deposition-parameterizations}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+The overall description of a regional scale model for computing deposition and ground level air concentrations of SO2 and SO4 from elevated sources is given in Wendell et al.footnote:2[L. L. Wendell, D. C. Powell, and R. L. Drake, "A Regional Scale Model for Computing Deposition and Ground Level Air Concentrations of SO~2~ and SO~4~ from an Elevated Source," Pacific Northwest Laboratories Annual Report for 1975 to the USERDA Division of Biomedical and Environmental Research, Part 3, Atmospheric Sciences, BNWL-2000, PT 3, Battelle-Northwest, Richland, WA, 1976.]. This regional model will be an integral part of the MAP3S program, currently being planned and implemented by the national laboratories. The present report only concerns the parameterizations of the chemical transformations and removal processes in the regional model.
+
+The current parameterizations are based on the total mass of an advecting, pseudo-Gaussian puff and not on the more realistic concept of the vertical distribution of the pollutant. The application of this “integrated approach” may cause inaccurate transformation and deposition rates. For example, the dry deposition rate of both SO~2~ and SO~4~ may be too large since the usual deposition mechanism is based on the concentration of the pollutants at a level close to the ground (stem:[Z \, = \, Z_d]) and not on the total column. For this reason, we compare the current formulations for dry surface depletion model of Horstfootnote:1[] ,footnote:3[T. W. Horst, Private Communication, 1975.]. Hence, the outline of this report is: 1) the description of the time-evolution of the total mass of a puff of pollutant (SO~2~ plus SO~4~) undergoing a transformation process (SO~2~ → SO~4~) and experiencing losses due to dry deposition and precipitation scavenging; 2) description of Horst’s source, surface and base depletion models; 3) a comparison between the total mass and Horst models; and 4) proposed corrections to the total mass model.
+
+== The Total Mass Model
+
+In the total mass model we assume that a puff of pollutant is being advected along a path (of a length (stem:[s]) under the influence of the mean wind stem:[U(t)]footnote:4[A. Eliassen and J. Saltbones, "Decay and Transformation Rates of SO2, as Estimated from the Emission Data, Trajectories and Measured Air Concentrations," Atmospheric Environment, 9, 425-429, 1975.] The total mass of SO~2~ in the advecting puff is given by stem:[M \, = \, M(s,h)] and the mass of SO~4~ is stem:[N \, = \, N(s,h)]. If we assume that the source location is defined by stem:[(s,t) \, = \, (o,o)], then the relationship between stem:[t] and stem:[s] is given by
+
+.Equation 1
+[latexmath]
+++++
+s \; = \; s(t) = \; \int_o^{t} \; U(\tau) \, d \tau
+++++
+
+As the puff is advected along, it is under the influence of a transformation from SO~2~ to SO~4~ and removal of SO~2~ and SO~4~ by dry deposition and precipitation scavenging. The dry deposition rates for SO~2~ and SO~4~ are by stem:[\alpha_{1} \, = \, \alpha_{1}(t)] and stem:[\alpha_{2} \, = \, \alpha_{2}(t)], respectively; similarly, the scavenging rates are stem:[\beta_{1} \, = \, \beta_{1}(t)] and stem:[\beta_{2} \, = \, \beta_{2}(t)]; and the transformation rate is given by stem:[\gamma_{12} \, = \, \gamma{12}(t)]. Hence, the defining equations for the advecting pollutants are given by
+
+.Equation 2
+[latexmath]
+++++
+\frac{dM}{dt} \; = \; - \left[ \alpha_1 \; \beta_1 \; + \gamma_{12} \right] M
+++++
+
+.Equation 3
+[latexmath]
+++++
+\frac{dN}{dt} \; = \; - \left[ \alpha_2 \; \beta_2 \right] \; + \; \frac{3}{2}_{\gamma_{{12}}} \; M
+++++
+
+The stem:[3/2] in *Equation (3)* accounts for the differences in molecular weights between SO~2~ and SO~4~.
+
+Given the initial values
+
+.Equation 4
+[latexmath]
+++++
+M_* = M \left[ s_{*},h \right] \; = \; N \left[ s(t_{*}),h \right]
+++++
+
+[latexmath]
+++++
+N_* = N \left[ s_{*},h \right] \; = \; N \left[ s(t_{*}),h \right]
+++++
+
+we can easily solve *Equations (2)* and *(3)*. The results are 
+
+.Equation 5
+[latexmath]
+++++
+M =\; M_{*}A(t)
+++++
+
+.Equation 6
+[latexmath]
+++++
+N \; = \; \left[ N_* \; + \frac{3}{2} \; M_* \; \int_{t_{*}}^{t} \frac{\gamma_{12} (\tau) A (\tau)}{B (\tau)} \, d \tau \right] \; B(t)
+++++
+
+where 
+
+.Equation 7
+[latexmath]
+++++
+A(t) \; = \; \exp \left[ - \int_{t_*}^{t} \;  \left\{ \alpha_1(\eta) + \beta_1(\eta) \; + \;  \gamma_{12}(\eta) \; \right\} \; d \eta \right]
+++++
+
+.Equation 8
+[latexmath]
+++++
+B(t) \; = \; exp \left[ - \int_{t_*}^{t} \; \left\{ \alpha_2 (\eta) \; + \; \beta_2(\eta)\right\} \; d \eta \right]
+++++
+
+In order to determine the total mass budget from stem:[s_{*}] to stem:[s], we introduce the following notation: let the total dry deposition of SO~2~ and SO~4~ be denoted by stem:D_{1}] and stem:[D_{2}], respectively; denote the material scavenged by precipitation as stem:[W_{1}] and stem:[W_{2}]; denote the amount of SO~2~ transferred to SO~4~ as stem:[T_{1}]; and denote the amount of SO~4~ formed as stem:[T_{2}]. Thus, given the quantities of stem:[N] and stem:[M] in *Equations 5* and *6*, we can determine the following: 
+
+.Equation 9
+[latexmath]
+++++
+D_1 \; = \int_{t_{*}}^{t} \; \alpha_1 (\eta) \, Md \eta 
+++++
+
+[latexmath]
+++++
+D_2 \; = \int_{t_{*}}^{t} \; \alpha_2 (\eta) \, Nd \eta
+++++
+
+.Equation 10
+[latexmath]
+++++
+W_1 \; = \; \int_{t_{*}}^{t} \; \beta_1 (\eta) \, Md (\eta)
+++++
+
+[latexmath]
+++++
+W_2 \; = \; \int_{t_{*}}^{t} \; \beta_2 (\eta) \, Nd (\eta)
+++++
+
+.Equation 11
+[latexmath]
+++++
+T_1 \; = \; \int_{t_{*}}^{t} \; \gamma_{12} \; Md (\eta)
+++++
+
+[latexmath]
+++++
+T_2 \; = \; - \, \frac{3}{2} \, T_1
+++++
+
+where 
+
+.Equation 12a
+[latexmath]
+++++
+D_1 \; + \; W_1 \; + T_1 = \; M_* - M
+++++
+
+.Equation 12b
+[latexmath]
+++++
+D_2 \; + \; W_2 \; + T_2 = \; N_* - N
+++++
+
+In the MAP3S, regional model, the time interval stem:[(t \, - \, t_{*})] is taken sufficiently small, usually 1 hr, so that the parameters stem:[\alpha_{1}], stem:[\alpha_{2}], stem:[\beta_{1}], stem:[\beta_{2}] and stem:[\gamma_{12}] can be replaced by constants. That is, the time-dependent parameters are assumed to be piecewise constant functions of stem:[t], where the stem in the functions occur at every hour. The parameters of stem:[\alpha_{i}] and stem:[\beta_{i}], stem:[i =, 1,2], are given in terms of other physical parameters, namely, 
+
+.Equation 13
+[latexmath]
+++++
+\alpha_i \; = \; \sqrt{\frac{2}{\pi}} \; \frac{V_{di}}{\tau_{z}^{(s)}} \; \exp \; \left[ \; - \frac{1}{2} \bigg( \frac{h}{\sigma_{z}^{(s)}} \bigg)^{(2)} \right]
+++++
+
+.Equation 14
+[latexmath]
+++++
+\beta_i \; = \; \frac{\lambda (t)E_{i}}{d}
+++++
+
+where stem:[V_{di} is the deposition velocity (in stem:[m/hr], stem:[\sigma_{z}(s)] the vertical dispersion coefficient (in stem:[m]), stem:[\lambda(t)] the rainfall rate (in stem:[m/hr]), and stem:[E_{i}] is the collection efficiency, and stem:[d] is a mean raindrop diameter (in stem:[m]). Representative values of some of these parameters are stem:[E_{1} \, = \, 1], stem:[E_{2} \, = \, 1/10], stem:[V_{d1} \, = \, 36 \, m/hr], stem:[V_{d2} \, = \, 4 m/hr], and stem:[\gamma_{12} \, = \, 0.05 \, hr^{-1}]; and the value for stem:[d] lies in the interval from stem:[0.002 \, m] to stem:[0.004 \, m\]. In addition, the rainfall rates are obtained from meteorological records and the stem:[\sigma_{z}(s)]'s are obtained from standard-type formulas for the various Pasquill stability classes.
+
+== The Horst Models
+
+The Horst models are concerned with a single specie (say SO~2~) puff evolving in time under the influences of the mean wind stem:[U(t)], the turbulent diffusion and dry deposition. In all of these models a central role is played by a diffusion function defined by
+
+.Equation 15
+[latexmath]
+++++
+D(s,z,h) \; = \; \frac{{\exp{ \left[ -\frac{1}{2} \bigg( \frac{z-h}{\sigma_{z}^{(s)}} \bigg)^{2} \right]}} + {\exp{ \left[ -\frac{1}{2} \bigg( \frac{z+h}{\sigma_{z}(s)} \bigg)^{2} \right]}}}{\sqrt{2\pi} \; \sigma_{z}(s)}
+++++
+
+This function can be interpreted in the following way: stem:[Q_{o} \, D(s,z,h), \,; Q_{o} \; = \; constant] is the integrated concentration of SO~2~ in an advecting puff, integrated with respect to the horizontal plane. The total mass of the puff from stem:[Q_{o}] and the puff was released from an elevated source of effect height stem:[h] at any time stem:t=0] (or stem:[s \; = \; 0]. The boundary  stem:[Z \; = \; 0] is a reflective boundary and thus, no deposition is consistent with the above statements:
+
+.Equation 16
+[latexmath]
+++++
+\int_{o}^{\infty} \; D(s,Z,h) \, dZ \; = \; 1
+++++
+
+The usual expression for the deposition flux of a gas or particles to the surface, Z=0, is given by
+
+.Equation 17
+[latexmath]
+++++
+F_d \; = \; V_dC(s,Z_{d},h)
+++++
+
+where stem:[C(s,Z_{d},h)is the integrated concentration of the puff of the pollutant evaluated at a level close to the surface, stem:[Z \; stem:[Z \; = \; Z_{d}].
+
+Using this relationship, we can express the total mass of the advecting puff of SO2 as follows:
+
+.Equation 18
+[latexmath]
+++++
+M(s,h) \; = \; Q_o \; - \; \int_o^{s} \; \frac{V_{d1}}{U} \; c \, (\epsilon ,Z_d,h) \, d \epsilon
+++++
+
+where the original mass of the puff was stem:[Q_{o}]. The Horst models are concerned with the approximation or evaluation of the quantity stem:[C(\epsilon,z_{d},h)] in *Equation 18*.
+
+The most elementary model is the [.underline]#source depletion model#. This model approximates the integrand in *(18)* by
+
+.Equation 19
+[latexmath]
+++++
+C(\epsilon ,Z_d,h) \; = \; M(\epsilon,h) \, D \, (\epsilon ,Z_d,h)
+++++
+
+Substituting *(19)* into *(18)* and then differentiating with respect to s, results in the following approximation for stem:[M(s,h)]:
+
+.Equation 20
+[latexmath]
+++++
+M(s,h) \; = \; Q_o \; \exp{\left[ - \int_{o}^{a} \; D(\epsilon) d (\epsilon) \right]}
+++++
+
+where
+
+.Equation 21
+[latexmath]
+++++
+E(\epsilon) \; = \; \frac{V_{d1}}{U} \, D \, (\epsilon ,Z_{d},h)
+++++
+
+The most physically realistic model is the surface depletion model. In this case, the integrand in *(18)* is obtained from the following integral equation:
+
+.Equation 22
+[latexmath]
+++++
+C \, (s,Z_{d},h) \; = \; Q_oD \, (s,Z_{d},h) \; - \, \int_{o}^{s} \, \frac{V_{d1}}{U} \, C \, (\epsilon ,Z_{d}.h) \, D \, (s \, - \, \epsilon ,Z_{d},z{d}) \, d \epsilon
+++++
+
+*Equation (22)* is solved by the Laplace transforms and the solution is substituted into *(18)*. This model approximates the integrand in *(18)* by giving the following:
+
+.Equation 23
+[latexmath]
+++++
+M(s,h) = Q_0 \left[ 1 - \int_{0}^{s} \left\{ E(\xi) + \sum_{n=1}^{\infty} (-1)^n E(\xi) * \prod_{\ell=1}^{n} F^{\ell}(\xi) \right\} d\xi \right]
+++++
+
+where stem:[*] is the convolution operator and
+
+.Equation 24
+[latexmath]
+++++
+F(\xi) = \frac{V_{d1}}{\bar{U}} D(\xi, Z_d, Z_d)
+
+\prod_{\ell=1}^{n} F^{\ell}(\xi) = F * F * \dots * F
+++++
+
+Horst describes the physical significance of these two modelsfootnote:2[] . Since the surface depletion model takes into account the concentration of SO~2~ at stem:[Z \; = \; Z_{d}], it is superior to the source depletion model. However, the computation effort involved in evaluating the multiple convolution integrals in *(23)* in the regional MAP3S modeling program. In fact, if the "strict" surface depletion model is going to be applied, the integral equation in *(22)* should be used in place of *(23)*.
+
+Horst’s third model, called the [.underline]#base depletion model#, falls somewhere between the surface source model. It is obtained by replacing the (stem:[s \; - \; \epsilon]) argument in the integral in *(22)* by just the argument (stem:[s]). This eliminates the "convolution" character of *Equation (22)* and allows us to write stem:[M(s,h] as
+
+.Equation 25
+[latexmath]
+++++
+M(s,h) = Q_0 \left[ 1 - \int_{0}^{s} \left\{ E(\xi) - F(\xi) \int_{0}^{\xi} E(\eta) \exp \left[ - \int_{\eta}^{\xi} F(\alpha) \, d\alpha \right] d\eta \right\} d\xi \right]
+++++
+
+Comparing *Equation (25)* with *Equations (20)* and *(23)* shows that the [.underline]#base model# is somewhat more complex than the [.underline]#source# model, and considerably simpler than the [.underline]#surface# model with reference to numerical computation.
+
+== Total Mass Model versus the Horst Models
+
+For comparative purposes, let stem:[\beta_{1} \; = \; \gamma_{12} \; = \; t_{*} \; = \; 0] and stem:[M_{*} \; = \; Q_{o}] in *Equations (5)* and *(7)*; hence, the total mass model becomes
+
+.Equation 26
+[latexmath]
+++++
+M(s,h) = Q_0 \left[ \exp - \int_{0}^{s} \frac{1}{u} \alpha_1 (\xi / U) \, d\xi \right]
+++++
+
+Comparing *Equation (26)* with *Equation (20)* we see that the total mass model is identical to the source model if
+
+.Equation 27
+[latexmath]
+++++
+\alpha_{1} (\epsilon /U) \; = \; V_{d1} D(\epsilon,Z_{d},h)
+++++
+
+*Equation (27)* is identical to *(13)* if stem:[Z_{d} \; = \; 0] and stem:[i \; = \; 1]. Since stem:[Z_{d} \; \cong \; 1 \; m] and stem:[Z_{d} \; \le \le \sigma_{z}], then it is reasonable to replace *(27)* by *(13)*.
+
+Looking at *Equations (23)*, *(25)* and *(20)*, or *(26)*, we see that all three of the Horst models have the same "leading terms" in a series expansion, namely
+
+.Equation 28
+[latexmath]
+++++
+M(s,h) \; = \; Q_{o} \left[ 1 \; - \; \int_{o}^{s} \; E(\epsilon) d \epsilon \, + \, . . . \right]
+++++
+
+However, beyond the first two terms, the comparison of the three "series" becomes difficult. Horstfootnote:2[] compares the source model with the surface model for a pseudo-Gaussian [.underline]#plume# under various values of stem:[h] and stem:[V_{d1}/u]. Rather than repeating Horst's computations for the [.underline]#puff#, we will compare the three formulas for certain simplifying assumptions.
+
+In *Equations (20)*, *(23)* and *(25)*, let stem:[Z_{d} \; = \; 0], stem:[U \; = \; constant], and stem:[\sigma Z \; = \; constant]. Thus, *Equation (20)* reduces to
+
+.Equation 29
+[latexmath]
+++++
+M(s,h) \; = \; Q_{o} \; \exp{ \left[ -Es \right] }
+++++
+
+and *Equations (23)* and *(25)* reduce to 
+
+.Equation 30
+[latexmath]
+++++
+M(sh) \; = \; Q_{o} \; \left[ 1 \; - \; \frac{E}{F} \; + \; \frac{E}{F} \exp{-Fs } \right]
+++++
+
+where
+
+.Equation 31
+[latexmath]
+++++
+E \; = \; F \; \exp{ \left[ - \frac{1}{2} \bigg( \frac{h}{\sigma_{z}} \bigg)^{2} \right] }
+++++
+
+.Equation 32
+[latexmath]
+++++
+F \; \sqrt{\frac{2}{\pi}} \; \frac{V_{d1}}{U \sigma_{z}}
+++++
+
+Looking at *(30)*, we note that  the base and surface models give identical results. This is expected since the approximation used to get *(25)* is trivially true when stem:[D(s,Z,h)] is a constant function of stem:[s]. When stem:[h \; = \; 0], all three models give the same result, namely
+
+.Equation 33
+[latexmath]
+++++
+M(s,o) \; = \; Q_{o} \; \exp{[-Fs]}
+++++
+
+If stem:[Z_{d} \; = \; 0] and stem:[h \; = \; 0], then stem:[E(\epsilon) \; = \; F(\epsilon)] and *(25)* reduces to *(20)*. That is the reason that Horst calls *(25)* the base depletion model since it is equivalent to the source model for stem:[h \; = \; 0]. That is, the material is "depleted from the base of the stack." The base model is equal to the surface model for constant stem:[\sigma_{Z}] and stem:[U], and is equal to the source model for stem:[h \; = \; 0]. Thus, the base model is "in between" the source and surface models.
+
+== A Correction to the Total Mass Model
+
+In the MAP3S regional model the usual time increment is 1 hr (stem:[\Delta t \; = \; 1 \; hr]). During any given stem:[\Delta t], it is assumed that stem:[\sigma_{Z}] and stem:[U] are both constant. Thus, the mass of an evolving puff of SO~2~ under the influence of dry deposition is given by *(20)*:
+
+.Equation 34
+[latexmath]
+++++
+M(S_{i+1},h) \; = \; M(s_{i},h) \exp{ \left[ -E_{i+1/2}(s_{i+1} \; - \; s_{i}) \right] }
+++++
+
+where the intervals stem:[s_{o} \; = \; 0] to stem:[s_{1}], stem:[s_{2}],...,stem:[s_{i}] to stem:[s_{i+1}],... correspond to the same intervals stem:[0] to stem:[\delta t], stem:[\Delta t] to stem:[2 \Delta t],..., stem:[i \Delta t] to stem:[i \; + \; 1 \; t], .... The quantity stem:[E_{i+1/2}] is equal to stem:[E(s)] evaluated at the midpoint of the stem:s_{i+1} \; - \; s_{i}] interval and stem:[M(s_{o},h) \; = \; M(o,h) \; = \; Q_{o}]. *Equation (34)* is based on the [.underline]#source# model.
+
+For most of the Pasquill stability classes, we can replace *(34)* by
+
+.Equation 35
+[latexmath]
+++++
+M(s_{i+1},h) \; = \; M(s_{i},h) \; \left[ 1 \; - \; E_{i+1/2}(s_{i+1} \; - \; s_{i}) \; + \; 1/2 \; E \; {\begin{matrix} 2 \\ i \end{matrix}} \; (s_{i+1} \; - \; s_{i})^{2} \right]
+++++
+
+If more accuracy is required, we can use more terms in the series expansion.
+
+An analogous type approximation for *(23)* is impossible because of the multiple convolution integrals. However, we can approximate *(25)* in the following way:
+
+.Equation 36
+[latexmath]
+++++
+M(S_{i+1},h) \; = \; M(s_{i},h) \; - \; Q_{o}G_{i+1/2}(S_{i+1} \; S_{i})
+++++
+
+where
+
+.Equation 37
+[latexmath]
+++++
+G_{i+1/2} \; = \; E_{i+1/2} \; - \; F_{i+1/2} \left[ \exp{ - \int_{o}^{s_{i+1/2}} \; F(\alpha)d \alpha}\; \int_{o}^{s_{i+1/2}}  H(\eta)d \eta \right]
+++++
+
+The quantity is given by
+
+.Equation 38
+[latexmath]
+++++
+H(\eta) \; E(\eta) \; \exp{ \int_{o}^{\eta} \; F(\alpha)d \alpha}
+++++
+
+The integrals in *(37)* can be approximated by
+
+.Equation 39
+[latexmath]
+++++
+\int_{o}^{s_{i+1/2}} \; A(\eta)d(\eta) \; = \; A_{1/2}(s_{1}) + \; A_{3/2} (s_{2} \; - \; l s_{1}) \; + \; ... \; + \, A_{i-1/2}(s_{i} \; - \; s_{i-1}) \; + \; A_{i+1/4}(s_{i+1/4}) (s_{i+1/2} \; - \; s_{i})
+++++
+
+where stem:[A(\eta)] is equal to stem:[F(\eta)] or stem:[H(\eta)]. The integral in *(38)* is approximated in a similar fashion.
+
+Thus, one improvement of the total mass model is to use the base model given by *(36)* to *(39)*. This set of equations requires more computation and memory than *(34)* or *(35)* but it is more realistic. If the surface model is desired, we recommend the use of the integral equation in *(22)*.

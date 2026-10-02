@@ -1,0 +1,10 @@
+[id="assembly_chemical_deposition_parameterizations_{assembly-chemical-deposition-parameterizations}"]
+include::../attributes.adoc[]
+
+1. {TWH}, "A Surface Depletion Model for Deposition from a Gaussian Plume," Procedures of Atmospheric-Surface Exchange of Particulate and Gaseous Pollutants - 1974 Symposium, {rich}, WA, Sept. 4-6, 1974, Conference 740921, {AEC-SS}, 1974.
+
+2. {LLW}, {DCP}, and {RLD}, "A Regional Scale Model for Computing Deposition and Ground Level Air Concentrations of SO2 and SO4 from an Elevated Source," [.underline]#{PNLAR} for 1975 to the {USERDA-P3}, {AS}#, BNWL-2000, PT 3, {BN}, {rich}, WA, 1976.
+
+3. {TWH}, Private Communication, 1975.
+
+4. {AEli} and {JSalt}, "Decay and Transformation Rates of SO~2~, as Estimated from the Emission Data, Trajectories and Measured Air Concentrations," [.underline]#{aev}#, [.underline]#9#, 425-429, 1975.
