@@ -1,0 +1,10 @@
+[id="ref_regional_air_quality_nw_energy_references_{ref-regional-air-quality-nw-energy-references}"]
+include::../attributes.adoc[]
+
+1. {UO}, {sci-pol}, "Energy Alternatives: A Comparative Analysis," available from the {usprint}, {DC}, 1975.
+
+2. {EPA}, "Compilation of Air Pollutant Emission Factors," publication No. AP-42, available from {EPA}, {RTP}, NC, April, 1975.
+
+3. {LLW} and {DCP}, "Regional Transport, Dispersion and Removal of Atmospheric Pollutants," [.underline]#{PNLAR} for 1974 to the {USAEC-P3}#, BNWL-1950, PT 3, {bat}, {PNL}, {rich}, {WA}, February 1975. February 1975.
+
+4. L. L. Wendell, D. C. Powell and R. L. Drake, "A Regional Scale Model for Computing Deposition and Ground Level Air Concentration of SO2 and SO4 from an Elevated Source," Pacific Northwest Laboratories Annual Report for 1975 to the USERDA Division of Biomedical and Environmental Research, Part 3, Atmospheric Sciences, BNWL-2000, PT 3, Battelle-Northwest, Richland, Washington, 1976.
