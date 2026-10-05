@@ -93,13 +93,16 @@
 :sea: Seattle
 :spring: Springfield
 :sspring: Silver Spring
+:vanc: Vancouver
 :wf: Whiteface
 :zapp: Champaign
 
+:mid-col: Mid-Columbia
 :PNW: Pacific Northwest
 
 :metro: metropolitan
 
+:BC: British Columbia
 :ont: Ontario
 :switz: Switzerland
 
@@ -303,6 +306,7 @@
 // Academic Conferences
 
 :12ISAP: 12th International Symposium on Atmospheric Pollution
+:2nd-joint-pol: 2nd Joint Conference on Sensing of Environmental Pollutants
 :3WM: Third Conference of Weather Modification
 :66A: 66th Annual Meeting of the Air Pollution Control Association
 :70: IAEA Symposium on the Use of Nuclear Techniques in the Measurement and Control of Environmental Pollution, Saltzburg, Austria
@@ -318,6 +322,7 @@
 :noaa-memo-50: NOAA Technical Memorandum ERL ARL-50
 :PICDB: Procceedings of the International Colloquium on Drops and Bubbles
 :PISAPFE: Proceedings International Symposium on Acid Precipitation and the Forst Ecosystem
+:pnw-pollution-control: Annual Meeting of the Pacific Northwest International Section - Air Pollution Control Association
 :PRSA: Proceedings of Royal Society A
 :PRERDA: Proceedings ERDA Conference on Atmosphere-Surface Exchange on Particles and Gaseous Pollutants
 :Proc-Atmo-Exchange-74: Procedures of Atmospheric-Surface Exchange of Particulate and Gaseous Pollutants - 1974 Symposium
@@ -409,6 +414,7 @@
 :FP: F. Pasquill
 :GAB: G. A. Briggs
 :GAS: G. A. Sehmel
+:GESt: G. E. Start
 :GHC: G. H. Clark
 :GHJ: G. H. Jeffrey
 :GHR: G. R. Hilst
@@ -753,6 +759,12 @@
 :rate-limiting-gases-img-1: {img-dir}/ref_rate_limiting_aspects_of_the_dry_deposition_of_gases_figure-1.png
 :rate-limiting-gases-img-2: {img-dir}/ref_rate_limiting_aspects_of_the_dry_deposition_of_gases_figure-2.png
 
+:regional-flow-complex-terrain-img-1: {img-dir}/ref_investigation_regional_flow_complex_terrain_figure-1.png
+:regional-flow-complex-terrain-img-2: {img-dir}/ref_investigation_regional_flow_complex_terrain_figure-2.png
+:regional-flow-complex-terrain-img-3: {img-dir}/ref_investigation_regional_flow_complex_terrain_figure-3.png
+:regional-flow-complex-terrain-img-4: {img-dir}/ref_investigation_regional_flow_complex_terrain_figure-4.png
+:regional-flow-complex-terrain-img-5: {img-dir}/ref_investigation_regional_flow_complex_terrain_figure-5.png
+
 :regional-scale-model-img-1: {img-dir}/ref_regional_so2_so4_deposition_figure-1.png
 :regional-scale-model-img-2: {img-dir}/ref_regional_so2_so4_deposition_figure-2.png
 :regional-scale-model-img-3: {img-dir}/ref_regional_so2_so4_deposition_figure-3.png
@@ -995,6 +1007,16 @@
 :rate-limiting-gases-alt-1: A line graph which demonstrates that the dry deposition velocity for gases is frequently dictated by other than atmospheric phenomena. It shows how different types of gases including but not limited to Iodine (I2) behave when they hit the surface. Multiple curves labeled β represent different gas solubilities. The plot is divided into regions: (1) highly soluble, (2) sparingly soluble, (3) surface-diffusion limited, and (4) reaction-volume limited. The x axis = the dimensionless reaction rate κ = kt with intervals of (1) 10-3, (2) 10-2, (3) 10-1, (4) 100, (5) 101, (6) 102, (7) 103, (8) 104, (9) 105, (10) 106, and (11) 107. The y axis = the dimensionless deposition velocity v⌄d* - v⌄d (Kπt)^½ with intervals of (1) 10-3, (2), 10=2, (3) 10-1, and (4) 100.
 
 :rate-limiting-gases-alt-2: A graph that shows the plot of Equation (5) with β^-½ on the low abscissa and the reaction rate as a parameter. It shows the practical application of the paper's theoretical models to see how they actually behave in the environment. The x axis = solubility/diffusivity parameter β^½ = H⌄o (square root of D/K) with intervals of (1) 10^-3, (2) 10^-2, (3) 10^-1, (4) 10^0, (5) 10^1, and (6) 10^2. A second x axis at the top = Henry’s law constant at 20 degrees Celsius (cm^3 GAS cm ^-3 for H2O) with intervals of (1) 10^-2, (2) 10^-1, (3) 10^0, (4) 10^1, (5) 10^2, and (6) 10^3. The y axis = dimensionless deposition velocity where v⌄d/3.77 cm sec^-1 with intervals of (1) 10^-3), (2) 10^-2, (3) 10^-1, (4) 10^0.
+
+:regional-flow-complex-terrain-alt-1: A map of the Columbia basin that shows eastern Washington and northern Oregon over a roughly 200 km x 200 km space. It includes Hanford Reservation locations at HAN, T09, T11 through T16, ALF, WPS, and RCH; Columbia River locations near Wenatchee (WAM), the flow around the Hanford "Horn" (PRD), past Richland (RCH) and Pasco (PSC), and West McNary Damn (MCN) along the Oregon Border. Finally, it shows surface stations  at Yakima (YKM), Ephrata (EPH), Moses Lake (MWH), Ritzville (RTZ), Walla Walla (ALW), and Pendelton (PDT).
+
+:regional-flow-complex-terrain-alt-2: A map that shows the Mid-Columbia region and the wind recording stations with a scale of 0-60 km in 10 m increments. The elevation key includes < 1000 feet (lightest gray), 1000-2000 ft (light gray dotted) for the plateaus and lower ridges, 200-300 feet (medium gray) for the foothills, ridges of the Cascade range and Rattlesnake Mountain, and the Blue Mountains, and > 3000 ft (darkest/black) for the high mountain ridges and Cascades.
+
+:regional-flow-complex-terrain-alt-3: A map that shows the schematic flow pattern associated with a surface high centered east of the Columbia Basin region. The outer area is over 3000 feet. The nearest layer to the outside, the second layer, is between 2000-3000 feet and includes Spokane. The third layer is between 1000-2000 feet and includes Moses Lake, Ritzville, Pullman, and Pendleton. The inner-most layer is under 1000 feet and includes the Arlington and the Tri-Cities including Richland and Pasco. Wind flow in the area below the Tri-Cities generally heads southwest with one burst headed southeast. The area above Walla Walla sees a number of windflows merge into one wind flow that turns in a circular pattern above Walla Walla. Good luck, Walla Walla residents circa 1975!
+
+:regional-flow-complex-terrain-alt-4: A map detailing the surface pressure on November 11, 1974 at 1000 PST. In the center of the map of the Mid-Columbia region. A dotted square highlight the Mid-Columbia region for better visibility. Multiple spots where the wind speed was measured are visible on the map. The Mid-Columbia region had relatively lower wind speeds compared to the area just outside of it. Towards the center of the map, surface pressure was approximately between 1026 and 1030 milibars. The surface pressure increases from west to east across the length of the map.
+
+:regional-flow-complex-terrain-alt-5:  map that shows the schematic flow pattern associated with a surface high centered east of the Columbia Basin region. The outer area is over 3000 feet. The nearest layer to the outside, the second layer, is between 2000-3000 feet and includes Spokane. The third layer is between 1000-2000 feet and includes Moses Lake, Ritzville, Pullman, and Pendleton. The inner-most layer is under 1000 feet and includes the Arlington and the Tri-Cities including Richland and Pasco. This map shows wind flow generally trending in an upward motion towards the northeast.
 
 :regional-scale-model-alt-1: Two graphs on top of each other that show the Langarian modeling of the northeastern United States on April 3, 1974 at 00:00 (midnight) and 12:00 (noon). At midnight, the movement of the air from emission sources is blowing in a northeasterly direction. At noon, the movement is stronger and covers a significantly larger part of the northeastern United States, still blowing in a northeasterly direction, but each gust covers a larger area. It also blows into the ocean off the coasts of Virginia, New Jersey, and Delaware.
 

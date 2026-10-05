@@ -23,3 +23,4 @@ include::../assemblies/assembly_preparation_hourly_maps_precipitation.adoc[level
 include::../assemblies/assembly_exam_wind_shear.adoc[leveloffset=+1]
 include::../assemblies/assembly_chemical_deposition_parameterizations.adoc[leveloffset=+1]
 include::../assemblies/assembly_regional_air_quality_nw_energy.adoc[leveloffset=+1]
+include::../assemblies/assembly_investigation_regional_flow_complex_terrain.adoc[leveloffset=+1]

@@ -1,0 +1,35 @@
+[id="ref_investigation_regional_flow_complex_terrain_figures_{ref-investigation-regional-flow-complex-terrain-figures}"]
+include::../attributes.adoc[]
+
+== Figure 1: Map of the Mid-Columbia Region and Wind Recording Stations
+
+[#img-investigate-regional-flow-img-1]
+[caption="Map of the Mid-Columbia Region and Wind Recording Stations", alt="{regional-flow-complex-terrain-alt-1}"]
+image::{regional-flow-complex-terrain-img-1}[Map of the Mid-Columbia Region and Wind Recording Stations]
+
+== Figure 2: Contour Map of the Smoothed Topography
+
+[#img-investigate-regional-flow-img-2]
+[caption="Contour Map of the Smoothed Topography", alt="{regional-flow-complex-terrain-alt-2}"]
+image::{regional-flow-complex-terrain-img-2}[Contour Map of the Smoothed Topography]
+
+== Figure 3: Schematic Flow Pattern Associated with a Surface High Centered East of the Region*
+
+[#img-investigate-regional-flow-img-3]
+[caption="chematic Flow Pattern Associated with a Surface High Centered East of the Region", alt="{regional-flow-complex-terrain-alt-3}"]
+image::{regional-flow-complex-terrain-img-3}[chematic Flow Pattern Associated with a Surface High Centered East of the Region]
+
+== Figure 4: Detailed Surface Pressure Analysis for 1000 PST, November 11, 1974
+
+[#img-investigate-regional-flow-img-4]
+[caption="Detailed Surface Pressure Analysis for 1000 PST, November 11, 1974", alt="{regional-flow-complex-terrain-alt-4}"]
+image::{regional-flow-complex-terrain-img-4}[Detailed Surface Pressure Analysis for 1000 PST, November 11, 1974]
+
+The dashed box is in the {mid-col} region.
+
+== Figure 5: 
+[#img-investigate-regional-flow-img-5]
+[caption="", alt="{regional-flow-complex-terrain-alt-5}"]
+image::{regional-flow-complex-terrain-img-5}[]
+
+NOTE: _*_ See *Figure 4*.

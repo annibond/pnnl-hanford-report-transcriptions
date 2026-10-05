@@ -80,7 +80,6 @@ include::../attributes.adoc[]
 >|7.3%
 |{nbsp}
 |{nbsp}
-|{nbsp}
 
 |===
 

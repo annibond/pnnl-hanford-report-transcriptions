@@ -1,0 +1,14 @@
+[id="ref_investigation_regional_flow_complex_terrain_references_{ref-investigation-regional-flow-complex-terrain-references}"]
+include::../attributes.adoc[]
+
+1. {LLW}, "Mesoscale Wind Field and Transport Estimates Determined from a Network of Towers," [.underline]#Monthly Weather Review#, vol. 100, pp. 565-568, 1972.
+
+2. {LLW} and {WFS}, "Mesoscale Transport and Diffusion Studies," [.underline]#{PNLAR} for 1973 to the {USAEC-V2-P1}#, BNWL-1850, PT 3, {bat}, {PNL}, {rich} WA, April 1975.
+
+3. {LLW}, "Some Influences of Regional Boundary Flow on Atmospheric Transport and Dispersion," Presented at the {2nd-joint-pol}, {DC}, December 10-12, 1973, published in the Proceedings.
+
+4. {DLE}, {WFS}, and {RKW}, "An Investigation of Regional Flow Patterns for Improving Estimates of Effluent Transport and Diffusion," Presented at the {pnw-pollution-control}, {vanc}, {BC} November 19-21, 1975.
+
+5. G. E. Start and L. L. Wendell, Regional Effluent Dispersion Calculations Considering Spatial and Temporal Meteorological Variations, NOAA Technical Memorandum, ERL ARL-44, Air Resources Laboratories, Idaho Falls, Idaho, May 1974.
+
+6. L. L. Wendell, D. C. Powell and R. L. Drake, "A Regional Scale Model for Computing Deposition and Ground Level Air Concentration of SO~2~ and SO~4~ from an Elevated Source," this volume.
