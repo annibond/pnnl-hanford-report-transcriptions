@@ -1,0 +1,45 @@
+[id="con_investigation_regional_flow_complex_terrain_{con-investigation-regional-flow-complex-terrain}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+The proper assessment and control of environmental impacts to a region from atmospheric releases (whether from single or multiple sources) requires a detailed meteorological knowledge of the region and a framework within which this knowledge can be most effectively used. As emphasis on environmental and health protection, nuclear safety, and competition for land use and industrial development have increased, it has become increasingly necessary to adapt and utilize current methods and techniques to assess the environmental impacts of existing and proposed developments.
+
+Previous studies have shown the importance of considering spatial and temporal variations in the wind field in estimating mesoscale transport and diffusionfootnote:1[L. L. Wendell, "Mesoscale Wind Field and Transport Estimates Determined from a Network of Towers," Monthly Weather Review, vol. 100, pp. 565-568, 1972.], footnote:2[L. L. Wendell and W. F. Sandusky, "Mesoscale Transport and Diffusion Studies," Pacific Northwest Laboratories Annual Report for 1973 to the USAEC Division of Biology and Medicine, Vol. II, Physical Sciences, Part 1, Atmospheric Sciences, BNWL-1850, PT 3, Battelle, Pacific Northwest Laboratories, Richland, WA, April 1975.], footnote:3[L. L. Wendell, "Some Influences of Regional Boundary Flow on Atmospheric Transport and Dispersion," Presented at the 2nd Joint Conference on Sensing of Environmental Pollutants, Washington D.C., December 10-12, 1973, published in the Proceedings.]. Case studies of wind-flow patterns and transport over an area which included the Hanford Reservation and immediate vicinity have previously been examined. However, this scale needed to be extended to examine the environmental impacts on the surrounding region.
+
+The primary objectives of this study were: 1) to better understand the regional flow patterns and their relationships with synoptic weather situations, and 2) to examine techniques for improving regional transport and dose estimates for emergency response and routine assessment. Wind data were obtained from surface stations throughout the region and an analysis was performed for November 1974 data. For nonfrontal situations, an effort was made to classify wind-flow patterns over the region with synoptic scale features, i.e., synoptic pressure patterns. This information would be very useful for both operational forecasting and assessment purposes.
+
+The report given here is primarily a summary of a more complete and inconclusive reportfootnote:4[D. L. Elliott, W. F. Sandusky, and R. K. Woodruff, "An Investigation of Regional Flow Patterns for Improving Estimates of Effluent Transport and Diffusion," Presented at the Annual Meeting of the Pacific Northwest International Section - Pollution Control Association, Vancouver, British Columbia, November 19-21, 1975.].
+
+== Description of the Area
+
+The study area, shown in *Figure 1*, is centered over the {mid-col} region in southeastern {WA}. This region includes the Hanford Reservation. Major variations in the smoothed topography can be seen in *Figure 2*.
+
+The wind data network consisted of 29 stations scattered throughout the region, with the most dense coverage in the vicinity of the Hanford Reservation. All but 3 of the 29 stations normally had hourly wind data for 24 hr, recorded on strip charts, observed, or telemetered. Heights of the wind sensors above the ground ranged from stem:[10 \, ft] to stem:[50 \, ft], with the mean height at approximately stem:[30 \, ft]. Much of the data was obtained through the cooperation of local agencies specifically for this study.
+
+== Regional Wind-Flow Patterns
+
+An objective interpolation scheme, developed by Wendell, was used to obtain wind components on a regularly spaced grid from the irregularly spaced wind stations. These techniques were adapted to the Mid-Columbia region for producing wind field plots for selected periods in November 1974.
+
+From an analysis of these plots, several recurring flow patterns were noted. Excluding days (or periods) when frontal systems were passing through or lying within the region, the flow patterns have been categorized into several main types. In all, these flow types accounted for the prevailing flow patterns observed on 19 days of the month. The results obtained demonstrate the relationships between the wind flow patterns over the region, topographic features, and synoptic weather situations. Some of these flow patterns are quite different from that expected for the existing large-scale meteorological conditions.
+
+An important example of this is the flow pattern shown in *Figure 3*, which emphasizes the effect of contrasting transport regimes, throughout the region; i.e., NW flow over Pasco and E flow over Pullman and Arlington. High pressure centered to the east and/or northeast of the region is normally associated with this flow regime. *Figure 4* shows the surface pressure analysis for November 11, 1974. Pressure gradients over the study area were primarily north-south. This type of flow pattern persisted for approximately 20 hr, with only minor deviations in the overall pattern. Mostly cloudy skies and stable conditions prevailed. The vertical profile of wind at 1300 PST, November 11, 1974 over Hanford showed NW winds up to about stem:[700 \, m], switching to SW aloft. Thus the surface pressure gradient force appears to be the primary reason for the northerly component of wind over much of the {mid-col} region, as upper level winds were southerly over the entire region. The variation in direction over the region can be explained, to a large extent, by topography effects. Knowledge of this regional flow variability and the large-scale meteorological situations for which it occurs, would provide substantially different and improved emergency preparedness information from that available from local site data and large scale weather charts.
+
+This type of flow pattern occurred on 4 days in November, each characterized by very similar surface pressure patterns and stable atmospheric conditions. The depth of the boundary layer flow ranged from abut stem:[500 \, m] to stem:[1000 \, m] over Hanford. Assuming this depth exists over the entire region, most of the effluent emissions (buoyant and nonbuoyant) would be transported within this layer.
+
+*Figure 5* demonstrates the flow pattern typically associated with high pressure west and low pressure east of this region. Surface isobars were aligned generally NW-SE, a condition which often follows the passage of a low pressure system. A description of some of the other regional flow patterns which occurred is given by Elliott, et alfootnote:4[].
+
+== Conclusions and Recommendations
+
+An investigation of the nonfrontal cases for November 1974 has revealed quite complex recurring flow patterns over the {mid-col} region. There is evidence that these flow types could be classified, to some extent, by synoptic pressure patterns and atmospheric conditions. Background information would be useful in a quasi-predictive mode for the evaluation of regional transport. However, from this limited study, one should not infer that the regional wind flow pattern can be deduced entirely from a given synoptic pressure pattern and local area wind data. The establishment of a few regional stations, in selected locations with data transmissions available for real-time use, is essential in the validation of an expected flow regime.
+
+Through the adaptation and modification of regional transport and diffusion modelsfootnote:5[G. E. Start and L. L. Wendell, Regional Effluent Dispersion Calculations Considering Spatial and Temporal Meteorological Variations, NOAA Technical Memorandum, ERL ARL-44, Air Resources Laboratories, Idaho Falls, Idaho, May 1974.], footnote:6[L. L. Wendell, D. C. Powell and R. L. Drake, "A Regional Scale Model for Computing Deposition and Ground Level Air Concentration of SO~2~ and SO~4~ from an Elevated Source," this volume.], an improved data acquisition system with an extended data network, and a classification of flow patterns, techniques exist for transport and diffusion over the {mid-col} region. They could be used for real-time analysis and prediction as well as for assessing the individual or integrated impact of current or future operation. Applications could be extended to cover many other facets including pesticide and herbicide drift, safety analysis, and range fire control.
+
+Future efforts should include:
+
+1. Further study at the regional flow patterns to examine seasonal variations and frequency of occurrence of various flow types
+
+2. Experiments to validate the regional data
+
+3. Continued and accelerated refurbishment of the existing on-plant data telemetry system, and improvement in the availability of offsite data.

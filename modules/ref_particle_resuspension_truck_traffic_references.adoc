@@ -1,4 +1,4 @@
-[id="ref_particle_resuspension_truck_traffic_references_{ref-particle-truck-references}"]
+[id="ref_particle_resuspension_truck_traffic_references_{ref-particle-resuspension-truck-traffic-references}"]
 include::../attributes.adoc[]
 
 1. {GAS}, "Particle Resuspension from an Asphalt Road Caused by Car and Truck Traffic," [.underline]#{AEV}#, vol. 7, pp. 291-301, 1973.

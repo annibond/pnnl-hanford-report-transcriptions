@@ -1,0 +1,20 @@
+[id="assembly_investigation_regional_flow_complex_terrain_{assembly-investigation-regional-flow-complex-terrain}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== An Investigation of Regional Flow Patterns Over an Area of Complex Terrain
+[.big]#{DLE}, {WFS} and {RKW}#
+
+_Regional wind flow patterns and transport in the lower planetary boundary layer are examined from a network of 29 wind recording stations for a stem:[170 \, x \, 190 \, km] area over the {mid-col} region of {WA} and {OR}. From an investigation of the nonfrontal situations, several different types of recurring flow patterns were observed, and each flow type appeared to be characterized by similar synoptic (surface) pressure patterns and weather conditions. Techniques for improving estimates of regional transport, through an improved data acquisition system with an extended data network, a classification of flow patterns, and the utilization and modification of existing models, are examined._
+
+include::../modules/con_investigation_regional_flow_complex_terrain.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_investigation_regional_flow_complex_terrain_references.adoc[leveloffset=+2]
+
+==== Figures
+
+include::../modules/ref_investigation_regional_flow_complex_terrain_figures.adoc[leveloffset=+2]

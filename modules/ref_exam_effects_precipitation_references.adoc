@@ -1,4 +1,4 @@
-[id="assembly_exam_effects_precipitation_{assembly-exam-effects-precipitation}"]
+[id="ref_exam_effects_precipitation_references_{ref-exam-effects-precipitation-references}"]
 include::../attributes.adoc[]
 
 1. {Bert} and {CPer}, "Regional Dispersion and Deposition of Atmospheric Pollutants with Particular Application to Sulfur Pollution Over Western Europe," [.underline]#Tellus# XVII, 3, pp. 281-310, 1975.

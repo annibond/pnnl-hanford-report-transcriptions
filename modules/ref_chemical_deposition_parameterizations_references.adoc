@@ -1,4 +1,4 @@
-[id="assembly_chemical_deposition_parameterizations_{assembly-chemical-deposition-parameterizations}"]
+[id="ref_chemical_deposition_parameterizations_references_{ref-chemical-deposition-parameterizations-references}"]
 include::../attributes.adoc[]
 
 1. {TWH}, "A Surface Depletion Model for Deposition from a Gaussian Plume," Procedures of Atmospheric-Surface Exchange of Particulate and Gaseous Pollutants - 1974 Symposium, {rich}, WA, Sept. 4-6, 1974, Conference 740921, {AEC-SS}, 1974.

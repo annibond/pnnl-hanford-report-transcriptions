@@ -1,0 +1,24 @@
+[id="assembly_concentrates_and_removal_report_1975_253_288_{assembly-weather-climate-modification}"]
+include::../attributes.adoc[]
+
+== Weather and Climate Modification
+
+Human activity can change the average atmospheric temperature and humidity values, as well as the chemical composition of the air. These changes affect local and regional weather and climate and may have a significant influence on global climate. Examples of human activity that produce these changes are the increase of CO~2~ content of the atmosphere from the combustion of fossil fuel; the production of aerosols by industry, automobiles, home heating units and agricultural practices; the releases of large quantities of heat and water vapor from the cooling facilities of large fossil and nuclear power plants; and the modification of the earth's albedo due to urbanization, agriculture, deforestation, reservoirs and soil spills.
+
+The {AS} Department has undertaken a modest effort in this area during the past year. The research activities have resulted in the following findings:
+
+* An overview of the important natural and anthropogenic peturbation of weather and climate, and the resulting need for further climatic research;
+
+* A theoretical study that may contribute to a better understanding of atmospheric electricity;
+
+* Another year of atmospheric turbidity data at the Hanford site and their relationships to changes in the aerosol size distribution;
+
+* Initial efforts in determining the optical properties of aerosols such that we can better understand the radiative properties of the atmosphere; and
+
+* The characterization of large power plant cooling tower plumes through the use of long exposure photography and instrumented aircraft.
+
+* *Aerosol and Trace Gas Transformations*
+
+* *Cooling Tower and Cooling Pond Atmospheric Impact*
+
+* *ERDA/RL Special Studies*
