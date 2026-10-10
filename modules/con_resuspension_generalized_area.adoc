@@ -135,3 +135,10 @@ The influence on _K_ of the rate of change of _G_ with _x_ can be investigated b
 NOTE: The absence of *Equation (3)* is intentional, as it is missing from the original report.
 
 NOTE: Emphasis on Pasquill's equations are mine.
+
+[latexmath]
+++++
+\frac{\partial \vec{B}_{1}}{\partial t_{1}} \Big|_{x_{1}}
+
+
+++++

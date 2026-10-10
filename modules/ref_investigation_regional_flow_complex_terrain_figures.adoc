@@ -27,7 +27,7 @@ image::{regional-flow-complex-terrain-img-4}[Detailed Surface Pressure Analysis 
 
 The dashed box is in the {mid-col} region.
 
-== Figure 5: 
+== Figure 5: Schematic Flow Pattern Typically Associated with High Pressure to the West and Low Pressure to the East of the Region
 [#img-investigate-regional-flow-img-5]
 [caption="", alt="{regional-flow-complex-terrain-alt-5}"]
 image::{regional-flow-complex-terrain-img-5}[]
