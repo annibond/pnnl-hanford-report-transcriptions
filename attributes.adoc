@@ -71,6 +71,7 @@
 :alex: Alexandria
 :ashe: Asheville
 :boul: Boulder
+:cam-ma: Cambridge
 :chaph: Chapel Hill
 :charl: Charlottesville
 :chic: Chicago
@@ -81,22 +82,26 @@
 :la: Los Angeles
 :leni: Leningrad
 :lond: London
+:mad: Madison
 :minn: Minneapolis
 :NYC: New York City
 :pasa: Pasadena
 :PB: Point Barrow
 :phil: Philadelphia
 :quil: Quillayute
+:ral: Raleigh
 :rapid: Rapid City
 :rich: Richland
 :sbarb: Santa Barbara
 :sea: Seattle
+:smon: Santa Monica
 :spring: Springfield
 :sspring: Silver Spring
 :vanc: Vancouver
 :wf: Whiteface
 :zapp: Champaign
 
+:3-cit: Tri-Cities
 :mid-col: Mid-Columbia
 :PNW: Pacific Northwest
 
@@ -125,14 +130,18 @@
 :TX: Texas
 :VA: Virginia
 :WA: Washington
+:WI: Wisconsin
 :WV: West Virginia
 :WY: Wyoming
 
 // Meteorological & Weather Specific Organizations (incl. United States government organizations)
 
 :ATGP: Aerosol and Trace Gases Program
+:atmo-com: Committee on Atmospheric Sciences
+:atmo-glo: Global Atmospheric Research Program
 :AtmoEC: Atmospheric Environment Service
 :brookhaven: Brookhaven National Laboratories
+:CIC: Climatic Impact Committee
 :Dprog: DBER's Integrated Assessment Program
 :EPA: Environmental Protection Agency
 :ESAT: Environmental Science and Technology
@@ -142,6 +151,8 @@
 :multistate: Multistate Atmospheric Power Production Pollution Study
 :MWR: Monthly Weather Review
 :NAAQS: National Ambient Air Quality Standard
+:NatAcSci: National Academy of Sciences
+:NatRes: National Research Council
 :NCC: National Climatic Center
 :NOAA: National Oceanic and Atmospheric Administration
 :NWS: National Weather Service
@@ -149,6 +160,7 @@
 :RSP: Regional Studies Program
 :RTP: Research Triangle Park
 :SRLab: Savannah River Laboratory
+:WResRes: Water Resources Research
 :WMO: World Meteorological Organization
 :WPL: Wave Propagation Laboratory
 :USFS: United States Forest Service
@@ -164,6 +176,7 @@
 :UMN: University of Minnesota
 :UO: University of Oklahoma   
 :UW: University of Washington
+:UW-Mad: University of Wisconsin
 
 // United States Government Departments (other) & Test Sites
 
@@ -177,6 +190,7 @@
 :DOA: Department of Agriculture
 :DOC: Department of Commerce
 :DOE: Department of Energy
+:DOH: U.S. Department of Health Education, and Welfare, Public Health Service
 :DOI: Department of the Interior
 :DTRA: Defense Threat Reduction Agency
 :ERDA: Energy Research and Development Administration
@@ -253,6 +267,7 @@
 :ppress: Pergamon Press
 :pres: (in press)
 :pub: to be published
+:rand: Rand Corporation
 :uchicagop: University of Chicago Press
 :usprint: U.S. Government Printing Office
 
@@ -275,6 +290,7 @@
 :ChemS: Chemical Society
 :CMB: Canadian Mathematics Bulletin
 :CSFEC: Comparative Studies of Food and Environmental Contamination
+:eco-work: Workshop on Global Ecological Problems
 :FDiv: The Faraday Division
 :FnS: Fogs and Smokes
 :GRL: Geophysical Research Letters
@@ -298,6 +314,7 @@
 :PNLAR: Pacific Northwest Laboratory Annual Report
 :PS: Preticipation Scavenging
 :QJRMS: Quarterly Journal of the Royal Meteorological Society
+:Sci: Science
 :USAEC-P3: USAEC Division of Biomedical and Environmental Research, Part 3: Atmospheric Sciences
 :USAEC-V2-P1: USAEC Division of Biology and Medicine, Vol. II: Physical Sciences, Part 1: Atmospheric Sciences
 :USAEC-V2-P3: USAEC Division of Biology and Medicine, Vol. II: Physical Sciences, Part 3: Atmospheric Sciences
@@ -307,6 +324,7 @@
 
 :12ISAP: 12th International Symposium on Atmospheric Pollution
 :2nd-joint-pol: 2nd Joint Conference on Sensing of Environmental Pollutants
+:3-weather-mod: Third Conference on Weather Modification
 :3WM: Third Conference of Weather Modification
 :66A: 66th Annual Meeting of the Air Pollution Control Association
 :70: IAEA Symposium on the Use of Nuclear Techniques in the Measurement and Control of Environmental Pollution, Saltzburg, Austria
@@ -357,6 +375,7 @@
 :BCS: B. C. Scott
 :Bert: Bert Bolin
 :BS: B. Styra
+:BWAt: B. W. Atkinson
 :BYHL: B. Y. H. Liu
 :CCT: C. C. Thomas, Jr.
 :CDK: C. D. Kern
@@ -384,6 +403,7 @@
 :DJ: D. Jones
 :DJP: D. J. Perkey
 :DLE: D. L. Elliott
+:DMAJ: D. M. A. Jones
 :DMH: D. M. Hattor
 :DMM: D. M. McKown
 :DMN: D. M. Nelson
@@ -408,6 +428,7 @@
 :FAH: F. A. Huff
 :FBS: F. B. Smith
 :FDL: F. D. Llyod
+:FEDa: F. E. Davis
 :FG: F. Gifford
 :FHB: F. H. Bushby
 :FOG: F. O. Gladfelder
@@ -454,6 +475,7 @@
 :JMTa: J. M. Tanner
 :JMT: J. W. Thorp
 :JNW: J. N. Winchester
+:JOFl: J. O. Fletcher
 :JP: J. Pich
 :JPF: J. P. Franey
 :JR: J. Rosinski
@@ -520,6 +542,7 @@
 :PMP: P. M. Potter
 :PPR: P. P. Raft
 :PSL: P. S. Liss
+:PTSc: P.T. Schickedanz
 :PVH: P. V. Hobbs
 :PWN: P. W. Nickola
 :PWMJr: P. W. Mielke, Jr.
@@ -543,8 +566,11 @@
 :RNL: R. N. Lee
 :RWB: R. W. Beadle
 :RWP: R. W. Perkins
+:SACh: S. A. Changon, Jr.
 :SBo: S. Bodin
 :SGM: S. G. Malakhov
+:SHSc: H. S. Schneider
+:SIRa: S. I. Rasool
 :SLH: S. L. Heisler
 :SLS: S. L. Sutter
 :SKF: S. K. Friedlander
@@ -564,17 +590,21 @@
 :WCC: W. C. Campbell
 :WDS: W. D. Sellers
 :WED: W. E. Davis
+:WERie: W. E. Riebsame
 :WEW: William E. Wilson
 :WFL: W. F. Libby
 :WFS: W. F. Sandusky
 :WGNS: W. G. N. Slinn
+:WLWo: W. L. Woodley
 :WHH: W. H. Hodgson
 :WNS: W. N. Stasiuk, Jr.
 :WHH: W. H. Hoecker
+:WHHe: W. H. Hess
 :WRG: W. R. Griffith
 :WSmi: W. Smith
 :WTr: W. Brutsaert
 :WTS: W. T. Scott
+:WWK: W. W. Kellogg
 :YLee: Yean Lee
 :YO: Y. Okamura
 :YSS: Y. S. Sedunov

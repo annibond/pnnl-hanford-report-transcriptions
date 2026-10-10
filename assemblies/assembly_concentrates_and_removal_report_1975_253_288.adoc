@@ -22,3 +22,5 @@ The {AS} Department has undertaken a modest effort in this area during the past 
 * *Cooling Tower and Cooling Pond Atmospheric Impact*
 
 * *ERDA/RL Special Studies*
+
+include::../assemblies/assembly_climate_weather_anthropogenic_natural.adoc[leveloffset=+1]

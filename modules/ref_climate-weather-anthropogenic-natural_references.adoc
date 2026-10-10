@@ -1,0 +1,36 @@
+[id="ref_climate_weather_anthropogenic_natural_references_{ref-climate-weather-anthropogenic-natural-references}"]
+include::../attributes.adoc[]
+
+1. {SACh} and {DMAJ}, "Review of the Influences of the Great Lakes on Weather," [.underline]#{WResRes}#, vol. 8, No. 2, 360-371-1972.
+
+2. {WERie}, {WLWo} and {FEDa}, "Radar Influence of Lake Okeechobee Rainfall for Use in Environmental Studies," [.underline]#Weatherwise#, vol. 27, No. 5, 206-211, 1974.
+
+3. [.underline]#Man's Impact on the Global Environment#, a Report of the Study of Critical Environmental Problems, MIT Press, {cam-ma}, MA, p. 319, 1970.
+
+4. [.underline]#Inadvertent Climate Modification#, a Report on the Study of Man’s Impact on Climate, MIT Press, {cam-ma}, MA, p. 308, 1971.
+
+5. [.underline]#Environmental Impact of Stratospheric Flight#, A Report of the {CIC} of the {NatAcSci}, {NatAcSci}, {DC}, p. 348, 1975.
+
+6. {SHSc} and {WWK}, "The Chemical Basis for Climate Change," [.underline]#Chemistry of the Lower Atmosphere#, (Ed. by {SIRa}), Plenum Press, {NY}, NY, 203-249, 1973.
+
+7. {HEL}, "Man Made Climatic Changes," [.underline]#{Sci}#, vol. 170, No. 3964, 1264-1274, 1970.
+
+8. J. T. Peterson, [.underline]#The Climate of Cities: A Summary of Recent Literature#, {DOH}, {ral}, NC, p. 48, 1969.
+
+9. {SACh}, "Recent Studies of Urban Effects on Precipitation in the {US}," [.underline]#{BAMS}#, vol. 50, No. 6, 411-421, 1969.
+
+10. {BWAt}, "The Effect of an Urban Area on the Precipitation from a Moving Thunderstorm, "[.underline]#{JAM}#, vol. 10, 47-55, 1971.
+
+11. {FAH} and {SACh}, "Inadvertent Precipitation Modification by Major Urban Areas," [.underline]#{3-weather-mod}#, held June 26-29, {rapid}, SD, sponsored by the {AMS}, 73-78, 1972.
+
+12. {PTSc}, "Inadvertent Rain Modification as Indicated by Surface Raincells," [.underline]#{JAM}#, vol. 13, 891-900, 1974.
+
+13. [.underline]#Man in the Living Environment#, a Report of the {eco-work}, {uw-mad} Press, {mad}, WI, p. 288, 1972.
+
+14. [.underline]#Weather and Climate Modification#, by a {atmo-com} of the {NatRes}, {NatAcSci}, {DC}, p. 258, 1973.
+
+15. [.underline]#Weather and Climate Modification#, edited by {WHHe}, {JWnS}, {NY}, NY, p. 842, 1969.
+
+16. {JOFl}, [.underline]#Managing Climatic Resources#, No. P-4000-1, {rand}, {smon}, CA, p. 27, 1969.
+
+17. [.underline]#Understanding Climatic Change: A Program for Action#, a {US} Committee for the {atmo-glo}, {NatAcSci}, {DC}, p. 239, 1975.
