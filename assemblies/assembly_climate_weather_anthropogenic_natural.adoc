@@ -1,0 +1,15 @@
+[id="assembly_climate_weather_anthropogenic_natural_{assembly-climate-weather-anthropogenic-natural}"]
+include::../attributes.adoc[]
+
+== Climate and Weather: Natural and Anthropogenic Perturbations
+[.big]#{RLD}#
+
+_This report is concerned with perturbations and variations in weather and climate. The report discusses the definition of climate, why climatic studies are important, the natural variations of weather and climate, inadvertent and advertent climatic modifications due to humans and the need for further climatic research._
+
+include::../modules/con_climate-weather-anthropogenic-natural.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_climate-weather-anthropogenic-natural_references.adoc[leveloffset=+2]

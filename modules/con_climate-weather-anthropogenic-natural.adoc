@@ -1,0 +1,110 @@
+[id="con_climate_weather_anthropogenic_natural_{con-climate-weather-anthropogenic-natural}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+This report is the result of a special studies program for the analysis of inadvertent weather and climate modification. The program was initially concerned with the following class of problems:
+
+1. Identification of the weather and climatic systems that are sufficiently unstable that human activities can trigger a change in conditions through some process; for example, the change in the regional radiation balance caused by the decrease in the stratospheric ozone (O~3~) layer from NO~x~ emissions of high flying jet aircraft.
+
+2. Identification of the ecosystems that are sufficiently unstable that human activities, in conjunction with normal climatic conditions may produce severe climatic effects; for example, the burn-and-slash agricultural techniques that are being used in some of the tropical rain forests.
+
+3. Identification of those areas of the world where humans have responded or have the potential of responding adversely to normal climatic variations; for example, the overgrazing and the overpopulation of the arid Sahel region of Africa during the recent drought.
+
+4. Identification of natural phenomena that influence local and regional climate, such as the occurrence of snowbelts to the lee of the Great Lakes, and the occurrences of arid and semi-arid regions in the lee of mountain ranges (the rain shadow).
+5. Determining if the items in 4. have an affect on global climate, and if humans can produce comparable results with their urban heat islands, nuclear energy centers, and large agricultural operations.
+
+6. Investigating the technical feasibility of a global monitoring system to measure such quantities as atmospheric turbidity, CO~2~, SO~x~, sulfates, O~3~, radioactivity, chlorocarbons, heavy metals, etc.
+
+Early in the study we began to spend a considerable amount of time looking at the weather and climatic variations that may result from the large releases of heat and moisture from energy centers, both nuclear and fossil fuel. A smaller amount of time was spent in considering the regional impacts of burning fossil fuel in the northeastern {US}. Hence, we did not complete the study outlined in the previous paragraph. However, the remainder of this report briefly describes some of the phenomena considered in our study.
+
+== What Is Climate?
+
+Climate is often defined as the sum of weather variations, or as the mean course of the weather. To define the climate at any given place on the globe, we require both the mean values and the time distributions of various weather phenomena. Some of the phenomena and data that are required to define the climate at a given place are: latitude and longitude; altitude; proximity to the sea, to lates, and mountains; mean temperature and pressure; moisture in the atmosphere and the mean precipitation; hours of sunshine and the incidence of cloudiness; mean winds, visibility and chemical composition of the atmosphere; amount of ice and snow cover; amount and type of vegetation; nature of the ground surface; and inclination and aspects of the slopes of the land.
+
+== Why Climate Study?
+
+A valid reason for the scientific investigation of any phenomenon is the desire of the human mind to understand completely the processes that produce, maintain and influence the phenomenon. Hence, we study climatic processes to satisfy our scientific curiosity.
+
+Another reason for the study of climate, and a more important one from the humanitarian point of view, is that climate affects, or is affected by, the processes required to meet all material needs of man. Our major material needs are air, water, soil, food, portable and stationary sources of energy, recreation and wildlife, metals, fibers, shelter, clothing, and other raw materials. In obtaining these needs, climate is often a governing factor; or weather and climate are adversely affected by the processes required to meet the needs.
+
+With an expanding world population and increasing energy requirements for world agriculture, the demand for food is greater than the current world capabilities for producing that food. This fact, combined with recent adverse weather conditions and poor governmental policies, has greatly reduced the world's grain reserve. Without adequate reserves, weather variability is especially critical and a future sequence of low grain-producing years could bring widespread shortages of food, and starvation and serious pressures in national and international politics and economics. Thus, it is very important that we quickly develop a better understanding of the variability of weather and climate and their significance to food production. Since modern agriculture is very energy intensive, a better understanding of climate will help alleviate both the world's food and energy crises.
+
+== Climatic Variations
+
+Climatic variations seem to be associated with variations in the vigor of the whole global circulation; but causes of global system variations are still largely unknown. Hence, the fundamental need in the study of climatic change is the quantitative understanding of the general circulation of the atmosphere. Since three-fourths of the heat that moves the atmosphere comes from the ocean surface, a quantitative understanding of heat transport and the ocean-atmospheric heat exchange is especially important. Even though we do not have a detailed explanation of the many cause-and-effect linkages that must be taken into account in a comprehensive climate theory, we can identify some of the causes of climatic variations. These variations operate over a wide variety of space and time scales; the time scales from the size of the solar system to the size of a farm. The following paragraphs list some important natural causes of climatic variations over various time and space scales.
+
+Long-term climate change may be due to the evolution of the sun, the presence of the galactic dust between the earth and the sun, the mass and state of the atmosphere (excluding CO~2~, H~2~O, O~3~), the shifting of the poles on the earth, the geometry of the earth-sun system, the drifting of the continents, and the orogenesis of the continents. Shorter term variations in climate may be due to the amount of CO~2~ in the air, the atmosphere-ocean-ice cap feedback influences, deep ocean circulation, solar variability (sunspot activity), volcanic dust in the stratosphere, other interactions of the atmosphere and the ocean, atmospheric particles from other sources, changes in the character of the land surfaces, and change in the chemical composition of the atmosphere.
+
+The causes and characteristics of deserts differ depending on their location and the general flow of air. Low-latitude deserts are caused by the descent of hot, dry air from aloft in areas of subtropical high pressure; examples are the Sahara, northern Mexico, Kalahari Desert of South Africa, and Australia. The mid-latitude deserts are caused by the precipitation of moisture on the windward sides of mountain ranges creating moisture deficit areas on the leeward sides; examples are the Gobi Desert of Central Asia and the deserts of the western United States. Cool, coastal deserts are produced by air that is chilled by the passage across cold coastal currents and then is warmed on contact with the hot land. Thus, its moisture capacity is increased and it becomes a drying wind. Examples are the west coast of lower California and Mexico, the coasts of Chile and Peru; and the Namib Desert of Southwest Africa.
+
+The Great Lakes have a considerable influence on the weather near them. However, there is a serious lack of supporting evidence for this statementfootnote:1[S. A. Changon, Jr. and D. M. A. Jones, "Review of the Influences of the Great Lakes on Weather," Water Resources Research, vol. 8, No. 2, 360-371-1972]. In spite of this deficiency, it was found that over the lakes and their downward shore areas, the lake-caused average changes in cloud and precipitation amounts represent 5-15% reductions in summer and 5-45% increases in winter in comparison with upwind values. In addition there are well-defined snow belts in the lee of the Great Lakes.
+
+Satellite and aircraft photography proves that 15% less rain falls over Lake Okeechobee, Florida than over the adjacent land areasfootnote:2[W. E. Riebsame, W. L. Woodley and F. E. Davis, "Radar Influence of Lake Okeechobee Rainfall for Use in Environmental Studies," Weatherwise, vol. 27, No. 5, 206-211, 1974]. The cooling influence of this stem:[1694 \; km^2] lake acts to suppress the sea breeze convergence zone and thus produces a rainfall deficit over the lake.
+
+Islands also modify local and mesoscale climate. For example, extensive areas of reduced waves on the sea surface occur on the leeward side of the Lesser Antilles. The relatively calm seas are caused by the disruption of air flow over the islands. Using ERTS photographs, other investigators have found cloud-free areas in the lee of islands.
+
+== Inadvertent Weather and Climate Modification
+
+Human activity can change the average atmospheric temperature slightly and thus affect climate in several ways. For example, humans can:
+
+1. Increase the CO~2~ content of the atmosphere by burning fossil fuels;
+
+2. Decrease atmospheric transparency with aerosols from industry, automobiles and home heating units;
+
+3. Decrease atmospheric transparency by introducing dust from agriculture practices;
+
+4. Alter the thermal properties of the stratosphere with water, NO~x~ and SO~x~ effluents from high-flying jet aircraft;
+
+5. Heat the atmosphere by burning fossil and nuclear fuels;
+
+6. Change the ability of the earth's surface to reflect the sun's radiation back into space through urbanization, agriculture, deforestation and reservoirs;
+
+7. Alter the rate of transfer of thermal energy and momentum between the oceans and the atmosphere by spilling oil on the water's surface, and
+
+8. Irrigate farmland and cause more sunlight to be absorbed by the surface.
+
+Most investigators feel that Items 1 and 4-8 will tend to warm the surface of the earth, while Items 2 and 3 may cool or warm the earth, depending on the location of the particles and their optical properties.
+
+Many current reports and reviews discuss the inadvertent modification of weather and climate. Some of these references are as follows:
+
+(1) Reference [3] is a report of a study group concerned with the climatic and ecological effects of human activities, and the implications of change and remedial action;
+
+(2) Reference [4] is concerned with inadvertent climate modification and considers the general theory of climate and climate modeling, the fundamentals of climate change and man's activities that influence climate;
+
+(3) Reference [5] is a report that discusses climatic effects of a fleet of SST's flying in the stratosphere;
+
+(4) References [6] and [7] are concerned with both natural and anthropogenic causes for climate change;
+
+(5) References [8] to [12] are concerned with the climate of cities and the mechanisms by which urban areas can effect precipitation; five of these potential mechanisms are updrafts due to heating and frictional barrier effects, the addition of water vapor, the addition of condensation and freezing nuclei, and aerosol-induced electrification; and
+
+(6) Reference [13] deals with the overall environmental and ecological impacts of human activity.
+
+== Advertent Weather and Climate Modification
+
+In a previous section we briefly discussed the need for better climate theories and information for agriculture purposes. For the same reason, there is also a great need for reliable, advertent climate modification techniques. This latter need increases in importance as more and more marginal land is used to feed the world's hungry people.
+
+Reference [13] discusses the current problems in the field of weather and climate modification. This report considers the modification techniques used on orographic and convective clouds, other precipitating cloud systems, fogs, lightning, hailstorms, hurricanes and tornadoes.
+
+Reference [15] is a more extensive work on weather and climate modification. Finally, Fletcherfootnote:16[J. O. Fletcher, Managing Climatic Resources, No. P-4000-1, Rand Corporation, Santa Monica, CA, p. 27, 1969.] outlines several proposed methods of modifying the global climate, such as creating a Bering Strait Dam to deflect the Gulf and Kuroshio Currents and create a Siberian Sea, and creating African seas from the Congo River System.
+
+== Research Needs
+
+Reference [17] outlines a national climatic research program for the {US} and considers the possibility of a similar program for the international scene. The major components of the program are as follows:
+
+1. [.underline]#Monitoring: What is now going on?
+
+2. [.underline]#Empirical Studies:# How does the system work?
+
+3. [.underline]#Climatic Data Analysis:# What has happened in the past?
+
+4. [.underline]#Future Climates:# How and when is the climate going to change?
+
+5. [.underline]#Numerical Models:# What is shown by climatic simulations?
+
+6. [.underline]#Theoretical Studies:# How much do we really understand?
+
+7. [.underline]#Climatic Impacts:# What does it all mean to man?
+
+This reference outlines the research needs in the major components and gives the interrelationships between these components. If this program is implemented by the US government, then the environmental activities of ERDA that are related to the climatic impacts of energy production and use should be coordinated with this program.
