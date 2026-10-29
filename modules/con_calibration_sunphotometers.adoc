@@ -1,0 +1,90 @@
+[id="con_calibration-sunphotometers_{con-calibration-sunphotometers}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+== Introduction
+
+The measurement of solar radiation at the earth's surface provides important information about suspended particles and trace gases in the atmosphere as well as providing quantitative data on insolation required for various solar energy conversion schemes. Several types of optical instruments may be employed for measurements of this type and each must be calibrated against some standard to interpret the observations correctly. In this report we discuss the calibration of one type of solar radiation instrument--the multiwavelength sunphotometer. Tests of several different sunphotometers have been carried out during 1975, with special emphasis on verifying the accuracy of turbidity data during data obtained during the 1975, with special emphasis on verifying the accuracy of turbidity data during the 19755 METROMEX program.
+
+== Calibration Procedures
+
+Several methods are available for calibrating sunphotometers. One method uses the sun itself as a standard light source while the other uses a laboratory standard lamp whose spectral irradiance is known, or at least known relative to the solar spectral irradiance. In practice a combination of the two methods is usually required.
+
+In order to discuss the procedure for the solar radiation method, it is necessary to examine the basic equation relating the measured light intensity at the earth's surface to the intensity value which would be obtained without attenuation in the atmosphere. This relationship is usually expressed as
+
+.Equation 1
+[latexmath]
+++++
+J_{\lambda}  \; = \; J_{\lambda o} \; \exp \bigg[-\tau_{\lambda} m \bigg] /F
+++++
+
+where
+
+* stem:[J_{\lambda}] is the actual photometer reading for the wavelength band stem:[\lambda],
+
+* stem:[J_{\lambda o}] is the outside-the-atmosphere photometer reading or calibration constant for wavelength stem:[\lambda],
+
+* stem:[F] is a correction factor depending on solar distance,
+
+* stem:[\tau_{\lambda}] is the total atmospheric optical depth through the zenith at wavelength stem:[\lambda], and
+
+* stem:[m] is the relative airmass thickness in units of the atmospheric thickness through the zenith.
+
+The optical depth, stem:[\tau_{\lambda}], is the sum of attenuation contributions due to molecular (Rayleigh) scattering, molecular (usually ozone) absorption and aerosol scattering and absorption.
+
+A more convenient form of *Equation (1)* from the standpoint of calibration constant determination is:
+
+.Equation 2
+[latexmath]
+++++
+\ell n \; J_{\lambda} \; = \; \ell n J_{\lambda o} \; - \; \ell n F \; - \; \tau_{\lambda} m
+++++
+
+This form clearly shows the relation between the dependent variable, stem:[\ell n J_{\lambda}], and the independent variable, stem:[m]. A standard procedure for determining the zero airmass intercept, stem:[\ell n J_{\lambda o} \; - \; \ell n \; F]. and the optical depth (slope), stem:[\tau \lambda], is a least squares solution to a set of measurements {stem:[\ell n \; J \; m]}. This procedure is valid only if stem:[\ell n \; J_\lambda o] and stem:[\tau \lambda] are constant over the time interval during which the observations are made. If either of these quantities are variable, then their determined values will be in error. A more complete discussion of instrument stability and the effects of optical depth variations on instrument calibration is given elsewherefootnote:1[N. S. Laulainen, “Stability Tests of Several Different Sunphotometers,” Pacific Northwest Laboratories Annual Report for 1974 to the USAEC, Division of Biomedical and Environmental Research, Part 3, Atmospheric Sciences, BNWL-1950, PT 3, Battelle-Northwest, Richland, WA, February 1975, pp. 264-268. (See also N. S. Laulainen and B. J. Taylor, “The Precision and Accuracy of Volz Sunphotometry,” Journal of Applied Meteorology, 13 (1974), 298-302, ibid. 14 (1974), 1214-1217.]. By choosing observation runs of 1-2 hr during the times of day when the relative air mass is changing rapidly, and using solar radiation measurements only for the cleanest days, both the effects of instrumental variation and optical depth variation (changes in aerosol loading) can be minimized. Moreover any instrumental variation due to changes in temperature should be negligible if the photometer is stored at room temperature between observations. The observations themselves require only 1 or 2 min to complete.
+
+In principle, a sunphotometer calibration using a standard lamp is a straightforward procedure. Because the radiant flux decreases as the inverse square of the distance from the lamp, a method for checking sunphotometer linearity is also available. Some precautions must be taken to insure [sic] accurate results. To avoid the possibility of sudden changes in standard lamp irradiance from aging effects, intercalibration with two or more standard lamps is recommended. Operation of the standard lamps according to the manufacturer's specifications requires a stable, constant current supply, otherwise current variations can also cause lamp radiance changes. Minimizing spurious reflections from walls, ceilings and components in the calibration room is also necessary for accurate and reproducible calibrations.
+
+The calibration of the photometer is determined by pointing the photometer at the standard lamp at a minimum distance where the solid angle of the aperture subtends the entire filament and lamp cavity. The observed photometer response stem:[J_{\lambda o}] depends upon the spectral irradiance of the source stem:[F (\lambda)], photometer gain, stem:[G], and the filter\detector response, stem:[R(\lambda)] through the equation
+
+.Equation 3
+[latexmath]
+++++
+J_{\lambda o} \; = \; k \int_{\Delta \lambda} \; G \; F(\lambda ') \; R(\lambda ') \; d \lambda '
+++++
+
+where the integration is essentially over the wavelength bandpass stem:[\Delta \lambda] of the filter and stem:[k] is a constant of proportionality. For both the sun and standard lamp, the spectral irradiance is a slowly varying function of wavelength, while in most cases the filter/detector response is nearly like a delta function (for broadband filters this assumption is poor). The integral in *Equation (3)* can then be approximated by
+
+.Equation 4
+[latexmath]
+++++
+J_{\lambda o} \; = \; k \; G \; F_{\lambda} \; R_{\lambda} \; \Delta \lambda
+++++
+
+where stem:[F] and stem:[R] are evaluated at the center of the filter detector passband, stem:[\lambda], and stem:[\Delta \lambda] is the full width at half intensity of stem:[R]. By taking the ratio of the solar calibration photometer response to the standard lamp response,
+
+.Equation 5
+[latexmath]
+++++
+\frac
+{J_{\lambda o}^{sun}}{J_{\lambda o}^{std}} \; = \;\frac{k \cdot F_{\lambda}^{sun} \cdot R_{\lambda} \cdot G_{\lambda}^{sun}}{k \cdot F_{\lambda}^{std} \cdot R_{\lambda} \cdot G_{\lambda}^{std}}
+++++
+
+one finds that the filter/detector response cancels. Thus the sunphotometer calibration is given by
+
+.Equation 6
+[latexmath]
+++++
+J_{\lambda o}^{sun} \; = \; J_{\lambda o}^{std} \; \frac{F_{\lambda}^{sun} \; G_{\lambda}^{sun}}{F_{\lambda}^{std} \; G_{\lambda}^{std}}
+++++
+
+The sunphotometer can also be calibrated by viewing a Lambertian screen that is directly illuminated by a standard lamp. This procedure is more appropriate if the photometer is used to measure diffuse radiation.
+
+Once the calibration stem:[J_{o \lambda}] is established for a given photometer, any long term drifts caused by aging which may occur can be assessed by periodic comparison to the standard lamps.
+
+== Calibration Results
+
+Two six-wavelength sunphotometers have been calibrated using the procedures described in the previous section. The nominal spectral bands of each photometer are listed in *Table 1*. Photometer A employs a RCA 1P38 vacuum phototide with S4 response (longwave-length cutoff around stem:[650 nm]) for light detection. Photometer B uses a UDT PIN6DP silicon phototide operated in a photo stem:[1.08 \; m]. Photometer A has been tested and used extensively in the field (76 days in 1975 and 14 days in 1974); photometer B is relatively new and has been used in the field only 5 days. Hence most of the results discussed in this section will be confined to photometer A.
+
+Because of the large number of observations taken with photometer A during 1975, it is possible to select 10 reasonably “clean” days for which the solar calibration method could be used. The selection process for these 12 days was somewhat subjective, since aerosol variations were apparent even for the “cleanest” days. Quantitatively, only those days for which the least squares solution to *Equation (2)* resulted in a calibration constant stem:[J_{o \lambda}] with less than 2% calculated optical depths stem:[\tau \lambda] approaching the clean air values. The calibration constants for this method are summarized in *Table 2*. Photometer B has not yet been calibrated by this method.
+
+The standard lamp procedure was used to calibrate photometer A. Direct viewing of the standard lamp at several distances as well as viewing a Lambertian screen were carried out in the calibration procedure. The results for these tests are also shown in Table 2. A high intensity 1000-W tungsten halogen lamp (Optronic Laboratories, Inc., Model 100C, Serial No. HTS-83, calibration traceable to NBS) was used as the standard lamp. This lamp was chosen because of its stability and high output performance; it produces a one-solar constant irradiance standard at 40 cm. Because of the finite size of the lamp stem:[5 \; x \; 7 \; cm] and the narrow field of view of the photometer (2° aperture), it was necessary to place the photometer farther than 2.4 m away to insure [sic] that the photometer viewed the entire lamp. The actual distance from the standard was stem:[2.45 \; m]. The irradiance measured at stem:[2.45 \; m] was referred to the standard irradiance at stem:[40 \; cm] using the inverse square law. Because of the distance, the photometer was operated at its highest gain sensitivity; meter response was at best only one fourth of full scale, leading to higher reading errors than normally encountered under actual field operation. The uncertainty in the spectral lamp irradiance was quoted by the manufacturer to be 5% in the visible. The uncertainties in the photometer calibration by the standard method given in *Table 2* reflect this 5% uncertainty. For wide band filters 2 and 6, the approximation of *Equation (4)* is poor and the uncertainty is appropriately larger–at least until a more exact calculation is carried out. The large uncertainty for filter 5 is mostly due to a large reading error, as the measured intensity was very low, ~2% of full scale. In general, values are in fair agreement with those obtained by the solar method. Additional refinements of the standard method are still required, since at this point the solar method appears to produce smaller uncertainties.

@@ -145,6 +145,7 @@
 :Dprog: DBER's Integrated Assessment Program
 :EPA: Environmental Protection Agency
 :ESAT: Environmental Science and Technology
+:HMS: Hanford Meteorological Station
 :ilwater: Illinois State Water Survey
 :IMO: International Meteorological Organization
 :MRU: Meteorological Radar Unit
@@ -190,7 +191,7 @@
 :DOA: Department of Agriculture
 :DOC: Department of Commerce
 :DOE: Department of Energy
-:DOH: U.S. Department of Health Education, and Welfare, Public Health Service
+:DOH: U.S. Department of Health, Education, and Welfare, Public Health Service
 :DOI: Department of the Interior
 :DTRA: Defense Threat Reduction Agency
 :ERDA: Energy Research and Development Administration
@@ -374,6 +375,7 @@
 :BC: B. Cantrell
 :BCS: B. C. Scott
 :Bert: Bert Bolin
+:BJTa: B. J. Taylor
 :BS: B. Styra
 :BWAt: B. W. Atkinson
 :BYHL: B. Y. H. Liu
@@ -424,6 +426,7 @@
 :ELP: E. L. Peck
 :EMAg: E. M. Agee
 :ESJo: E. S. Johnson
+:EWLk: E. W. Kleckner
 :FAB: F. A. Bagnold
 :FAH: F. A. Huff
 :FBS: F. B. Smith
@@ -469,7 +472,7 @@
 :JGD: J. G. Droppo
 :JJF: J. J. Fuquay
 :JJL: J. J. Lashock
-:JJOB: J. J. O’Brien
+:JJOB: J. J. O’BrienRF
 :JLH: J. L. Heffter
 :JMH: J. M. Hales
 :JMTa: J. M. Tanner
@@ -504,6 +507,7 @@
 :LA: L. Angelelli
 :LAR: L. A. Rancitelli
 :LCS: L. C. Schwendiman
+:LEl: L. Elterman
 :LFR: L. F. Radke
 :LIG: L. I.  Gedeonov
 :LKP: L. K. Peters
@@ -531,7 +535,7 @@
 :NEB: N. E. Busch
 :NSL: N. S. Laulainen
 :OGS: O. G. Sutton
-:OND: O. N. Dodson
+:OND: O. N. Dodsonf
 :OPG: O. P. Gifford
 :PDCo: P. D. Coyle
 :PEC: P. E. Coffey

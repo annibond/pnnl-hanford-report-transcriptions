@@ -24,3 +24,4 @@ The {AS} Department has undertaken a modest effort in this area during the past 
 * *ERDA/RL Special Studies*
 
 include::../assemblies/assembly_climate_weather_anthropogenic_natural.adoc[leveloffset=+1]
+include::../assemblies/assembly_calibration-sunphotometers.adoc[leveloffset=+1]

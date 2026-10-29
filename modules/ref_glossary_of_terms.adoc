@@ -52,6 +52,9 @@ stem:[Q = 0]
 |Aitken nuclei
 |extremely small particles in the atmosphere, typically 0.001 to 0.1 micrometers in diameter, which can serve as nuclei for condensation of water vapor
 
+|albedo
+|the measure of how much solar radiation is reflected back into a space
+
 |alkaline earth metals
 |series of soft, reactive elements with two electrons in their outermost shell
 
@@ -69,6 +72,9 @@ stem:[Q = 0]
 
 |anthropogenic
 |caused or produced by humans
+
+|aperture
+|an opening that allows the movement - and by extension ability to collect or measure - energy and radiation
 
 |areal
 |relating to the area of a a surface or space
@@ -610,7 +616,6 @@ https://ned.ipac.caltech.edu/level5/Abbott/paper.pdf[Flatland: A Romance of Many
 |nanogram (ng)
 |1 billionth of a gram
 
-
 |nanometer (nm)
 |1 billionth of a meter
 
@@ -753,6 +758,9 @@ stem:[Pe \; = \; \frac{Advective \, Transport \, Rate}{Diffusive \, Transport \,
 
 |rawinsonde
 |a balloon-borne instrument used in meteorology to measure upper-air atmospheric conditions
+
+|Rayleigh scattering
+|the elastic scattering of electromagnetic radiation by particules and molecules smaller than the wavelength of light
 
 |reactive nonmetals
 |elements that are very eager to gain electrons to form chemical bonds
@@ -931,5 +939,11 @@ _Stk = τ~p~/τ~f~_
 
 |z-average
 |the mean of the microdosimetry to quanitfy the random nature of radiation energy deposition on the subatomic level
+
+|zenith
+|an imaginary point on the celestial sphere located directly above an observer's head, forming a 90° angle from every point on the observer's horizon
+
+|zenith angle
+|the angular distance between the sun (or another celestial body) and the zenith 
 
 |===

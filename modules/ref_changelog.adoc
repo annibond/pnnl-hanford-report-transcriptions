@@ -5,7 +5,13 @@ include::../attributes.adoc[]
 
 === 2026
 
-==== 4 October 2026 - 10 October 2026, BNWL, pp. 246-257
+==== October 26 - 31 October, 2026, BNWL-2000, pp. 261-264
+
+* Added "Calibration of Sunphotometers"
+
+* Updated "Glossary of Terms"
+
+==== 4 October 2026 - 10 October 2026, BNWL-2000, pp. 246-257
 
 * Added "Climate and Weather: Natural and Anthropogenic Perturbations"
 

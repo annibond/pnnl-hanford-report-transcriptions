@@ -1,0 +1,22 @@
+[id="assembly_calibration-sunphotometers_{assembly-calibration-sunphotometers}"]
+include::../attributes.adoc[]
+
+== Calibration of Sunphometers
+
+[.big]#{NSL} and {EWLK}#
+
+_Multiwavelength photometers may be calibrated using either a standard laboratory light source or using the sun itself. Here we discuss the procedures used for calibration by these methods. The solar method leads to smaller uncertainties in the calibration constants for each wavelength; however, the standard lamp method is essential to check photometer stability. A combination of the two methods is recommended._
+
+include::../modules/con_calibration_sunphotometers.adoc[leveloffset=+1]
+
+=== Appendices
+
+==== References
+
+include::../modules/ref_calibration_sunphotometers_references.adoc[leveloffset=+2]
+
+==== Tables
+
+include::../modules/ref_calibration_sunphotometers_references_table-1.adoc[leveloffset=+2]
+
+include::../modules/ref_calibration_sunphotometers_references_table-2.adoc[leveloffset=+2]

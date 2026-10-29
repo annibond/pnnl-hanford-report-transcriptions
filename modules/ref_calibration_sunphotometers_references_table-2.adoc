@@ -1,0 +1,43 @@
+[id="ref_calibration-sunphotometers_table-2{ref-calibration-sunphotometers-table-2}"]
+include::../attributes.adoc[]
+:stem: latexmath
+
+.Sunphometer Calibration Constants
+
+[cols="1,1,1,1"]
+
+|===
+
+^|*Filter No.* ^|*A Calibration - Gain* ^|*A Calibration - Solar Method* ^|*A Calibration - Standard Method*
+
+>|1
+>|1
+>|161.8 ± 2.7
+>|159 ± 10
+
+>|2footnote:a[Wide band filter.]
+>|2
+>|238.3 ± 2.6
+>|223 ± 27
+
+>|3
+>|10
+>|203.9 ± 2.8
+>|200 ± 12
+
+>|4
+>|5
+>|251.6 ± 3.2
+>|231 ± 14
+
+>|5
+>|100
+>|199.0 ± 3.6
+>|180 ± 27
+
+>|6*
+>|2
+>|110.2 ± 2.2
+>|100 ± 12
+
+|===
